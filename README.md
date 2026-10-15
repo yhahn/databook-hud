@@ -10,6 +10,8 @@ Two of HUD's yardsticks for housing help, for every county and New England town,
 
 Each dataset is written by its own importer, in `.import/rents/` (Python), `.import/limits/` and `.import/lihtc/` (Node); nothing here is edited by hand.
 
+[Questions and answers](./FAQ.md): 26 questions a reader of this book can answer, from one rent in one place to what changed and why, each with its answer and the page to look in.
+
 ## Rent against income
 
 A family of four at the very low income limit, and what a two-bedroom Fair Market Rent takes of its income, FY2026: the rents and the limits joined on FIPS.

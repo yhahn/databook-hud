@@ -1,6 +1,7 @@
 """databook-hud's README.md, the repo's front page: what is here, each
 dataset's counts and changes (from .import/<dataset>/counts.json, which each
-importer writes), and the queries that join them. Run after both importers
+importer writes), the questions it answers (FAQ.md, from .import/faq.md), and the
+queries that join them. Run after both importers
 (.import/build.sh does).
 
     python3 -I .import/readme.py
@@ -16,6 +17,12 @@ REPO = os.path.dirname(HERE)
 def load(name):
     with open(os.path.join(HERE, name, 'counts.json'), encoding='utf-8') as f:
         return json.load(f)
+
+
+def questions():
+    """The questions in .import/faq.md, which .import/faq.js answers into FAQ.md."""
+    with open(os.path.join(HERE, 'faq.md'), encoding='utf-8') as f:
+        return sum(1 for line in f if line.startswith('### Question: '))
 
 
 def main():
@@ -50,6 +57,8 @@ def main():
          'and its county\'s five-digit FIPS.', '',
          'Each dataset is written by its own importer, in `.import/rents/` (Python), '
          '`.import/limits/` and `.import/lihtc/` (Node); nothing here is edited by hand.', '',
+         f'[Questions and answers](./FAQ.md): {questions()} questions a reader of this book can answer, '
+         'from one rent in one place to what changed and why, each with its answer and the page to look in.', '',
          '## Rent against income', '',
          'A family of four at the very low income limit, and what a two-bedroom Fair '
          'Market Rent takes of its income, FY2026: the rents and the limits joined on FIPS.', '',

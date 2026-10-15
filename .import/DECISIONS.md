@@ -167,3 +167,43 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
     76 alone, from the limits' files FY1998 on, whole names over
     FY2026's cut ones. The rents and limits read only New England's,
     which are unchanged. Undo: `counties.js` from git.
+
+## The questions (SPEC B9), 10-15, branch `faq`
+
+25. **`.import/faq.md`, the 26 questions of the databooks bench
+    (`bench/hud.md`), carried over by a script, ids and words unchanged**,
+    each with `- Look in:` added: one page or several, split by `; `
+    (a path may hold a comma), blank for the four of Type `none`. Where a
+    question is over every place (Across), Look in names the dataset's
+    README, whose tables and queries answer it; where a join, the pages
+    of both datasets, or the front page whose query is the join (hud-join-2).
+    Undo: edit Look in by a new question, as B9 says.
+26. **A Gap question is one of Type `none`** (four: hud-gap-1, 2, 3, 5).
+    hud-gap-4 keeps its id but is Tier Change, Type number: the source
+    answers it (31050), so its answer is given and it has a Look in.
+27. **Answers in FAQ.md are one line of words**, a number bare as the
+    pages write it (`26200`); a set or list joined by `, ` (or `; ` where
+    an item holds a comma); a join, analysis or judge in a sentence with
+    its figures. How each was found in HUD's files is the record's body,
+    below its keys. The bench's structured answers (`answer`) stay in
+    `faq.js`, and are what the test holds. Undo: `words()` and each
+    answer's `text`.
+28. **FAQ.md's records have six keys** (Tier, Ask, Answer, Type,
+    Tolerance, Look in), as the brief asked; Rules and How stay in
+    faq.md, for the hand. An empty key is written `- Tolerance:`, no
+    trailing space (proper gathers it null). Look in's links are named
+    by their path, less `.md`.
+29. **faq.js names Connecticut's planning regions from
+    `.import/counties.json`** (written from HUD's limits files, not the
+    book's pages): the FMR history names none. hud-change-3's groups are
+    now ordered by towns, most first; the bench's hud.js ordered them as
+    met. Its answer otherwise the same.
+30. **SheetJS from the limits' importer**, by `createRequire` on
+    `.import/limits/package.json`, as hud.js borrowed it by an absolute
+    path. Undo: a package.json of its own in `.import/`.
+31. **The checks** (target.sql): Question a kind (B5's list grows by
+    one); its keys (B3); as many Question records as faq.md has (read by
+    target.py), one an id; no blank answer, and `The book does not say.`
+    exactly for Type none; every link from FAQ.md to a page gathered, and
+    every question not a Gap with one. faq.js also refuses a Look in to a
+    page not there, before it writes.

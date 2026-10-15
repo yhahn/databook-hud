@@ -24,6 +24,8 @@ def counts():
             c[name] = json.load(f)
     c['changes'] = len(c['rents']['changes']) + len(c['limits']['changes']) + len(c['lihtc']['changes'])
     c['lihtc']['changes_n'] = len(c['lihtc']['changes'])
+    with open(os.path.join(HERE, 'faq.md'), encoding='utf-8') as f:
+        c['faq'] = {'questions': sum(1 for line in f if line.startswith('### Question: '))}
     c['limits']['rows_2006_on'] = ' '.join(str(l['rows']) for l in c['limits']['ledger'] if l['year'] >= 2006)
     return c
 

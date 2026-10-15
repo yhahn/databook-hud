@@ -23,9 +23,10 @@ where Bedrooms = 2 and record in ('New York County, NY', 'Onondaga County, NY')
 ```
 
 ```sql
--- the dearest two-bedroom FMRs this year, with each place's area
+-- the counties with the dearest two-bedroom FMRs this year, ties kept, with each one's area
 select t.record, r."FMR area", t."2027" from Rents_Fair_Market_Rents t join Rents r on r.name = t.record
-where t.Bedrooms = 2 order by t."2027" desc limit 10
+where t.Bedrooms = 2 and r.Level = 'County'
+qualify rank() over (order by t."2027" desc) <= 10 order by t."2027" desc, t.record
 ```
 
 ```sql

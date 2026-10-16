@@ -116,6 +116,7 @@ def main():
           '<https://www.huduser.gov/portal/datasets/lihtc/property.html>. HUD\'s data are a work of '
           'the United States Government, and so free of copyright in the United States '
           '(17 U.S.C. 105). This databook is not HUD\'s, nor endorsed by it.', '']
+    L += ['## Licence', '', 'This book, its pages and its importer, is given to the public domain', 'under CC0 1.0 ([LICENSE](LICENSE)): copy it, change it and use it as you', 'like, without asking. Its sources are free of copyright too, as above;', 'citing them is still the courteous thing.', '']
     with open(os.path.join(REPO, 'README.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(L))
 

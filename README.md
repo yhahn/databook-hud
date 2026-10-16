@@ -89,3 +89,10 @@ Where HUD changed a definition or a key during a dataset's years, the latest for
 ## The source
 
 HUD User, the Office of Policy Development and Research of the U.S. Department of Housing and Urban Development: <https://www.huduser.gov/portal/datasets/fmr.html> <https://www.huduser.gov/portal/datasets/il.html> and <https://www.huduser.gov/portal/datasets/lihtc/property.html>. HUD's data are a work of the United States Government, and so free of copyright in the United States (17 U.S.C. 105). This databook is not HUD's, nor endorsed by it.
+
+## Licence
+
+This book, its pages and its importer, is given to the public domain
+under CC0 1.0 ([LICENSE](LICENSE)): copy it, change it and use it as you
+like, without asking. Its sources are free of copyright too, as above;
+citing them is still the courteous thing.

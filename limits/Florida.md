@@ -7,7 +7,7 @@
 - Counties: 67
 - Towns: 0
 
-HUD's Section 8 income limits for Florida, fiscal years 1998 to 2026: 67 counties, as HUD lists them in FY2026.
+HUD's Section 8 income limits for Florida, fiscal years 1998 to 2026: 67 counties, as HUD lists them in FY2026. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/Florida.md).
 
 ## Places
 

@@ -9,7 +9,7 @@
 - Units: 80784
 - Low-income units: 78518
 
-The low-income housing tax credit projects of Pennsylvania in HUD's database, placed in service 1987 to 2024: 2025 projects in 66 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Pennsylvania in HUD's database, placed in service 1987 to 2024: 2025 projects in 66 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Pennsylvania.md).
 
 ## Counties
 

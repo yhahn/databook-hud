@@ -9,7 +9,7 @@
 - Units: 58264
 - Low-income units: 35760
 
-The low-income housing tax credit projects of Wisconsin in HUD's database, placed in service 1987 to 2024: 1234 projects in 69 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Wisconsin in HUD's database, placed in service 1987 to 2024: 1234 projects in 69 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Wisconsin.md).
 
 ## Counties
 

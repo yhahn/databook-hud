@@ -7,7 +7,7 @@
 - Counties: 116
 - Towns: 0
 
-HUD's Section 8 income limits for Missouri, fiscal years 1998 to 2026: 116 counties, as HUD lists them in FY2026. Before FY2006 a county split between two areas in a year has its parts kept on its own page, under Counties before 2006, and its own year empty.
+HUD's Section 8 income limits for Missouri, fiscal years 1998 to 2026: 116 counties, as HUD lists them in FY2026. Before FY2006 a county split between two areas in a year has its parts kept on its own page, under Counties before 2006, and its own year empty. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/Missouri.md).
 
 ## Places
 

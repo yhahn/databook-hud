@@ -9,7 +9,7 @@
 - Units: 83936
 - Low-income units: 77604
 
-The low-income housing tax credit projects of Maryland in HUD's database, placed in service 1987 to 2024: 948 projects in 24 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Maryland in HUD's database, placed in service 1987 to 2024: 948 projects in 24 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Maryland.md).
 
 ## Counties
 

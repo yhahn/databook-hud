@@ -9,7 +9,7 @@
 - Units: 333083
 - Low-income units: 316745
 
-The low-income housing tax credit projects of Texas in HUD's database, placed in service 1987 to 2024: 2999 projects in 196 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Texas in HUD's database, placed in service 1987 to 2024: 2999 projects in 196 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Texas.md).
 
 ## Counties
 

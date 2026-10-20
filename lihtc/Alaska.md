@@ -9,7 +9,7 @@
 - Units: 7914
 - Low-income units: 6970
 
-The low-income housing tax credit projects of Alaska in HUD's database, placed in service 1987 to 2024: 187 projects in 19 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Alaska in HUD's database, placed in service 1987 to 2024: 187 projects in 19 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Alaska.md).
 
 ## Counties
 

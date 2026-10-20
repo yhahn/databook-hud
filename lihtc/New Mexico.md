@@ -9,7 +9,7 @@
 - Units: 21010
 - Low-income units: 20245
 
-The low-income housing tax credit projects of New Mexico in HUD's database, placed in service 1987 to 2024: 318 projects in 28 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of New Mexico in HUD's database, placed in service 1987 to 2024: 318 projects in 28 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/New%20Mexico.md).
 
 ## Counties
 

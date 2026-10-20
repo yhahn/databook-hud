@@ -9,7 +9,7 @@
 - Units: 32560
 - Low-income units: 30290
 
-The low-income housing tax credit projects of District of Columbia in HUD's database, placed in service 1987 to 2024: 268 projects in 1 county, a county a page and a folder of its projects.
+The low-income housing tax credit projects of District of Columbia in HUD's database, placed in service 1987 to 2024: 268 projects in 1 county, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/District%20of%20Columbia.md).
 
 ## Counties
 

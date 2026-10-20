@@ -9,7 +9,7 @@
 - Units: 70873
 - Low-income units: 65405
 
-The low-income housing tax credit projects of Minnesota in HUD's database, placed in service 1987 to 2024: 1144 projects in 75 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Minnesota in HUD's database, placed in service 1987 to 2024: 1144 projects in 75 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Minnesota.md).
 
 ## Counties
 

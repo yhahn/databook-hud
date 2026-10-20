@@ -9,7 +9,7 @@
 - Units: 71156
 - Low-income units: 65961
 
-The low-income housing tax credit projects of Colorado in HUD's database, placed in service 1987 to 2024: 872 projects in 48 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Colorado in HUD's database, placed in service 1987 to 2024: 872 projects in 48 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Colorado.md).
 
 ## Counties
 

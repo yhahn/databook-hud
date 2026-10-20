@@ -7,7 +7,7 @@
 - Counties: 5
 - Towns: 39
 
-HUD's Section 8 income limits for Rhode Island, fiscal years 1998 to 2026: 39 towns, as HUD lists them in FY2026. Before FY2006 HUD keyed New England's limits by county, not town: those rows are kept on each county's page, under Counties before 2006, and each town names its own as `County before 2006`. Each county's page lists its towns.
+HUD's Section 8 income limits for Rhode Island, fiscal years 1998 to 2026: 39 towns, as HUD lists them in FY2026. Before FY2006 HUD keyed New England's limits by county, not town: those rows are kept on each county's page, under Counties before 2006, and each town names its own as `County before 2006`. Each county's page lists its towns. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/Rhode%20Island.md).
 
 ## Places
 

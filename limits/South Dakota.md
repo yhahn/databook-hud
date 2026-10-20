@@ -7,7 +7,7 @@
 - Counties: 66
 - Towns: 0
 
-HUD's Section 8 income limits for South Dakota, fiscal years 1998 to 2026: 66 counties, as HUD lists them in FY2026.
+HUD's Section 8 income limits for South Dakota, fiscal years 1998 to 2026: 66 counties, as HUD lists them in FY2026. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/South%20Dakota.md).
 
 ## Places
 

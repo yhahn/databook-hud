@@ -9,7 +9,7 @@
 - Units: 11628
 - Low-income units: 11555
 
-The low-income housing tax credit projects of Montana in HUD's database, placed in service 1987 to 2024: 321 projects in 41 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Montana in HUD's database, placed in service 1987 to 2024: 321 projects in 41 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Montana.md).
 
 ## Counties
 

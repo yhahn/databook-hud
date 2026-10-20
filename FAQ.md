@@ -1,6 +1,6 @@
 # Questions and answers
 
-26 questions a careful reader of this book can answer, from the plainest (one rent, one place, one year) to the hardest (what changed, and why), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from HUD's own files at every release, not copied from the pages: where the two disagree, one is wrong.
+33 questions a careful reader of this book can answer, from the plainest (one rent, one place, one year) to the hardest (what changed, and why), each with its answer and the page to look in. Read a question, open the page, and find the answer yourself; or put the questions to a reader or an agent with this page hidden, and mark what comes back. Where the book cannot answer, the right answer is to say so. The answers are worked out afresh from HUD's own files at every release, not copied from the pages: where the two disagree, one is wrong.
 
 ### Question: hud-lookup-1
 
@@ -287,3 +287,80 @@ Counties (cousub 99999) with both years in both files, by FIPS (Oglala Lakota an
 - Look in:
 
 No row for Valdez-Cordova Census Area (0226199999) in the FMR history: it was split into Chugach and Copper River census areas, which have FY2027 2BR rents (Chugach Census Area 1575; Copper River Census Area 1157). Neither is Valdez-Cordova's.
+
+### Question: hud-reading-1
+
+- Tier: Across
+- Ask: Across HUD's counties (its rows keyed …99999; New England's towns aside), what was the median two-bedroom Fair Market Rent in FY1995 and in FY2027, and by what percent did it rise?
+- Answer: FY1995 363; FY2027 1056; up 190.9%
+- Type: list
+- Tolerance: 0.1
+- Look in: [README](./README.md), [rents/README](./rents/README.md)
+
+FMR history, the 3161 rows with cousub 99999, the median of fmr95_2 and of fmr27_2, each over the counties that have one. FY1995 is all at the 40th percentile, FY2027 too (the 50th ended in FY2020).
+
+### Question: hud-reading-2
+
+- Tier: Analysis
+- Ask: Taking each state's places (its counties, or in New England its towns), in which state is the median share of the FY2026 very low income limit for four taken by twelve months of the FY2026 two-bedroom Fair Market Rent greatest, and in which least (in percent, to one place)?
+- Answer: greatest Hawaii, Guam, Northern Mariana Islands 41.2%; least North Dakota 19.6%
+- Type: list
+- Tolerance: 0.1
+- Look in: [README](./README.md)
+
+56 states and territories, each the median over its rows of the FMR history joined by FIPS to Section8-FY26.xlsx of 100 × 12 × fmr26_2 / l50_4, to one place; ties at one place kept. A territory of one county is its county.
+
+### Question: hud-reading-3
+
+- Tier: Across
+- Ask: Taking each state's places (its counties, or in New England its towns), which state has the dearest median two-bedroom Fair Market Rent in FY2027, and which the cheapest?
+- Answer: dearest District of Columbia 2438; cheapest Puerto Rico 613
+- Type: list
+- Tolerance: 0
+- Look in: [README](./README.md)
+
+56 states and territories, the median of fmr27_2 over each one's rows of the FMR history (counties, or in New England towns).
+
+### Question: hud-reading-4
+
+- Tier: Across
+- Ask: In which year were the most low-income housing tax credit projects placed in service, and how many?
+- Answer: 2007, 1806 projects
+- Type: list
+- Tolerance: 0
+- Look in: [README](./README.md), [lihtc/README](./lihtc/README.md)
+
+LIHTCPUB.xlsx, 55345 projects, by yr_pis (8888 and 9999 are no year: 2765).
+
+### Question: hud-reading-5
+
+- Tier: Analysis
+- Ask: Across New York's counties, what was the median two-bedroom Fair Market Rent in FY1995 and in FY2027?
+- Answer: FY1995 536; FY2027 1385
+- Type: list
+- Tolerance: 0
+- Look in: [rents/New York](./rents/New%20York.md)
+
+FMR history, the 62 rows of state 36, the median of fmr95_2 and of fmr27_2.
+
+### Question: hud-reading-6
+
+- Tier: Across
+- Ask: Which New York counties have the dearest two-bedroom Fair Market Rent in FY2027, and which the cheapest (ties kept)?
+- Answer: dearest Bronx County, Kings County, New York County, Putnam County, Queens County, Richmond County, Rockland County, Westchester County (2971); cheapest Allegany County, Cattaraugus County, Chautauqua County, Chenango County, Franklin County, Lewis County, Wyoming County (1014)
+- Type: list
+- Tolerance: 0
+- Look in: [rents/New York](./rents/New%20York.md)
+
+FMR history, state 36, fmr27_2: 8 counties at 2971, 7 at 1014. A county takes its FMR area's rents, so the counties of one area tie.
+
+### Question: hud-reading-7
+
+- Tier: Analysis
+- Ask: Across New York's counties, what is the median share of the FY2026 very low income limit for four taken by twelve months of the FY2026 two-bedroom Fair Market Rent, and in which counties is it greatest?
+- Answer: median 32.1%; greatest Bronx County, Kings County, New York County, Putnam County, Queens County, Richmond County, Rockland County, Westchester County (41.2%)
+- Type: list
+- Tolerance: 0.1
+- Look in: [rents/New York](./rents/New%20York.md)
+
+FMR history, the 62 rows of state 36, joined by FIPS to Section8-FY26.xlsx: 100 × 12 × fmr26_2 / l50_4, 62 with both.

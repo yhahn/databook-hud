@@ -9,7 +9,7 @@
 - Units: 1475
 - Low-income units: 1471
 
-The low-income housing tax credit projects of U.S. Virgin Islands in HUD's database, placed in service 1987 to 2024: 33 projects in 3 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of U.S. Virgin Islands in HUD's database, placed in service 1987 to 2024: 33 projects in 3 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/U.S.%20Virgin%20Islands.md).
 
 ## Counties
 

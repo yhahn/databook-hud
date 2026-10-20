@@ -9,7 +9,7 @@
 - Units: 115415
 - Low-income units: 110025
 
-The low-income housing tax credit projects of Virginia in HUD's database, placed in service 1987 to 2024: 1266 projects in 116 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Virginia in HUD's database, placed in service 1987 to 2024: 1266 projects in 116 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Virginia.md).
 
 ## Counties
 

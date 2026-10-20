@@ -7,7 +7,7 @@
 - Counties: 39
 - Towns: 0
 
-HUD's Section 8 income limits for Washington, fiscal years 1998 to 2026: 39 counties, as HUD lists them in FY2026.
+HUD's Section 8 income limits for Washington, fiscal years 1998 to 2026: 39 counties, as HUD lists them in FY2026. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/Washington.md).
 
 ## Places
 

@@ -9,7 +9,7 @@
 - Units: 27671
 - Low-income units: 25312
 
-The low-income housing tax credit projects of Connecticut in HUD's database, placed in service 1987 to 2024: 455 projects in 8 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Connecticut in HUD's database, placed in service 1987 to 2024: 455 projects in 8 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Connecticut.md).
 
 ## Counties
 

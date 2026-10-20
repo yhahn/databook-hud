@@ -7,7 +7,7 @@
 - Counties: 92
 - Towns: 0
 
-HUD's Section 8 income limits for Indiana, fiscal years 1998 to 2026: 92 counties, as HUD lists them in FY2026.
+HUD's Section 8 income limits for Indiana, fiscal years 1998 to 2026: 92 counties, as HUD lists them in FY2026. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/Indiana.md).
 
 ## Places
 

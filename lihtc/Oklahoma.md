@@ -9,7 +9,7 @@
 - Units: 33595
 - Low-income units: 32259
 
-The low-income housing tax credit projects of Oklahoma in HUD's database, placed in service 1987 to 2024: 622 projects in 75 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Oklahoma in HUD's database, placed in service 1987 to 2024: 622 projects in 75 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Oklahoma.md).
 
 ## Counties
 

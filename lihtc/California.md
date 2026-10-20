@@ -9,7 +9,7 @@
 - Units: 430148
 - Low-income units: 406387
 
-The low-income housing tax credit projects of California in HUD's database, placed in service 1987 to 2024: 5185 projects in 57 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of California in HUD's database, placed in service 1987 to 2024: 5185 projects in 57 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/California.md).
 
 ## Counties
 

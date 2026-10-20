@@ -7,7 +7,7 @@
 - Counties: 88
 - Towns: 0
 
-HUD's Section 8 income limits for Ohio, fiscal years 1998 to 2026: 88 counties, as HUD lists them in FY2026.
+HUD's Section 8 income limits for Ohio, fiscal years 1998 to 2026: 88 counties, as HUD lists them in FY2026. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/Ohio.md).
 
 ## Places
 

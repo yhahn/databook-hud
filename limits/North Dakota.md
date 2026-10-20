@@ -7,7 +7,7 @@
 - Counties: 53
 - Towns: 0
 
-HUD's Section 8 income limits for North Dakota, fiscal years 1998 to 2026: 53 counties, as HUD lists them in FY2026.
+HUD's Section 8 income limits for North Dakota, fiscal years 1998 to 2026: 53 counties, as HUD lists them in FY2026. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/North%20Dakota.md).
 
 ## Places
 

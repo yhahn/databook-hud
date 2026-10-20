@@ -9,7 +9,7 @@
 - Units: 124354
 - Low-income units: 119615
 
-The low-income housing tax credit projects of Washington in HUD's database, placed in service 1987 to 2024: 1430 projects in 37 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Washington in HUD's database, placed in service 1987 to 2024: 1430 projects in 37 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Washington.md).
 
 ## Counties
 

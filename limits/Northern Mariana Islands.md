@@ -7,7 +7,7 @@
 - Counties: 1
 - Towns: 0
 
-HUD's Section 8 income limits for Northern Mariana Islands, fiscal years 1998 to 2026: 1 county, as HUD lists them in FY2026.
+HUD's Section 8 income limits for Northern Mariana Islands, fiscal years 1998 to 2026: 1 county, as HUD lists them in FY2026. How rent and income compare across its places, and how they have moved, is on its [rents page](./../rents/Northern%20Mariana%20Islands.md).
 
 ## Places
 

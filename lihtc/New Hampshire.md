@@ -9,7 +9,7 @@
 - Units: 12707
 - Low-income units: 11513
 
-The low-income housing tax credit projects of New Hampshire in HUD's database, placed in service 1987 to 2024: 284 projects in 10 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of New Hampshire in HUD's database, placed in service 1987 to 2024: 284 projects in 10 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/New%20Hampshire.md).
 
 ## Counties
 

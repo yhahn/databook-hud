@@ -8,7 +8,7 @@ A Fair Market Rent (FMR) is what HUD reckons a modest, decent home costs to rent
 
 ## How it is written
 
-A page a place, as a reader finds it: `Alabama/Autauga County.md`; in New England, where HUD's places are towns, `Maine/Penobscot County/Bangor city.md` (Connecticut's under its planning regions). A state's page (`Alabama.md`) lists its places, or in New England its counties, and a New England county's page its towns, linked, in a table gathered as `Fair_Market_Rents_Places`. A page is named for its place, a slash a dash; a name two pages of one folder would share takes its FIPS. The changes are a page each, in `Changes/`, listed in [Changes](./Changes.md).
+A page a place, as a reader finds it: `Alabama/Autauga County.md`; in New England, where HUD's places are towns, `Maine/Penobscot County/Bangor city.md` (Connecticut's under its planning regions). A state's page (`Alabama.md`) lists its places, or in New England its counties, and a New England county's page its towns, linked, in a table gathered as `Fair_Market_Rents_Places`, dearest first, with each place's latest two-bedroom rent, its rent's and its median family income's rise since FY2006, and its burden. A state's page opens with the questions a reader asks of it first, answered from the data at every release (`.import/reading.md`), and draws its rent over the years (`Fair_Market_Rents_Rent_over_the_years`) and its places side by side, a row each (`Fair_Market_Rents_Places_compared`). A page is named for its place, a slash a dash; a name two pages of one folder would share takes its FIPS. The changes are a page each, in `Changes/`, listed in [Changes](./Changes.md).
 
 Each place is a record, `# Rents: <name>, <ST>` (towns too, with `- Level: Town`), keyed by `- FIPS:`, the ten digits HUD writes (state, county, county subdivision; `99999` for a whole county). Its card, **Fair Market Rents**, holds its rents as HUD set them from FY1995, a row a bedroom count and a column a year: at the 40th percentile, the definition since FY1995, or, for some costly areas in some years from FY2001 to FY2019, at the 50th. The rent HUD set was the legal rent that year, so it is in the card, and the percentile is marked beside it, in the place's `#### Areas`. The years before FY1995, at the 45th percentile for every place, are kept beside the card, never in it: `#### 45th percentile, 1983 to 1994`. Its `#### Areas` are the runs of years it sat in one FMR area at one percentile: HUD names areas only from FY2022, so older runs give the code alone. `- Area changes:` counts the years its code changed, leaving out 2006.
 
@@ -36,7 +36,7 @@ from Rents_Areas where Percentile = 50
 group by record order by years desc, record limit 10
 ```
 
-`FIPS` is gathered as a number, so its leading zero goes; `lpad(cast("FIPS" as varchar), 10, '0')` gives it back.
+`FIPS` is gathered as text, its leading zero kept (SPEC K2).
 
 ## Changes
 

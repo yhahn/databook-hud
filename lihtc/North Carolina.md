@@ -9,7 +9,7 @@
 - Units: 118271
 - Low-income units: 116416
 
-The low-income housing tax credit projects of North Carolina in HUD's database, placed in service 1987 to 2024: 2900 projects in 97 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of North Carolina in HUD's database, placed in service 1987 to 2024: 2900 projects in 97 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/North%20Carolina.md).
 
 ## Counties
 

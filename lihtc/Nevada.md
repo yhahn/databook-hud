@@ -9,7 +9,7 @@
 - Units: 34905
 - Low-income units: 33876
 
-The low-income housing tax credit projects of Nevada in HUD's database, placed in service 1987 to 2024: 353 projects in 14 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of Nevada in HUD's database, placed in service 1987 to 2024: 353 projects in 14 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/Nevada.md).
 
 ## Counties
 

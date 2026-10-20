@@ -9,7 +9,7 @@
 - Units: 139939
 - Low-income units: 132086
 
-The low-income housing tax credit projects of New Jersey in HUD's database, placed in service 1987 to 2024: 1760 projects in 21 counties, a county a page and a folder of its projects.
+The low-income housing tax credit projects of New Jersey in HUD's database, placed in service 1987 to 2024: 1760 projects in 21 counties, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](./../rents/New%20Jersey.md).
 
 ## Counties
 

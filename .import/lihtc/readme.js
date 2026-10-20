@@ -51,9 +51,9 @@ with rent as (
     where Bedrooms = 2) on columns('^[0-9]+$') into name y value v))
 select p.Project, p."Year placed in service", p."Low-income units", rent.v as "Two-bedroom rent that year"
 from Project p
-join Rents r on r.FIPS = p."County FIPS" * 100000 + 99999
+join Rents r on r.FIPS = p."County FIPS" || '99999'
 join rent on rent.record = r.name and rent.y = p."Year placed in service"
-where p."County FIPS" = 36067
+where p."County FIPS" = '36067'
 order by p."Year placed in service" desc limit 10
 \`\`\`
 
@@ -61,12 +61,12 @@ order by p."Year placed in service" desc limit 10
 -- the counties with the most low-income units, with their very low income limit for four, FY2026
 select r.name, count(*) as projects, sum(p."Low-income units") as "Low-income units", v."2026" as "Very low income, 4"
 from Project p
-join Limits r on r.FIPS = p."County FIPS" * 100000 + 99999
+join Limits r on r.FIPS = p."County FIPS" || '99999'
 join Limits_Very_low_income_50 v on v.record = r.name and v.Persons = 4
 group by all order by "Low-income units" desc limit 10
 \`\`\`
 
-\`County FIPS\` is gathered as a number, so its leading zero goes; the rents and the limits key a county as its five digits and \`99999\`, so \`"County FIPS" * 100000 + 99999\` is their \`FIPS\`. In New England HUD keys its rents and limits by town, not county, and HUD's tax credit file names no town: a New England project joins its county's listing page in the rents (\`"Fair Market Rents"."County FIPS"\`), and its towns. Connecticut's projects carry the county codes of the 2020 Census (09001 and the like), as the rents' and limits' towns keep them in \`FIPS 2024\`.
+\`County FIPS\` is gathered as text, its leading zero kept (SPEC K2); the rents and the limits key a county as its five digits and \`99999\`, so \`"County FIPS" || '99999'\` is their \`FIPS\`. In New England HUD keys its rents and limits by town, not county, and HUD's tax credit file names no town: a New England project joins its county's listing page in the rents (\`"Fair Market Rents"."County FIPS"\`), and its towns. Connecticut's projects carry the county codes of the 2020 Census (09001 and the like), as the rents' and limits' towns keep them in \`FIPS 2024\`.
 
 ## Changes
 

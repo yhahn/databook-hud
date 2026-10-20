@@ -243,3 +243,66 @@ their ids unchanged.
 - Rules: D7, D6
 - How: the census area was split in two; HUD's FY2027 file has no row for it
 - Look in:
+
+### Question: hud-reading-1
+- Tier: Across
+- Ask: Across HUD's counties (its rows keyed …99999; New England's towns aside), what was the median two-bedroom Fair Market Rent in FY1995 and in FY2027, and by what percent did it rise?
+- Type: list
+- Tolerance: 0.1
+- Rules: R2, D8
+- How: FMR history, cousub 99999, the median of fmr95_2 and of fmr27_2 (as HUD set them), and 100 × (the second / the first − 1). Asked first by the front page (.import/reading.md, front-trend)
+- Look in: README.md; rents/README.md
+
+### Question: hud-reading-2
+- Tier: Analysis
+- Ask: Taking each state's places (its counties, or in New England its towns), in which state is the median share of the FY2026 very low income limit for four taken by twelve months of the FY2026 two-bedroom Fair Market Rent greatest, and in which least (in percent, to one place)?
+- Type: list
+- Tolerance: 0.1
+- Rules: R2, B5
+- How: per row of the FMR history joined by FIPS to Section8-FY26.xlsx, 100 × 12 × fmr26_2 / l50_4; the median by state, to one place; the greatest and least, ties kept. Asked first by the front page (front-burden)
+- Look in: README.md
+
+### Question: hud-reading-3
+- Tier: Across
+- Ask: Taking each state's places (its counties, or in New England its towns), which state has the dearest median two-bedroom Fair Market Rent in FY2027, and which the cheapest?
+- Type: list
+- Tolerance: 0
+- Rules: R2
+- How: FMR history, fmr27_2 by state, the median of its rows; the greatest and least. Asked first by the front page (front-dear)
+- Look in: README.md
+
+### Question: hud-reading-4
+- Tier: Across
+- Ask: In which year were the most low-income housing tax credit projects placed in service, and how many?
+- Type: list
+- Tolerance: 0
+- Rules: R2
+- How: LIHTCPUB.xlsx, yr_pis (8888 and 9999 are no year), projects by year, the greatest. Asked first by the front page (front-credits)
+- Look in: README.md; lihtc/README.md
+
+### Question: hud-reading-5
+- Tier: Analysis
+- Ask: Across New York's counties, what was the median two-bedroom Fair Market Rent in FY1995 and in FY2027?
+- Type: list
+- Tolerance: 0
+- Rules: R2
+- How: FMR history, state 36, the median of fmr95_2 and of fmr27_2. A state page's first question (state-trend), asked of New York
+- Look in: rents/New York.md
+
+### Question: hud-reading-6
+- Tier: Across
+- Ask: Which New York counties have the dearest two-bedroom Fair Market Rent in FY2027, and which the cheapest (ties kept)?
+- Type: list
+- Tolerance: 0
+- Rules: R2, R4
+- How: FMR history, state 36, fmr27_2, the greatest and the least, every county at each. A state page's question (state-dear), asked of New York
+- Look in: rents/New York.md
+
+### Question: hud-reading-7
+- Tier: Analysis
+- Ask: Across New York's counties, what is the median share of the FY2026 very low income limit for four taken by twelve months of the FY2026 two-bedroom Fair Market Rent, and in which counties is it greatest?
+- Type: list
+- Tolerance: 0.1
+- Rules: R2, B5
+- How: FMR history, state 36, joined by FIPS to Section8-FY26.xlsx, 100 × 12 × fmr26_2 / l50_4; the median to one place, and the greatest, ties kept. A state page's question (state-burden), asked of New York
+- Look in: rents/New York.md

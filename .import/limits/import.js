@@ -424,6 +424,7 @@ function build({ byYear, old30 }) {
       });
       for (const k of eraKeys) if (!cur.some((r) => r.fips === `${k}99999`)) throw new Error(`county ${k}'s rows before 2006 have no page to go on`);
     }
+    said += ` How rent and income compare across its places, and how they have moved, is on its [rents page](${link(`../rents/${stateName}.md`)}).`;
     pages[`${stateName}.md`] = page([`# Income Limits: ${stateName}`, '', ...keys('State', alpha, sf, '', nCounties, towns), said, '',
       ...PLACES, ...listed.sort((a, b) => a[0].localeCompare(b[0])).map(([, l]) => l)]);
     states.push([stateName, counties, towns]);
@@ -457,7 +458,22 @@ function build({ byYear, old30 }) {
     eli: vals(allRows.filter((r) => r.year >= ELI), (r) => r.l30),
   };
 
-  return { pages, texts, counts, ledger, twice, unmatched, states, changes };
+  // each place's median family income and very low income limit for four,
+  // FY2006 on, by the FIPS it has now: for the rents' pages, which set rent
+  // against income (.import/incomes.json, written by main; SPEC R2)
+  const incomes = {};
+  for (const rec of records.values()) {
+    if (rec.gone || rec.second) continue;
+    const median = {}, vli4 = {};
+    for (const [y, r] of [...rec.years].sort((a, b) => a[0] - b[0])) {
+      if (y < KEYED) continue;
+      if (r.median != null) median[y] = r.median;
+      if (r.l50?.[3] != null) vli4[y] = r.l50[3];
+    }
+    incomes[rec.fips] = { median, vli4 };
+  }
+
+  return { pages, texts, counts, ledger, twice, unmatched, states, changes, incomes };
 }
 
 // --- the changes in HUD's files (D5) ----------------------------------------
@@ -664,7 +680,7 @@ function main() {
     if (e.name === 'ShapeError' || e.constructor.name === 'ShapeError') { console.error(e.message); process.exit(1); }
     throw e;
   }
-  const { pages, counts, ledger, twice, unmatched, states, changes } = build({ byYear, old30 });
+  const { pages, counts, ledger, twice, unmatched, states, changes, incomes } = build({ byYear, old30 });
   pages['README.md'] = require('./readme').text({ YEARS, LATEST, counts, ledger, states, changes });
 
   fs.mkdirSync(OUT, { recursive: true });
@@ -688,6 +704,7 @@ function main() {
   if (twice.length) console.log(`Rows a record had already in their year, not written:\n  ${twice.join('\n  ')}`);
   if (unmatched.length) console.log(`New England towns not tied to a county row before 2006:\n  ${unmatched.join('\n  ')}`);
   fs.writeFileSync(path.join(__dirname, 'counts.json'), JSON.stringify({ ...counts, ledger }, null, 1) + '\n');
+  fs.writeFileSync(path.join(__dirname, '..', 'incomes.json'), JSON.stringify(incomes) + '\n');
 }
 
 module.exports = { build, YEARS, LATEST, safe, link, unique };

@@ -2,3 +2,4 @@
 .proper/
 __pycache__/
 .claude/worktrees/
+.import/incomes.json

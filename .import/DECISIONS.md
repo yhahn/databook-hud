@@ -207,3 +207,119 @@ Each: what, why, how to undo it. Each dataset's own decisions are in
     exactly for Type none; every link from FAQ.md to a page gathered, and
     every question not a Gap with one. faq.js also refuses a Look in to a
     page not there, before it writes.
+
+## A reader's way in (SPEC R), 10-20, branch `r-pass`
+
+The R pass, the reading trial's after arm: the deputy given SPEC B and
+R, the book, and cards.md's pictures, and nothing else.
+
+32. **The spine is place (R1)**: the nation on the front page
+    (README.md); a state on its rents page (`rents/<State>.md`); a county,
+    or in New England a town, on its own pages. Time is the second axis,
+    drawn on each. Why: a stranger comes to HUD's yardsticks asking "what
+    does it cost here?", and every dataset is already keyed and foldered
+    by place (B7); by time would split a place's 44 years across pages,
+    by entity is place again, and by question would leave the 4,764
+    places without a home. The seat's lean, taken. Undo: reading.md's
+    Page keys, and the reading parts of readme.py and rents/import.py.
+33. **The rents' state page is the state's way in**, not a new page:
+    the book has three state pages a state (rents, limits, tax credits),
+    and R1 wants one spine. The rents are the book's lead and its
+    comparisons are rent's, set against income; the limits' and the tax
+    credits' state pages each gain one sentence linking to it, and the
+    rents' page links back to both (R1: the other datasets are links
+    across the spine). A New England county's rents page compares its
+    towns too (its Places), but asks no questions: R2 names "every folder
+    page on the spine", and its towns are already compared on the state's
+    page. Undo: the `said` sentences in limits/import.js and
+    lihtc/import.js; `state_reading()` in rents/import.py.
+34. **What a place is, counted**: the nation's figures are its counties',
+    the rows HUD keys `…99999` (3,161, Puerto Rico's and the territories'
+    among them); New England, whose rents HUD sets by town, is left out
+    of them, as faq.md's analysis questions already do. Its 1,603 towns
+    would weigh as half again as many counties if put in, and HUD gives
+    no county rent there to stand for them. A state's figures are its
+    own places', counties or in New England towns. A median is of places,
+    not people: the book holds no population. Said on the page and in
+    reading.md. Undo: `reckon()`.
+35. **A picture of 3,000 counties (the seat's lean)**: on the front page,
+    a line of the median county's two-bedroom rent each year with its
+    middle half as a band (the lower and upper quartile), not every
+    county; and a grid of the states, a row each, each a median of its
+    places. On a state's page, its median and middle half beside the
+    nation's median county, then every place a row of a grid (Brinton's
+    shape, R4): every fourth year to the latest (FY1995, 1999, … 2027,
+    nine columns), shaded against the dearest on that card, with the
+    rent's and the income's rise from FY2006 and the burden written at
+    the right (gutters). Every fourth year, not every year, so a state of
+    254 counties is still a page and not a wall; the place's own page
+    holds every year. Undo: GRID_YEARS.
+36. **The 50th percentile, said and never hidden (D8)**: the line is the
+    rent as HUD set it, the legal rent, as the cards are; the front
+    page's answer says how many counties were at the 50th at most in a
+    year (221, FY2001) and how far the median of the counties at the
+    40th alone ever strays from the line ($9), and the line is marked
+    at FY2001 and FY2020. A state's line is marked so where any of its
+    places was ever at the 50th. Undo: the Mark rows.
+37. **Its numbers, reckoned at every build**: the limits' importer
+    writes `.import/incomes.json` (each place's median family income and
+    very low income limit for four, FY2006 on, by its FIPS now): a table
+    two importers share, made by a script from the source (B8), but
+    written at each run and gitignored (2.8 MB), so build.sh runs the
+    limits before the rents. The rents' importer stops if it is missing.
+    Undo: the incomes block in limits/import.js, `.gitignore`.
+38. **The words are reading.md's, the numbers the importer's (R3)**:
+    each question's answer and each finding's words are written in
+    reading.md with `{name}` holes, filled by `.import/reading.py`
+    (shared by readme.py and rents/import.py); a value HUD gives none of
+    leaves the answer as the book not saying. A state of one place (the
+    District, Guam, …) has its own words, `Alone`. Ties are kept and
+    named (New York's dearest is eight counties of one FMR area); past
+    six, three and the count. Undo: reading.md and reading.py.
+39. **`finding-turned`**: what each page was filled with is kept,
+    `.import/reading.json` (the front page) and `.import/rents/reading.json`
+    (the states, and the nation's figures the front page draws), in git,
+    so a rerun compares with the last release and warns for each value a
+    record names in `Turns on` that changed (a rise now a fall, a leader
+    replaced). It warns; it does not stop. faq.js had no `answer-changed`
+    to copy (the brief thought it had): this is the first of its kind
+    here. Undo: `reading.turned()`.
+40. **The R2 questions in faq.md, and drift stops the build**: seven
+    new questions (hud-reading-1 to 7, Across and Analysis), and two old
+    ones serve (hud-analysis-4 for the front page's rent against income,
+    hud-analysis-1 for a state's, asked of Mississippi). A state's
+    questions are asked of New York. Each reading question names its FAQ
+    question and the values that must agree (`Holds`); faq.js, after it
+    writes FAQ.md, compares them and stops with `page-drifted` where they
+    do not. It found one at once: FY2026's limits cut "Northern Mariana
+    Islands" to twenty letters, so faq.js names it whole, as it names the
+    Virgin Islands as the book does. Undo: `drifted()` in faq.js.
+41. **A state's Places table compares (R4)**: the listing keeps its
+    links and keys, and gains the latest two-bedroom rent, the rent's
+    and the median family income's rise FY2006-2026, and the burden,
+    sorted dearest first, not by code; a New England county's listing of
+    its towns the same; a New England state's listing of its counties
+    blank in them (HUD sets no county rent there). Same columns in every
+    file (B4), gathered as `Fair_Market_Rents_Places`. Undo: `PLACES`
+    and `place_cells()`.
+42. **A picture's table is the card's own (R5)**: cards.md draws a
+    card from the table inside it, and that table is in the file, read
+    on GitHub as a table and gathered by proper; no second copy is
+    written beneath a card. Where the reader needs links (the states on
+    the front page, the places on a state's), a linked table follows the
+    picture (`### The states, linked`; `## Places`). A grid's labels are
+    places' names less their kind (`Bronx`, not `Bronx County`) where
+    that leaves them their own, as cards.md cuts a label past twelve
+    letters; its FIPS is a hidden column (`- Hide: FIPS`).
+43. **A state's line has every year, blank where none** (B4): the
+    Northern Mariana Islands and American Samoa have no rents before
+    FY2016; a card of fewer years was gathered as a second
+    table (`…_2`). A target check now finds any such.
+44. **proper keeps codes as text now** (SPEC K2's ask, met): `FIPS` and
+    `County FIPS` are gathered as VARCHAR with their leading zeros, so
+    the queries that joined `"County FIPS" * 100000 + 99999` failed before
+    this pass touched them (the lihtc README's 3 and 4, the front page's
+    3, a target check). They join `"County FIPS" || '99999'` now, and the
+    READMEs say FIPS is text. And proper gathers a table of its own with
+    `_end_line`, `footnotes` (G17): the B5 check of kinds leaves it out.
+    Neither is a change of data. Undo: git.

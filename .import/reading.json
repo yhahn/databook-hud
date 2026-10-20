@@ -1,0 +1,106 @@
+{
+ "pages": {
+  "README.md": {
+   "burden-where": {
+    "burden_three": [
+     "Guam",
+     "Hawaii",
+     "Northern Mariana Islands"
+    ],
+    "share_bottom": [
+     "North Dakota"
+    ],
+    "share_bottom_v": 19.6,
+    "share_top": [
+     "Hawaii",
+     "Guam",
+     "Northern Mariana Islands"
+    ]
+   },
+   "front-burden": {
+    "nation_share": 28.8,
+    "share_bottom": [
+     "North Dakota"
+    ],
+    "share_bottom_v": 19.6,
+    "share_top": [
+     "Hawaii",
+     "Guam",
+     "Northern Mariana Islands"
+    ],
+    "share_top_county": [
+     "Kalawao County, HI"
+    ],
+    "share_top_county_v": 49.1,
+    "share_top_v": 41.2
+   },
+   "front-credits": {
+    "early_size": 36,
+    "late_size": 56,
+    "li_units": 3611592,
+    "lihtc_after": 67,
+    "lihtc_first": 1987,
+    "lihtc_last": 2024,
+    "lihtc_none": 2765,
+    "peak_projects": 1806,
+    "peak_year": 2007,
+    "projects": 55345
+   },
+   "front-dear": {
+    "dear_bottom": [
+     "Puerto Rico"
+    ],
+    "dear_bottom_v": 613.0,
+    "dear_county": [
+     "Santa Cruz County, CA"
+    ],
+    "dear_county_v": 4254,
+    "dear_top": [
+     "District of Columbia"
+    ],
+    "dear_top_v": 2438,
+    "latest": 2027
+   },
+   "front-income": {
+    "growth_n": 3152,
+    "inc_growth": 78.4,
+    "n_faster": 2498,
+    "rent_growth": 97.8,
+    "yes": "Yes"
+   },
+   "front-trend": {
+    "counties": 3161,
+    "d50": 9,
+    "latest": 2027,
+    "n50_max": 221,
+    "n50_year": 2001,
+    "r1995": 363,
+    "r2027": 1056,
+    "recent_n": 5,
+    "recent_pct": 34.9,
+    "rise_pct": 190.9,
+    "rose": "rose",
+    "step_pct": 9.8,
+    "step_year": 2024
+   },
+   "rent-income": {
+    "inc_growth": 78.4,
+    "outran": "outrun",
+    "rent_growth": 97.8
+   },
+   "rent-quickened": {
+    "before_rate": 2.9,
+    "quickened": "quickened",
+    "recent_from": 2022,
+    "recent_n": 5,
+    "recent_rate": 6.2
+   },
+   "rent-yearly": {
+    "latest": 2027,
+    "mostly": "rose",
+    "n_steps": 32,
+    "up_years": 31
+   }
+  }
+ }
+}

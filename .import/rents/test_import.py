@@ -39,7 +39,7 @@ class Vectors(unittest.TestCase):
             with self.subTest(vector=os.path.basename(fn), rule=v['rule']):
                 if isinstance(v['output'], dict):
                     # B7: the pages written, by path; README and the changes aside
-                    pages = {k: t for k, t in imp.build(v['input'])[0].items()
+                    pages = {k: t for k, t in imp.build(v['input'], v.get('incomes'))[0].items()
                              if k != 'README.md' and k != 'Changes.md' and not k.startswith('Changes/')}
                     self.assertEqual(sorted(pages), sorted(v['output']), v['about'])
                     for k, t in v['output'].items():

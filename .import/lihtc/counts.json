@@ -19,6 +19,402 @@
   "pis_missing": 2765,
   "alloc_missing": 2709
  },
+ "reading": {
+  "by_year": {
+   "1987": {
+    "projects": 749,
+    "li_units": 16409
+   },
+   "1988": {
+    "projects": 1686,
+    "li_units": 36605
+   },
+   "1989": {
+    "projects": 1632,
+    "li_units": 43463
+   },
+   "1990": {
+    "projects": 1334,
+    "li_units": 41925
+   },
+   "1991": {
+    "projects": 1451,
+    "li_units": 46753
+   },
+   "1992": {
+    "projects": 1347,
+    "li_units": 42175
+   },
+   "1993": {
+    "projects": 1395,
+    "li_units": 54742
+   },
+   "1994": {
+    "projects": 1416,
+    "li_units": 62176
+   },
+   "1995": {
+    "projects": 1641,
+    "li_units": 87592
+   },
+   "1996": {
+    "projects": 1484,
+    "li_units": 86881
+   },
+   "1997": {
+    "projects": 1405,
+    "li_units": 83405
+   },
+   "1998": {
+    "projects": 1381,
+    "li_units": 88351
+   },
+   "1999": {
+    "projects": 1596,
+    "li_units": 110718
+   },
+   "2000": {
+    "projects": 1441,
+    "li_units": 102752
+   },
+   "2001": {
+    "projects": 1519,
+    "li_units": 104804
+   },
+   "2002": {
+    "projects": 1450,
+    "li_units": 110682
+   },
+   "2003": {
+    "projects": 1655,
+    "li_units": 129550
+   },
+   "2004": {
+    "projects": 1660,
+    "li_units": 130432
+   },
+   "2005": {
+    "projects": 1716,
+    "li_units": 133119
+   },
+   "2006": {
+    "projects": 1757,
+    "li_units": 135504
+   },
+   "2007": {
+    "projects": 1806,
+    "li_units": 140341
+   },
+   "2008": {
+    "projects": 1628,
+    "li_units": 115307
+   },
+   "2009": {
+    "projects": 1272,
+    "li_units": 91645
+   },
+   "2010": {
+    "projects": 1316,
+    "li_units": 89807
+   },
+   "2011": {
+    "projects": 1772,
+    "li_units": 128276
+   },
+   "2012": {
+    "projects": 1642,
+    "li_units": 113919
+   },
+   "2013": {
+    "projects": 1362,
+    "li_units": 89220
+   },
+   "2014": {
+    "projects": 1175,
+    "li_units": 88362
+   },
+   "2015": {
+    "projects": 1215,
+    "li_units": 86906
+   },
+   "2016": {
+    "projects": 1271,
+    "li_units": 97344
+   },
+   "2017": {
+    "projects": 1095,
+    "li_units": 90305
+   },
+   "2018": {
+    "projects": 1124,
+    "li_units": 90772
+   },
+   "2019": {
+    "projects": 1112,
+    "li_units": 95364
+   },
+   "2020": {
+    "projects": 1193,
+    "li_units": 97625
+   },
+   "2021": {
+    "projects": 1079,
+    "li_units": 92639
+   },
+   "2022": {
+    "projects": 1020,
+    "li_units": 93224
+   },
+   "2023": {
+    "projects": 929,
+    "li_units": 79391
+   },
+   "2024": {
+    "projects": 787,
+    "li_units": 62318
+   },
+   "2025": {
+    "projects": 66,
+    "li_units": 5678
+   },
+   "2027": {
+    "projects": 1,
+    "li_units": 81
+   }
+  },
+  "by_state": {
+   "Alaska": {
+    "projects": 187,
+    "li_units": 6970
+   },
+   "Alabama": {
+    "projects": 834,
+    "li_units": 43317
+   },
+   "Arkansas": {
+    "projects": 738,
+    "li_units": 37739
+   },
+   "American Samoa": {
+    "projects": 119,
+    "li_units": 428
+   },
+   "Arizona": {
+    "projects": 593,
+    "li_units": 46629
+   },
+   "California": {
+    "projects": 5185,
+    "li_units": 406387
+   },
+   "Colorado": {
+    "projects": 872,
+    "li_units": 65961
+   },
+   "Connecticut": {
+    "projects": 455,
+    "li_units": 25312
+   },
+   "District of Columbia": {
+    "projects": 268,
+    "li_units": 30290
+   },
+   "Delaware": {
+    "projects": 180,
+    "li_units": 10927
+   },
+   "Florida": {
+    "projects": 1571,
+    "li_units": 205676
+   },
+   "Georgia": {
+    "projects": 1666,
+    "li_units": 153086
+   },
+   "Guam": {
+    "projects": 15,
+    "li_units": 1349
+   },
+   "Hawaii": {
+    "projects": 144,
+    "li_units": 12481
+   },
+   "Iowa": {
+    "projects": 757,
+    "li_units": 30179
+   },
+   "Idaho": {
+    "projects": 288,
+    "li_units": 11928
+   },
+   "Illinois": {
+    "projects": 1556,
+    "li_units": 111974
+   },
+   "Indiana": {
+    "projects": 1353,
+    "li_units": 84374
+   },
+   "Kansas": {
+    "projects": 738,
+    "li_units": 34165
+   },
+   "Kentucky": {
+    "projects": 913,
+    "li_units": 32448
+   },
+   "Louisiana": {
+    "projects": 1117,
+    "li_units": 59068
+   },
+   "Massachusetts": {
+    "projects": 1057,
+    "li_units": 74028
+   },
+   "Maryland": {
+    "projects": 948,
+    "li_units": 77604
+   },
+   "Maine": {
+    "projects": 380,
+    "li_units": 13466
+   },
+   "Michigan": {
+    "projects": 1720,
+    "li_units": 103552
+   },
+   "Minnesota": {
+    "projects": 1144,
+    "li_units": 65405
+   },
+   "Missouri": {
+    "projects": 1930,
+    "li_units": 73357
+   },
+   "Northern Mariana Islands": {
+    "projects": 5,
+    "li_units": 272
+   },
+   "Mississippi": {
+    "projects": 926,
+    "li_units": 44274
+   },
+   "Montana": {
+    "projects": 321,
+    "li_units": 11555
+   },
+   "North Carolina": {
+    "projects": 2900,
+    "li_units": 116416
+   },
+   "North Dakota": {
+    "projects": 254,
+    "li_units": 8795
+   },
+   "Nebraska": {
+    "projects": 593,
+    "li_units": 19040
+   },
+   "New Hampshire": {
+    "projects": 284,
+    "li_units": 11513
+   },
+   "New Jersey": {
+    "projects": 1760,
+    "li_units": 132086
+   },
+   "New Mexico": {
+    "projects": 318,
+    "li_units": 20245
+   },
+   "Nevada": {
+    "projects": 353,
+    "li_units": 33876
+   },
+   "New York": {
+    "projects": 4144,
+    "li_units": 290170
+   },
+   "Ohio": {
+    "projects": 2142,
+    "li_units": 131397
+   },
+   "Oklahoma": {
+    "projects": 622,
+    "li_units": 32259
+   },
+   "Oregon": {
+    "projects": 754,
+    "li_units": 44746
+   },
+   "Pennsylvania": {
+    "projects": 2025,
+    "li_units": 78518
+   },
+   "Puerto Rico": {
+    "projects": 245,
+    "li_units": 22918
+   },
+   "Rhode Island": {
+    "projects": 205,
+    "li_units": 13662
+   },
+   "South Carolina": {
+    "projects": 890,
+    "li_units": 47827
+   },
+   "South Dakota": {
+    "projects": 313,
+    "li_units": 10570
+   },
+   "Tennessee": {
+    "projects": 1176,
+    "li_units": 78307
+   },
+   "Texas": {
+    "projects": 2999,
+    "li_units": 316745
+   },
+   "Utah": {
+    "projects": 561,
+    "li_units": 30736
+   },
+   "Virginia": {
+    "projects": 1266,
+    "li_units": 110025
+   },
+   "U.S. Virgin Islands": {
+    "projects": 33,
+    "li_units": 1471
+   },
+   "Vermont": {
+    "projects": 355,
+    "li_units": 8604
+   },
+   "Washington": {
+    "projects": 1430,
+    "li_units": 119615
+   },
+   "Wisconsin": {
+    "projects": 1234,
+    "li_units": 35760
+   },
+   "West Virginia": {
+    "projects": 376,
+    "li_units": 16484
+   },
+   "Wyoming": {
+    "projects": 133,
+    "li_units": 5606
+   }
+  },
+  "first_year": 1987,
+  "last_year": 2027,
+  "peak_year": 2007,
+  "peak_projects": 1806,
+  "early_size": 36,
+  "late_size": 56
+ },
  "changes": [
   [
    2004,

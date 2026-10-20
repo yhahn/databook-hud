@@ -137,8 +137,9 @@ function readSheet(file, year) {
     oldMsa: col('cbsasub') >= 0 ? col('msa') : -1,
     areaName: col('hud_area_name', 'metro_area_name', 'msaname', 'msa name', 'name'),
     median: col(`median${year}`, 'median', `fy ${year} median family income`),
+    stateName: col('state_name'), // a state's name, for the reading questions
   };
-  for (const [k, i] of Object.entries(c)) if (i < 0 && !['fips', 'oldMsa'].includes(k)) throw new Error(`FY${year}: no ${k}`);
+  for (const [k, i] of Object.entries(c)) if (i < 0 && !['fips', 'oldMsa', 'stateName'].includes(k)) throw new Error(`FY${year}: no ${k}`);
   const L = { 30: lim(30), 50: lim(50), 80: lim(80) };
   return raw.slice(1).filter((r) => r.some((v) => v !== '')).map((r) => {
     const fips = c.fips >= 0 ? pad(r[c.fips], 10) : null;
@@ -146,6 +147,7 @@ function readSheet(file, year) {
       year, fips, st: fips ? fips.slice(0, 2) : pad(r[c.st], 2), county3: fips ? fips.slice(2, 5) : pad(r[c.county], 3),
       alpha: String(r[c.alpha]).trim(), name: String(r[c.name]).trim(), area: String(r[c.area]).trim(),
       oldMsa: c.oldMsa >= 0 ? String(r[c.oldMsa]).trim() : null, areaName: String(r[c.areaName]).trim(),
+      stateName: c.stateName >= 0 ? String(r[c.stateName]).trim() : null,
       median: n(r[c.median]), l30: L[30].map((i) => n(r[i])), l50: L[50].map((i) => n(r[i])), l80: L[80].map((i) => n(r[i])),
     };
   });
@@ -209,6 +211,37 @@ const growth = once(() => {
     return a && b && r06 && r26 ? { r, rg: r26 / r06, ig: b.median / a.median } : null;
   }).filter(Boolean);
 });
+
+// The reading questions (SPEC R2): a state is its rows of the FMR history,
+// counties or, in New England, towns; its name as FY2026's limits write it
+// (the book writes the Virgin Islands as the U.S. Virgin Islands, and FY2026's
+// file cuts the Northern Mariana Islands to twenty characters)
+const NAMED = { 'Virgin Islands': 'U.S. Virgin Islands', 'Northern Mariana Isl': 'Northern Mariana Islands' };
+const stateNames = once(() => {
+  const m = {};
+  for (const r of IL(2026)) if (r.stateName) m[r.st] = NAMED[r.stateName] ?? r.stateName;
+  return m;
+});
+const byStateRows = once(() => {
+  const m = new Map();
+  for (const r of FMR) { if (!m.has(r.state)) m.set(r.state, []); m.get(r.state).push(r); }
+  return m;
+});
+const share26 = once(() => {
+  const i26 = new Map(IL(2026).map((r) => [r.fips, r]));
+  return (r) => { const b = i26.get(r.fips2027), v = rent(r, 2026, 2); return b && v && b.l50[3] ? 100 * 12 * v / b.l50[3] : null; };
+});
+// the items of the best value (max or min), ties kept: [items, value]
+const best = (items, f, most) => {
+  const have = items.filter((x) => f(x) != null);
+  const b = (most ? Math.max : Math.min)(...have.map(f));
+  return [have.filter((x) => f(x) === b), b];
+};
+const stateMedians = (f) => [...byStateRows()].map(([st, rows]) => {
+  const v = rows.map(f).filter((x) => x != null);
+  return { st, name: stateNames()[st] ?? st, v: v.length ? median(v) : null };
+});
+const NY = '36';
 
 const ANSWERS = {
   // Lookup
@@ -400,7 +433,92 @@ const ANSWERS = {
     return { answer: a, text: a.map((x) => `FY${x.year} ${x.percent}% (12 × ${x.fmr_2} / ${x.l50_4})`).join('; '),
       note: '12 × fmr06_2 / l50_4 (FY2006) and 12 × fmr26_2 / l50_4 (FY2026), Holmes County, MS, 2805199999.' };
   },
+
+  // Reading (SPEC R2): the questions the front page and a state's page open with
+  'hud-reading-1': () => {
+    const a = median(fmrCounties.map((r) => rent(r, 1995, 2)).filter((v) => v != null));
+    const b = median(fmrCounties.map((r) => rent(r, 2027, 2)).filter((v) => v != null));
+    const ans = { fy1995: a, latest: b, rise_pct: r2(100 * (b / a - 1), 1) };
+    return { answer: ans, text: `FY1995 ${a}; FY2027 ${b}; up ${ans.rise_pct}%`,
+      note: `FMR history, the ${fmrCounties.length} rows with cousub 99999, the median of fmr95_2 and of fmr27_2, each over the counties that have one. FY1995 is all at the 40th percentile, FY2027 too (the 50th ended in FY2020).` };
+  },
+  'hud-reading-2': () => {
+    const s = stateMedians(share26()).filter((x) => x.v != null).map((x) => ({ ...x, v: r2(x.v, 1) }));
+    const [top, tv] = best(s, (x) => x.v, true), [bot, bv] = best(s, (x) => x.v, false);
+    const ans = { top: top.map((x) => x.name), top_share: tv, bottom: bot.map((x) => x.name), bottom_share: bv };
+    return { answer: ans, text: `greatest ${ans.top.join(', ')} ${tv}%; least ${ans.bottom.join(', ')} ${bv}%`,
+      note: `${s.length} states and territories, each the median over its rows of the FMR history joined by FIPS to Section8-FY26.xlsx of 100 × 12 × fmr26_2 / l50_4, to one place; ties at one place kept. A territory of one county is its county.` };
+  },
+  'hud-reading-3': () => {
+    const s = stateMedians((r) => rent(r, 2027, 2)).filter((x) => x.v != null);
+    const [top, tv] = best(s, (x) => x.v, true), [bot, bv] = best(s, (x) => x.v, false);
+    const ans = { top: top.map((x) => x.name), top_rent: tv, bottom: bot.map((x) => x.name), bottom_rent: bv };
+    return { answer: ans, text: `dearest ${ans.top.join(', ')} ${tv}; cheapest ${ans.bottom.join(', ')} ${bv}`,
+      note: `${s.length} states and territories, the median of fmr27_2 over each one's rows of the FMR history (counties, or in New England towns).` };
+  },
+  'hud-reading-4': () => {
+    const wb = XLSX.readFile(path.join(os.homedir(), '.cache/proper/hud/lihtc/src/LIHTCPUB.xlsx'), { dense: true });
+    const rows = XLSX.utils.sheet_to_json(wb.Sheets[wb.SheetNames[0]], { defval: '' });
+    const by = {};
+    for (const r of rows) { const y = Number(r.yr_pis); if (y && y !== 8888 && y !== 9999) by[y] = (by[y] ?? 0) + 1; }
+    const [[year]] = best(Object.keys(by).map((y) => [Number(y)]), ([y]) => by[y], true);
+    const ans = { year, projects: by[year] };
+    return { answer: ans, text: `${year}, ${by[year]} projects`,
+      note: `LIHTCPUB.xlsx, ${rows.length} projects, by yr_pis (8888 and 9999 are no year: ${rows.filter((r) => [8888, 9999].includes(Number(r.yr_pis))).length}).` };
+  },
+  'hud-reading-5': () => {
+    const ny = byStateRows().get(NY);
+    const ans = { fy1995: median(ny.map((r) => rent(r, 1995, 2)).filter((v) => v != null)), latest: median(ny.map((r) => rent(r, 2027, 2)).filter((v) => v != null)) };
+    return { answer: ans, text: `FY1995 ${ans.fy1995}; FY2027 ${ans.latest}`, note: `FMR history, the ${ny.length} rows of state 36, the median of fmr95_2 and of fmr27_2.` };
+  },
+  'hud-reading-6': () => {
+    const ny = byStateRows().get(NY);
+    const [top, tv] = best(ny, (r) => rent(r, 2027, 2), true), [bot, bv] = best(ny, (r) => rent(r, 2027, 2), false);
+    const ans = { dearest: top.map((r) => r.name), dearest_rent: tv, cheapest: bot.map((r) => r.name), cheapest_rent: bv };
+    return { answer: ans, text: `dearest ${ans.dearest.join(', ')} (${tv}); cheapest ${ans.cheapest.join(', ')} (${bv})`,
+      note: `FMR history, state 36, fmr27_2: ${top.length} counties at ${tv}, ${bot.length} at ${bv}. A county takes its FMR area's rents, so the counties of one area tie.` };
+  },
+  'hud-reading-7': () => {
+    const ny = byStateRows().get(NY), f = share26();
+    const v = ny.map(f).filter((x) => x != null);
+    const [top, tv] = best(ny, f, true);
+    const ans = { median_share: r2(median(v), 1), top: top.map((r) => r.name), top_share: r2(tv, 1) };
+    return { answer: ans, text: `median ${ans.median_share}%; greatest ${ans.top.join(', ')} (${ans.top_share}%)`,
+      note: `FMR history, the ${ny.length} rows of state 36, joined by FIPS to Section8-FY26.xlsx: 100 × 12 × fmr26_2 / l50_4, ${v.length} with both.` };
+  },
 };
+
+// --- the pages against the source (SPEC R2) ---------------------------------------
+// Each reading question of .import/reading.md that names an FAQ question Holds
+// values the page was filled with (kept by the importers in .import/reading.json
+// and .import/rents/reading.json) that must agree with that question's answer,
+// worked out here from the source. A page that has drifted stops the build.
+
+function drifted(answers) {
+  const text = fs.readFileSync(path.join(__dirname, 'reading.md'), 'utf8');
+  const kept = {};
+  for (const f of ['reading.json', 'rents/reading.json']) Object.assign(kept, JSON.parse(fs.readFileSync(path.join(__dirname, f), 'utf8')).pages);
+  const said = [];
+  let n = 0;
+  for (const b of text.split(/\n(?=### Question: )/).slice(1)) {
+    const id = /^### Question: (\S+)/.exec(b)[1];
+    const key = (k) => (new RegExp(`^- ${k}:[ \\t]*(.*)$`, 'm').exec(b) ?? [])[1]?.trim() ?? '';
+    const faq = key('FAQ'), page = key('FAQ page');
+    if (!faq) continue;
+    if (!answers[faq]) throw new Error(`reading.md ${id}: FAQ ${faq} is no question in faq.md`);
+    const values = kept[page]?.[id];
+    if (!values) throw new Error(`reading.md ${id}: nothing kept for ${page}`);
+    for (const pair of key('Holds').split(/,\s*/).filter(Boolean)) {
+      const [mine, theirs] = pair.split('=').map((s) => s.trim());
+      const a = values[mine], b = answers[faq].answer[theirs];
+      const set = (x) => JSON.stringify(Array.isArray(x) ? [...x].sort() : [x]);
+      const same = Array.isArray(a) || Array.isArray(b) ? set(a) === set(b) : a === b;
+      n++;
+      if (!same) said.push(`page-drifted: ${page}, ${id}: ${mine} is ${JSON.stringify(a)}, but ${faq}'s ${theirs} is ${JSON.stringify(b)}`);
+    }
+  }
+  return { said, n };
+}
 
 function compute(ids) {
   const out = {};
@@ -463,6 +581,9 @@ function main() {
   const answers = compute(ids);
   fs.writeFileSync(path.join(REPO, 'FAQ.md'), page(questions, answers));
   console.log(`FAQ.md: ${questions.length} questions, ${questions.filter((q) => q.Type === 'none').length} the book does not answer`);
+  const { said, n } = drifted(answers);
+  if (said.length) { console.error(said.join('\n')); process.exit(1); }
+  console.log(`reading: ${n} values on the pages agree with the FAQ's answers from the source`);
 }
 
 module.exports = { parse, compute, record, words, NOT_SAID };

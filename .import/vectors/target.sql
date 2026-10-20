@@ -48,7 +48,7 @@ where table_name = 'Tax Credit Projects' and column_name not in ('name', '_file'
 -- name: B5 the kinds, each dataset its own
 -- want: Change, County before 2006, Fair Market Rents, Income Limits, Limits, Project, Question, Rents, Second listing, Tax Credit Projects
 select string_agg(distinct table_name, ', ' order by table_name) from information_schema.columns
-where column_name = '_end_line';
+where column_name = '_end_line' and table_name <> 'footnotes'; -- proper's own (G17, its footnotes), not a kind of the book's
 
 -- name: Rents records
 -- want: {rents.records}
@@ -335,8 +335,8 @@ select (select count(*) from files where path like 'lihtc/%') || ' ' ||
 -- name: LIHTC B5/K2 every project with a county outside New England joins the rents' and the limits' county record (code and 99999); the 8 that do not are a county no more (Wade Hampton, AK, 02270; Shannon, SD, 46113: renamed in 2015, from older tracts) and the two territories HUD sets no rents for (60010, AS; 69110, MP, five)
 -- want: {lihtc.join_county} 8
 select count(*) || ' ' || count(*) filter (where l.FIPS is null) from Project p
-  left join Rents r on r.FIPS = p."County FIPS" * 100000 + 99999 left join Limits l on l.FIPS = r.FIPS
-  where p."County FIPS" is not null and p."County FIPS" // 1000 not in (9, 23, 25, 33, 44, 50);
+  left join Rents r on r.FIPS = p."County FIPS" || '99999' left join Limits l on l.FIPS = r.FIPS
+  where p."County FIPS" is not null and left(p."County FIPS", 2) not in ('09', '23', '25', '33', '44', '50');
 -- (the want's first: counted from HUD's file, the projects with a county outside New England)
 
 -- name: LIHTC every change with its boundary, was, now and source
@@ -364,3 +364,28 @@ select count(*) filter (where Answer is null or trim(Answer) = '') || ' ' ||
 select (select count(*) from links where _file = 'FAQ.md' and path not in (select path from files)) || ' ' ||
   (select count(*) from Question q where Type <> 'none' and not exists (
     select 1 from links l where l._file = q._file and l._line between q._line and q._end_line));
+
+-- A reader's way in (SPEC R: the front page and each state's rents page, from .import/reading.md)
+
+-- name: R4 every place compared on its state's rents page, once (the grid, Places compared)
+-- want: {rents.records} {rents.records}
+select count(*) || ' ' || count(distinct FIPS) from Fair_Market_Rents_Places_compared;
+
+-- name: R4 every place listed with its rent, in its state's or New England county's Places (a New England county's own row has none)
+-- want: {rents.records}
+select count("Two-bedroom rent") from Fair_Market_Rents_Places;
+
+-- name: R5 every state's rents page draws its rent over the years, its median, its middle half and the nation's (a state of one place, no half)
+-- want: {rents.states}
+select count(distinct _file) from Fair_Market_Rents_Rent_over_the_years where stat = 'line';
+
+-- name: R5 the front page draws the median county each year (3 rows), rent and income since FY2006 (2), every state (one a row), and the tax credits by year (2); and lists the states, linked
+-- want: 3 2 {rents.states} 2 {rents.states}
+select (select count(*) from rent_over_the_years) || ' ' || (select count(*) from rent_and_income) || ' ' ||
+  (select count(*) from the_states_compared) || ' ' || (select count(*) from tax_credit_housing_year_by_year) || ' ' ||
+  (select count(*) from the_states_linked);
+
+-- name: B4 the reading's tables, each one head on every page: none gathered twice under one name
+-- want: 0
+select count(*) from information_schema.tables
+where regexp_matches(table_name, '(Rent_over_the_years|Places_compared|rent_over_the_years|rent_and_income|the_states_compared|the_states_linked|tax_credit_housing_year_by_year)_[0-9]+$');

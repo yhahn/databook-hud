@@ -13,9 +13,9 @@ const q = (id) => questions.find((x) => x.id === id);
 const FIVE = ['hud-lookup-1', 'hud-page-3', 'hud-join-1', 'hud-gap-2', 'hud-change-1'];
 const A = faq.compute(FIVE);
 
-test('faq.md: 26 questions, ids unique, every one with the same keys', () => {
-  assert.strictEqual(questions.length, 26);
-  assert.strictEqual(new Set(questions.map((x) => x.id)).size, 26);
+test('faq.md: 33 questions (26, and 7 a reader asks first, SPEC R2), ids unique, every one with the same keys', () => {
+  assert.strictEqual(questions.length, 33);
+  assert.strictEqual(new Set(questions.map((x) => x.id)).size, 33);
   for (const x of questions) assert.deepStrictEqual(Object.keys(x), ['id', 'Tier', 'Ask', 'Type', 'Tolerance', 'Rules', 'How', 'Look in']);
 });
 

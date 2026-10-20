@@ -1,0 +1,5957 @@
+{
+ "nation": {
+  "_links": {
+   "dear_county": [
+    "California/Santa Cruz County.md"
+   ],
+   "share_top_county": [
+    "Hawaii/Kalawao County.md"
+   ]
+  },
+  "before_rate": 2.9,
+  "burden_three": [
+   "Guam",
+   "Hawaii",
+   "Northern Mariana Islands"
+  ],
+  "counties": 3161,
+  "d50": 9,
+  "dear_bottom": [
+   "Puerto Rico"
+  ],
+  "dear_bottom_v": 613.0,
+  "dear_county": [
+   "Santa Cruz County, CA"
+  ],
+  "dear_county_v": 4254,
+  "dear_top": [
+   "District of Columbia"
+  ],
+  "dear_top_v": 2438,
+  "growth_n": 3152,
+  "inc_growth": 78.4,
+  "latest": 2027,
+  "mostly": "rose",
+  "n50_max": 221,
+  "n50_year": 2001,
+  "n_faster": 2498,
+  "n_steps": 32,
+  "nation_share": 28.8,
+  "outran": "outrun",
+  "quickened": "quickened",
+  "r1995": 363,
+  "r2027": 1056,
+  "recent_from": 2022,
+  "recent_n": 5,
+  "recent_pct": 34.9,
+  "recent_rate": 6.2,
+  "rent_growth": 97.8,
+  "rise_pct": 190.9,
+  "rose": "rose",
+  "share_bottom": [
+   "North Dakota"
+  ],
+  "share_bottom_v": 19.6,
+  "share_top": [
+   "Hawaii",
+   "Guam",
+   "Northern Mariana Islands"
+  ],
+  "share_top_county": [
+   "Kalawao County, HI"
+  ],
+  "share_top_county_v": 49.1,
+  "share_top_v": 41.2,
+  "step_pct": 9.8,
+  "step_year": 2024,
+  "up_years": 31,
+  "yes": "Yes"
+ },
+ "pages": {
+  "rents/Alabama.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Marengo County"
+    ],
+    "burden_bottom_v": 22.4,
+    "burden_top": [
+     "Greene County"
+    ],
+    "burden_top_v": 36.9,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 26.7,
+    "state": "Alabama"
+   },
+   "state-dear": {
+    "cheap": [
+     "Barbour County",
+     "Bullock County",
+     "Choctaw County",
+     "Clarke County",
+     "Clay County",
+     "Conecuh County",
+     "Coosa County",
+     "Covington County",
+     "Crenshaw County",
+     "Dale County",
+     "DeKalb County",
+     "Escambia County",
+     "Fayette County",
+     "Franklin County",
+     "Henry County",
+     "Jackson County",
+     "Lamar County",
+     "Marengo County",
+     "Marion County",
+     "Monroe County",
+     "Perry County",
+     "Pickens County",
+     "Sumter County",
+     "Washington County",
+     "Wilcox County",
+     "Winston County"
+    ],
+    "cheap_v": 921,
+    "dear": [
+     "Baldwin County"
+    ],
+    "dear_v": 1434,
+    "latest": 2027,
+    "s_latest": 975,
+    "state": "Alabama"
+   },
+   "state-income": {
+    "faster": 59,
+    "growth_n": 67,
+    "inc_growth": 72.8,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 91.0,
+    "slower": 8,
+    "state": "Alabama"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 67,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 303,
+    "s_latest": 975,
+    "s_rise": 221.8,
+    "state": "Alabama"
+   }
+  },
+  "rents/Alaska.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Denali Borough"
+    ],
+    "burden_bottom_v": 19.5,
+    "burden_top": [
+     "Kodiak Island Borough"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 30.1,
+    "state": "Alaska"
+   },
+   "state-dear": {
+    "cheap": [
+     "Kusilvak Census Area"
+    ],
+    "cheap_v": 1030,
+    "dear": [
+     "Aleutians West Census Area"
+    ],
+    "dear_v": 2394,
+    "latest": 2027,
+    "s_latest": 1512.5,
+    "state": "Alaska"
+   },
+   "state-income": {
+    "faster": 13,
+    "growth_n": 23,
+    "inc_growth": 60.8,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 54.1,
+    "slower": 10,
+    "state": "Alaska"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 30,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 678,
+    "s_latest": 1512.5,
+    "s_rise": 123.1,
+    "state": "Alaska"
+   }
+  },
+  "rents/American Samoa.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "American Samoa"
+    ],
+    "burden_bottom_v": 39.3,
+    "burden_top": [
+     "American Samoa"
+    ],
+    "burden_top_v": 39.3,
+    "nation_share": 28.8,
+    "places_word": "county",
+    "s_share": 39.3,
+    "state": "American Samoa"
+   },
+   "state-dear": {
+    "cheap": [
+     "American Samoa"
+    ],
+    "cheap_v": 942,
+    "dear": [
+     "American Samoa"
+    ],
+    "dear_v": 942,
+    "latest": 2027,
+    "s_latest": 942,
+    "state": "American Samoa"
+   },
+   "state-income": {
+    "faster": 0,
+    "growth_n": 0,
+    "inc_growth": null,
+    "more": "even",
+    "places_word": "county",
+    "rent_growth": null,
+    "slower": 0,
+    "state": "American Samoa"
+   },
+   "state-trend": {
+    "first_year": 2016,
+    "latest": 2027,
+    "n_places": 1,
+    "n_rise": 57.8,
+    "places_word": "county",
+    "rose": "rose",
+    "s_first": 653,
+    "s_latest": 942,
+    "s_rise": 44.3,
+    "state": "American Samoa"
+   }
+  },
+  "rents/Arizona.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Greenlee County"
+    ],
+    "burden_bottom_v": 33.1,
+    "burden_top": [
+     "Gila County"
+    ],
+    "burden_top_v": 42.3,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 41.0,
+    "state": "Arizona"
+   },
+   "state-dear": {
+    "cheap": [
+     "La Paz County"
+    ],
+    "cheap_v": 1038,
+    "dear": [
+     "Maricopa County",
+     "Pinal County"
+    ],
+    "dear_v": 1734,
+    "latest": 2027,
+    "s_latest": 1244,
+    "state": "Arizona"
+   },
+   "state-income": {
+    "faster": 14,
+    "growth_n": 15,
+    "inc_growth": 86.7,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 111.8,
+    "slower": 1,
+    "state": "Arizona"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 15,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 462,
+    "s_latest": 1244,
+    "s_rise": 169.3,
+    "state": "Arizona"
+   }
+  },
+  "rents/Arkansas.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Prairie County"
+    ],
+    "burden_bottom_v": 25.0,
+    "burden_top": [
+     "Craighead County"
+    ],
+    "burden_top_v": 33.0,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 29.7,
+    "state": "Arkansas"
+   },
+   "state-dear": {
+    "cheap": [
+     "Ashley County",
+     "Boone County",
+     "Bradley County",
+     "Chicot County",
+     "Clay County",
+     "Cleveland County",
+     "Conway County",
+     "Cross County",
+     "Dallas County",
+     "Desha County",
+     "Drew County",
+     "Franklin County",
+     "Fulton County",
+     "Grant County",
+     "Hempstead County",
+     "Howard County",
+     "Izard County",
+     "Jackson County",
+     "Johnson County",
+     "Lafayette County",
+     "Lawrence County",
+     "Lee County",
+     "Lincoln County",
+     "Little River County",
+     "Logan County",
+     "Mississippi County",
+     "Monroe County",
+     "Montgomery County",
+     "Newton County",
+     "Ouachita County",
+     "Phillips County",
+     "Pike County",
+     "Poinsett County",
+     "Polk County",
+     "Prairie County",
+     "Randolph County",
+     "Scott County",
+     "Searcy County",
+     "Sevier County",
+     "Sharp County",
+     "Van Buren County",
+     "Woodruff County",
+     "Yell County"
+    ],
+    "cheap_v": 909,
+    "dear": [
+     "Crittenden County"
+    ],
+    "dear_v": 1301,
+    "latest": 2027,
+    "s_latest": 909,
+    "state": "Arkansas"
+   },
+   "state-income": {
+    "faster": 57,
+    "growth_n": 75,
+    "inc_growth": 81.9,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 93.0,
+    "slower": 18,
+    "state": "Arkansas"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 75,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 325,
+    "s_latest": 909,
+    "s_rise": 179.7,
+    "state": "Arkansas"
+   }
+  },
+  "rents/California.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Modoc County"
+    ],
+    "burden_bottom_v": 27.4,
+    "burden_top": [
+     "San Benito County"
+    ],
+    "burden_top_v": 47.4,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 38.8,
+    "state": "California"
+   },
+   "state-dear": {
+    "cheap": [
+     "Modoc County"
+    ],
+    "cheap_v": 1084,
+    "dear": [
+     "Santa Cruz County"
+    ],
+    "dear_v": 4254,
+    "latest": 2027,
+    "s_latest": 1725.0,
+    "state": "California"
+   },
+   "state-income": {
+    "faster": 56,
+    "growth_n": 58,
+    "inc_growth": 86.4,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 135.1,
+    "slower": 2,
+    "state": "California"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 58,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 578.0,
+    "s_latest": 1725.0,
+    "s_rise": 198.4,
+    "state": "California"
+   }
+  },
+  "rents/Colorado.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Baca County",
+     "Conejos County",
+     "Costilla County",
+     "Otero County",
+     "Prowers County",
+     "Sedgwick County"
+    ],
+    "burden_bottom_v": 24.0,
+    "burden_top": [
+     "Eagle County"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 28.9,
+    "state": "Colorado"
+   },
+   "state-dear": {
+    "cheap": [
+     "Baca County",
+     "Conejos County",
+     "Costilla County",
+     "Sedgwick County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Summit County"
+    ],
+    "dear_v": 2766,
+    "latest": 2027,
+    "s_latest": 1374.5,
+    "state": "Colorado"
+   },
+   "state-income": {
+    "faster": 48,
+    "growth_n": 64,
+    "inc_growth": 89.2,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 105.0,
+    "slower": 16,
+    "state": "Colorado"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 64,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 412,
+    "s_latest": 1374.5,
+    "s_rise": 233.6,
+    "state": "Colorado"
+   }
+  },
+  "rents/Connecticut.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Union town"
+    ],
+    "burden_bottom_v": 30.4,
+    "burden_top": [
+     "Bridgewater town",
+     "New Milford town"
+    ],
+    "burden_top_v": 44.0,
+    "nation_share": 28.8,
+    "places_word": "towns",
+    "s_share": 34.6,
+    "state": "Connecticut"
+   },
+   "state-dear": {
+    "cheap": [
+     "Barkhamsted town",
+     "Burlington town",
+     "Canaan town",
+     "Colebrook town",
+     "Cornwall town",
+     "Goshen town",
+     "Hartland town",
+     "Harwinton town",
+     "Kent town",
+     "Litchfield town",
+     "Morris town",
+     "New Hartford town",
+     "Norfolk town",
+     "North Canaan town",
+     "Roxbury town",
+     "Salisbury town",
+     "Sharon town",
+     "Torrington town",
+     "Warren town",
+     "Washington town",
+     "Winchester town"
+    ],
+    "cheap_v": 1560,
+    "dear": [
+     "Bridgeport town",
+     "Easton town",
+     "Fairfield town",
+     "Monroe town",
+     "Stratford town",
+     "Trumbull town",
+     "Bethel town",
+     "Bridgewater town",
+     "Brookfield town",
+     "Danbury town",
+     "Darien town",
+     "Greenwich town",
+     "New Canaan town",
+     "New Fairfield town",
+     "New Milford town",
+     "Newtown town",
+     "Norwalk town",
+     "Redding town",
+     "Ridgefield town",
+     "Sherman town",
+     "Stamford town",
+     "Weston town",
+     "Westport town",
+     "Wilton town"
+    ],
+    "dear_v": 2399,
+    "latest": 2027,
+    "s_latest": 1933,
+    "state": "Connecticut"
+   },
+   "state-income": {
+    "faster": 169,
+    "growth_n": 169,
+    "inc_growth": 61.1,
+    "more": "faster",
+    "places_word": "towns",
+    "rent_growth": 90.5,
+    "slower": 0,
+    "state": "Connecticut"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 169,
+    "n_rise": 190.9,
+    "places_word": "towns",
+    "rose": "rose",
+    "s_first": 697,
+    "s_latest": 1933,
+    "s_rise": 177.3,
+    "state": "Connecticut"
+   }
+  },
+  "rents/Delaware.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Sussex County"
+    ],
+    "burden_bottom_v": 32.5,
+    "burden_top": [
+     "New Castle County"
+    ],
+    "burden_top_v": 35.4,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 32.7,
+    "state": "Delaware"
+   },
+   "state-dear": {
+    "cheap": [
+     "Sussex County"
+    ],
+    "cheap_v": 1498,
+    "dear": [
+     "New Castle County"
+    ],
+    "dear_v": 1860,
+    "latest": 2027,
+    "s_latest": 1629,
+    "state": "Delaware"
+   },
+   "state-income": {
+    "faster": 3,
+    "growth_n": 3,
+    "inc_growth": 90.4,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 115.5,
+    "slower": 0,
+    "state": "Delaware"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 3,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 509,
+    "s_latest": 1629,
+    "s_rise": 220.0,
+    "state": "Delaware"
+   }
+  },
+  "rents/District of Columbia.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "District of Columbia"
+    ],
+    "burden_bottom_v": 32.5,
+    "burden_top": [
+     "District of Columbia"
+    ],
+    "burden_top_v": 32.5,
+    "nation_share": 28.8,
+    "places_word": "county",
+    "s_share": 32.5,
+    "state": "the District of Columbia"
+   },
+   "state-dear": {
+    "cheap": [
+     "District of Columbia"
+    ],
+    "cheap_v": 2438,
+    "dear": [
+     "District of Columbia"
+    ],
+    "dear_v": 2438,
+    "latest": 2027,
+    "s_latest": 2438,
+    "state": "the District of Columbia"
+   },
+   "state-income": {
+    "faster": 0,
+    "growth_n": 1,
+    "inc_growth": 83.9,
+    "more": "slower",
+    "places_word": "county",
+    "rent_growth": 83.3,
+    "slower": 1,
+    "state": "the District of Columbia"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 1,
+    "n_rise": 190.9,
+    "places_word": "county",
+    "rose": "rose",
+    "s_first": 834,
+    "s_latest": 2438,
+    "s_rise": 192.3,
+    "state": "the District of Columbia"
+   }
+  },
+  "rents/Florida.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Baker County"
+    ],
+    "burden_bottom_v": 26.3,
+    "burden_top": [
+     "Gulf County"
+    ],
+    "burden_top_v": 47.4,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 37.9,
+    "state": "Florida"
+   },
+   "state-dear": {
+    "cheap": [
+     "Calhoun County",
+     "Hamilton County",
+     "Taylor County"
+    ],
+    "cheap_v": 953,
+    "dear": [
+     "Miami-Dade County"
+    ],
+    "dear_v": 2564,
+    "latest": 2027,
+    "s_latest": 1474,
+    "state": "Florida"
+   },
+   "state-income": {
+    "faster": 67,
+    "growth_n": 67,
+    "inc_growth": 80.3,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 138.5,
+    "slower": 0,
+    "state": "Florida"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 67,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 439,
+    "s_latest": 1474,
+    "s_rise": 235.8,
+    "state": "Florida"
+   }
+  },
+  "rents/Georgia.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Greene County"
+    ],
+    "burden_bottom_v": 22.8,
+    "burden_top": [
+     "Liberty County"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 31.2,
+    "state": "Georgia"
+   },
+   "state-dear": {
+    "cheap": [
+     "Appling County",
+     "Atkinson County",
+     "Bacon County",
+     "Baker County",
+     "Banks County",
+     "Ben Hill County",
+     "Berrien County",
+     "Bleckley County",
+     "Butts County",
+     "Calhoun County",
+     "Candler County",
+     "Chattooga County",
+     "Clay County",
+     "Clinch County",
+     "Coffee County",
+     "Colquitt County",
+     "Cook County",
+     "Crisp County",
+     "Decatur County",
+     "Dodge County",
+     "Dooly County",
+     "Early County",
+     "Emanuel County",
+     "Evans County",
+     "Fannin County",
+     "Glascock County",
+     "Grady County",
+     "Greene County",
+     "Hancock County",
+     "Hart County",
+     "Jeff Davis County",
+     "Jefferson County",
+     "Jenkins County",
+     "Johnson County",
+     "Lamar County",
+     "Macon County",
+     "Meriwether County",
+     "Miller County",
+     "Mitchell County",
+     "Montgomery County",
+     "Pulaski County",
+     "Quitman County",
+     "Schley County",
+     "Screven County",
+     "Seminole County",
+     "Stephens County",
+     "Stewart County",
+     "Talbot County",
+     "Taliaferro County",
+     "Tattnall County",
+     "Taylor County",
+     "Telfair County",
+     "Tift County",
+     "Toombs County",
+     "Towns County",
+     "Treutlen County",
+     "Turner County",
+     "Upson County",
+     "Warren County",
+     "Washington County",
+     "Wayne County",
+     "Webster County",
+     "Wheeler County",
+     "Wilcox County",
+     "Wilkes County",
+     "Wilkinson County"
+    ],
+    "cheap_v": 1002,
+    "dear": [
+     "Barrow County",
+     "Bartow County",
+     "Carroll County",
+     "Cherokee County",
+     "Clayton County",
+     "Cobb County",
+     "Coweta County",
+     "Dawson County",
+     "DeKalb County",
+     "Douglas County",
+     "Fayette County",
+     "Forsyth County",
+     "Fulton County",
+     "Gwinnett County",
+     "Heard County",
+     "Henry County",
+     "Jasper County",
+     "Newton County",
+     "Paulding County",
+     "Pickens County",
+     "Pike County",
+     "Rockdale County",
+     "Spalding County",
+     "Walton County"
+    ],
+    "dear_v": 1762,
+    "latest": 2027,
+    "s_latest": 1058,
+    "state": "Georgia"
+   },
+   "state-income": {
+    "faster": 154,
+    "growth_n": 159,
+    "inc_growth": 73.2,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 112.4,
+    "slower": 5,
+    "state": "Georgia"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 159,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 352,
+    "s_latest": 1058,
+    "s_rise": 200.6,
+    "state": "Georgia"
+   }
+  },
+  "rents/Guam.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Guam"
+    ],
+    "burden_bottom_v": 41.2,
+    "burden_top": [
+     "Guam"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "county",
+    "s_share": 41.2,
+    "state": "Guam"
+   },
+   "state-dear": {
+    "cheap": [
+     "Guam"
+    ],
+    "cheap_v": 1449,
+    "dear": [
+     "Guam"
+    ],
+    "dear_v": 1449,
+    "latest": 2027,
+    "s_latest": 1449,
+    "state": "Guam"
+   },
+   "state-income": {
+    "faster": 1,
+    "growth_n": 1,
+    "inc_growth": 69.6,
+    "more": "faster",
+    "places_word": "county",
+    "rent_growth": 76.9,
+    "slower": 0,
+    "state": "Guam"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 1,
+    "n_rise": 190.9,
+    "places_word": "county",
+    "rose": "rose",
+    "s_first": 907,
+    "s_latest": 1449,
+    "s_rise": 59.8,
+    "state": "Guam"
+   }
+  },
+  "rents/Hawaii.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Honolulu County"
+    ],
+    "burden_bottom_v": 41.2,
+    "burden_top": [
+     "Kalawao County"
+    ],
+    "burden_top_v": 49.1,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 41.2,
+    "state": "Hawaii"
+   },
+   "state-dear": {
+    "cheap": [
+     "Hawaii County"
+    ],
+    "cheap_v": 2081,
+    "dear": [
+     "Maui County"
+    ],
+    "dear_v": 2656,
+    "latest": 2027,
+    "s_latest": 2326,
+    "state": "Hawaii"
+   },
+   "state-income": {
+    "faster": 4,
+    "growth_n": 5,
+    "inc_growth": 87.1,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 121.1,
+    "slower": 1,
+    "state": "Hawaii"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 5,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 1051.0,
+    "s_latest": 2326,
+    "s_rise": 121.3,
+    "state": "Hawaii"
+   }
+  },
+  "rents/Idaho.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Bingham County"
+    ],
+    "burden_bottom_v": 24.6,
+    "burden_top": [
+     "Ada County",
+     "Boise County",
+     "Canyon County",
+     "Owyhee County"
+    ],
+    "burden_top_v": 35.9,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 28.9,
+    "state": "Idaho"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adams County",
+     "Caribou County",
+     "Clark County",
+     "Fremont County",
+     "Lewis County",
+     "Power County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Blaine County"
+    ],
+    "dear_v": 1673,
+    "latest": 2027,
+    "s_latest": 1126.5,
+    "state": "Idaho"
+   },
+   "state-income": {
+    "faster": 29,
+    "growth_n": 44,
+    "inc_growth": 92.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 104.1,
+    "slower": 15,
+    "state": "Idaho"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 44,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 316.5,
+    "s_latest": 1126.5,
+    "s_rise": 255.9,
+    "state": "Idaho"
+   }
+  },
+  "rents/Illinois.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Effingham County"
+    ],
+    "burden_bottom_v": 21.0,
+    "burden_top": [
+     "Kendall County"
+    ],
+    "burden_top_v": 36.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 24.5,
+    "state": "Illinois"
+   },
+   "state-dear": {
+    "cheap": [
+     "Carroll County",
+     "Cass County",
+     "Clay County",
+     "Crawford County",
+     "Cumberland County",
+     "Douglas County",
+     "Edgar County",
+     "Edwards County",
+     "Effingham County",
+     "Fayette County",
+     "Ford County",
+     "Franklin County",
+     "Fulton County",
+     "Gallatin County",
+     "Hamilton County",
+     "Hancock County",
+     "Hardin County",
+     "Iroquois County",
+     "Jackson County",
+     "Johnson County",
+     "Knox County",
+     "Lee County",
+     "McDonough County",
+     "Marion County",
+     "Mason County",
+     "Montgomery County",
+     "Morgan County",
+     "Moultrie County",
+     "Perry County",
+     "Pike County",
+     "Pulaski County",
+     "Randolph County",
+     "Saline County",
+     "Schuyler County",
+     "Scott County",
+     "Stephenson County",
+     "Union County",
+     "Warren County",
+     "Washington County",
+     "Wayne County",
+     "White County"
+    ],
+    "cheap_v": 930,
+    "dear": [
+     "Kendall County"
+    ],
+    "dear_v": 2341,
+    "latest": 2027,
+    "s_latest": 957.5,
+    "state": "Illinois"
+   },
+   "state-income": {
+    "faster": 89,
+    "growth_n": 102,
+    "inc_growth": 71.3,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 86.2,
+    "slower": 13,
+    "state": "Illinois"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 102,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 336.5,
+    "s_latest": 957.5,
+    "s_rise": 184.5,
+    "state": "Illinois"
+   }
+  },
+  "rents/Indiana.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Warren County"
+    ],
+    "burden_bottom_v": 21.6,
+    "burden_top": [
+     "St. Joseph County"
+    ],
+    "burden_top_v": 35.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 27.3,
+    "state": "Indiana"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adams County",
+     "Blackford County",
+     "Cass County",
+     "Crawford County",
+     "Dubois County",
+     "Fayette County",
+     "Fountain County",
+     "Grant County",
+     "Greene County",
+     "Henry County",
+     "Huntington County",
+     "Jay County",
+     "Knox County",
+     "Martin County",
+     "Miami County",
+     "Orange County",
+     "Owen County",
+     "Parke County",
+     "Perry County",
+     "Pike County",
+     "Pulaski County",
+     "Randolph County",
+     "Rush County",
+     "Spencer County",
+     "Starke County",
+     "Union County",
+     "Wabash County",
+     "Warren County",
+     "Washington County",
+     "Wayne County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Boone County",
+     "Brown County",
+     "Hamilton County",
+     "Hancock County",
+     "Hendricks County",
+     "Johnson County",
+     "Marion County",
+     "Morgan County",
+     "Shelby County"
+    ],
+    "dear_v": 1536,
+    "latest": 2027,
+    "s_latest": 1085.5,
+    "state": "Indiana"
+   },
+   "state-income": {
+    "faster": 84,
+    "growth_n": 92,
+    "inc_growth": 64.3,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 89.7,
+    "slower": 8,
+    "state": "Indiana"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 92,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 391.0,
+    "s_latest": 1085.5,
+    "s_rise": 177.6,
+    "state": "Indiana"
+   }
+  },
+  "rents/Iowa.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Benton County"
+    ],
+    "burden_bottom_v": 20.3,
+    "burden_top": [
+     "Harrison County",
+     "Mills County",
+     "Pottawattamie County"
+    ],
+    "burden_top_v": 28.8,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 23.4,
+    "state": "Iowa"
+   },
+   "state-dear": {
+    "cheap": [
+     "Allamakee County",
+     "Appanoose County",
+     "Audubon County",
+     "Butler County",
+     "Calhoun County",
+     "Carroll County",
+     "Cass County",
+     "Cerro Gordo County",
+     "Cherokee County",
+     "Chickasaw County",
+     "Clay County",
+     "Clayton County",
+     "Clinton County",
+     "Crawford County",
+     "Decatur County",
+     "Delaware County",
+     "Emmet County",
+     "Floyd County",
+     "Franklin County",
+     "Fremont County",
+     "Greene County",
+     "Hancock County",
+     "Hardin County",
+     "Howard County",
+     "Humboldt County",
+     "Ida County",
+     "Iowa County",
+     "Jackson County",
+     "Jones County",
+     "Keokuk County",
+     "Louisa County",
+     "Mitchell County",
+     "Monona County",
+     "Monroe County",
+     "Montgomery County",
+     "O'Brien County",
+     "Osceola County",
+     "Page County",
+     "Palo Alto County",
+     "Pocahontas County",
+     "Ringgold County",
+     "Sac County",
+     "Shelby County",
+     "Taylor County",
+     "Union County",
+     "Wayne County",
+     "Webster County",
+     "Winnebago County",
+     "Winneshiek County",
+     "Worth County"
+    ],
+    "cheap_v": 927,
+    "dear": [
+     "Harrison County",
+     "Mills County",
+     "Pottawattamie County"
+    ],
+    "dear_v": 1450,
+    "latest": 2027,
+    "s_latest": 927,
+    "state": "Iowa"
+   },
+   "state-income": {
+    "faster": 66,
+    "growth_n": 99,
+    "inc_growth": 78.4,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 84.5,
+    "slower": 33,
+    "state": "Iowa"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 99,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 363,
+    "s_latest": 927,
+    "s_rise": 155.4,
+    "state": "Iowa"
+   }
+  },
+  "rents/Kansas.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Thomas County"
+    ],
+    "burden_bottom_v": 20.3,
+    "burden_top": [
+     "Kearny County"
+    ],
+    "burden_top_v": 37.0,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 24.6,
+    "state": "Kansas"
+   },
+   "state-dear": {
+    "cheap": [
+     "Allen County",
+     "Anderson County",
+     "Atchison County",
+     "Barber County",
+     "Barton County",
+     "Brown County",
+     "Chase County",
+     "Chautauqua County",
+     "Cherokee County",
+     "Cheyenne County",
+     "Clark County",
+     "Cloud County",
+     "Comanche County",
+     "Cowley County",
+     "Decatur County",
+     "Edwards County",
+     "Elk County",
+     "Ellsworth County",
+     "Gove County",
+     "Graham County",
+     "Grant County",
+     "Greeley County",
+     "Greenwood County",
+     "Harper County",
+     "Haskell County",
+     "Jewell County",
+     "Kingman County",
+     "Kiowa County",
+     "Labette County",
+     "Lane County",
+     "Lincoln County",
+     "Logan County",
+     "Lyon County",
+     "Marion County",
+     "Marshall County",
+     "Meade County",
+     "Mitchell County",
+     "Montgomery County",
+     "Morris County",
+     "Morton County",
+     "Nemaha County",
+     "Neosho County",
+     "Ness County",
+     "Norton County",
+     "Osborne County",
+     "Phillips County",
+     "Pratt County",
+     "Republic County",
+     "Rice County",
+     "Rooks County",
+     "Rush County",
+     "Russell County",
+     "Scott County",
+     "Sheridan County",
+     "Smith County",
+     "Stafford County",
+     "Stanton County",
+     "Thomas County",
+     "Trego County",
+     "Wallace County",
+     "Washington County",
+     "Wichita County",
+     "Wilson County",
+     "Woodson County"
+    ],
+    "cheap_v": 961,
+    "dear": [
+     "Johnson County",
+     "Leavenworth County",
+     "Linn County",
+     "Miami County",
+     "Wyandotte County"
+    ],
+    "dear_v": 1546,
+    "latest": 2027,
+    "s_latest": 961,
+    "state": "Kansas"
+   },
+   "state-income": {
+    "faster": 61,
+    "growth_n": 105,
+    "inc_growth": 75.0,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 76.5,
+    "slower": 44,
+    "state": "Kansas"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 105,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 319,
+    "s_latest": 961,
+    "s_rise": 201.3,
+    "state": "Kansas"
+   }
+  },
+  "rents/Kentucky.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Lyon County"
+    ],
+    "burden_bottom_v": 22.7,
+    "burden_top": [
+     "Christian County",
+     "Trigg County"
+    ],
+    "burden_top_v": 34.4,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 28.9,
+    "state": "Kentucky"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adair County",
+     "Bath County",
+     "Bell County",
+     "Breathitt County",
+     "Breckinridge County",
+     "Butler County",
+     "Caldwell County",
+     "Carter County",
+     "Casey County",
+     "Clay County",
+     "Clinton County",
+     "Crittenden County",
+     "Cumberland County",
+     "Elliott County",
+     "Estill County",
+     "Fleming County",
+     "Fulton County",
+     "Graves County",
+     "Grayson County",
+     "Green County",
+     "Harlan County",
+     "Harrison County",
+     "Hart County",
+     "Henderson County",
+     "Hickman County",
+     "Jackson County",
+     "Johnson County",
+     "Knox County",
+     "Leslie County",
+     "Letcher County",
+     "Lewis County",
+     "Lincoln County",
+     "Lyon County",
+     "McCreary County",
+     "Magoffin County",
+     "Marion County",
+     "Martin County",
+     "Menifee County",
+     "Mercer County",
+     "Metcalfe County",
+     "Monroe County",
+     "Morgan County",
+     "Muhlenberg County",
+     "Nicholas County",
+     "Ohio County",
+     "Owsley County",
+     "Powell County",
+     "Robertson County",
+     "Rockcastle County",
+     "Russell County",
+     "Taylor County",
+     "Wayne County",
+     "Webster County",
+     "Whitley County",
+     "Wolfe County"
+    ],
+    "cheap_v": 909,
+    "dear": [
+     "Boone County",
+     "Bracken County",
+     "Campbell County",
+     "Gallatin County",
+     "Kenton County",
+     "Pendleton County"
+    ],
+    "dear_v": 1442,
+    "latest": 2027,
+    "s_latest": 925.0,
+    "state": "Kentucky"
+   },
+   "state-income": {
+    "faster": 97,
+    "growth_n": 120,
+    "inc_growth": 74.9,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 101.9,
+    "slower": 23,
+    "state": "Kentucky"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 120,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 318.5,
+    "s_latest": 925.0,
+    "s_rise": 190.4,
+    "state": "Kentucky"
+   }
+  },
+  "rents/Louisiana.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "St. James Parish"
+    ],
+    "burden_bottom_v": 23.5,
+    "burden_top": [
+     "Jefferson Parish",
+     "Orleans Parish",
+     "Plaquemines Parish",
+     "St. Bernard Parish",
+     "St. Charles Parish",
+     "St. John the Baptist Parish"
+    ],
+    "burden_top_v": 36.1,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 30.5,
+    "state": "Louisiana"
+   },
+   "state-dear": {
+    "cheap": [
+     "Bienville Parish",
+     "Caldwell Parish",
+     "Catahoula Parish",
+     "Claiborne Parish",
+     "East Carroll Parish",
+     "Evangeline Parish",
+     "Franklin Parish",
+     "Iberville Parish",
+     "Jackson Parish",
+     "La Salle Parish",
+     "Lincoln Parish",
+     "Madison Parish",
+     "Morehouse Parish",
+     "Natchitoches Parish",
+     "Sabine Parish",
+     "St. Landry Parish",
+     "Tensas Parish",
+     "Washington Parish",
+     "West Carroll Parish",
+     "Winn Parish"
+    ],
+    "cheap_v": 892,
+    "dear": [
+     "Jefferson Parish",
+     "Orleans Parish",
+     "Plaquemines Parish",
+     "St. Bernard Parish",
+     "St. Charles Parish",
+     "St. John the Baptist Parish"
+    ],
+    "dear_v": 1480,
+    "latest": 2027,
+    "s_latest": 995.0,
+    "state": "Louisiana"
+   },
+   "state-income": {
+    "faster": 45,
+    "growth_n": 64,
+    "inc_growth": 69.4,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 98.1,
+    "slower": 19,
+    "state": "Louisiana"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 64,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 325.5,
+    "s_latest": 995.0,
+    "s_rise": 205.7,
+    "state": "Louisiana"
+   }
+  },
+  "rents/Maine.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Allagash town",
+     "Amity town",
+     "Ashland town",
+     "Bancroft UT",
+     "Blaine town",
+     "Bridgewater town",
+     "Caribou city",
+     "Castle Hill town",
+     "Caswell town",
+     "Central Aroostook UT",
+     "Chapman town",
+     "Connor UT",
+     "Crystal town",
+     "Cyr plantation",
+     "Dyer Brook town",
+     "Eagle Lake town",
+     "Easton town",
+     "Fort Fairfield town",
+     "Fort Kent town",
+     "Frenchville town",
+     "Garfield plantation",
+     "Glenwood plantation",
+     "Grand Isle town",
+     "Hamlin town",
+     "Hammond town",
+     "Haynesville town",
+     "Hersey town",
+     "Hodgdon town",
+     "Houlton town",
+     "Island Falls town",
+     "Limestone town",
+     "Linneus town",
+     "Littleton town",
+     "Ludlow town",
+     "Macwahoc plantation",
+     "Madawaska town",
+     "Mapleton town",
+     "Mars Hill town",
+     "Masardis town",
+     "Merrill town",
+     "Monticello town",
+     "Moro plantation",
+     "Nashville plantation",
+     "New Canada town",
+     "New Limerick town",
+     "New Sweden town",
+     "Northwest Aroostook UT",
+     "Oakfield town",
+     "Orient town",
+     "Penobscot Indian Island Reservation (2300357936)",
+     "Perham town",
+     "Portage Lake town",
+     "Presque Isle city",
+     "Reed plantation",
+     "St. Agatha town",
+     "St. Francis town",
+     "St. John plantation",
+     "Sherman town",
+     "Smyrna town",
+     "South Aroostook UT",
+     "Square Lake UT",
+     "Stockholm town",
+     "Van Buren town",
+     "Wade town",
+     "Wallagrass town",
+     "Washburn town",
+     "Westfield town",
+     "Westmanland town",
+     "Weston town",
+     "Winterville plantation",
+     "Woodland town"
+    ],
+    "burden_bottom_v": 32.0,
+    "burden_top": [
+     "Auburn city",
+     "Durham town",
+     "Greene town",
+     "Leeds town",
+     "Lewiston city",
+     "Lisbon town",
+     "Livermore town",
+     "Livermore Falls town",
+     "Mechanic Falls town",
+     "Minot town",
+     "Poland town",
+     "Sabattus town",
+     "Turner town",
+     "Wales town"
+    ],
+    "burden_top_v": 40.5,
+    "nation_share": 28.8,
+    "places_word": "towns",
+    "s_share": 35.4,
+    "state": "Maine"
+   },
+   "state-dear": {
+    "cheap": [
+     "Allagash town",
+     "Amity town",
+     "Ashland town",
+     "Bancroft UT",
+     "Blaine town",
+     "Bridgewater town",
+     "Caribou city",
+     "Castle Hill town",
+     "Caswell town",
+     "Central Aroostook UT",
+     "Chapman town",
+     "Connor UT",
+     "Crystal town",
+     "Cyr plantation",
+     "Dyer Brook town",
+     "Eagle Lake town",
+     "Easton town",
+     "Fort Fairfield town",
+     "Fort Kent town",
+     "Frenchville town",
+     "Garfield plantation",
+     "Glenwood plantation",
+     "Grand Isle town",
+     "Hamlin town",
+     "Hammond town",
+     "Haynesville town",
+     "Hersey town",
+     "Hodgdon town",
+     "Houlton town",
+     "Island Falls town",
+     "Limestone town",
+     "Linneus town",
+     "Littleton town",
+     "Ludlow town",
+     "Macwahoc plantation",
+     "Madawaska town",
+     "Mapleton town",
+     "Mars Hill town",
+     "Masardis town",
+     "Merrill town",
+     "Monticello town",
+     "Moro plantation",
+     "Nashville plantation",
+     "New Canada town",
+     "New Limerick town",
+     "New Sweden town",
+     "Northwest Aroostook UT",
+     "Oakfield town",
+     "Orient town",
+     "Penobscot Indian Island Reservation (2300357936)",
+     "Perham town",
+     "Portage Lake town",
+     "Presque Isle city",
+     "Reed plantation",
+     "St. Agatha town",
+     "St. Francis town",
+     "St. John plantation",
+     "Sherman town",
+     "Smyrna town",
+     "South Aroostook UT",
+     "Square Lake UT",
+     "Stockholm town",
+     "Van Buren town",
+     "Wade town",
+     "Wallagrass town",
+     "Washburn town",
+     "Westfield town",
+     "Westmanland town",
+     "Weston town",
+     "Winterville plantation",
+     "Woodland town"
+    ],
+    "cheap_v": 1175,
+    "dear": [
+     "Berwick town",
+     "Eliot town",
+     "Kittery town",
+     "South Berwick town",
+     "York town"
+    ],
+    "dear_v": 2376,
+    "latest": 2027,
+    "s_latest": 1367,
+    "state": "Maine"
+   },
+   "state-income": {
+    "faster": 523,
+    "growth_n": 523,
+    "inc_growth": 80.8,
+    "more": "faster",
+    "places_word": "towns",
+    "rent_growth": 136.0,
+    "slower": 0,
+    "state": "Maine"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 529,
+    "n_rise": 190.9,
+    "places_word": "towns",
+    "rose": "rose",
+    "s_first": 435,
+    "s_latest": 1367,
+    "s_rise": 214.3,
+    "state": "Maine"
+   }
+  },
+  "rents/Maryland.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Allegany County",
+     "Garrett County"
+    ],
+    "burden_bottom_v": 24.6,
+    "burden_top": [
+     "Cecil County"
+    ],
+    "burden_top_v": 35.4,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 32.5,
+    "state": "Maryland"
+   },
+   "state-dear": {
+    "cheap": [
+     "Allegany County",
+     "Garrett County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Charles County",
+     "Frederick County",
+     "Montgomery County",
+     "Prince George's County"
+    ],
+    "dear_v": 2438,
+    "latest": 2027,
+    "s_latest": 1875.0,
+    "state": "Maryland"
+   },
+   "state-income": {
+    "faster": 17,
+    "growth_n": 24,
+    "inc_growth": 84.1,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 95.5,
+    "slower": 7,
+    "state": "Maryland"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 24,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 592.0,
+    "s_latest": 1875.0,
+    "s_rise": 216.7,
+    "state": "Maryland"
+   }
+  },
+  "rents/Massachusetts.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Acushnet town",
+     "Dartmouth town",
+     "Fairhaven town",
+     "Freetown town",
+     "New Bedford city"
+    ],
+    "burden_bottom_v": 27.9,
+    "burden_top": [
+     "Nantucket town"
+    ],
+    "burden_top_v": 41.4,
+    "nation_share": 28.8,
+    "places_word": "towns",
+    "s_share": 37.5,
+    "state": "Massachusetts"
+   },
+   "state-dear": {
+    "cheap": [
+     "Athol town",
+     "Hardwick town",
+     "Hubbardston town",
+     "New Braintree town",
+     "Petersham town",
+     "Phillipston town",
+     "Royalston town",
+     "Warren town"
+    ],
+    "cheap_v": 1659,
+    "dear": [
+     "Nantucket town"
+    ],
+    "dear_v": 3583,
+    "latest": 2027,
+    "s_latest": 2367,
+    "state": "Massachusetts"
+   },
+   "state-income": {
+    "faster": 344,
+    "growth_n": 351,
+    "inc_growth": 82.4,
+    "more": "faster",
+    "places_word": "towns",
+    "rent_growth": 122.1,
+    "slower": 7,
+    "state": "Massachusetts"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 351,
+    "n_rise": 190.9,
+    "places_word": "towns",
+    "rose": "rose",
+    "s_first": 683,
+    "s_latest": 2367,
+    "s_rise": 246.6,
+    "state": "Massachusetts"
+   }
+  },
+  "rents/Michigan.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Charlevoix County"
+    ],
+    "burden_bottom_v": 25.6,
+    "burden_top": [
+     "Muskegon County"
+    ],
+    "burden_top_v": 35.5,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 28.5,
+    "state": "Michigan"
+   },
+   "state-dear": {
+    "cheap": [
+     "Alcona County",
+     "Alpena County",
+     "Arenac County",
+     "Baraga County",
+     "Delta County",
+     "Dickinson County",
+     "Gladwin County",
+     "Gogebic County",
+     "Huron County",
+     "Iosco County",
+     "Kalkaska County",
+     "Keweenaw County",
+     "Luce County",
+     "Menominee County",
+     "Missaukee County",
+     "Montmorency County",
+     "Oceana County",
+     "Ontonagon County",
+     "Oscoda County",
+     "Presque Isle County",
+     "Roscommon County",
+     "Sanilac County",
+     "Schoolcraft County",
+     "Tuscola County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Washtenaw County"
+    ],
+    "dear_v": 1804,
+    "latest": 2027,
+    "s_latest": 1085,
+    "state": "Michigan"
+   },
+   "state-income": {
+    "faster": 78,
+    "growth_n": 83,
+    "inc_growth": 66.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 93.4,
+    "slower": 5,
+    "state": "Michigan"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 83,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 392,
+    "s_latest": 1085,
+    "s_rise": 176.8,
+    "state": "Michigan"
+   }
+  },
+  "rents/Minnesota.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Kittson County"
+    ],
+    "burden_bottom_v": 21.8,
+    "burden_top": [
+     "Anoka County",
+     "Carver County",
+     "Chisago County",
+     "Dakota County",
+     "Hennepin County",
+     "Isanti County",
+     "Ramsey County",
+     "Scott County",
+     "Sherburne County",
+     "Washington County",
+     "Wright County"
+    ],
+    "burden_top_v": 31.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 23.8,
+    "state": "Minnesota"
+   },
+   "state-dear": {
+    "cheap": [
+     "Big Stone County",
+     "Cass County",
+     "Chippewa County",
+     "Clearwater County",
+     "Cottonwood County",
+     "Faribault County",
+     "Fillmore County",
+     "Grant County",
+     "Jackson County",
+     "Kanabec County",
+     "Kittson County",
+     "Koochiching County",
+     "Lac qui Parle County",
+     "Lincoln County",
+     "Lyon County",
+     "Mahnomen County",
+     "Marshall County",
+     "Martin County",
+     "Morrison County",
+     "Murray County",
+     "Norman County",
+     "Pipestone County",
+     "Polk County",
+     "Red Lake County",
+     "Redwood County",
+     "Renville County",
+     "Rock County",
+     "Roseau County",
+     "Sibley County",
+     "Swift County",
+     "Traverse County",
+     "Wabasha County",
+     "Watonwan County",
+     "Wilkin County",
+     "Yellow Medicine County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Anoka County",
+     "Carver County",
+     "Chisago County",
+     "Dakota County",
+     "Hennepin County",
+     "Isanti County",
+     "Ramsey County",
+     "Scott County",
+     "Sherburne County",
+     "Washington County",
+     "Wright County"
+    ],
+    "dear_v": 1734,
+    "latest": 2027,
+    "s_latest": 1048,
+    "state": "Minnesota"
+   },
+   "state-income": {
+    "faster": 72,
+    "growth_n": 87,
+    "inc_growth": 78.1,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 93.4,
+    "slower": 15,
+    "state": "Minnesota"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 87,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 369,
+    "s_latest": 1048,
+    "s_rise": 184.0,
+    "state": "Minnesota"
+   }
+  },
+  "rents/Mississippi.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Carroll County"
+    ],
+    "burden_bottom_v": 24.8,
+    "burden_top": [
+     "Tunica County"
+    ],
+    "burden_top_v": 39.5,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 28.1,
+    "state": "Mississippi"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adams County",
+     "Alcorn County",
+     "Amite County",
+     "Attala County",
+     "Benton County",
+     "Bolivar County",
+     "Calhoun County",
+     "Carroll County",
+     "Chickasaw County",
+     "Choctaw County",
+     "Claiborne County",
+     "Clarke County",
+     "Clay County",
+     "Coahoma County",
+     "Covington County",
+     "Franklin County",
+     "Greene County",
+     "Holmes County",
+     "Humphreys County",
+     "Issaquena County",
+     "Jasper County",
+     "Jefferson County",
+     "Jefferson Davis County",
+     "Kemper County",
+     "Lawrence County",
+     "Leflore County",
+     "Lincoln County",
+     "Monroe County",
+     "Montgomery County",
+     "Neshoba County",
+     "Newton County",
+     "Noxubee County",
+     "Prentiss County",
+     "Quitman County",
+     "Sharkey County",
+     "Simpson County",
+     "Smith County",
+     "Sunflower County",
+     "Tallahatchie County",
+     "Tippah County",
+     "Tishomingo County",
+     "Union County",
+     "Washington County",
+     "Wayne County",
+     "Webster County",
+     "Wilkinson County",
+     "Winston County",
+     "Yalobusha County"
+    ],
+    "cheap_v": 905,
+    "dear": [
+     "Forrest County",
+     "Lamar County",
+     "Perry County"
+    ],
+    "dear_v": 1316,
+    "latest": 2027,
+    "s_latest": 905.0,
+    "state": "Mississippi"
+   },
+   "state-income": {
+    "faster": 57,
+    "growth_n": 82,
+    "inc_growth": 80.6,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 85.1,
+    "slower": 25,
+    "state": "Mississippi"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 82,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 300.0,
+    "s_latest": 905.0,
+    "s_rise": 201.7,
+    "state": "Mississippi"
+   }
+  },
+  "rents/Missouri.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Cole County",
+     "Osage County"
+    ],
+    "burden_bottom_v": 20.7,
+    "burden_top": [
+     "Taney County"
+    ],
+    "burden_top_v": 31.9,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 27.5,
+    "state": "Missouri"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adair County",
+     "Atchison County",
+     "Audrain County",
+     "Barry County",
+     "Barton County",
+     "Butler County",
+     "Carroll County",
+     "Carter County",
+     "Cedar County",
+     "Chariton County",
+     "Clark County",
+     "Cole County",
+     "Cooper County",
+     "Crawford County",
+     "Dade County",
+     "Dallas County",
+     "Daviess County",
+     "Douglas County",
+     "Dunklin County",
+     "Gasconade County",
+     "Gentry County",
+     "Grundy County",
+     "Harrison County",
+     "Henry County",
+     "Hickory County",
+     "Holt County",
+     "Howell County",
+     "Iron County",
+     "Knox County",
+     "Lewis County",
+     "Linn County",
+     "Livingston County",
+     "McDonald County",
+     "Maries County",
+     "Mississippi County",
+     "Monroe County",
+     "Montgomery County",
+     "Morgan County",
+     "New Madrid County",
+     "Oregon County",
+     "Osage County",
+     "Ozark County",
+     "Pemiscot County",
+     "Polk County",
+     "Putnam County",
+     "Randolph County",
+     "Reynolds County",
+     "Ripley County",
+     "St. Clair County",
+     "Saline County",
+     "Scotland County",
+     "Shannon County",
+     "Shelby County",
+     "Stoddard County",
+     "Sullivan County",
+     "Texas County",
+     "Washington County",
+     "Wayne County",
+     "Wright County"
+    ],
+    "cheap_v": 962,
+    "dear": [
+     "Caldwell County",
+     "Cass County",
+     "Clay County",
+     "Clinton County",
+     "Jackson County",
+     "Lafayette County",
+     "Platte County",
+     "Ray County"
+    ],
+    "dear_v": 1546,
+    "latest": 2027,
+    "s_latest": 962.0,
+    "state": "Missouri"
+   },
+   "state-income": {
+    "faster": 100,
+    "growth_n": 116,
+    "inc_growth": 72.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 91.4,
+    "slower": 16,
+    "state": "Missouri"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 116,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 314.5,
+    "s_latest": 962.0,
+    "s_rise": 205.9,
+    "state": "Missouri"
+   }
+  },
+  "rents/Montana.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Phillips County"
+    ],
+    "burden_bottom_v": 25.7,
+    "burden_top": [
+     "Broadwater County"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 32.9,
+    "state": "Montana"
+   },
+   "state-dear": {
+    "cheap": [
+     "Phillips County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Gallatin County"
+    ],
+    "dear_v": 2109,
+    "latest": 2027,
+    "s_latest": 1310.0,
+    "state": "Montana"
+   },
+   "state-income": {
+    "faster": 50,
+    "growth_n": 56,
+    "inc_growth": 102.8,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 147.1,
+    "slower": 6,
+    "state": "Montana"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 56,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 370.0,
+    "s_latest": 1310.0,
+    "s_rise": 254.1,
+    "state": "Montana"
+   }
+  },
+  "rents/Nebraska.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Hamilton County"
+    ],
+    "burden_bottom_v": 20.3,
+    "burden_top": [
+     "Hall County"
+    ],
+    "burden_top_v": 31.0,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 24.5,
+    "state": "Nebraska"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adams County",
+     "Antelope County",
+     "Arthur County",
+     "Banner County",
+     "Blaine County",
+     "Boone County",
+     "Box Butte County",
+     "Boyd County",
+     "Brown County",
+     "Burt County",
+     "Butler County",
+     "Cedar County",
+     "Chase County",
+     "Clay County",
+     "Cuming County",
+     "Custer County",
+     "Deuel County",
+     "Dixon County",
+     "Dundy County",
+     "Fillmore County",
+     "Franklin County",
+     "Frontier County",
+     "Furnas County",
+     "Garden County",
+     "Garfield County",
+     "Gosper County",
+     "Grant County",
+     "Greeley County",
+     "Hamilton County",
+     "Harlan County",
+     "Hayes County",
+     "Hitchcock County",
+     "Holt County",
+     "Hooker County",
+     "Howard County",
+     "Jefferson County",
+     "Keith County",
+     "Keya Paha County",
+     "Kimball County",
+     "Knox County",
+     "Logan County",
+     "Loup County",
+     "McPherson County",
+     "Merrick County",
+     "Morrill County",
+     "Nance County",
+     "Nemaha County",
+     "Nuckolls County",
+     "Pawnee County",
+     "Perkins County",
+     "Phelps County",
+     "Pierce County",
+     "Polk County",
+     "Red Willow County",
+     "Richardson County",
+     "Rock County",
+     "Sheridan County",
+     "Sherman County",
+     "Sioux County",
+     "Thayer County",
+     "Thomas County",
+     "Thurston County",
+     "Valley County",
+     "Wayne County",
+     "Webster County",
+     "Wheeler County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Cass County",
+     "Douglas County",
+     "Sarpy County",
+     "Washington County"
+    ],
+    "dear_v": 1450,
+    "latest": 2027,
+    "s_latest": 1014,
+    "state": "Nebraska"
+   },
+   "state-income": {
+    "faster": 55,
+    "growth_n": 93,
+    "inc_growth": 85.7,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 91.4,
+    "slower": 38,
+    "state": "Nebraska"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 93,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 337,
+    "s_latest": 1014,
+    "s_rise": 200.9,
+    "state": "Nebraska"
+   }
+  },
+  "rents/Nevada.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Pershing County"
+    ],
+    "burden_bottom_v": 22.4,
+    "burden_top": [
+     "Clark County"
+    ],
+    "burden_top_v": 39.5,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 32.3,
+    "state": "Nevada"
+   },
+   "state-dear": {
+    "cheap": [
+     "Pershing County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Storey County",
+     "Washoe County"
+    ],
+    "dear_v": 1837,
+    "latest": 2027,
+    "s_latest": 1327,
+    "state": "Nevada"
+   },
+   "state-income": {
+    "faster": 12,
+    "growth_n": 17,
+    "inc_growth": 85.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 99.5,
+    "slower": 5,
+    "state": "Nevada"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 17,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 562,
+    "s_latest": 1327,
+    "s_rise": 136.1,
+    "state": "Nevada"
+   }
+  },
+  "rents/New Hampshire.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Atkinson and Gilmanton Academy grant",
+     "Beans grant",
+     "Beans purchase",
+     "Berlin city",
+     "Cambridge township",
+     "Carroll town",
+     "Chandlers purchase",
+     "Clarksville town",
+     "Colebrook town",
+     "Columbia town",
+     "Crawfords purchase",
+     "Cutts grant",
+     "Dalton town",
+     "Dixs grant",
+     "Dixville township",
+     "Dummer town",
+     "Errol town",
+     "Ervings location",
+     "Gorham town",
+     "Greens grant",
+     "Hadleys purchase",
+     "Jefferson town",
+     "Kilkenny township",
+     "Lancaster town",
+     "Low and Burbanks grant",
+     "Martins location",
+     "Milan town",
+     "Millsfield township",
+     "Northumberland town",
+     "Odell township",
+     "Pinkhams grant",
+     "Pittsburg town",
+     "Randolph town",
+     "Sargents purchase",
+     "Second College grant",
+     "Shelburne town",
+     "Stark town",
+     "Stewartstown town",
+     "Stratford town",
+     "Success township",
+     "Thompson and Meserves purchase",
+     "Wentworth location",
+     "Whitefield town"
+    ],
+    "burden_bottom_v": 26.3,
+    "burden_top": [
+     "Seabrook town",
+     "South Hampton town"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "towns",
+    "s_share": 36.8,
+    "state": "New Hampshire"
+   },
+   "state-dear": {
+    "cheap": [
+     "Atkinson and Gilmanton Academy grant",
+     "Beans grant",
+     "Beans purchase",
+     "Berlin city",
+     "Cambridge township",
+     "Carroll town",
+     "Chandlers purchase",
+     "Clarksville town",
+     "Colebrook town",
+     "Columbia town",
+     "Crawfords purchase",
+     "Cutts grant",
+     "Dalton town",
+     "Dixs grant",
+     "Dixville township",
+     "Dummer town",
+     "Errol town",
+     "Ervings location",
+     "Gorham town",
+     "Greens grant",
+     "Hadleys purchase",
+     "Jefferson town",
+     "Kilkenny township",
+     "Lancaster town",
+     "Low and Burbanks grant",
+     "Martins location",
+     "Milan town",
+     "Millsfield township",
+     "Northumberland town",
+     "Odell township",
+     "Pinkhams grant",
+     "Pittsburg town",
+     "Randolph town",
+     "Sargents purchase",
+     "Second College grant",
+     "Shelburne town",
+     "Stark town",
+     "Stewartstown town",
+     "Stratford town",
+     "Success township",
+     "Thompson and Meserves purchase",
+     "Wentworth location",
+     "Whitefield town"
+    ],
+    "cheap_v": 1195,
+    "dear": [
+     "Seabrook town",
+     "South Hampton town"
+    ],
+    "dear_v": 3008,
+    "latest": 2027,
+    "s_latest": 1734,
+    "state": "New Hampshire"
+   },
+   "state-income": {
+    "faster": 259,
+    "growth_n": 259,
+    "inc_growth": 78.1,
+    "more": "faster",
+    "places_word": "towns",
+    "rent_growth": 145.1,
+    "slower": 0,
+    "state": "New Hampshire"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 259,
+    "n_rise": 190.9,
+    "places_word": "towns",
+    "rose": "rose",
+    "s_first": 615,
+    "s_latest": 1734,
+    "s_rise": 182.0,
+    "state": "New Hampshire"
+   }
+  },
+  "rents/New Jersey.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Mercer County"
+    ],
+    "burden_bottom_v": 33.5,
+    "burden_top": [
+     "Hudson County"
+    ],
+    "burden_top_v": 45.0,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 38.2,
+    "state": "New Jersey"
+   },
+   "state-dear": {
+    "cheap": [
+     "Cumberland County"
+    ],
+    "cheap_v": 1704,
+    "dear": [
+     "Hudson County"
+    ],
+    "dear_v": 2792,
+    "latest": 2027,
+    "s_latest": 2233,
+    "state": "New Jersey"
+   },
+   "state-income": {
+    "faster": 21,
+    "growth_n": 21,
+    "inc_growth": 64.0,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 109.4,
+    "slower": 0,
+    "state": "New Jersey"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 21,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 828,
+    "s_latest": 2233,
+    "s_rise": 169.7,
+    "state": "New Jersey"
+   }
+  },
+  "rents/New Mexico.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Los Alamos County"
+    ],
+    "burden_bottom_v": 24.4,
+    "burden_top": [
+     "Taos County"
+    ],
+    "burden_top_v": 38.1,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 32.4,
+    "state": "New Mexico"
+   },
+   "state-dear": {
+    "cheap": [
+     "Colfax County",
+     "De Baca County",
+     "Guadalupe County",
+     "Hidalgo County",
+     "Luna County",
+     "Mora County",
+     "Otero County",
+     "Rio Arriba County",
+     "Roosevelt County",
+     "Sierra County",
+     "Socorro County",
+     "Union County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Los Alamos County"
+    ],
+    "dear_v": 1874,
+    "latest": 2027,
+    "s_latest": 1063,
+    "state": "New Mexico"
+   },
+   "state-income": {
+    "faster": 28,
+    "growth_n": 33,
+    "inc_growth": 88.7,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 113.4,
+    "slower": 5,
+    "state": "New Mexico"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 33,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 353,
+    "s_latest": 1063,
+    "s_rise": 201.1,
+    "state": "New Mexico"
+   }
+  },
+  "rents/New York.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Wyoming County"
+    ],
+    "burden_bottom_v": 25.4,
+    "burden_top": [
+     "Bronx County",
+     "Kings County",
+     "New York County",
+     "Putnam County",
+     "Queens County",
+     "Richmond County",
+     "Rockland County",
+     "Westchester County"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 32.1,
+    "state": "New York"
+   },
+   "state-dear": {
+    "cheap": [
+     "Allegany County",
+     "Cattaraugus County",
+     "Chautauqua County",
+     "Chenango County",
+     "Franklin County",
+     "Lewis County",
+     "Wyoming County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Bronx County",
+     "Kings County",
+     "New York County",
+     "Putnam County",
+     "Queens County",
+     "Richmond County",
+     "Rockland County",
+     "Westchester County"
+    ],
+    "dear_v": 2971,
+    "latest": 2027,
+    "s_latest": 1385.0,
+    "state": "New York"
+   },
+   "state-income": {
+    "faster": 61,
+    "growth_n": 62,
+    "inc_growth": 75.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 114.6,
+    "slower": 1,
+    "state": "New York"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 62,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 536.0,
+    "s_latest": 1385.0,
+    "s_rise": 158.4,
+    "state": "New York"
+   }
+  },
+  "rents/North Carolina.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Lincoln County"
+    ],
+    "burden_bottom_v": 24.0,
+    "burden_top": [
+     "Gates County"
+    ],
+    "burden_top_v": 46.3,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 30.0,
+    "state": "North Carolina"
+   },
+   "state-dear": {
+    "cheap": [
+     "Ashe County",
+     "Avery County",
+     "Beaufort County",
+     "Bladen County",
+     "Caswell County",
+     "Cherokee County",
+     "Columbus County",
+     "Graham County",
+     "Greene County",
+     "Halifax County",
+     "Hertford County",
+     "Hyde County",
+     "Jones County",
+     "Lenoir County",
+     "McDowell County",
+     "Martin County",
+     "Mitchell County",
+     "Montgomery County",
+     "Northampton County",
+     "Person County",
+     "Polk County",
+     "Richmond County",
+     "Robeson County",
+     "Rockingham County",
+     "Rutherford County",
+     "Sampson County",
+     "Scotland County",
+     "Stanly County",
+     "Surry County",
+     "Swain County",
+     "Tyrrell County",
+     "Vance County",
+     "Warren County",
+     "Washington County",
+     "Wilkes County"
+    ],
+    "cheap_v": 1012,
+    "dear": [
+     "Buncombe County",
+     "Henderson County",
+     "Madison County"
+    ],
+    "dear_v": 1866,
+    "latest": 2027,
+    "s_latest": 1145.0,
+    "state": "North Carolina"
+   },
+   "state-income": {
+    "faster": 85,
+    "growth_n": 100,
+    "inc_growth": 74.6,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 97.2,
+    "slower": 15,
+    "state": "North Carolina"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 100,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 389.5,
+    "s_latest": 1145.0,
+    "s_rise": 194.0,
+    "state": "North Carolina"
+   }
+  },
+  "rents/North Dakota.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Foster County"
+    ],
+    "burden_bottom_v": 17.2,
+    "burden_top": [
+     "Divide County"
+    ],
+    "burden_top_v": 30.3,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 19.6,
+    "state": "North Dakota"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adams County",
+     "Benson County",
+     "Billings County",
+     "Bottineau County",
+     "Bowman County",
+     "Burke County",
+     "Cavalier County",
+     "Dickey County",
+     "Eddy County",
+     "Emmons County",
+     "Foster County",
+     "Grand Forks County",
+     "Grant County",
+     "Griggs County",
+     "LaMoure County",
+     "McHenry County",
+     "McIntosh County",
+     "McLean County",
+     "Nelson County",
+     "Pembina County",
+     "Pierce County",
+     "Ramsey County",
+     "Renville County",
+     "Richland County",
+     "Sioux County",
+     "Steele County",
+     "Stutsman County",
+     "Towner County",
+     "Traill County",
+     "Walsh County",
+     "Wells County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Divide County"
+    ],
+    "dear_v": 1858,
+    "latest": 2027,
+    "s_latest": 1014,
+    "state": "North Dakota"
+   },
+   "state-income": {
+    "faster": 19,
+    "growth_n": 53,
+    "inc_growth": 100.8,
+    "more": "slower",
+    "places_word": "counties",
+    "rent_growth": 83.8,
+    "slower": 34,
+    "state": "North Dakota"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 53,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 291,
+    "s_latest": 1014,
+    "s_rise": 248.5,
+    "state": "North Dakota"
+   }
+  },
+  "rents/Northern Mariana Islands.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Northern Mariana Islands"
+    ],
+    "burden_bottom_v": 41.2,
+    "burden_top": [
+     "Northern Mariana Islands"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "county",
+    "s_share": 41.2,
+    "state": "the Northern Mariana Islands"
+   },
+   "state-dear": {
+    "cheap": [
+     "Northern Mariana Islands"
+    ],
+    "cheap_v": 988,
+    "dear": [
+     "Northern Mariana Islands"
+    ],
+    "dear_v": 988,
+    "latest": 2027,
+    "s_latest": 988,
+    "state": "the Northern Mariana Islands"
+   },
+   "state-income": {
+    "faster": 0,
+    "growth_n": 0,
+    "inc_growth": null,
+    "more": "even",
+    "places_word": "county",
+    "rent_growth": null,
+    "slower": 0,
+    "state": "the Northern Mariana Islands"
+   },
+   "state-trend": {
+    "first_year": 2016,
+    "latest": 2027,
+    "n_places": 1,
+    "n_rise": 57.8,
+    "places_word": "county",
+    "rose": "rose",
+    "s_first": 642,
+    "s_latest": 988,
+    "s_rise": 53.9,
+    "state": "the Northern Mariana Islands"
+   }
+  },
+  "rents/Ohio.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Auglaize County"
+    ],
+    "burden_bottom_v": 22.7,
+    "burden_top": [
+     "Portage County",
+     "Summit County"
+    ],
+    "burden_top_v": 31.3,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 26.6,
+    "state": "Ohio"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adams County",
+     "Ashland County",
+     "Ashtabula County",
+     "Columbiana County",
+     "Coshocton County",
+     "Crawford County",
+     "Darke County",
+     "Gallia County",
+     "Guernsey County",
+     "Hardin County",
+     "Harrison County",
+     "Highland County",
+     "Holmes County",
+     "Huron County",
+     "Jackson County",
+     "Mahoning County",
+     "Meigs County",
+     "Monroe County",
+     "Morgan County",
+     "Muskingum County",
+     "Noble County",
+     "Paulding County",
+     "Preble County",
+     "Sandusky County",
+     "Scioto County",
+     "Trumbull County",
+     "Van Wert County",
+     "Vinton County",
+     "Washington County",
+     "Williams County"
+    ],
+    "cheap_v": 1003,
+    "dear": [
+     "Union County"
+    ],
+    "dear_v": 1607,
+    "latest": 2027,
+    "s_latest": 1048.0,
+    "state": "Ohio"
+   },
+   "state-income": {
+    "faster": 84,
+    "growth_n": 88,
+    "inc_growth": 71.0,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 93.4,
+    "slower": 4,
+    "state": "Ohio"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 88,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 402.0,
+    "s_latest": 1048.0,
+    "s_rise": 160.7,
+    "state": "Ohio"
+   }
+  },
+  "rents/Oklahoma.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Noble County"
+    ],
+    "burden_bottom_v": 23.6,
+    "burden_top": [
+     "Beckham County"
+    ],
+    "burden_top_v": 33.0,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 29.6,
+    "state": "Oklahoma"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adair County",
+     "Alfalfa County",
+     "Atoka County",
+     "Beaver County",
+     "Caddo County",
+     "Choctaw County",
+     "Cimarron County",
+     "Coal County",
+     "Cotton County",
+     "Custer County",
+     "Dewey County",
+     "Ellis County",
+     "Garvin County",
+     "Grant County",
+     "Greer County",
+     "Harmon County",
+     "Harper County",
+     "Haskell County",
+     "Hughes County",
+     "Jackson County",
+     "Jefferson County",
+     "Johnston County",
+     "Kay County",
+     "Kiowa County",
+     "Latimer County",
+     "Le Flore County",
+     "Lincoln County",
+     "McCurtain County",
+     "McIntosh County",
+     "Major County",
+     "Marshall County",
+     "Mayes County",
+     "Noble County",
+     "Okfuskee County",
+     "Ottawa County",
+     "Pittsburg County",
+     "Pushmataha County",
+     "Seminole County",
+     "Stephens County",
+     "Tillman County",
+     "Washita County"
+    ],
+    "cheap_v": 916,
+    "dear": [
+     "Canadian County",
+     "Cleveland County",
+     "Logan County",
+     "McClain County",
+     "Oklahoma County"
+    ],
+    "dear_v": 1264,
+    "latest": 2027,
+    "s_latest": 916,
+    "state": "Oklahoma"
+   },
+   "state-income": {
+    "faster": 72,
+    "growth_n": 77,
+    "inc_growth": 80.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 107.8,
+    "slower": 5,
+    "state": "Oklahoma"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 77,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 311,
+    "s_latest": 916,
+    "s_rise": 194.5,
+    "state": "Oklahoma"
+   }
+  },
+  "rents/Oregon.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Morrow County"
+    ],
+    "burden_bottom_v": 27.4,
+    "burden_top": [
+     "Linn County"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 36.0,
+    "state": "Oregon"
+   },
+   "state-dear": {
+    "cheap": [
+     "Baker County",
+     "Gilliam County",
+     "Harney County",
+     "Malheur County",
+     "Morrow County",
+     "Wheeler County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Deschutes County"
+    ],
+    "dear_v": 1893,
+    "latest": 2027,
+    "s_latest": 1324.5,
+    "state": "Oregon"
+   },
+   "state-income": {
+    "faster": 34,
+    "growth_n": 36,
+    "inc_growth": 82.0,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 126.2,
+    "slower": 2,
+    "state": "Oregon"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 36,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 440.0,
+    "s_latest": 1324.5,
+    "s_rise": 201.0,
+    "state": "Oregon"
+   }
+  },
+  "rents/Pennsylvania.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Union County"
+    ],
+    "burden_bottom_v": 23.3,
+    "burden_top": [
+     "Carbon County",
+     "Lehigh County",
+     "Northampton County"
+    ],
+    "burden_top_v": 37.6,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 28.7,
+    "state": "Pennsylvania"
+   },
+   "state-dear": {
+    "cheap": [
+     "Bedford County",
+     "Cambria County",
+     "Cameron County",
+     "Clarion County",
+     "Clearfield County",
+     "Clinton County",
+     "Crawford County",
+     "Elk County",
+     "Forest County",
+     "Fulton County",
+     "Huntingdon County",
+     "Indiana County",
+     "Jefferson County",
+     "Juniata County",
+     "McKean County",
+     "Mifflin County",
+     "Northumberland County",
+     "Potter County",
+     "Somerset County",
+     "Sullivan County",
+     "Venango County",
+     "Warren County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Bucks County",
+     "Chester County",
+     "Delaware County",
+     "Montgomery County",
+     "Philadelphia County"
+    ],
+    "dear_v": 1860,
+    "latest": 2027,
+    "s_latest": 1136,
+    "state": "Pennsylvania"
+   },
+   "state-income": {
+    "faster": 59,
+    "growth_n": 67,
+    "inc_growth": 72.1,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 98.6,
+    "slower": 8,
+    "state": "Pennsylvania"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 67,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 413,
+    "s_latest": 1136,
+    "s_rise": 175.1,
+    "state": "Pennsylvania"
+   }
+  },
+  "rents/Puerto Rico.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Caguas Municipio",
+     "Cayey Municipio",
+     "Cidra Municipio",
+     "Gurabo Municipio",
+     "San Lorenzo Municipio"
+    ],
+    "burden_bottom_v": 35.5,
+    "burden_top": [
+     "Adjuntas Municipio"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 38.4,
+    "state": "Puerto Rico"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adjuntas Municipio",
+     "Arroyo Municipio",
+     "Coamo Municipio",
+     "Culebra Municipio",
+     "Guánica Municipio",
+     "Guayama Municipio",
+     "Jayuya Municipio",
+     "Lares Municipio",
+     "Las Marías Municipio",
+     "Maricao Municipio",
+     "Patillas Municipio",
+     "Salinas Municipio",
+     "Santa Isabel Municipio",
+     "Utuado Municipio",
+     "Vieques Municipio"
+    ],
+    "cheap_v": 517,
+    "dear": [
+     "Aguas Buenas Municipio",
+     "Barceloneta Municipio",
+     "Bayamón Municipio",
+     "Canóvanas Municipio",
+     "Carolina Municipio",
+     "Cataño Municipio",
+     "Comerío Municipio",
+     "Corozal Municipio",
+     "Dorado Municipio",
+     "Florida Municipio",
+     "Guaynabo Municipio",
+     "Humacao Municipio",
+     "Juncos Municipio",
+     "Las Piedras Municipio",
+     "Loíza Municipio",
+     "Manatí Municipio",
+     "Maunabo Municipio",
+     "Morovis Municipio",
+     "Naguabo Municipio",
+     "Naranjito Municipio",
+     "Río Grande Municipio",
+     "San Juan Municipio",
+     "Toa Alta Municipio",
+     "Toa Baja Municipio",
+     "Trujillo Alto Municipio",
+     "Vega Alta Municipio",
+     "Vega Baja Municipio",
+     "Yabucoa Municipio"
+    ],
+    "dear_v": 706,
+    "latest": 2027,
+    "s_latest": 613.0,
+    "state": "Puerto Rico"
+   },
+   "state-income": {
+    "faster": 0,
+    "growth_n": 78,
+    "inc_growth": 92.6,
+    "more": "slower",
+    "places_word": "counties",
+    "rent_growth": 42.6,
+    "slower": 78,
+    "state": "Puerto Rico"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 78,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 446.0,
+    "s_latest": 613.0,
+    "s_rise": 37.4,
+    "state": "Puerto Rico"
+   }
+  },
+  "rents/Rhode Island.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Hopkinton town",
+     "New Shoreham town",
+     "Westerly town"
+    ],
+    "burden_bottom_v": 32.0,
+    "burden_top": [
+     "Middletown town",
+     "Newport city",
+     "Portsmouth town"
+    ],
+    "burden_top_v": 40.3,
+    "nation_share": 28.8,
+    "places_word": "towns",
+    "s_share": 37.0,
+    "state": "Rhode Island"
+   },
+   "state-dear": {
+    "cheap": [
+     "Hopkinton town",
+     "New Shoreham town",
+     "Westerly town"
+    ],
+    "cheap_v": 1832,
+    "dear": [
+     "Middletown town",
+     "Newport city",
+     "Portsmouth town"
+    ],
+    "dear_v": 2507,
+    "latest": 2027,
+    "s_latest": 1879,
+    "state": "Rhode Island"
+   },
+   "state-income": {
+    "faster": 39,
+    "growth_n": 39,
+    "inc_growth": 75.2,
+    "more": "faster",
+    "places_word": "towns",
+    "rent_growth": 79.2,
+    "slower": 0,
+    "state": "Rhode Island"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 39,
+    "n_rise": 190.9,
+    "places_word": "towns",
+    "rose": "rose",
+    "s_first": 638,
+    "s_latest": 1879,
+    "s_rise": 194.5,
+    "state": "Rhode Island"
+   }
+  },
+  "rents/South Carolina.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Lancaster County"
+    ],
+    "burden_bottom_v": 23.7,
+    "burden_top": [
+     "Jasper County"
+    ],
+    "burden_top_v": 44.3,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 30.2,
+    "state": "South Carolina"
+   },
+   "state-dear": {
+    "cheap": [
+     "Abbeville County",
+     "Allendale County",
+     "Cherokee County",
+     "Chesterfield County",
+     "Clarendon County",
+     "Dillon County",
+     "Greenwood County",
+     "Hampton County",
+     "Lee County",
+     "McCormick County",
+     "Marion County",
+     "Marlboro County",
+     "Williamsburg County"
+    ],
+    "cheap_v": 885,
+    "dear": [
+     "Beaufort County"
+    ],
+    "dear_v": 2010,
+    "latest": 2027,
+    "s_latest": 1097.5,
+    "state": "South Carolina"
+   },
+   "state-income": {
+    "faster": 44,
+    "growth_n": 46,
+    "inc_growth": 67.7,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 101.9,
+    "slower": 2,
+    "state": "South Carolina"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 46,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 365.0,
+    "s_latest": 1097.5,
+    "s_rise": 200.7,
+    "state": "South Carolina"
+   }
+  },
+  "rents/South Dakota.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Marshall County"
+    ],
+    "burden_bottom_v": 19.9,
+    "burden_top": [
+     "Pennington County"
+    ],
+    "burden_top_v": 31.7,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 23.4,
+    "state": "South Dakota"
+   },
+   "state-dear": {
+    "cheap": [
+     "Aurora County",
+     "Bon Homme County",
+     "Brown County",
+     "Campbell County",
+     "Charles Mix County",
+     "Clark County",
+     "Corson County",
+     "Day County",
+     "Deuel County",
+     "Dewey County",
+     "Gregory County",
+     "Hamlin County",
+     "Hand County",
+     "Hanson County",
+     "Hutchinson County",
+     "Hyde County",
+     "Jackson County",
+     "Jones County",
+     "McPherson County",
+     "Marshall County",
+     "Miner County",
+     "Moody County",
+     "Oglala Lakota County",
+     "Roberts County",
+     "Sanborn County",
+     "Spink County",
+     "Todd County",
+     "Tripp County",
+     "Ziebach County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Pennington County"
+    ],
+    "dear_v": 1430,
+    "latest": 2027,
+    "s_latest": 1033.0,
+    "state": "South Dakota"
+   },
+   "state-income": {
+    "faster": 20,
+    "growth_n": 66,
+    "inc_growth": 108.1,
+    "more": "slower",
+    "places_word": "counties",
+    "rent_growth": 91.9,
+    "slower": 46,
+    "state": "South Dakota"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 66,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 346.0,
+    "s_latest": 1033.0,
+    "s_rise": 198.6,
+    "state": "South Dakota"
+   }
+  },
+  "rents/Tennessee.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Moore County"
+    ],
+    "burden_bottom_v": 24.3,
+    "burden_top": [
+     "Chester County",
+     "Madison County"
+    ],
+    "burden_top_v": 38.0,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 29.0,
+    "state": "Tennessee"
+   },
+   "state-dear": {
+    "cheap": [
+     "Benton County",
+     "Campbell County",
+     "Carroll County",
+     "Claiborne County",
+     "Clay County",
+     "Cocke County",
+     "Decatur County",
+     "Dyer County",
+     "Fentress County",
+     "Gibson County",
+     "Grainger County",
+     "Greene County",
+     "Grundy County",
+     "Hancock County",
+     "Hardeman County",
+     "Hardin County",
+     "Haywood County",
+     "Henderson County",
+     "Houston County",
+     "Jackson County",
+     "Johnson County",
+     "Lake County",
+     "Lauderdale County",
+     "Lewis County",
+     "Lincoln County",
+     "McMinn County",
+     "McNairy County",
+     "Macon County",
+     "Monroe County",
+     "Moore County",
+     "Morgan County",
+     "Obion County",
+     "Overton County",
+     "Perry County",
+     "Pickett County",
+     "Scott County",
+     "Stewart County",
+     "Van Buren County",
+     "Wayne County",
+     "Weakley County"
+    ],
+    "cheap_v": 995,
+    "dear": [
+     "Cannon County",
+     "Cheatham County",
+     "Davidson County",
+     "Dickson County",
+     "Robertson County",
+     "Rutherford County",
+     "Sumner County",
+     "Trousdale County",
+     "Williamson County",
+     "Wilson County"
+    ],
+    "dear_v": 1798,
+    "latest": 2027,
+    "s_latest": 1048,
+    "state": "Tennessee"
+   },
+   "state-income": {
+    "faster": 90,
+    "growth_n": 95,
+    "inc_growth": 81.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 104.8,
+    "slower": 5,
+    "state": "Tennessee"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 95,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 325,
+    "s_latest": 1048,
+    "s_rise": 222.5,
+    "state": "Tennessee"
+   }
+  },
+  "rents/Texas.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Glasscock County"
+    ],
+    "burden_bottom_v": 20.0,
+    "burden_top": [
+     "Goliad County",
+     "Victoria County"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 29.1,
+    "state": "Texas"
+   },
+   "state-dear": {
+    "cheap": [
+     "Baylor County",
+     "Bosque County",
+     "Brooks County",
+     "Calhoun County",
+     "Camp County",
+     "Cass County",
+     "Cochran County",
+     "Coke County",
+     "Collingsworth County",
+     "Crane County",
+     "Delta County",
+     "Dimmit County",
+     "Donley County",
+     "Eastland County",
+     "Falls County",
+     "Fisher County",
+     "Floyd County",
+     "Foard County",
+     "Freestone County",
+     "Gaines County",
+     "Gonzales County",
+     "Hale County",
+     "Hall County",
+     "Hamilton County",
+     "Hardeman County",
+     "Haskell County",
+     "Hemphill County",
+     "Hockley County",
+     "Hudspeth County",
+     "Hutchinson County",
+     "Jasper County",
+     "Jim Wells County",
+     "Kimble County",
+     "Knox County",
+     "Lamb County",
+     "Lampasas County",
+     "Leon County",
+     "Limestone County",
+     "Lipscomb County",
+     "Madison County",
+     "Maverick County",
+     "Menard County",
+     "Mills County",
+     "Morris County",
+     "Motley County",
+     "Newton County",
+     "Ochiltree County",
+     "Rains County",
+     "Reagan County",
+     "Red River County",
+     "Refugio County",
+     "San Augustine County",
+     "Shackelford County",
+     "Shelby County",
+     "Somervell County",
+     "Starr County",
+     "Stephens County",
+     "Swisher County",
+     "Terry County",
+     "Willacy County",
+     "Zapata County",
+     "Zavala County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Bastrop County",
+     "Caldwell County",
+     "Hays County",
+     "Travis County",
+     "Williamson County"
+    ],
+    "dear_v": 1817,
+    "latest": 2027,
+    "s_latest": 1104.5,
+    "state": "Texas"
+   },
+   "state-income": {
+    "faster": 203,
+    "growth_n": 254,
+    "inc_growth": 87.1,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 108.2,
+    "slower": 51,
+    "state": "Texas"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 254,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 344.0,
+    "s_latest": 1104.5,
+    "s_rise": 221.1,
+    "state": "Texas"
+   }
+  },
+  "rents/U.S. Virgin Islands.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "St. Croix"
+    ],
+    "burden_bottom_v": 39.0,
+    "burden_top": [
+     "St. Thomas"
+    ],
+    "burden_top_v": 39.9,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 39.5,
+    "state": "the U.S. Virgin Islands"
+   },
+   "state-dear": {
+    "cheap": [
+     "St. Croix"
+    ],
+    "cheap_v": 1237,
+    "dear": [
+     "St. John"
+    ],
+    "dear_v": 2025,
+    "latest": 2027,
+    "s_latest": 1509,
+    "state": "the U.S. Virgin Islands"
+   },
+   "state-income": {
+    "faster": 1,
+    "growth_n": 3,
+    "inc_growth": 111.7,
+    "more": "slower",
+    "places_word": "counties",
+    "rent_growth": 108.2,
+    "slower": 2,
+    "state": "the U.S. Virgin Islands"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 3,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 682,
+    "s_latest": 1509,
+    "s_rise": 121.3,
+    "state": "the U.S. Virgin Islands"
+   }
+  },
+  "rents/Utah.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Emery County",
+     "Rich County",
+     "Wayne County"
+    ],
+    "burden_bottom_v": 22.0,
+    "burden_top": [
+     "Kane County"
+    ],
+    "burden_top_v": 37.5,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 26.0,
+    "state": "Utah"
+   },
+   "state-dear": {
+    "cheap": [
+     "Carbon County",
+     "Emery County",
+     "Garfield County",
+     "Uintah County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Summit County"
+    ],
+    "dear_v": 2153,
+    "latest": 2027,
+    "s_latest": 1158,
+    "state": "Utah"
+   },
+   "state-income": {
+    "faster": 16,
+    "growth_n": 29,
+    "inc_growth": 106.5,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 109.0,
+    "slower": 13,
+    "state": "Utah"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 29,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 374,
+    "s_latest": 1158,
+    "s_rise": 209.6,
+    "state": "Utah"
+   }
+  },
+  "rents/Vermont.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Averill town",
+     "Avery's gore",
+     "Bloomfield town",
+     "Brighton town",
+     "Brunswick town",
+     "Canaan town",
+     "Concord town",
+     "East Haven town",
+     "Ferdinand town",
+     "Granby town",
+     "Guildhall town",
+     "Lemington town",
+     "Lewis town",
+     "Lunenburg town",
+     "Maidstone town",
+     "Norton town",
+     "Victory town",
+     "Warner's grant",
+     "Warren's gore"
+    ],
+    "burden_bottom_v": 23.1,
+    "burden_top": [
+     "Bolton town",
+     "Buels gore",
+     "Burlington city",
+     "Charlotte town",
+     "Colchester town",
+     "Essex town",
+     "Unnamed (5000724400)",
+     "Hinesburg town",
+     "Huntington town",
+     "Jericho town",
+     "Milton town",
+     "Richmond town",
+     "St. George town",
+     "Shelburne town",
+     "South Burlington city",
+     "Underhill town",
+     "Westford town",
+     "Williston town",
+     "Winooski city",
+     "Bakersfield town",
+     "Berkshire town",
+     "Enosburgh town",
+     "Fairfax town",
+     "Fairfield town",
+     "Fletcher town",
+     "Franklin town",
+     "Georgia town",
+     "Highgate town",
+     "Montgomery town",
+     "Richford town",
+     "St. Albans city",
+     "St. Albans town",
+     "Sheldon town",
+     "Swanton town",
+     "Alburgh town",
+     "Grand Isle town",
+     "Isle La Motte town",
+     "North Hero town",
+     "South Hero town"
+    ],
+    "burden_top_v": 41.2,
+    "nation_share": 28.8,
+    "places_word": "towns",
+    "s_share": 30.8,
+    "state": "Vermont"
+   },
+   "state-dear": {
+    "cheap": [
+     "Averill town",
+     "Avery's gore",
+     "Bloomfield town",
+     "Brighton town",
+     "Brunswick town",
+     "Canaan town",
+     "Concord town",
+     "East Haven town",
+     "Ferdinand town",
+     "Granby town",
+     "Guildhall town",
+     "Lemington town",
+     "Lewis town",
+     "Lunenburg town",
+     "Maidstone town",
+     "Norton town",
+     "Victory town",
+     "Warner's grant",
+     "Warren's gore"
+    ],
+    "cheap_v": 1167,
+    "dear": [
+     "Bolton town",
+     "Buels gore",
+     "Burlington city",
+     "Charlotte town",
+     "Colchester town",
+     "Essex town",
+     "Unnamed (5000724400)",
+     "Hinesburg town",
+     "Huntington town",
+     "Jericho town",
+     "Milton town",
+     "Richmond town",
+     "St. George town",
+     "Shelburne town",
+     "South Burlington city",
+     "Underhill town",
+     "Westford town",
+     "Williston town",
+     "Winooski city",
+     "Bakersfield town",
+     "Berkshire town",
+     "Enosburgh town",
+     "Fairfax town",
+     "Fairfield town",
+     "Fletcher town",
+     "Franklin town",
+     "Georgia town",
+     "Highgate town",
+     "Montgomery town",
+     "Richford town",
+     "St. Albans city",
+     "St. Albans town",
+     "Sheldon town",
+     "Swanton town",
+     "Alburgh town",
+     "Grand Isle town",
+     "Isle La Motte town",
+     "North Hero town",
+     "South Hero town"
+    ],
+    "dear_v": 2165,
+    "latest": 2027,
+    "s_latest": 1558.0,
+    "state": "Vermont"
+   },
+   "state-income": {
+    "faster": 234,
+    "growth_n": 253,
+    "inc_growth": 75.0,
+    "more": "faster",
+    "places_word": "towns",
+    "rent_growth": 106.6,
+    "slower": 19,
+    "state": "Vermont"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 256,
+    "n_rise": 190.9,
+    "places_word": "towns",
+    "rose": "rose",
+    "s_first": 540,
+    "s_latest": 1558.0,
+    "s_rise": 188.5,
+    "state": "Vermont"
+   }
+  },
+  "rents/Virginia.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Surry County"
+    ],
+    "burden_bottom_v": 24.9,
+    "burden_top": [
+     "Gloucester County",
+     "Isle of Wight County",
+     "James City County",
+     "Mathews County",
+     "York County",
+     "Chesapeake city",
+     "Hampton city",
+     "Newport News city",
+     "Norfolk city",
+     "Poquoson city",
+     "Portsmouth city",
+     "Suffolk city",
+     "Virginia Beach city",
+     "Williamsburg city"
+    ],
+    "burden_top_v": 38.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 30.7,
+    "state": "Virginia"
+   },
+   "state-dear": {
+    "cheap": [
+     "Alleghany County",
+     "Bland County",
+     "Brunswick County",
+     "Buchanan County",
+     "Buckingham County",
+     "Carroll County",
+     "Charlotte County",
+     "Dickenson County",
+     "Grayson County",
+     "Halifax County",
+     "Henry County",
+     "Highland County",
+     "Lee County",
+     "Lunenburg County",
+     "Patrick County",
+     "Pittsylvania County",
+     "Russell County",
+     "Smyth County",
+     "Tazewell County",
+     "Wise County",
+     "Wythe County",
+     "Covington city",
+     "Danville city",
+     "Galax city",
+     "Martinsville city",
+     "Norton city"
+    ],
+    "cheap_v": 943,
+    "dear": [
+     "Arlington County",
+     "Clarke County",
+     "Fairfax County",
+     "Fauquier County",
+     "Loudoun County",
+     "Prince William County",
+     "Spotsylvania County",
+     "Stafford County",
+     "Alexandria city",
+     "Fairfax city",
+     "Falls Church city",
+     "Fredericksburg city",
+     "Manassas city",
+     "Manassas Park city"
+    ],
+    "dear_v": 2438,
+    "latest": 2027,
+    "s_latest": 1262,
+    "state": "Virginia"
+   },
+   "state-income": {
+    "faster": 112,
+    "growth_n": 133,
+    "inc_growth": 73.7,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 107.5,
+    "slower": 21,
+    "state": "Virginia"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 133,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 433.0,
+    "s_latest": 1262,
+    "s_rise": 191.5,
+    "state": "Virginia"
+   }
+  },
+  "rents/Washington.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Ferry County"
+    ],
+    "burden_bottom_v": 24.1,
+    "burden_top": [
+     "Thurston County"
+    ],
+    "burden_top_v": 38.3,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 33.1,
+    "state": "Washington"
+   },
+   "state-dear": {
+    "cheap": [
+     "Ferry County"
+    ],
+    "cheap_v": 1058,
+    "dear": [
+     "King County",
+     "Snohomish County"
+    ],
+    "dear_v": 2549,
+    "latest": 2027,
+    "s_latest": 1467,
+    "state": "Washington"
+   },
+   "state-income": {
+    "faster": 30,
+    "growth_n": 39,
+    "inc_growth": 92.4,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 121.4,
+    "slower": 9,
+    "state": "Washington"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 39,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 455,
+    "s_latest": 1467,
+    "s_rise": 222.4,
+    "state": "Washington"
+   }
+  },
+  "rents/West Virginia.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Mineral County"
+    ],
+    "burden_bottom_v": 22.0,
+    "burden_top": [
+     "Hampshire County"
+    ],
+    "burden_top_v": 35.1,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 27.8,
+    "state": "West Virginia"
+   },
+   "state-dear": {
+    "cheap": [
+     "Barbour County",
+     "Boone County",
+     "Braxton County",
+     "Calhoun County",
+     "Gilmer County",
+     "Grant County",
+     "Jackson County",
+     "Lewis County",
+     "Lincoln County",
+     "Logan County",
+     "McDowell County",
+     "Mason County",
+     "Mineral County",
+     "Monroe County",
+     "Nicholas County",
+     "Pendleton County",
+     "Pleasants County",
+     "Pocahontas County",
+     "Ritchie County",
+     "Roane County",
+     "Summers County",
+     "Tucker County",
+     "Tyler County",
+     "Webster County",
+     "Wetzel County",
+     "Wyoming County"
+    ],
+    "cheap_v": 944,
+    "dear": [
+     "Hampshire County"
+    ],
+    "dear_v": 1505,
+    "latest": 2027,
+    "s_latest": 955,
+    "state": "West Virginia"
+   },
+   "state-income": {
+    "faster": 45,
+    "growth_n": 55,
+    "inc_growth": 72.8,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 89.3,
+    "slower": 10,
+    "state": "West Virginia"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 55,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 327,
+    "s_latest": 955,
+    "s_rise": 192.0,
+    "state": "West Virginia"
+   }
+  },
+  "rents/Wisconsin.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Portage County"
+    ],
+    "burden_bottom_v": 23.4,
+    "burden_top": [
+     "Pierce County",
+     "St. Croix County"
+    ],
+    "burden_top_v": 31.2,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 24.4,
+    "state": "Wisconsin"
+   },
+   "state-dear": {
+    "cheap": [
+     "Adams County",
+     "Ashland County",
+     "Bayfield County",
+     "Clark County",
+     "Crawford County",
+     "Forest County",
+     "Grant County",
+     "Green Lake County",
+     "Iron County",
+     "Jackson County",
+     "Juneau County",
+     "Lafayette County",
+     "Langlade County",
+     "Lincoln County",
+     "Manitowoc County",
+     "Marinette County",
+     "Marquette County",
+     "Menominee County",
+     "Oconto County",
+     "Pepin County",
+     "Price County",
+     "Richland County",
+     "Rusk County",
+     "Shawano County",
+     "Taylor County",
+     "Washburn County",
+     "Waupaca County",
+     "Waushara County",
+     "Wood County"
+    ],
+    "cheap_v": 1014,
+    "dear": [
+     "Pierce County",
+     "St. Croix County"
+    ],
+    "dear_v": 1734,
+    "latest": 2027,
+    "s_latest": 1040.5,
+    "state": "Wisconsin"
+   },
+   "state-income": {
+    "faster": 67,
+    "growth_n": 72,
+    "inc_growth": 73.1,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 93.4,
+    "slower": 5,
+    "state": "Wisconsin"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 72,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 367.0,
+    "s_latest": 1040.5,
+    "s_rise": 183.5,
+    "state": "Wisconsin"
+   }
+  },
+  "rents/Wyoming.md": {
+   "state-burden": {
+    "burden_bottom": [
+     "Lincoln County"
+    ],
+    "burden_bottom_v": 20.3,
+    "burden_top": [
+     "Niobrara County"
+    ],
+    "burden_top_v": 28.6,
+    "nation_share": 28.8,
+    "places_word": "counties",
+    "s_share": 23.3,
+    "state": "Wyoming"
+   },
+   "state-dear": {
+    "cheap": [
+     "Albany County",
+     "Big Horn County",
+     "Crook County",
+     "Fremont County",
+     "Goshen County",
+     "Hot Springs County",
+     "Lincoln County",
+     "Platte County",
+     "Sweetwater County",
+     "Uinta County",
+     "Washakie County"
+    ],
+    "cheap_v": 999,
+    "dear": [
+     "Teton County"
+    ],
+    "dear_v": 1683,
+    "latest": 2027,
+    "s_latest": 1016,
+    "state": "Wyoming"
+   },
+   "state-income": {
+    "faster": 19,
+    "growth_n": 23,
+    "inc_growth": 79.4,
+    "more": "faster",
+    "places_word": "counties",
+    "rent_growth": 94.5,
+    "slower": 4,
+    "state": "Wyoming"
+   },
+   "state-trend": {
+    "first_year": 1995,
+    "latest": 2027,
+    "n_places": 23,
+    "n_rise": 190.9,
+    "places_word": "counties",
+    "rose": "rose",
+    "s_first": 356,
+    "s_latest": 1016,
+    "s_rise": 185.4,
+    "state": "Wyoming"
+   }
+  }
+ },
+ "pictures": {
+  "growth": {
+   "Income": {
+    "2006": 0.0,
+    "2007": -1.3,
+    "2008": 2.1,
+    "2009": 6.6,
+    "2010": 7.6,
+    "2011": 9.9,
+    "2012": 11.4,
+    "2013": 12.0,
+    "2014": 12.4,
+    "2015": 15.1,
+    "2016": 13.9,
+    "2017": 16.6,
+    "2018": 21.2,
+    "2019": 26.2,
+    "2020": 30.7,
+    "2021": 33.2,
+    "2022": 47.7,
+    "2023": 60.5,
+    "2024": 64.6,
+    "2025": 75.8,
+    "2026": 78.4
+   },
+   "Rent": {
+    "2006": 0.0,
+    "2007": 3.6,
+    "2008": 10.3,
+    "2009": 14.6,
+    "2010": 17.0,
+    "2011": 18.3,
+    "2012": 16.1,
+    "2013": 25.2,
+    "2014": 26.4,
+    "2015": 27.8,
+    "2016": 31.1,
+    "2017": 35.4,
+    "2018": 38.6,
+    "2019": 41.0,
+    "2020": 42.4,
+    "2021": 46.2,
+    "2022": 52.3,
+    "2023": 66.2,
+    "2024": 85.7,
+    "2025": 91.0,
+    "2026": 97.8
+   }
+  },
+  "nation": {
+   "1995": [
+    363,
+    319.0,
+    445.0,
+    3137
+   ],
+   "1996": [
+    393,
+    367.0,
+    459.0,
+    3137
+   ],
+   "1997": [
+    401,
+    370.0,
+    475.0,
+    3137
+   ],
+   "1998": [
+    410,
+    378.0,
+    485.0,
+    3137
+   ],
+   "1999": [
+    416,
+    383.0,
+    495.0,
+    3137
+   ],
+   "2000": [
+    419,
+    383.0,
+    499.0,
+    3137
+   ],
+   "2001": [
+    421,
+    386.0,
+    504.0,
+    3137
+   ],
+   "2002": [
+    438,
+    402.0,
+    522.0,
+    3137
+   ],
+   "2003": [
+    446,
+    412.0,
+    537.0,
+    3137
+   ],
+   "2004": [
+    448,
+    412,
+    543,
+    3139
+   ],
+   "2005": [
+    492,
+    444.0,
+    574.5,
+    3141
+   ],
+   "2006": [
+    512.0,
+    484,
+    594,
+    3154
+   ],
+   "2007": [
+    527.0,
+    504,
+    617,
+    3154
+   ],
+   "2008": [
+    562.0,
+    527,
+    666,
+    3154
+   ],
+   "2009": [
+    583.0,
+    546,
+    689,
+    3154
+   ],
+   "2010": [
+    597.0,
+    558,
+    710,
+    3154
+   ],
+   "2011": [
+    609,
+    567,
+    717,
+    3159
+   ],
+   "2012": [
+    597,
+    555,
+    709,
+    3159
+   ],
+   "2013": [
+    633,
+    610,
+    750,
+    3159
+   ],
+   "2014": [
+    642,
+    622,
+    747,
+    3159
+   ],
+   "2015": [
+    646,
+    627,
+    768,
+    3159
+   ],
+   "2016": [
+    669,
+    645.0,
+    796.0,
+    3161
+   ],
+   "2017": [
+    695,
+    664.5,
+    817.0,
+    3161
+   ],
+   "2018": [
+    713,
+    680.0,
+    842.0,
+    3161
+   ],
+   "2019": [
+    723,
+    688.0,
+    862.0,
+    3161
+   ],
+   "2020": [
+    737,
+    698.0,
+    872.0,
+    3161
+   ],
+   "2021": [
+    757,
+    718.0,
+    902.5,
+    3161
+   ],
+   "2022": [
+    783,
+    739.0,
+    933.0,
+    3161
+   ],
+   "2023": [
+    854,
+    795.0,
+    1016.0,
+    3161
+   ],
+   "2024": [
+    938,
+    882.0,
+    1141.0,
+    3161
+   ],
+   "2025": [
+    965,
+    907.0,
+    1208.0,
+    3161
+   ],
+   "2026": [
+    1015,
+    933.0,
+    1261.0,
+    3161
+   ],
+   "2027": [
+    1056,
+    995.0,
+    1289.0,
+    3161
+   ]
+  },
+  "states": [
+   {
+    "code": "11",
+    "grid": {
+     "1995": 834,
+     "1999": 820,
+     "2003": 1154,
+     "2007": 1286,
+     "2011": 1461,
+     "2015": 1458,
+     "2019": 1665,
+     "2023": 1838,
+     "2027": 2438
+    },
+    "inc_up": 83.9,
+    "latest": 2438,
+    "places": 1,
+    "rent_up": 83.3,
+    "share": 32.5,
+    "state": "District of Columbia"
+   },
+   {
+    "code": "25",
+    "grid": {
+     "1995": 683,
+     "1999": 708,
+     "2003": 923,
+     "2007": 1014,
+     "2011": 1135,
+     "2015": 1076,
+     "2019": 1244,
+     "2023": 1663,
+     "2027": 2367
+    },
+    "inc_up": 82.4,
+    "latest": 2367,
+    "places": 351,
+    "rent_up": 122.1,
+    "share": 37.5,
+    "state": "Massachusetts"
+   },
+   {
+    "code": "15",
+    "grid": {
+     "1995": 1051.0,
+     "1999": 985.5,
+     "2003": 964.0,
+     "2007": 1134,
+     "2011": 1454,
+     "2015": 1222,
+     "2019": 1675,
+     "2023": 1986,
+     "2027": 2326
+    },
+    "inc_up": 87.1,
+    "latest": 2326,
+    "places": 5,
+    "rent_up": 121.1,
+    "share": 41.2,
+    "state": "Hawaii"
+   },
+   {
+    "code": "34",
+    "grid": {
+     "1995": 828,
+     "1999": 820,
+     "2003": 949,
+     "2007": 1063,
+     "2011": 1233,
+     "2015": 1269,
+     "2019": 1447,
+     "2023": 1606,
+     "2027": 2233
+    },
+    "inc_up": 64.0,
+    "latest": 2233,
+    "places": 21,
+    "rent_up": 109.4,
+    "share": 38.2,
+    "state": "New Jersey"
+   },
+   {
+    "code": "09",
+    "grid": {
+     "1995": 697,
+     "1999": 723,
+     "2003": 813,
+     "2007": 1029,
+     "2011": 1113,
+     "2015": 1144,
+     "2019": 1194,
+     "2023": 1499,
+     "2027": 1933
+    },
+    "inc_up": 61.1,
+    "latest": 1933,
+    "places": 169,
+    "rent_up": 90.5,
+    "share": 34.6,
+    "state": "Connecticut"
+   },
+   {
+    "code": "44",
+    "grid": {
+     "1995": 638,
+     "1999": 662,
+     "2003": 667,
+     "2007": 1014,
+     "2011": 977,
+     "2015": 944,
+     "2019": 1060,
+     "2023": 1409,
+     "2027": 1879
+    },
+    "inc_up": 75.2,
+    "latest": 1879,
+    "places": 39,
+    "rent_up": 79.2,
+    "share": 37.0,
+    "state": "Rhode Island"
+   },
+   {
+    "code": "24",
+    "grid": {
+     "1995": 592.0,
+     "1999": 628.0,
+     "2003": 817.0,
+     "2007": 941.0,
+     "2011": 1208.5,
+     "2015": 1232.0,
+     "2019": 1333.5,
+     "2023": 1548.0,
+     "2027": 1875.0
+    },
+    "inc_up": 84.1,
+    "latest": 1875.0,
+    "places": 24,
+    "rent_up": 95.5,
+    "share": 32.5,
+    "state": "Maryland"
+   },
+   {
+    "code": "33",
+    "grid": {
+     "1995": 615,
+     "1999": 659,
+     "2003": 719,
+     "2007": 820,
+     "2011": 970,
+     "2015": 1048,
+     "2019": 1096,
+     "2023": 1343,
+     "2027": 1734
+    },
+    "inc_up": 78.1,
+    "latest": 1734,
+    "places": 259,
+    "rent_up": 145.1,
+    "share": 36.8,
+    "state": "New Hampshire"
+   },
+   {
+    "code": "06",
+    "grid": {
+     "1995": 578.0,
+     "1999": 594.5,
+     "2003": 676.0,
+     "2007": 809.0,
+     "2011": 988.5,
+     "2015": 969.0,
+     "2019": 1088.0,
+     "2023": 1322.0,
+     "2027": 1725.0
+    },
+    "inc_up": 86.4,
+    "latest": 1725.0,
+    "places": 58,
+    "rent_up": 135.1,
+    "share": 38.8,
+    "state": "California"
+   },
+   {
+    "code": "10",
+    "grid": {
+     "1995": 509,
+     "1999": 613,
+     "2003": 659,
+     "2007": 709,
+     "2011": 812,
+     "2015": 987,
+     "2019": 1053,
+     "2023": 1182,
+     "2027": 1629
+    },
+    "inc_up": 90.4,
+    "latest": 1629,
+    "places": 3,
+    "rent_up": 115.5,
+    "share": 32.7,
+    "state": "Delaware"
+   },
+   {
+    "code": "50",
+    "grid": {
+     "1995": 540,
+     "1999": 595,
+     "2003": 657,
+     "2007": 719,
+     "2011": 901,
+     "2015": 935.0,
+     "2019": 988,
+     "2023": 1129,
+     "2027": 1558.0
+    },
+    "inc_up": 75.0,
+    "latest": 1558.0,
+    "places": 256,
+    "rent_up": 106.6,
+    "share": 30.8,
+    "state": "Vermont"
+   },
+   {
+    "code": "02",
+    "grid": {
+     "1995": 678,
+     "1999": 736,
+     "2003": 785,
+     "2007": 1004,
+     "2011": 1143.0,
+     "2015": 1019.0,
+     "2019": 1228.0,
+     "2023": 1278.0,
+     "2027": 1512.5
+    },
+    "inc_up": 60.8,
+    "latest": 1512.5,
+    "places": 30,
+    "rent_up": 54.1,
+    "share": 30.1,
+    "state": "Alaska"
+   },
+   {
+    "code": "78",
+    "grid": {
+     "1995": 682,
+     "1999": 875,
+     "2003": 934,
+     "2007": 864,
+     "2011": 998,
+     "2015": 1052,
+     "2019": 1123,
+     "2023": 1350,
+     "2027": 1509
+    },
+    "inc_up": 111.7,
+    "latest": 1509,
+    "places": 3,
+    "rent_up": 108.2,
+    "share": 39.5,
+    "state": "U.S. Virgin Islands"
+   },
+   {
+    "code": "12",
+    "grid": {
+     "1995": 439,
+     "1999": 500,
+     "2003": 540,
+     "2007": 618,
+     "2011": 824,
+     "2015": 830,
+     "2019": 955,
+     "2023": 1168,
+     "2027": 1474
+    },
+    "inc_up": 80.3,
+    "latest": 1474,
+    "places": 67,
+    "rent_up": 138.5,
+    "share": 37.9,
+    "state": "Florida"
+   },
+   {
+    "code": "53",
+    "grid": {
+     "1995": 455,
+     "1999": 495,
+     "2003": 529,
+     "2007": 649,
+     "2011": 738,
+     "2015": 767,
+     "2019": 950,
+     "2023": 1181,
+     "2027": 1467
+    },
+    "inc_up": 92.4,
+    "latest": 1467,
+    "places": 39,
+    "rent_up": 121.4,
+    "share": 33.1,
+    "state": "Washington"
+   },
+   {
+    "code": "66",
+    "grid": {
+     "1995": 907,
+     "1999": 968,
+     "2003": 1052,
+     "2007": 929,
+     "2011": 1023,
+     "2015": 1064,
+     "2019": 1051,
+     "2023": 1578,
+     "2027": 1449
+    },
+    "inc_up": 69.6,
+    "latest": 1449,
+    "places": 1,
+    "rent_up": 76.9,
+    "share": 41.2,
+    "state": "Guam"
+   },
+   {
+    "code": "36",
+    "grid": {
+     "1995": 536.0,
+     "1999": 569.0,
+     "2003": 599.0,
+     "2007": 644.0,
+     "2011": 794.0,
+     "2015": 842.0,
+     "2019": 858.0,
+     "2023": 1108.0,
+     "2027": 1385.0
+    },
+    "inc_up": 75.5,
+    "latest": 1385.0,
+    "places": 62,
+    "rent_up": 114.6,
+    "share": 32.1,
+    "state": "New York"
+   },
+   {
+    "code": "08",
+    "grid": {
+     "1995": 412,
+     "1999": 495,
+     "2003": 537,
+     "2007": 688.0,
+     "2011": 728.0,
+     "2015": 777.0,
+     "2019": 875.5,
+     "2023": 1108.5,
+     "2027": 1374.5
+    },
+    "inc_up": 89.2,
+    "latest": 1374.5,
+    "places": 64,
+    "rent_up": 105.0,
+    "share": 28.9,
+    "state": "Colorado"
+   },
+   {
+    "code": "23",
+    "grid": {
+     "1995": 435,
+     "1999": 480,
+     "2003": 524,
+     "2007": 589,
+     "2011": 682,
+     "2015": 746.0,
+     "2019": 856,
+     "2023": 971,
+     "2027": 1367
+    },
+    "inc_up": 80.8,
+    "latest": 1367,
+    "places": 529,
+    "rent_up": 136.0,
+    "share": 35.4,
+    "state": "Maine"
+   },
+   {
+    "code": "32",
+    "grid": {
+     "1995": 562,
+     "1999": 601,
+     "2003": 653,
+     "2007": 717,
+     "2011": 802,
+     "2015": 786,
+     "2019": 884,
+     "2023": 1116,
+     "2027": 1327
+    },
+    "inc_up": 85.5,
+    "latest": 1327,
+    "places": 17,
+    "rent_up": 99.5,
+    "share": 32.3,
+    "state": "Nevada"
+   },
+   {
+    "code": "41",
+    "grid": {
+     "1995": 440.0,
+     "1999": 494.0,
+     "2003": 527.0,
+     "2007": 617.5,
+     "2011": 703.0,
+     "2015": 770.5,
+     "2019": 875.0,
+     "2023": 1165.0,
+     "2027": 1324.5
+    },
+    "inc_up": 82.0,
+    "latest": 1324.5,
+    "places": 36,
+    "rent_up": 126.2,
+    "share": 36.0,
+    "state": "Oregon"
+   },
+   {
+    "code": "30",
+    "grid": {
+     "1995": 370.0,
+     "1999": 450.0,
+     "2003": 489.0,
+     "2007": 526.0,
+     "2011": 609.0,
+     "2015": 643.0,
+     "2019": 700.0,
+     "2023": 848.0,
+     "2027": 1310.0
+    },
+    "inc_up": 102.8,
+    "latest": 1310.0,
+    "places": 56,
+    "rent_up": 147.1,
+    "share": 32.9,
+    "state": "Montana"
+   },
+   {
+    "code": "51",
+    "grid": {
+     "1995": 433.0,
+     "1999": 475.0,
+     "2003": 511.5,
+     "2007": 610,
+     "2011": 719,
+     "2015": 806,
+     "2019": 875,
+     "2023": 990,
+     "2027": 1262
+    },
+    "inc_up": 73.7,
+    "latest": 1262,
+    "places": 133,
+    "rent_up": 107.5,
+    "share": 30.7,
+    "state": "Virginia"
+   },
+   {
+    "code": "04",
+    "grid": {
+     "1995": 462,
+     "1999": 494,
+     "2003": 538,
+     "2007": 676,
+     "2011": 812,
+     "2015": 763,
+     "2019": 823,
+     "2023": 1073,
+     "2027": 1244
+    },
+    "inc_up": 86.7,
+    "latest": 1244,
+    "places": 15,
+    "rent_up": 111.8,
+    "share": 41.0,
+    "state": "Arizona"
+   },
+   {
+    "code": "49",
+    "grid": {
+     "1995": 374,
+     "1999": 453,
+     "2003": 492,
+     "2007": 612,
+     "2011": 672,
+     "2015": 735,
+     "2019": 776,
+     "2023": 932,
+     "2027": 1158
+    },
+    "inc_up": 106.5,
+    "latest": 1158,
+    "places": 29,
+    "rent_up": 109.0,
+    "share": 26.0,
+    "state": "Utah"
+   },
+   {
+    "code": "37",
+    "grid": {
+     "1995": 389.5,
+     "1999": 421.0,
+     "2003": 469.5,
+     "2007": 573.0,
+     "2011": 641.0,
+     "2015": 659.0,
+     "2019": 729.0,
+     "2023": 890.0,
+     "2027": 1145.0
+    },
+    "inc_up": 74.6,
+    "latest": 1145.0,
+    "places": 100,
+    "rent_up": 97.2,
+    "share": 30.0,
+    "state": "North Carolina"
+   },
+   {
+    "code": "42",
+    "grid": {
+     "1995": 413,
+     "1999": 447,
+     "2003": 481,
+     "2007": 575,
+     "2011": 655,
+     "2015": 696,
+     "2019": 780,
+     "2023": 947,
+     "2027": 1136
+    },
+    "inc_up": 72.1,
+    "latest": 1136,
+    "places": 67,
+    "rent_up": 98.6,
+    "share": 28.7,
+    "state": "Pennsylvania"
+   },
+   {
+    "code": "16",
+    "grid": {
+     "1995": 316.5,
+     "1999": 416.0,
+     "2003": 443.0,
+     "2007": 560.0,
+     "2011": 644.0,
+     "2015": 643.0,
+     "2019": 725.0,
+     "2023": 930.0,
+     "2027": 1126.5
+    },
+    "inc_up": 92.5,
+    "latest": 1126.5,
+    "places": 44,
+    "rent_up": 104.1,
+    "share": 28.9,
+    "state": "Idaho"
+   },
+   {
+    "code": "48",
+    "grid": {
+     "1995": 344.0,
+     "1999": 383.0,
+     "2003": 412.0,
+     "2007": 504.5,
+     "2011": 598.0,
+     "2015": 653.0,
+     "2019": 754.0,
+     "2023": 912.0,
+     "2027": 1104.5
+    },
+    "inc_up": 87.1,
+    "latest": 1104.5,
+    "places": 254,
+    "rent_up": 108.2,
+    "share": 29.1,
+    "state": "Texas"
+   },
+   {
+    "code": "45",
+    "grid": {
+     "1995": 365.0,
+     "1999": 407.0,
+     "2003": 434.0,
+     "2007": 522.0,
+     "2011": 594.0,
+     "2015": 636.0,
+     "2019": 746.0,
+     "2023": 885.0,
+     "2027": 1097.5
+    },
+    "inc_up": 67.7,
+    "latest": 1097.5,
+    "places": 46,
+    "rent_up": 101.9,
+    "share": 30.2,
+    "state": "South Carolina"
+   },
+   {
+    "code": "18",
+    "grid": {
+     "1995": 391.0,
+     "1999": 426.5,
+     "2003": 464.5,
+     "2007": 579.5,
+     "2011": 651.5,
+     "2015": 675.5,
+     "2019": 732.5,
+     "2023": 861.5,
+     "2027": 1085.5
+    },
+    "inc_up": 64.3,
+    "latest": 1085.5,
+    "places": 92,
+    "rent_up": 89.7,
+    "share": 27.3,
+    "state": "Indiana"
+   },
+   {
+    "code": "26",
+    "grid": {
+     "1995": 392,
+     "1999": 418,
+     "2003": 447,
+     "2007": 546,
+     "2011": 608,
+     "2015": 660,
+     "2019": 729,
+     "2023": 864,
+     "2027": 1085
+    },
+    "inc_up": 66.5,
+    "latest": 1085,
+    "places": 83,
+    "rent_up": 93.4,
+    "share": 28.5,
+    "state": "Michigan"
+   },
+   {
+    "code": "35",
+    "grid": {
+     "1995": 353,
+     "1999": 398,
+     "2003": 428,
+     "2007": 497,
+     "2011": 557,
+     "2015": 631,
+     "2019": 784,
+     "2023": 795,
+     "2027": 1063
+    },
+    "inc_up": 88.7,
+    "latest": 1063,
+    "places": 33,
+    "rent_up": 113.4,
+    "share": 32.4,
+    "state": "New Mexico"
+   },
+   {
+    "code": "13",
+    "grid": {
+     "1995": 352,
+     "1999": 412,
+     "2003": 439,
+     "2007": 537,
+     "2011": 612,
+     "2015": 640,
+     "2019": 697,
+     "2023": 859,
+     "2027": 1058
+    },
+    "inc_up": 73.2,
+    "latest": 1058,
+    "places": 159,
+    "rent_up": 112.4,
+    "share": 31.2,
+    "state": "Georgia"
+   },
+   {
+    "code": "27",
+    "grid": {
+     "1995": 369,
+     "1999": 409,
+     "2003": 438,
+     "2007": 531,
+     "2011": 611,
+     "2015": 651,
+     "2019": 737,
+     "2023": 874,
+     "2027": 1048
+    },
+    "inc_up": 78.1,
+    "latest": 1048,
+    "places": 87,
+    "rent_up": 93.4,
+    "share": 23.8,
+    "state": "Minnesota"
+   },
+   {
+    "code": "39",
+    "grid": {
+     "1995": 402.0,
+     "1999": 436.0,
+     "2003": 472.0,
+     "2007": 558.0,
+     "2011": 628.0,
+     "2015": 655.0,
+     "2019": 701.0,
+     "2023": 828.0,
+     "2027": 1048.0
+    },
+    "inc_up": 71.0,
+    "latest": 1048.0,
+    "places": 88,
+    "rent_up": 93.4,
+    "share": 26.6,
+    "state": "Ohio"
+   },
+   {
+    "code": "47",
+    "grid": {
+     "1995": 325,
+     "1999": 352,
+     "2003": 375,
+     "2007": 493,
+     "2011": 562,
+     "2015": 595,
+     "2019": 649,
+     "2023": 780,
+     "2027": 1048
+    },
+    "inc_up": 81.5,
+    "latest": 1048,
+    "places": 95,
+    "rent_up": 104.8,
+    "share": 29.0,
+    "state": "Tennessee"
+   },
+   {
+    "code": "55",
+    "grid": {
+     "1995": 367.0,
+     "1999": 408.0,
+     "2003": 437.0,
+     "2007": 552.0,
+     "2011": 626.5,
+     "2015": 677.5,
+     "2019": 732.0,
+     "2023": 907.5,
+     "2027": 1040.5
+    },
+    "inc_up": 73.1,
+    "latest": 1040.5,
+    "places": 72,
+    "rent_up": 93.4,
+    "share": 24.4,
+    "state": "Wisconsin"
+   },
+   {
+    "code": "46",
+    "grid": {
+     "1995": 346.0,
+     "1999": 419.0,
+     "2003": 455.0,
+     "2007": 499.0,
+     "2011": 545.0,
+     "2015": 640.0,
+     "2019": 700.0,
+     "2023": 826.0,
+     "2027": 1033.0
+    },
+    "inc_up": 108.1,
+    "latest": 1033.0,
+    "places": 66,
+    "rent_up": 91.9,
+    "share": 23.4,
+    "state": "South Dakota"
+   },
+   {
+    "code": "56",
+    "grid": {
+     "1995": 356,
+     "1999": 428,
+     "2003": 465,
+     "2007": 512,
+     "2011": 635,
+     "2015": 679,
+     "2019": 818,
+     "2023": 872,
+     "2027": 1016
+    },
+    "inc_up": 79.4,
+    "latest": 1016,
+    "places": 23,
+    "rent_up": 94.5,
+    "share": 23.3,
+    "state": "Wyoming"
+   },
+   {
+    "code": "31",
+    "grid": {
+     "1995": 337,
+     "1999": 389,
+     "2003": 416,
+     "2007": 517,
+     "2011": 558,
+     "2015": 607,
+     "2019": 700,
+     "2023": 826,
+     "2027": 1014
+    },
+    "inc_up": 85.7,
+    "latest": 1014,
+    "places": 93,
+    "rent_up": 91.4,
+    "share": 24.5,
+    "state": "Nebraska"
+   },
+   {
+    "code": "38",
+    "grid": {
+     "1995": 291,
+     "1999": 368,
+     "2003": 399,
+     "2007": 489,
+     "2011": 545,
+     "2015": 600,
+     "2019": 700,
+     "2023": 826,
+     "2027": 1014
+    },
+    "inc_up": 100.8,
+    "latest": 1014,
+    "places": 53,
+    "rent_up": 83.8,
+    "share": 19.6,
+    "state": "North Dakota"
+   },
+   {
+    "code": "22",
+    "grid": {
+     "1995": 325.5,
+     "1999": 369.5,
+     "2003": 397.0,
+     "2007": 501.0,
+     "2011": 635.0,
+     "2015": 675.0,
+     "2019": 741.0,
+     "2023": 873.0,
+     "2027": 995.0
+    },
+    "inc_up": 69.4,
+    "latest": 995.0,
+    "places": 64,
+    "rent_up": 98.1,
+    "share": 30.5,
+    "state": "Louisiana"
+   },
+   {
+    "code": "69",
+    "grid": {
+     "2019": 712,
+     "2023": 852,
+     "2027": 988
+    },
+    "inc_up": null,
+    "latest": 988,
+    "places": 1,
+    "rent_up": null,
+    "share": 41.2,
+    "state": "Northern Mariana Islands"
+   },
+   {
+    "code": "01",
+    "grid": {
+     "1995": 303,
+     "1999": 347,
+     "2003": 370,
+     "2007": 465,
+     "2011": 550,
+     "2015": 609,
+     "2019": 662,
+     "2023": 790,
+     "2027": 975
+    },
+    "inc_up": 72.8,
+    "latest": 975,
+    "places": 67,
+    "rent_up": 91.0,
+    "share": 26.7,
+    "state": "Alabama"
+   },
+   {
+    "code": "29",
+    "grid": {
+     "1995": 314.5,
+     "1999": 352.0,
+     "2003": 377.0,
+     "2007": 480.5,
+     "2011": 550.0,
+     "2015": 608.0,
+     "2019": 652.0,
+     "2023": 748.0,
+     "2027": 962.0
+    },
+    "inc_up": 72.5,
+    "latest": 962.0,
+    "places": 116,
+    "rent_up": 91.4,
+    "share": 27.5,
+    "state": "Missouri"
+   },
+   {
+    "code": "20",
+    "grid": {
+     "1995": 319,
+     "1999": 391,
+     "2003": 418,
+     "2007": 512,
+     "2011": 578,
+     "2015": 634,
+     "2019": 672,
+     "2023": 788,
+     "2027": 961
+    },
+    "inc_up": 75.0,
+    "latest": 961,
+    "places": 105,
+    "rent_up": 76.5,
+    "share": 24.6,
+    "state": "Kansas"
+   },
+   {
+    "code": "17",
+    "grid": {
+     "1995": 336.5,
+     "1999": 374.0,
+     "2003": 400.0,
+     "2007": 522.5,
+     "2011": 592.0,
+     "2015": 635.5,
+     "2019": 713.0,
+     "2023": 810.5,
+     "2027": 957.5
+    },
+    "inc_up": 71.3,
+    "latest": 957.5,
+    "places": 102,
+    "rent_up": 86.2,
+    "share": 24.5,
+    "state": "Illinois"
+   },
+   {
+    "code": "54",
+    "grid": {
+     "1995": 327,
+     "1999": 360,
+     "2003": 389,
+     "2007": 505,
+     "2011": 554,
+     "2015": 638,
+     "2019": 643,
+     "2023": 783,
+     "2027": 955
+    },
+    "inc_up": 72.8,
+    "latest": 955,
+    "places": 55,
+    "rent_up": 89.3,
+    "share": 27.8,
+    "state": "West Virginia"
+   },
+   {
+    "code": "60",
+    "grid": {
+     "2019": 723,
+     "2023": 865,
+     "2027": 942
+    },
+    "inc_up": null,
+    "latest": 942,
+    "places": 1,
+    "rent_up": null,
+    "share": 39.3,
+    "state": "American Samoa"
+   },
+   {
+    "code": "19",
+    "grid": {
+     "1995": 363,
+     "1999": 409,
+     "2003": 437,
+     "2007": 513,
+     "2011": 555,
+     "2015": 593,
+     "2019": 664,
+     "2023": 795,
+     "2027": 927
+    },
+    "inc_up": 78.4,
+    "latest": 927,
+    "places": 99,
+    "rent_up": 84.5,
+    "share": 23.4,
+    "state": "Iowa"
+   },
+   {
+    "code": "21",
+    "grid": {
+     "1995": 318.5,
+     "1999": 359.0,
+     "2003": 383.0,
+     "2007": 481.5,
+     "2011": 544.0,
+     "2015": 565.5,
+     "2019": 628.5,
+     "2023": 746.5,
+     "2027": 925.0
+    },
+    "inc_up": 74.9,
+    "latest": 925.0,
+    "places": 120,
+    "rent_up": 101.9,
+    "share": 28.9,
+    "state": "Kentucky"
+   },
+   {
+    "code": "40",
+    "grid": {
+     "1995": 311,
+     "1999": 354,
+     "2003": 381,
+     "2007": 469,
+     "2011": 564,
+     "2015": 623,
+     "2019": 700,
+     "2023": 797,
+     "2027": 916
+    },
+    "inc_up": 80.5,
+    "latest": 916,
+    "places": 77,
+    "rent_up": 107.8,
+    "share": 29.6,
+    "state": "Oklahoma"
+   },
+   {
+    "code": "05",
+    "grid": {
+     "1995": 325,
+     "1999": 361,
+     "2003": 388,
+     "2007": 480,
+     "2011": 540,
+     "2015": 584,
+     "2019": 650,
+     "2023": 720,
+     "2027": 909
+    },
+    "inc_up": 81.9,
+    "latest": 909,
+    "places": 75,
+    "rent_up": 93.0,
+    "share": 29.7,
+    "state": "Arkansas"
+   },
+   {
+    "code": "28",
+    "grid": {
+     "1995": 300.0,
+     "1999": 364.0,
+     "2003": 389.0,
+     "2007": 473.0,
+     "2011": 576.0,
+     "2015": 620.0,
+     "2019": 651.0,
+     "2023": 766.0,
+     "2027": 905.0
+    },
+    "inc_up": 80.6,
+    "latest": 905.0,
+    "places": 82,
+    "rent_up": 85.1,
+    "share": 28.1,
+    "state": "Mississippi"
+   },
+   {
+    "code": "72",
+    "grid": {
+     "1995": 446.0,
+     "1999": 361.0,
+     "2003": 389.0,
+     "2007": 416.0,
+     "2011": 498.0,
+     "2015": 530.0,
+     "2019": 462.0,
+     "2023": 498.0,
+     "2027": 613.0
+    },
+    "inc_up": 92.6,
+    "latest": 613.0,
+    "places": 78,
+    "rent_up": 42.6,
+    "share": 38.4,
+    "state": "Puerto Rico"
+   }
+  ]
+ }
+}

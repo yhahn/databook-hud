@@ -190,6 +190,28 @@ function build(rows) {
     for (const col of Object.keys(CODES)) if (r[col] !== '' && r[col] != null && CODES[col][r[col]] === undefined) counts.bare_codes++;
     if (idBefore(r.datanote)) counts.ids_before++;
   }
+  // a reader's way in (SPEC R2): the projects and low-income units by year
+  // placed in service, and by state; the busiest year, and the median
+  // project's low-income units up to it and after (read by .import/readme.py)
+  const byYear = {}, byStateCount = {};
+  for (const r of rows) {
+    const [, stateName] = BY_ALPHA[r.proj_st];
+    const s = (byStateCount[stateName] ??= { projects: 0, li_units: 0 });
+    s.projects++; s.li_units += num(r.li_unitr);
+    if (YEAR_MISSING[r.yr_pis] || r.yr_pis === '' || r.yr_pis == null) continue;
+    const y = (byYear[r.yr_pis] ??= { projects: 0, li_units: 0 });
+    y.projects++; y.li_units += num(r.li_unitr);
+  }
+  const years = Object.keys(byYear).map(Number).sort((a, b) => a - b);
+  const peak = years.reduce((a, y) => (byYear[y].projects > byYear[a].projects ? y : a), years[0]);
+  const med = (a) => { const v = [...a].sort((x, y) => x - y), m = v.length >> 1; return v.length % 2 ? v[m] : (v[m - 1] + v[m]) / 2; };
+  const sized = rows.filter((r) => !YEAR_MISSING[r.yr_pis] && r.yr_pis !== '' && r.yr_pis != null && r.li_unitr !== '' && r.li_unitr != null);
+  counts.reading = {
+    by_year: byYear, by_state: byStateCount, first_year: years[0], last_year: years[years.length - 1],
+    peak_year: peak, peak_projects: byYear[peak].projects,
+    early_size: med(sized.filter((r) => r.yr_pis <= peak).map((r) => num(r.li_unitr))),
+    late_size: med(sized.filter((r) => r.yr_pis > peak).map((r) => num(r.li_unitr))),
+  };
   counts.county_from = Object.entries(from).sort((a, b) => String(b[0]).localeCompare(String(a[0]))).map(([k, n]) => `${k}:${n}`).join(' ');
 
   function recordText(r) {
@@ -256,7 +278,7 @@ function build(rows) {
     const nCounties = counties.filter(([k]) => k).length;
     pages[`${stateName}.md`] = page([`# Tax Credit Projects: ${stateName}`, '',
       ...keys('State', st, sf, '', nCounties, all.length, sum(all, 'n_unitsr'), sum(all, 'li_unitr')),
-      `The low-income housing tax credit projects of ${stateName} in HUD's database, placed in service 1987 to 2024: ${all.length} projects in ${nCounties} ${nCounties === 1 ? 'county' : 'counties'}, a county a page and a folder of its projects.`, '',
+      `The low-income housing tax credit projects of ${stateName} in HUD's database, placed in service 1987 to 2024: ${all.length} projects in ${nCounties} ${nCounties === 1 ? 'county' : 'counties'}, a county a page and a folder of its projects. What rent costs across its places, and against a low income, is on its [rents page](${link(`../rents/${stateName}.md`)}).`, '',
       '## Counties', '', '| County | FIPS | Projects | Units | Low-income units |', '|---|---|---|---|---|', ...listed]);
     statesListed.push([stateName, all.length, nCounties]);
     counts.states++;

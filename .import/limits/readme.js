@@ -64,7 +64,7 @@ join Limits_Very_low_income_50 v on v.record = t.name and v.Persons = 4
 where t.State = 'Connecticut' order by t.name limit 10
 \`\`\`
 
-\`FIPS\` is gathered as a number, so its leading zero goes; \`lpad(cast("FIPS" as varchar), 10, '0')\` gives it back. The join with the rents is in the repo's README.
+\`FIPS\` is gathered as text, its leading zero kept (SPEC K2). The join with the rents is in the repo's README.
 
 ## Changes
 

@@ -1,13 +1,10 @@
 # Project: BRUNSWICK PLACE (NCA20080020)
 
 - HUD ID: NCA20080020
-- HUD ID before: 
 - Project: BRUNSWICK PLACE
 - Address: 27 MILLSTREAM DRIVE
 - City: WHITEVILLE
-- State: NC
 - ZIP: 28424
-- ZIP extension: 
 - State project ID: 9001237
 - Latitude: 34.289145
 - Longitude: -78.699026
@@ -19,12 +16,8 @@
 - Tract 1990: 37047991000
 - Place 2020: 08420
 - Place 2010: 08420
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 233310
 - Units: 32
 - Low-income units: 32
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 13
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

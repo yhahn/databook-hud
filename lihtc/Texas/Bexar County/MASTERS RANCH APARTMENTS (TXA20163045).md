@@ -1,13 +1,10 @@
 # Project: MASTERS RANCH APARTMENTS (TXA20163045)
 
 - HUD ID: TXA20163045
-- HUD ID before: 
 - Project: MASTERS RANCH APARTMENTS
 - Address: 3435 E SOUTHCROSS BLVD
 - City: SAN ANTONIO
-- State: TX
 - ZIP: 78223
-- ZIP extension: 
 - State project ID: TX4977
 - Latitude: 29.376244
 - Longitude: -98.430339
@@ -15,17 +12,10 @@
 - County from: 2020
 - Tract 2020: 48029141300
 - Tract 2010: 48029141300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 65000
 - Place 2010: 65000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 252
 - Low-income units: 252
 - Units reported: 252
@@ -38,17 +28,12 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +48,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -78,8 +62,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MASTERS SA APTS.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: HAVEN POINTE (UTA20020050)
 
 - HUD ID: UTA20020050
-- HUD ID before: 
 - Project: HAVEN POINTE
 - Address: 2265 SOUTH 1100 WEST
 - City: WEST HAVEN
-- State: UT
 - ZIP: 84401
 - ZIP extension: 0000
 - State project ID: 2002-25
@@ -20,11 +18,8 @@
 - Place 2020: 82930
 - Place 2010: 82930
 - Place 2000: 82930
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 377511
 - Units: 192
 - Low-income units: 168
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

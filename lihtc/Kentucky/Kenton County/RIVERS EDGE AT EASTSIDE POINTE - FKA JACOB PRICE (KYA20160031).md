@@ -1,13 +1,10 @@
 # Project: RIVERS EDGE AT EASTSIDE POINTE - FKA JACOB PRICE (KYA20160031)
 
 - HUD ID: KYA20160031
-- HUD ID before: 
 - Project: RIVERS EDGE AT EASTSIDE POINTE - FKA JACOB PRICE
 - Address: GREENUP STREET
 - City: COVINGTON
-- State: KY
 - ZIP: 41011
-- ZIP extension: 
 - State project ID: KY-13-019
 - Latitude: 39.0786
 - Longitude: -84.5159
@@ -19,12 +16,9 @@
 - Tract 1990: 21117060500
 - Place 2020: 17848
 - Place 2010: 17848
-- Place 2000: 
 - Place 1990: 0465
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1200000
 - Units: 120
 - Low-income units: 120
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

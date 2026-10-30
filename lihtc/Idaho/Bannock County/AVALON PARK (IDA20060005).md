@@ -1,13 +1,10 @@
 # Project: AVALON PARK (IDA20060005)
 
 - HUD ID: IDA20060005
-- HUD ID before: 
 - Project: AVALON PARK
 - Address: 5265 MESQUITE DRIVE
 - City: CHUBBUCK
-- State: ID
 - ZIP: 83202
-- ZIP extension: 
 - State project ID: HC0402
 - Latitude: 42.928863
 - Longitude: -112.468706
@@ -22,9 +19,7 @@
 - Place 2000: 14680
 - Place 1990: 0150
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 351264
 - Units: 54
 - Low-income units: 53
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 53
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

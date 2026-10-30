@@ -1,13 +1,10 @@
 # Project: TOOLEY PLACE (NCA20150041)
 
 - HUD ID: NCA20150041
-- HUD ID before: 
 - Project: TOOLEY PLACE
 - Address: 603 609 HULL DRIVE
 - City: ELIZABETH CITY
-- State: NC
 - ZIP: 27909
-- ZIP extension: 
 - State project ID: 9152473
 - Latitude: 36.2888
 - Longitude: -76.2324
@@ -19,12 +16,9 @@
 - Tract 1990: 37139960300
 - Place 2020: 20580
 - Place 2010: 20580
-- Place 2000: 
 - Place 1990: 0805
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 270000
 - Units: 36
 - Low-income units: 36
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 15
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

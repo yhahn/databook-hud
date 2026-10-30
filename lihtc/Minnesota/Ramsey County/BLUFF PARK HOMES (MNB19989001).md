@@ -1,11 +1,9 @@
 # Project: BLUFF PARK HOMES (MNB19989001)
 
 - HUD ID: MNB19989001
-- HUD ID before: 
 - Project: BLUFF PARK HOMES
 - Address: 328 CESAR CHAVEZ STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55107
 - ZIP extension: 2351
 - State project ID: D2180
@@ -16,15 +14,11 @@
 - Tract 2020: 27123037200
 - Tract 2010: 27123037200
 - Tract 2000: 27123037200
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 672351
 - Units: 73
 - Low-income units: 73
@@ -39,9 +33,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: General Occupancy
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

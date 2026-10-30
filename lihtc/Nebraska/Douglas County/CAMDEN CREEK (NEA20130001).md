@@ -1,13 +1,10 @@
 # Project: CAMDEN CREEK (NEA20130001)
 
 - HUD ID: NEA20130001
-- HUD ID before: 
 - Project: CAMDEN CREEK
 - Address: 1631 N 84TH AVE
 - City: OMAHA
-- State: NE
 - ZIP: 68114
-- ZIP extension: 
 - State project ID: 7-0781
 - Latitude: 41.274621
 - Longitude: -96.043928
@@ -22,9 +19,7 @@
 - Place 2000: 37000
 - Place 1990: 1825
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 704012
 - Units: 33
 - Low-income units: 33
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

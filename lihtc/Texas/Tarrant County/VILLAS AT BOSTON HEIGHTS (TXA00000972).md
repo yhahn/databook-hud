@@ -1,13 +1,10 @@
 # Project: VILLAS AT BOSTON HEIGHTS (TXA00000972)
 
 - HUD ID: TXA00000972
-- HUD ID before: 
 - Project: VILLAS AT BOSTON HEIGHTS
 - Address: 3510 BOSTON AVENUE
 - City: BENBROOK
-- State: TX
 - ZIP: 76116
-- ZIP extension: 
 - State project ID: TX5130
 - Latitude: 32.721105
 - Longitude: -97.454869
@@ -16,16 +13,11 @@
 - Tract 2020: 48439110901
 - Tract 2010: 48439110901
 - Tract 2000: 48439110901
-- Tract 1990: 
 - Place 2020: 07552
 - Place 2010: 07552
 - Place 2000: 07552
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 144
 - Low-income units: 130
 - Units reported: 144
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

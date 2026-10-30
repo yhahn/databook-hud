@@ -1,13 +1,10 @@
 # Project: J W S APTS-K (MSA19890240)
 
 - HUD ID: MSA19890240
-- HUD ID before: 
 - Project: J W S APTS-K
 - Address: 373K N CANAL ST
 - City: CANTON
-- State: MS
 - ZIP: 39046
-- ZIP extension: 
 - State project ID: 89-113
 - Latitude: 32.616526
 - Longitude: -90.042069
@@ -22,10 +19,7 @@
 - Place 2000: 11100
 - Place 1990: 0190
 - Year placed in service: 1989
-- Placed in service note: 
 - Allocation year: 1989
-- Allocation year note: 
-- Allocation amount: 
 - Units: 4
 - Low-income units: 3
 - Units reported: 4
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

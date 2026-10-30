@@ -1,11 +1,9 @@
 # Project: ST ANTHONY MILLS APARTMENTS (MNB20078007)
 
 - HUD ID: MNB20078007
-- HUD ID before: 
 - Project: ST ANTHONY MILLS APARTMENTS
 - Address: 720 WASHINGTON AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55415
 - ZIP extension: 0000
 - State project ID: D3642
@@ -16,15 +14,11 @@
 - Tract 2020: 27053126102
 - Tract 2010: 27053126100
 - Tract 2000: 27053104700
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 554268
 - Units: 93
 - Low-income units: 85
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 11
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,10 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
-- Homeless: 
 - Other population: Yes
 - Other population named: No
 - Scattered site: No
@@ -78,8 +68,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

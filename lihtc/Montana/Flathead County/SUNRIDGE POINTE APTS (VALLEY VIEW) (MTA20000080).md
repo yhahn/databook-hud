@@ -1,11 +1,9 @@
 # Project: SUNRIDGE POINTE APTS (VALLEY VIEW) (MTA20000080)
 
 - HUD ID: MTA20000080
-- HUD ID before: 
 - Project: SUNRIDGE POINTE APTS (VALLEY VIEW)
 - Address: 400 LIBERTY STREET
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 99180
@@ -20,11 +18,8 @@
 - Place 2020: 40075
 - Place 2010: 40075
 - Place 2000: 25075
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 74994
 - Units: 52
 - Low-income units: 52
@@ -72,14 +67,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PREV VALLEY VIEW.
 - Record status: Updated

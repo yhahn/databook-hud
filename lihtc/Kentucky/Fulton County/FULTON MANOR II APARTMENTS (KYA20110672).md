@@ -1,13 +1,10 @@
 # Project: FULTON MANOR II APARTMENTS (KYA20110672)
 
 - HUD ID: KYA20110672
-- HUD ID before: 
 - Project: FULTON MANOR II APARTMENTS
 - Address: MIDDLE ROAD
 - City: FULTON
-- State: KY
 - ZIP: 42041
-- ZIP extension: 
 - State project ID: KY-10-077
 - Latitude: 36.5661
 - Longitude: -88.9999
@@ -19,12 +16,9 @@
 - Tract 1990: 21075980100
 - Place 2020: 13600
 - Place 2010: 13600
-- Place 2000: 
 - Place 1990: 0765
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 200748
 - Units: 14
 - Low-income units: 14
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

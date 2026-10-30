@@ -1,13 +1,10 @@
 # Project: AGAPE - CENTRAL (KYA19950248)
 
 - HUD ID: KYA19950248
-- HUD ID before: 
 - Project: AGAPE - CENTRAL
 - Address: WAGON WHEEL TRAIL
 - City: ELIZABETHTOWN
-- State: KY
 - ZIP: 42701
-- ZIP extension: 
 - State project ID: KY-94-096
 - Latitude: 37.7012
 - Longitude: -85.8554
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 21093001402
 - Tract 2010: 21093001402
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 24274
 - Place 2010: 24274
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 80945
 - Units: 12
 - Low-income units: 12
@@ -39,7 +30,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +55,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +65,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA1995010.;
 - Record status: Updated

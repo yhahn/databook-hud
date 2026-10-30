@@ -1,13 +1,10 @@
 # Project: RUSSELL LAMSON (IAA20120903)
 
 - HUD ID: IAA20120903
-- HUD ID before: 
 - Project: RUSSELL LAMSON
 - Address: 209 W FIFTH ST
 - City: WATERLOO
-- State: IA
 - ZIP: 50701
-- ZIP extension: 
 - State project ID: 10-10-24
 - Latitude: 42.494221
 - Longitude: -92.338584
@@ -22,9 +19,7 @@
 - Place 2000: 82425
 - Place 1990: 4455
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1074861
 - Units: 90
 - Low-income units: 90
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HEARTHSTONE VILLAGE (NDA19980010)
 
 - HUD ID: NDA19980010
-- HUD ID before: 
 - Project: HEARTHSTONE VILLAGE
 - Address: 406 FIRST ST
 - City: HATTON
-- State: ND
 - ZIP: 58240
-- ZIP extension: 
 - State project ID: TC9804
 - Latitude: 47.643324
 - Longitude: -97.461926
@@ -22,9 +19,7 @@
 - Place 2000: 11340
 - Place 1990: 0780
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 7104
 - Units: 8
 - Low-income units: 8
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,6 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

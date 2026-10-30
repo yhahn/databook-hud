@@ -1,11 +1,9 @@
 # Project: AZALEA GARDENS (MSA20029001)
 
 - HUD ID: MSA20029001
-- HUD ID before: 
 - Project: AZALEA GARDENS
 - Address: 1408 IDA STREET
 - City: TUPELO
-- State: MS
 - ZIP: 38802
 - ZIP extension: 0000
 - State project ID: 98-067
@@ -13,18 +11,12 @@
 - Longitude: -88.728806
 - County FIPS: 28081
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 28081950901
 - Tract 2000: 28081950900
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 74840
 - Place 2000: 74840
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 145080
 - Units: 241
 - Low-income units: 239
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: Single-Parent Families
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

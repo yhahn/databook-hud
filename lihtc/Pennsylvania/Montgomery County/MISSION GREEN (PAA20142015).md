@@ -1,11 +1,9 @@
 # Project: MISSION GREEN (PAA20142015)
 
 - HUD ID: PAA20142015
-- HUD ID before: 
 - Project: MISSION GREEN
 - Address: 70 SHADY LN
 - City: JENKINTOWN
-- State: PA
 - ZIP: 19046
 - ZIP extension: 4286
 - State project ID: TC20120431
@@ -16,15 +14,10 @@
 - Tract 2020: 42091201901
 - Tract 2010: 42091201901
 - Tract 2000: 42091201901
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 60000
 - Units: 61
 - Low-income units: 61
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,13 +48,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

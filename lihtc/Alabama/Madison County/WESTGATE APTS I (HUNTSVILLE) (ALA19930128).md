@@ -1,13 +1,10 @@
 # Project: WESTGATE APTS I (HUNTSVILLE) (ALA19930128)
 
 - HUD ID: ALA19930128
-- HUD ID before: 
 - Project: WESTGATE APTS I (HUNTSVILLE)
 - Address: 2211 PIZITZ DR SW
 - City: HUNTSVILLE
-- State: AL
 - ZIP: 35805
-- ZIP extension: 
 - State project ID: AL-93-0078
 - Latitude: 34.710879
 - Longitude: -86.593828
@@ -22,9 +19,7 @@
 - Place 2000: 37000
 - Place 1990: 0935
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 155881
 - Units: 87
 - Low-income units: 87
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 87
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1994270.
 - Record status: Existing, unchanged

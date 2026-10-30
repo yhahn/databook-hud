@@ -1,13 +1,10 @@
 # Project: JEFFERSON PLACE APTS (TNA19900140)
 
 - HUD ID: TNA19900140
-- HUD ID before: 
 - Project: JEFFERSON PLACE APTS
 - Address: 3016 JEFFERSON PL
 - City: WHITE PINE
-- State: TN
 - ZIP: 37890
-- ZIP extension: 
 - State project ID: TN-90-012
 - Latitude: 36.101406
 - Longitude: -83.290921
@@ -20,11 +17,8 @@
 - Place 2020: 80360
 - Place 2010: 80360
 - Place 2000: 03078
-- Place 1990: 
 - Year placed in service: 1990
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 27845
 - Units: 18
 - Low-income units: 18
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

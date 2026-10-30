@@ -1,13 +1,10 @@
 # Project: VILLAGE COMMONS (MNA20130020)
 
 - HUD ID: MNA20130020
-- HUD ID before: 
 - Project: VILLAGE COMMONS
 - Address: CONNELLY PARKWAY - WEST VIRGINIA COURT
 - City: SAVAGE
-- State: MN
 - ZIP: 55378
-- ZIP extension: 
 - State project ID: D6683
 - Latitude: 44.7573
 - Longitude: -93.3437
@@ -22,9 +19,7 @@
 - Place 2000: 58738
 - Place 1990: 3485
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1195000
 - Units: 66
 - Low-income units: 66
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +43,9 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +53,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

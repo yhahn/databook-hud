@@ -1,11 +1,9 @@
 # Project: TLC EAST (UTA20050075)
 
 - HUD ID: UTA20050075
-- HUD ID before: 
 - Project: TLC EAST
 - Address: 1026 WEST 500 SOUTH
 - City: VERNAL
-- State: UT
 - ZIP: 84078
 - ZIP extension: 0000
 - State project ID: 2004-24
@@ -22,9 +20,7 @@
 - Place 2000: 80090
 - Place 1990: 1025
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 51134
 - Units: 8
 - Low-income units: 8
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

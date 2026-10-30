@@ -1,11 +1,9 @@
 # Project: WESTWIND VILLAGE APARTMENTS (MTA19950030)
 
 - HUD ID: MTA19950030
-- HUD ID before: 
 - Project: WESTWIND VILLAGE APARTMENTS
 - Address: 206 COOPER LANE
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 94010
@@ -22,9 +20,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 68533
 - Units: 34
 - Low-income units: 34
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

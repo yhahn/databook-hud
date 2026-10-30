@@ -1,13 +1,10 @@
 # Project: LAKE VILLA APTS (MSA19870017)
 
 - HUD ID: MSA19870017
-- HUD ID before: 
 - Project: LAKE VILLA APTS
 - Address: 3349 COUNTRY SIDE CIR
 - City: HORN LAKE
-- State: MS
 - ZIP: 38637
-- ZIP extension: 
 - State project ID: 87-045
 - Latitude: 34.961944
 - Longitude: -90.050345
@@ -22,10 +19,7 @@
 - Place 2000: 33700
 - Place 1990: 0578
 - Year placed in service: 1987
-- Placed in service note: 
 - Allocation year: 1987
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

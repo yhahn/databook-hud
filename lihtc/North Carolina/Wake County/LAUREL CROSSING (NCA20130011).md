@@ -1,11 +1,9 @@
 # Project: LAUREL CROSSING (NCA20130011)
 
 - HUD ID: NCA20130011
-- HUD ID before: 
 - Project: LAUREL CROSSING
 - Address: 918 MALABYS CHURCH DR
 - City: KNIGHTDALE
-- State: NC
 - ZIP: 27545
 - ZIP extension: 7956
 - State project ID: 9109533
@@ -19,12 +17,8 @@
 - Tract 1990: 37183054103
 - Place 2020: 36080
 - Place 2010: 36080
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 904386
 - Units: 60
 - Low-income units: 60
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 15
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

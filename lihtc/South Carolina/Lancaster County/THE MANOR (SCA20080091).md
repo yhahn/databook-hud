@@ -1,13 +1,10 @@
 # Project: THE MANOR (SCA20080091)
 
 - HUD ID: SCA20080091
-- HUD ID before: 
 - Project: THE MANOR
 - Address: 402 N CATAWBA ST
 - City: LANCASTER
-- State: SC
 - ZIP: 29720
-- ZIP extension: 
 - State project ID: SC-07-013
 - Latitude: 34.72319
 - Longitude: -80.773858
@@ -22,9 +19,7 @@
 - Place 2000: 39895
 - Place 1990: 0745
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 66508
 - Units: 16
 - Low-income units: 16
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

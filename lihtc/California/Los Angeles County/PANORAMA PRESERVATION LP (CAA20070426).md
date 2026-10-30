@@ -1,13 +1,10 @@
 # Project: PANORAMA PRESERVATION LP (CAA20070426)
 
 - HUD ID: CAA20070426
-- HUD ID before: 
 - Project: PANORAMA PRESERVATION LP
 - Address: 9248 VAN NUYS BLVD
 - City: PANORAMA CITY
-- State: CA
 - ZIP: 91402
-- ZIP extension: 
 - State project ID: CA-07-087
 - Latitude: 34.238093
 - Longitude: -118.450053
@@ -22,9 +19,7 @@
 - Place 2000: 44000
 - Place 1990: 1630
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 879667
 - Units: 87
 - Low-income units: 86
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PANORAMA VIEW APTS.
 - Record status: Existing, unchanged

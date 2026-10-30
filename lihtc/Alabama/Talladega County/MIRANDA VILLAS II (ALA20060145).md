@@ -1,13 +1,10 @@
 # Project: MIRANDA VILLAS II (ALA20060145)
 
 - HUD ID: ALA20060145
-- HUD ID before: 
 - Project: MIRANDA VILLAS II
 - Address: 101 ASHVILLE LN
 - City: SYLACAUGA
-- State: AL
 - ZIP: 35150
-- ZIP extension: 
 - State project ID: AL-06-0005
 - Latitude: 33.176924
 - Longitude: -86.283024
@@ -22,9 +19,7 @@
 - Place 2000: 28984
 - Place 1990: 1645
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 279719
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 906120
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007100.
 - Record status: Existing, unchanged

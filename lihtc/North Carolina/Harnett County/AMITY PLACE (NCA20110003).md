@@ -1,13 +1,10 @@
 # Project: AMITY PLACE (NCA20110003)
 
 - HUD ID: NCA20110003
-- HUD ID before: 
 - Project: AMITY PLACE
 - Address: 810 SUSAN TART ROAD
 - City: DUNN
-- State: NC
 - ZIP: 28335
-- ZIP extension: 
 - State project ID: 9108136
 - Latitude: 35.305531
 - Longitude: -78.632331
@@ -16,15 +13,11 @@
 - Tract 2020: 37085070100
 - Tract 2010: 37085070100
 - Tract 2000: 37085070100
-- Tract 1990: 
 - Place 2020: 18320
 - Place 2010: 18320
 - Place 2000: 18320
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 96249
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 5
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

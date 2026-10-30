@@ -1,13 +1,10 @@
 # Project: HOLLY PARK (NCA20050095)
 
 - HUD ID: NCA20050095
-- HUD ID before: 
 - Project: HOLLY PARK
 - Address: 390 BIRCH STREET
 - City: RAEFORD
-- State: NC
 - ZIP: 28376
-- ZIP extension: 
 - State project ID: 9001317
 - Latitude: 34.972937
 - Longitude: -79.226241
@@ -22,9 +19,7 @@
 - Place 2000: 54580
 - Place 1990: 2015
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 143000
 - Units: 28
 - Low-income units: 28
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

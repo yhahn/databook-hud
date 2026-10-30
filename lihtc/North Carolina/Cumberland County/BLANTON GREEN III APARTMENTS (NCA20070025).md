@@ -1,11 +1,9 @@
 # Project: BLANTON GREEN III APARTMENTS (NCA20070025)
 
 - HUD ID: NCA20070025
-- HUD ID before: 
 - Project: BLANTON GREEN III APARTMENTS
 - Address: 1024 LAUREN MCNEILL LOOP
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28303
 - ZIP extension: 3574
 - State project ID: 9000662
@@ -19,12 +17,9 @@
 - Tract 1990: 37051002300
 - Place 2020: 22920
 - Place 2010: 22920
-- Place 2000: 
 - Place 1990: 0910
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 239054
 - Units: 36
 - Low-income units: 36
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 15
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

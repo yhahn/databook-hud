@@ -1,11 +1,9 @@
 # Project: HERITAGE VILLAS (GAA19910130)
 
 - HUD ID: GAA19910130
-- HUD ID before: 
 - Project: HERITAGE VILLAS
 - Address: 1200 IRWINTON AVE
 - City: HELENA
-- State: GA
 - ZIP: 31037
 - ZIP extension: 9708
 - State project ID: GA-90-135
@@ -22,10 +20,7 @@
 - Place 2000: 37816
 - Place 1990: 1727
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
-- Allocation amount: 
 - Units: 25
 - Low-income units: 25
 - Units reported: 8
@@ -36,15 +31,11 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
@@ -70,16 +61,7 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

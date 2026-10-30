@@ -1,13 +1,10 @@
 # Project: AUBURN TRACE APARTMENTS (NCA20070015)
 
 - HUD ID: NCA20070015
-- HUD ID before: 
 - Project: AUBURN TRACE APARTMENTS
 - Address: 2944 CROUSE LANE
 - City: BURLINGTON
-- State: NC
 - ZIP: 27215
-- ZIP extension: 
 - State project ID: 9001148
 - Latitude: 36.062871
 - Longitude: -79.494208
@@ -22,9 +19,7 @@
 - Place 2000: 09060
 - Place 1990: 0840
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 545663
 - Units: 80
 - Low-income units: 80
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 26
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

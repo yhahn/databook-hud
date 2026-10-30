@@ -1,11 +1,9 @@
 # Project: SERENITY PLACE (MIA20132002)
 
 - HUD ID: MIA20132002
-- HUD ID before: 
 - Project: SERENITY PLACE
 - Address: 216 S. CLINTON STREET
 - City: GRAND LEDGE
-- State: MI
 - ZIP: 48837
 - ZIP extension: 0000
 - State project ID: 3490
@@ -16,15 +14,11 @@
 - Tract 2020: 26045020404
 - Tract 2010: 26045020404
 - Tract 2000: 26045020401
-- Tract 1990: 
 - Place 2020: 33420
 - Place 2010: 33420
 - Place 2000: 33420
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 241408
 - Units: 100
 - Low-income units: 100
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

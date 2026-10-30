@@ -1,13 +1,10 @@
 # Project: SANTOS PLACE (WAA19990035)
 
 - HUD ID: WAA19990035
-- HUD ID before: 
 - Project: SANTOS PLACE
 - Address: 6940 62ND AVE NE
 - City: SEATTLE
-- State: WA
 - ZIP: 98115
-- ZIP extension: 
 - State project ID: 98-30K
 - Latitude: 47.679127
 - Longitude: -122.262001
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 1140
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 245856
 - Units: 42
 - Low-income units: 42
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: REGENCY COURT APTS (CAA20140439)
 
 - HUD ID: CAA20140439
-- HUD ID before: 
 - Project: REGENCY COURT APTS
 - Address: 720 FIFTH AVE CT
 - City: MONROVIA
-- State: CA
 - ZIP: 91016
-- ZIP extension: 
 - State project ID: CA-14-802
 - Latitude: 34.143715
 - Longitude: -118.019917
@@ -22,9 +19,7 @@
 - Place 2000: 48648
 - Place 1990: 1800
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 414888
 - Units: 115
 - Low-income units: 114
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1995097.
 - Record status: Existing, unchanged

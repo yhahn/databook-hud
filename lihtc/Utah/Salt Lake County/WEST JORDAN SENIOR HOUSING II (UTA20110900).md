@@ -1,11 +1,9 @@
 # Project: WEST JORDAN SENIOR HOUSING II (UTA20110900)
 
 - HUD ID: UTA20110900
-- HUD ID before: 
 - Project: WEST JORDAN SENIOR HOUSING II
 - Address: 7832 SOUTH 3200 WEST
 - City: WEST JORDAN
-- State: UT
 - ZIP: 84088
 - ZIP extension: 0000
 - State project ID: 2010-18
@@ -22,9 +20,7 @@
 - Place 2000: 82950
 - Place 1990: 1075
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 696595
 - Units: 72
 - Low-income units: 72
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

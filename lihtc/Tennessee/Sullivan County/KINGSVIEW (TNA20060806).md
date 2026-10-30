@@ -1,13 +1,10 @@
 # Project: KINGSVIEW (TNA20060806)
 
 - HUD ID: TNA20060806
-- HUD ID before: 
 - Project: KINGSVIEW
 - Address: 921 LARRY NEIL WAY
 - City: KINGSPORT
-- State: TN
 - ZIP: 37660
-- ZIP extension: 
 - State project ID: TN-04-043
 - Latitude: 36.563708
 - Longitude: -82.554473
@@ -22,9 +19,7 @@
 - Place 2000: 06640
 - Place 1990: 0750
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 574201
 - Units: 96
 - Low-income units: 96
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2005505, TNA2005062.
 - Record status: Existing, unchanged

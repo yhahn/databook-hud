@@ -1,13 +1,10 @@
 # Project: TAYLOR HEIGHTS APTS (MSA20090125)
 
 - HUD ID: MSA20090125
-- HUD ID before: 
 - Project: TAYLOR HEIGHTS APTS
 - Address: 2313 OLD MOBILE AVE
 - City: PASCAGOULA
-- State: MS
 - ZIP: 39567
-- ZIP extension: 
 - State project ID: MS-07-016
 - Latitude: 30.367727
 - Longitude: -88.54074
@@ -22,9 +19,7 @@
 - Place 2000: 55360
 - Place 1990: 0975
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 965250
 - Units: 144
 - Low-income units: 86
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

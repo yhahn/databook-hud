@@ -1,13 +1,10 @@
 # Project: TYNAN VILLAGE APTS (CAA20080875)
 
 - HUD ID: CAA20080875
-- HUD ID before: 
 - Project: TYNAN VILLAGE APTS
 - Address: 325 FRONT ST
 - City: SALINAS
-- State: CA
 - ZIP: 93901
-- ZIP extension: 
 - State project ID: CA-09-868
 - Latitude: 36.674162
 - Longitude: -121.648786
@@ -22,9 +19,7 @@
 - Place 2000: 64224
 - Place 1990: 2435
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1320544
 - Units: 171
 - Low-income units: 106
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 2600000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

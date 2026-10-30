@@ -1,13 +1,10 @@
 # Project: MADISON GLEN (NCA20000150)
 
 - HUD ID: NCA20000150
-- HUD ID before: 
 - Project: MADISON GLEN
 - Address: 6840 MADISON RIDGE WAY
 - City: RALEIGH
-- State: NC
 - ZIP: 27613
-- ZIP extension: 
 - State project ID: 9001061
 - Latitude: 35.872054
 - Longitude: -78.693826
@@ -20,11 +17,8 @@
 - Place 2020: 55000
 - Place 2010: 55000
 - Place 2000: 55000
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 254118
 - Units: 120
 - Low-income units: 120
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 60
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

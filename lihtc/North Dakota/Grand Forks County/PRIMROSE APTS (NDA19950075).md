@@ -1,13 +1,10 @@
 # Project: PRIMROSE APTS (NDA19950075)
 
 - HUD ID: NDA19950075
-- HUD ID before: 
 - Project: PRIMROSE APTS
 - Address: 3387 PRIMROSE CT
 - City: GRAND FORKS
-- State: ND
 - ZIP: 58201
-- ZIP extension: 
 - State project ID: 93-28
 - Latitude: 47.899413
 - Longitude: -97.074638
@@ -22,9 +19,7 @@
 - Place 2000: 32060
 - Place 1990: 0693
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 76509
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

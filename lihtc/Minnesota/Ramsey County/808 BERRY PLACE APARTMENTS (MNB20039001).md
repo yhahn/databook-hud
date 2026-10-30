@@ -1,11 +1,9 @@
 # Project: 808 BERRY PLACE APARTMENTS (MNB20039001)
 
 - HUD ID: MNB20039001
-- HUD ID before: 
 - Project: 808 BERRY PLACE APARTMENTS
 - Address: 808 BERRY STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55114
 - ZIP extension: 1072
 - State project ID: D3575
@@ -16,15 +14,11 @@
 - Tract 2020: 27123033200
 - Tract 2010: 27123033200
 - Tract 2000: 27123033200
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 324454
 - Units: 267
 - Low-income units: 81
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: No
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

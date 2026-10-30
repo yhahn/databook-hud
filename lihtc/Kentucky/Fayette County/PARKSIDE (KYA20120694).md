@@ -1,13 +1,10 @@
 # Project: PARKSIDE (KYA20120694)
 
 - HUD ID: KYA20120694
-- HUD ID before: 
 - Project: PARKSIDE
 - Address: CROSS KEYS ROAD
 - City: LEXINGTON
-- State: KY
 - ZIP: 40504
-- ZIP extension: 
 - State project ID: KY-10-036
 - Latitude: 38.037
 - Longitude: -84.5416
@@ -22,9 +19,7 @@
 - Place 2000: 46027
 - Place 1990: 1160
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 646383
 - Units: 36
 - Low-income units: 36
@@ -39,7 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +59,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

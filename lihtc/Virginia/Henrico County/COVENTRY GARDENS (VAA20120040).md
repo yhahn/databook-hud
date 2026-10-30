@@ -1,13 +1,10 @@
 # Project: COVENTRY GARDENS (VAA20120040)
 
 - HUD ID: VAA20120040
-- HUD ID before: 
 - Project: COVENTRY GARDENS
 - Address: 211 NEWBRIDGE CIR
 - City: RICHMOND
-- State: VA
 - ZIP: 23223
-- ZIP extension: 
 - State project ID: 1289
 - Latitude: 37.548357
 - Longitude: -77.341198
@@ -22,9 +19,7 @@
 - Place 2000: 37032
 - Place 1990: 0620
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 620025
 - Units: 176
 - Low-income units: 176
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 4029757
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

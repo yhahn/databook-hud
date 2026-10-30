@@ -1,13 +1,10 @@
 # Project: DOWNTOWN RENAISSANCE (ALA20070037)
 
 - HUD ID: ALA20070037
-- HUD ID before: 
 - Project: DOWNTOWN RENAISSANCE
 - Address: 350 BLOODGOOD ST
 - City: MOBILE
-- State: AL
 - ZIP: 36603
-- ZIP extension: 
 - State project ID: AL-06-0081
 - Latitude: 30.699557
 - Longitude: -88.050241
@@ -22,10 +19,7 @@
 - Place 2000: 50000
 - Place 1990: 1165
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 176
 - Low-income units: 88
 - Units reported: 176
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 176
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009015.
 - Record status: Existing, unchanged

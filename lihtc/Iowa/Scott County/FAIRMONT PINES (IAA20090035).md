@@ -1,13 +1,10 @@
 # Project: FAIRMONT PINES (IAA20090035)
 
 - HUD ID: IAA20090035
-- HUD ID before: 
 - Project: FAIRMONT PINES
 - Address: 3525 W 42ND ST
 - City: DAVENPORT
-- State: IA
 - ZIP: 52806
-- ZIP extension: 
 - State project ID: 07-32
 - Latitude: 41.563574
 - Longitude: -90.626907
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 1040
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 540456
 - Units: 112
 - Low-income units: 112
@@ -40,12 +35,9 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +47,9 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA HORIZON HOMES
 - Record status: Existing, unchanged

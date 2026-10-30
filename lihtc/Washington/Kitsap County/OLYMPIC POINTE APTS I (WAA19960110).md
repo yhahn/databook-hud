@@ -1,13 +1,10 @@
 # Project: OLYMPIC POINTE APTS I (WAA19960110)
 
 - HUD ID: WAA19960110
-- HUD ID before: 
 - Project: OLYMPIC POINTE APTS I
 - Address: 3100 SE ORLANDO ST
 - City: PORT ORCHARD
-- State: WA
 - ZIP: 98366
-- ZIP extension: 
 - State project ID: 94-32R
 - Latitude: 47.537369
 - Longitude: -122.608346
@@ -20,11 +17,8 @@
 - Place 2020: 55785
 - Place 2010: 55785
 - Place 2000: 53440
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 284400
 - Units: 51
 - Low-income units: 51
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

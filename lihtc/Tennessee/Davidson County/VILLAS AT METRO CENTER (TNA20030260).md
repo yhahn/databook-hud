@@ -1,13 +1,10 @@
 # Project: VILLAS AT METRO CENTER (TNA20030260)
 
 - HUD ID: TNA20030260
-- HUD ID before: 
 - Project: VILLAS AT METRO CENTER
 - Address: 469 PONDER PL
 - City: NASHVILLE
-- State: TN
 - ZIP: 37228
-- ZIP extension: 
 - State project ID: TN-01-051
 - Latitude: 36.190551
 - Longitude: -86.805687
@@ -22,9 +19,7 @@
 - Place 2000: 52006
 - Place 1990: 1016
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 523827
 - Units: 91
 - Low-income units: 91
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2003210.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HIGHLANDS COURT APARTMENTS (KYA20089016)
 
 - HUD ID: KYA20089016
-- HUD ID before: 
 - Project: HIGHLANDS COURT APARTMENTS
 - Address: RICHMOND DRIVE
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40205
-- ZIP extension: 
 - State project ID: KY-08-108
 - Latitude: 38.22
 - Longitude: -85.697
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 1230
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 226268
 - Units: 99
 - Low-income units: 99
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -48,7 +42,6 @@
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,21 +58,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA2007047.;
 - Record status: Updated

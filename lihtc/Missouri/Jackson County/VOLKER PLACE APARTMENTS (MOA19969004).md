@@ -1,11 +1,9 @@
 # Project: VOLKER PLACE APARTMENTS (MOA19969004)
 
 - HUD ID: MOA19969004
-- HUD ID before: 
 - Project: VOLKER PLACE APARTMENTS
 - Address: 6 W 3RD ST
 - City: KANSAS CITY
-- State: MO
 - ZIP: 64105
 - ZIP extension: 1266
 - State project ID: 95020
@@ -13,18 +11,12 @@
 - Longitude: -94.583448
 - County FIPS: 29095
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29095015200
 - Tract 2000: 29095000200
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 38000
 - Place 2000: 38000
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 276431
 - Units: 49
 - Low-income units: 49
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

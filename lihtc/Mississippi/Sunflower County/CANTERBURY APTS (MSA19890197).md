@@ -1,13 +1,10 @@
 # Project: CANTERBURY APTS (MSA19890197)
 
 - HUD ID: MSA19890197
-- HUD ID before: 
 - Project: CANTERBURY APTS
 - Address: 810 AIRPORT RD
 - City: INDIANOLA
-- State: MS
 - ZIP: 38751
-- ZIP extension: 
 - State project ID: 89-057
 - Latitude: 33.490946
 - Longitude: -90.668184
@@ -20,12 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 34740
-- Place 1990: 
 - Year placed in service: 1989
-- Placed in service note: 
 - Allocation year: 1989
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

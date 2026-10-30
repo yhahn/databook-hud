@@ -1,11 +1,9 @@
 # Project: DEPOT PLACE (MTA20130001)
 
 - HUD ID: MTA20130001
-- HUD ID before: 
 - Project: DEPOT PLACE
 - Address: 249 CENTER STREET
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 12080
@@ -22,9 +20,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 23104000
 - Units: 40
 - Low-income units: 40
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

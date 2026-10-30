@@ -1,13 +1,10 @@
 # Project: PASS ESTATES (MSA20110090)
 
 - HUD ID: MSA20110090
-- HUD ID before: 
 - Project: PASS ESTATES
 - Address: 774 BRILL ST
 - City: PASS CHRISTIAN
-- State: MS
 - ZIP: 39571
-- ZIP extension: 
 - State project ID: MS-07-2-060
 - Latitude: 30.311953
 - Longitude: -89.272302
@@ -20,11 +17,8 @@
 - Place 2020: 55400
 - Place 2010: 55400
 - Place 2000: 41680
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 2387000
 - Units: 130
 - Low-income units: 127
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011686.
 - Record status: Existing, unchanged

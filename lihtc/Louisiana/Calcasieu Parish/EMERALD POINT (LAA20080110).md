@@ -1,11 +1,9 @@
 # Project: EMERALD POINT (LAA20080110)
 
 - HUD ID: LAA20080110
-- HUD ID before: 
 - Project: EMERALD POINT
 - Address: 4254 5TH AVENUE
 - City: LAKE CHARLES
-- State: LA
 - ZIP: 70607
 - ZIP extension: 0000
 - State project ID: LA-07-018
@@ -22,9 +20,7 @@
 - Place 2000: 41155
 - Place 1990: 0715
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 21865
 - Units: 120
 - Low-income units: 72
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Acquisition/Rehab
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

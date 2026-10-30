@@ -1,13 +1,10 @@
 # Project: MACK ASHLAND (MIA20130011)
 
 - HUD ID: MIA20130011
-- HUD ID before: 
 - Project: MACK ASHLAND
 - Address: 14711 MACK AVE
 - City: DETROIT
-- State: MI
 - ZIP: 48215
-- ZIP extension: 
 - State project ID: MI-3471
 - Latitude: 42.387128
 - Longitude: -82.94964
@@ -22,9 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 812237
 - Units: 39
 - Low-income units: 39
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1500000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

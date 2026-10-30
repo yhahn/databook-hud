@@ -1,13 +1,10 @@
 # Project: KNIGHTSBRIDGE (TXA20089009)
 
 - HUD ID: TXA20089009
-- HUD ID before: 
 - Project: KNIGHTSBRIDGE
 - Address: 3455 1960 EAST
 - City: HUMBLE
-- State: TX
 - ZIP: 77338
-- ZIP extension: 
 - State project ID: TX4413
 - Latitude: 30.0184
 - Longitude: -95.2845
@@ -15,17 +12,10 @@
 - County from: 2020
 - Tract 2020: 48201240904
 - Tract 2010: 48201240902
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 120
 - Low-income units: 120
 - Units reported: 120
@@ -40,15 +30,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +49,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -78,8 +63,5 @@
 - Metro: Metro, central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
 - Record status: Existing, unchanged

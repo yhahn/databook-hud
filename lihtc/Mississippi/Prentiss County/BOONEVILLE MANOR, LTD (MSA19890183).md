@@ -1,13 +1,10 @@
 # Project: BOONEVILLE MANOR, LTD (MSA19890183)
 
 - HUD ID: MSA19890183
-- HUD ID before: 
 - Project: BOONEVILLE MANOR, LTD
 - Address: 402 N SMITH ST
 - City: BOONEVILLE
-- State: MS
 - ZIP: 38829
-- ZIP extension: 
 - State project ID: 89-001
 - Latitude: 34.658273
 - Longitude: -88.556771
@@ -22,10 +19,7 @@
 - Place 2000: 07780
 - Place 1990: 0130
 - Year placed in service: 1989
-- Placed in service note: 
 - Allocation year: 1989
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA0000095.
 - Record status: Existing, unchanged

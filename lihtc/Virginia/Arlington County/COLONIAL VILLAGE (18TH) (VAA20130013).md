@@ -1,13 +1,10 @@
 # Project: COLONIAL VILLAGE (18TH) (VAA20130013)
 
 - HUD ID: VAA20130013
-- HUD ID before: 
 - Project: COLONIAL VILLAGE (18TH)
 - Address: 2115 18TH ST N
 - City: ARLINGTON
-- State: VA
 - ZIP: 22201
-- ZIP extension: 
 - State project ID: 1318
 - Latitude: 38.894904
 - Longitude: -77.08604
@@ -22,9 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0056
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 260656
 - Units: 162
 - Low-income units: 155
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

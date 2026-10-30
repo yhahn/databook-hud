@@ -1,13 +1,10 @@
 # Project: SILVERLEAF AT MASON (TXA0000X082)
 
 - HUD ID: TXA0000X082
-- HUD ID before: 
 - Project: SILVERLEAF AT MASON
 - Address: 1161 AUSTIN STREET
 - City: MASON
-- State: TX
 - ZIP: 76856
-- ZIP extension: 
 - State project ID: TX5204
 - Latitude: 30.74742
 - Longitude: -99.215121
@@ -16,16 +13,10 @@
 - Tract 2020: 48319950200
 - Tract 2010: 48319950200
 - Tract 2000: 48319950100
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 45
 - Low-income units: 44
 - Units reported: 45
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -75,11 +65,5 @@
 - Other population named: Total Special Needs
 - Scattered site: No
 - Resyndicated: No
-- Metro: 
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

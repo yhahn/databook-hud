@@ -1,11 +1,9 @@
 # Project: COUNTRY PINES RETIREMENT MANOR (UTA19980025)
 
 - HUD ID: UTA19980025
-- HUD ID before: 
 - Project: COUNTRY PINES RETIREMENT MANOR
 - Address: 1706 WEST 1800 NORTH
 - City: CLINTON
-- State: UT
 - ZIP: 84015
 - ZIP extension: 0000
 - State project ID: 1998-11
@@ -22,9 +20,7 @@
 - Place 2000: 14290
 - Place 1990: 0145
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 132902
 - Units: 63
 - Low-income units: 58
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

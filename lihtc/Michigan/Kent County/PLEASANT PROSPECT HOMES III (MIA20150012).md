@@ -1,13 +1,10 @@
 # Project: PLEASANT PROSPECT HOMES III (MIA20150012)
 
 - HUD ID: MIA20150012
-- HUD ID before: 
 - Project: PLEASANT PROSPECT HOMES III
 - Address: TBD
 - City: GRAND RAPIDS
-- State: MI
 - ZIP: 49506
-- ZIP extension: 
 - State project ID: 3536
 - Latitude: 42.9482
 - Longitude: -85.6207
@@ -16,15 +13,10 @@
 - Tract 2020: 26081012400
 - Tract 2010: 26081012400
 - Tract 2000: 26081012400
-- Tract 1990: 
 - Place 2020: 23980
 - Place 2010: 23980
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1185765
 - Units: 90
 - Low-income units: 90
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

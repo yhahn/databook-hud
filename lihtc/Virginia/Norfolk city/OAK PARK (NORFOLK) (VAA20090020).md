@@ -1,13 +1,10 @@
 # Project: OAK PARK (NORFOLK) (VAA20090020)
 
 - HUD ID: VAA20090020
-- HUD ID before: 
 - Project: OAK PARK (NORFOLK)
 - Address: 1500 BERKLEY AVE EXT
 - City: NORFOLK
-- State: VA
 - ZIP: 23504
-- ZIP extension: 
 - State project ID: 8822
 - Latitude: 36.825014
 - Longitude: -76.266576
@@ -22,9 +19,7 @@
 - Place 2000: 57000
 - Place 1990: 0875
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 62910
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005170. AKA PRESTIGE ARMS APTS LLLP.
 - Record status: Existing, unchanged

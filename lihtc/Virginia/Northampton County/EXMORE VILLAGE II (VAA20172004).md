@@ -1,13 +1,10 @@
 # Project: EXMORE VILLAGE II (VAA20172004)
 
 - HUD ID: VAA20172004
-- HUD ID before: 
 - Project: EXMORE VILLAGE II
 - Address: 12374 RUE COURT
 - City: EXMORE
-- State: VA
 - ZIP: 23350
-- ZIP extension: 
 - State project ID: 7352
 - Latitude: 37.528978
 - Longitude: -75.815255
@@ -20,11 +17,8 @@
 - Place 2020: 26416
 - Place 2010: 26416
 - Place 2000: 05912
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 200898
 - Units: 64
 - Low-income units: 64
@@ -40,15 +34,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: Yes
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +63,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

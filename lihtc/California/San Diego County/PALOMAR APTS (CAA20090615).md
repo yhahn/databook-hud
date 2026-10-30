@@ -1,13 +1,10 @@
 # Project: PALOMAR APTS (CAA20090615)
 
 - HUD ID: CAA20090615
-- HUD ID before: 
 - Project: PALOMAR APTS
 - Address: 171 PALOMAR ST
 - City: CHULA VISTA
-- State: CA
 - ZIP: 91911
-- ZIP extension: 
 - State project ID: CA-08-828
 - Latitude: 32.608407
 - Longitude: -117.061181
@@ -22,9 +19,7 @@
 - Place 2000: 13392
 - Place 1990: 0525
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 671402
 - Units: 168
 - Low-income units: 167
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 51
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

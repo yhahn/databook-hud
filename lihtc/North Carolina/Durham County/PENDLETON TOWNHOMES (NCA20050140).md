@@ -1,13 +1,10 @@
 # Project: PENDLETON TOWNHOMES (NCA20050140)
 
 - HUD ID: NCA20050140
-- HUD ID before: 
 - Project: PENDLETON TOWNHOMES
 - Address: 300 S WOODCREST
 - City: DURHAM
-- State: NC
 - ZIP: 27703
-- ZIP extension: 
 - State project ID: 9002340
 - Latitude: 35.982294
 - Longitude: -78.850784
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 290046
 - Units: 88
 - Low-income units: 88
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

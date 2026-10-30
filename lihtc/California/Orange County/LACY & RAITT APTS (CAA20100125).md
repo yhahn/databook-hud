@@ -1,13 +1,10 @@
 # Project: LACY & RAITT APTS (CAA20100125)
 
 - HUD ID: CAA20100125
-- HUD ID before: 
 - Project: LACY & RAITT APTS
 - Address: 703 N LACY ST
 - City: SANTA ANA
-- State: CA
 - ZIP: 92701
-- ZIP extension: 
 - State project ID: CA-09-803
 - Latitude: 33.75107
 - Longitude: -117.861232
@@ -22,9 +19,7 @@
 - Place 2000: 69000
 - Place 1990: 2570
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 265615
 - Units: 35
 - Low-income units: 34
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 34
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 2020040
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA LACYRAITT APTS.
 - Record status: Existing, unchanged

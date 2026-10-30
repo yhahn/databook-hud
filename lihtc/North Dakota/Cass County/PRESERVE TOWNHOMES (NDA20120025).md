@@ -1,13 +1,10 @@
 # Project: PRESERVE TOWNHOMES (NDA20120025)
 
 - HUD ID: NDA20120025
-- HUD ID before: 
 - Project: PRESERVE TOWNHOMES
 - Address: 3178 SEVENTH ST E
 - City: WEST FARGO
-- State: ND
 - ZIP: 58078
-- ZIP extension: 
 - State project ID: TC1109
 - Latitude: 46.836341
 - Longitude: -96.887984
@@ -20,11 +17,8 @@
 - Place 2020: 84780
 - Place 2010: 84780
 - Place 2000: 09320
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 387559
 - Units: 27
 - Low-income units: 27
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

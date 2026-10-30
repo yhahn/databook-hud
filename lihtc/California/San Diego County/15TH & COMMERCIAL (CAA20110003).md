@@ -1,13 +1,10 @@
 # Project: 15TH & COMMERCIAL (CAA20110003)
 
 - HUD ID: CAA20110003
-- HUD ID before: 
 - Project: 15TH & COMMERCIAL
 - Address: 1501 IMPERIAL AVE
 - City: SAN DIEGO
-- State: CA
 - ZIP: 92101
-- ZIP extension: 
 - State project ID: CA-09-606
 - Latitude: 32.706113
 - Longitude: -117.150316
@@ -22,10 +19,7 @@
 - Place 2000: 66000
 - Place 1990: 2475
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 139
 - Low-income units: 139
 - Units reported: 139
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 139
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 6637597
 - TCEP: Yes
 - TCEP amount: 19999200
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

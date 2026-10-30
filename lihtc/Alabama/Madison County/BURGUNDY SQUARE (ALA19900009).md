@@ -1,13 +1,10 @@
 # Project: BURGUNDY SQUARE (ALA19900009)
 
 - HUD ID: ALA19900009
-- HUD ID before: 
 - Project: BURGUNDY SQUARE
 - Address: 207 BINFORD DR SW
 - City: HUNTSVILLE
-- State: AL
 - ZIP: 35805
-- ZIP extension: 
 - State project ID: AL-90-0038
 - Latitude: 34.722601
 - Longitude: -86.596533
@@ -22,9 +19,7 @@
 - Place 2000: 37000
 - Place 1990: 0935
 - Year placed in service: 1990
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 280349
 - Units: 90
 - Low-income units: 90
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 90
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1992030. FKA NEW BINFORD APTS
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: FRIENDSHIP COURT (VAA20040045)
 
 - HUD ID: VAA20040045
-- HUD ID before: 
 - Project: FRIENDSHIP COURT
 - Address: 418 GARRETT ST
 - City: CHARLOTTESVILLE
-- State: VA
 - ZIP: 22902
-- ZIP extension: 
 - State project ID: 4055
 - Latitude: 38.027775
 - Longitude: -78.48031
@@ -20,11 +17,8 @@
 - Place 2020: 14968
 - Place 2010: 14968
 - Place 2000: 14968
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 543866
 - Units: 150
 - Low-income units: 150
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003085.
 - Record status: Existing, unchanged

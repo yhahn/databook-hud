@@ -1,13 +1,10 @@
 # Project: PINE TERRACE APARTMENTS (NCA20020125)
 
 - HUD ID: NCA20020125
-- HUD ID before: 
 - Project: PINE TERRACE APARTMENTS
 - Address: 502 PINE TERRACE
 - City: WADESBORO
-- State: NC
 - ZIP: 28170
-- ZIP extension: 
 - State project ID: 9001295
 - Latitude: 34.958396
 - Longitude: -80.060716
@@ -20,11 +17,8 @@
 - Place 2020: 70380
 - Place 2010: 70380
 - Place 2000: 70380
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 43816
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

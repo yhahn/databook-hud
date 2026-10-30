@@ -1,13 +1,10 @@
 # Project: VILLAGE GREEN APTS (MEA20130012)
 
 - HUD ID: MEA20130012
-- HUD ID before: 
 - Project: VILLAGE GREEN APTS
 - Address: 12 DROWNE RD
 - City: CUMBERLAND
-- State: ME
 - ZIP: 04021
-- ZIP extension: 
 - State project ID: MSHARLP1580
 - Latitude: 43.790007
 - Longitude: -70.248994
@@ -20,11 +17,8 @@
 - Place 2020: 15500
 - Place 2010: 15500
 - Place 2000: 15500
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 637616
 - Units: 38
 - Low-income units: 38
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA DROWNE SCHOOL.
 - Record status: Existing, unchanged

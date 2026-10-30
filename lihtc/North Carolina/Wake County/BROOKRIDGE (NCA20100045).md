@@ -1,13 +1,10 @@
 # Project: BROOKRIDGE (NCA20100045)
 
 - HUD ID: NCA20100045
-- HUD ID before: 
 - Project: BROOKRIDGE
 - Address: 3930 DURHAM DRIVE
 - City: RALEIGH
-- State: NC
 - ZIP: 27603
-- ZIP extension: 
 - State project ID: 9002721
 - Latitude: 35.726578
 - Longitude: -78.645192
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 454273
 - Units: 41
 - Low-income units: 40
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 17
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

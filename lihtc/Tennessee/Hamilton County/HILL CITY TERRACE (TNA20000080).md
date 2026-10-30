@@ -1,13 +1,10 @@
 # Project: HILL CITY TERRACE (TNA20000080)
 
 - HUD ID: TNA20000080
-- HUD ID before: 
 - Project: HILL CITY TERRACE
 - Address: 610 MERRIAM ST
 - City: CHATTANOOGA
-- State: TN
 - ZIP: 37405
-- ZIP extension: 
 - State project ID: TN-98-053
 - Latitude: 35.069999
 - Longitude: -85.312009
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 0245
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 147069
 - Units: 18
 - Low-income units: 18
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2000035. AKA STRINGER'S RIDGE APTS.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: EDGEMONT VILLAGE II (ALA20080038)
 
 - HUD ID: ALA20080038
-- HUD ID before: 
 - Project: EDGEMONT VILLAGE II
 - Address: 1407 VILLAGE DR
 - City: DEMOPOLIS
-- State: AL
 - ZIP: 36732
-- ZIP extension: 
 - State project ID: 2008029-TCAP
 - Latitude: 32.5066
 - Longitude: -87.8169
@@ -22,10 +19,7 @@
 - Place 2000: 20296
 - Place 1990: 0485
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 30
 - Low-income units: 30
 - Units reported: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 1695658
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2010015.
 - Record status: Existing, unchanged

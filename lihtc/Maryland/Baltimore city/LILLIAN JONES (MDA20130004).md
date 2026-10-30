@@ -1,13 +1,10 @@
 # Project: LILLIAN JONES (MDA20130004)
 
 - HUD ID: MDA20130004
-- HUD ID before: 
 - Project: LILLIAN JONES
 - Address: 1303 GREENMOUNT AVE
 - City: BALTIMORE
-- State: MD
 - ZIP: 21202
-- ZIP extension: 
 - State project ID: MD11-12001
 - Latitude: 39.304893
 - Longitude: -76.607987
@@ -22,10 +19,7 @@
 - Place 2000: 04000
 - Place 1990: 0025
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
-- Allocation amount: 
 - Units: 74
 - Low-income units: 74
 - Units reported: 74
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 74
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1380000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

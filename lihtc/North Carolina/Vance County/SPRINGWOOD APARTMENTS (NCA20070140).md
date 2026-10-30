@@ -1,13 +1,10 @@
 # Project: SPRINGWOOD APARTMENTS (NCA20070140)
 
 - HUD ID: NCA20070140
-- HUD ID before: 
 - Project: SPRINGWOOD APARTMENTS
 - Address: 605 HIGH STREET
 - City: HENDERSON
-- State: NC
 - ZIP: 27536
-- ZIP extension: 
 - State project ID: 9001025
 - Latitude: 36.329992
 - Longitude: -78.417716
@@ -22,9 +19,7 @@
 - Place 2000: 30660
 - Place 1990: 1155
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 373564
 - Units: 50
 - Low-income units: 50
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: PARR PLACE (SCA20010070)
 
 - HUD ID: SCA20010070
-- HUD ID before: 
 - Project: PARR PLACE
 - Address: 220 S MAIN ST
 - City: LANCASTER
-- State: SC
 - ZIP: 29720
-- ZIP extension: 
 - State project ID: SC-99-017
 - Latitude: 34.718578
 - Longitude: -80.770041
@@ -22,9 +19,7 @@
 - Place 2000: 39895
 - Place 1990: 0745
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 64562
 - Units: 13
 - Low-income units: 13
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SOUTH MAIN STREET APTS.
 - Record status: Existing, unchanged

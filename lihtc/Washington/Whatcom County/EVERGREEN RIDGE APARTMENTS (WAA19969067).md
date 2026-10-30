@@ -1,11 +1,9 @@
 # Project: EVERGREEN RIDGE APARTMENTS (WAA19969067)
 
 - HUD ID: WAA19969067
-- HUD ID before: 
 - Project: EVERGREEN RIDGE APARTMENTS
 - Address: 3451 WOBURN STREET
 - City: BELLINGHAM
-- State: WA
 - ZIP: 98226
 - ZIP extension: 5674
 - State project ID: 93-33A
@@ -22,9 +20,7 @@
 - Place 2000: 05280
 - Place 1990: 0080
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 299108
 - Units: 145
 - Low-income units: 143
@@ -40,16 +36,11 @@
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -73,13 +60,6 @@
 - Homeless: No
 - Other population: Yes
 - Other population named: LARGE FAMILY
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

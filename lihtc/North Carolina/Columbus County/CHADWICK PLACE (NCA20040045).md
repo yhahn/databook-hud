@@ -1,13 +1,10 @@
 # Project: CHADWICK PLACE (NCA20040045)
 
 - HUD ID: NCA20040045
-- HUD ID before: 
 - Project: CHADWICK PLACE
 - Address: 106 A CHADWICK PLACE DRIVE
 - City: CHADBOURN
-- State: NC
 - ZIP: 28431
-- ZIP extension: 
 - State project ID: 9001402
 - Latitude: 34.329255
 - Longitude: -78.831851
@@ -20,11 +17,8 @@
 - Place 2020: 11640
 - Place 2010: 11640
 - Place 2000: 11640
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 128697
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: FRANCIS PEAK VIEW (UTA20040901)
 
 - HUD ID: UTA20040901
-- HUD ID before: 
 - Project: FRANCIS PEAK VIEW
 - Address: 600 W. MUTTON HOLLOW
 - City: KAYSVILLE
-- State: UT
 - ZIP: 84037
 - ZIP extension: 0000
 - State project ID: 2002-14
@@ -22,9 +20,7 @@
 - Place 2000: 40360
 - Place 1990: 0480
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 404018
 - Units: 119
 - Low-income units: 119
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

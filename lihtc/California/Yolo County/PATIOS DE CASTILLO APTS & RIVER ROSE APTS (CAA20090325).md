@@ -1,13 +1,10 @@
 # Project: PATIOS DE CASTILLO APTS & RIVER ROSE APTS (CAA20090325)
 
 - HUD ID: CAA20090325
-- HUD ID before: 
 - Project: PATIOS DE CASTILLO APTS & RIVER ROSE APTS
 - Address: 220 FIFTH ST
 - City: WEST SACRAMENTO
-- State: CA
 - ZIP: 95605
-- ZIP extension: 
 - State project ID: CA-08-802
 - Latitude: 38.589454
 - Longitude: -121.5129
@@ -22,9 +19,7 @@
 - Place 2000: 84816
 - Place 1990: 3098
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 161932
 - Units: 45
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PATIOS DE CASTILLO.
 - Record status: Existing, unchanged

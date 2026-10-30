@@ -1,11 +1,9 @@
 # Project: HOMEWOOD SENIOR APARTMENTS (PAA20140001)
 
 - HUD ID: PAA20140001
-- HUD ID before: 
 - Project: HOMEWOOD SENIOR APARTMENTS
 - Address: 7202 SUSQUEHANNA ST
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15208
 - ZIP extension: 1876
 - State project ID: TC20120457
@@ -22,9 +20,7 @@
 - Place 2000: 61000
 - Place 1990: 7234
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 1082624
 - Units: 41
 - Low-income units: 41
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,13 +51,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BRIAR HILL APTS (MSA19890186)
 
 - HUD ID: MSA19890186
-- HUD ID before: 
 - Project: BRIAR HILL APTS
 - Address: 213 BRIARHILL RD
 - City: FLORENCE
-- State: MS
 - ZIP: 39073
-- ZIP extension: 
 - State project ID: 89-289
 - Latitude: 32.163185
 - Longitude: -90.115077
@@ -20,12 +17,8 @@
 - Place 2020: 24980
 - Place 2010: 24980
 - Place 2000: 24980
-- Place 1990: 
 - Year placed in service: 1989
-- Placed in service note: 
 - Allocation year: 1989
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

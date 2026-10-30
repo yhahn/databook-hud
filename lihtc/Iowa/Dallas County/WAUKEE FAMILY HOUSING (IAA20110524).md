@@ -1,13 +1,10 @@
 # Project: WAUKEE FAMILY HOUSING (IAA20110524)
 
 - HUD ID: IAA20110524
-- HUD ID before: 
 - Project: WAUKEE FAMILY HOUSING
 - Address: 1300 SE JACOB
 - City: WAUKEE
-- State: IA
 - ZIP: 50263
-- ZIP extension: 
 - State project ID: 10-10-240
 - Latitude: 41.609895
 - Longitude: -93.847407
@@ -22,9 +19,7 @@
 - Place 2000: 14520
 - Place 1990: 4470
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1974063
 - Units: 90
 - Low-income units: 90
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2011095.
 - Record status: Existing, unchanged

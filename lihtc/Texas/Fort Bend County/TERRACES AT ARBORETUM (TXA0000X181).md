@@ -1,13 +1,10 @@
 # Project: TERRACES AT ARBORETUM (TXA0000X181)
 
 - HUD ID: TXA0000X181
-- HUD ID before: 
 - Project: TERRACES AT ARBORETUM
 - Address: 15928 OLD RICHMOND ROAD
 - City: SUGAR LAND
-- State: TX
 - ZIP: 77498
-- ZIP extension: 
 - State project ID: TX5340
 - Latitude: 29.661914
 - Longitude: -95.658225
@@ -15,17 +12,10 @@
 - County from: 2020
 - Tract 2020: 48157672703
 - Tract 2010: 48157672701
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Confirmed, year not given (9999)
 - Allocation year: 2019
-- Allocation year note: 
-- Allocation amount: 
 - Units: 112
 - Low-income units: 98
 - Units reported: 112
@@ -40,11 +30,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -63,7 +50,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

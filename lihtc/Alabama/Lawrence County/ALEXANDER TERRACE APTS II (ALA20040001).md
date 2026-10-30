@@ -1,13 +1,10 @@
 # Project: ALEXANDER TERRACE APTS II (ALA20040001)
 
 - HUD ID: ALA20040001
-- HUD ID before: 
 - Project: ALEXANDER TERRACE APTS II
 - Address: 1155 PICKENS ST
 - City: MOULTON
-- State: AL
 - ZIP: 35650
-- ZIP extension: 
 - State project ID: AL-04-0050
 - Latitude: 34.486487
 - Longitude: -87.282595
@@ -22,9 +19,7 @@
 - Place 2000: 51600
 - Place 1990: 1195
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 218923
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1033140
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006005.
 - Record status: Existing, unchanged

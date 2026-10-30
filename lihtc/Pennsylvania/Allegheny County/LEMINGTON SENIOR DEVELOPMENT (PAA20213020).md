@@ -1,11 +1,9 @@
 # Project: LEMINGTON SENIOR DEVELOPMENT (PAA20213020)
 
 - HUD ID: PAA20213020
-- HUD ID before: 
 - Project: LEMINGTON SENIOR DEVELOPMENT
 - Address: 7151 MARY PECK BOND PL
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15206
 - ZIP extension: 1284
 - State project ID: TC20190101
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42003561900
 - Tract 2010: 42003561900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 61000
 - Place 2010: 61000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 499918
 - Units: 54
 - Low-income units: 54
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

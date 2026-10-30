@@ -1,13 +1,10 @@
 # Project: GROVE AT RIVERSIDE (THE) (IDA20152001)
 
 - HUD ID: IDA20152001
-- HUD ID before: 
 - Project: GROVE AT RIVERSIDE (THE)
 - Address: 3111 NORTH 1ST STREET EAST
 - City: REXBURG
-- State: ID
 - ZIP: 83440
-- ZIP extension: 
 - State project ID: HC1407
 - Latitude: 43.8115
 - Longitude: -111.798
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 16065950304
 - Tract 2010: 16065950302
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 67420
 - Place 2010: 67420
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 812725
 - Units: 48
 - Low-income units: 48
@@ -40,11 +31,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

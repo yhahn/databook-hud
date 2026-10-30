@@ -1,13 +1,10 @@
 # Project: ITHICA HEIGHTS (NDA19970025)
 
 - HUD ID: NDA19970025
-- HUD ID before: 
 - Project: ITHICA HEIGHTS
 - Address: 2820 ITHICA DR
 - City: BISMARCK
-- State: ND
 - ZIP: 58503
-- ZIP extension: 
 - State project ID: 95-09
 - Latitude: 46.835971
 - Longitude: -100.803597
@@ -20,11 +17,8 @@
 - Place 2020: 07200
 - Place 2010: 07200
 - Place 2000: 07200
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 211954
 - Units: 47
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

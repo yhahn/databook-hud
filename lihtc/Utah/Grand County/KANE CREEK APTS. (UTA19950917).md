@@ -1,11 +1,9 @@
 # Project: KANE CREEK APTS. (UTA19950917)
 
 - HUD ID: UTA19950917
-- HUD ID before: 
 - Project: KANE CREEK APTS.
 - Address: 101 W. KANE CREEK BLVD.
 - City: MOAB
-- State: UT
 - ZIP: 84532
 - ZIP extension: 0000
 - State project ID: 1993-18
@@ -20,11 +18,8 @@
 - Place 2020: 50700
 - Place 2010: 50700
 - Place 2000: 50700
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 223756
 - Units: 36
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

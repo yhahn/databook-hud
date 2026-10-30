@@ -1,11 +1,9 @@
 # Project: ALLIANCE APARTMENTS (MNB19979001)
 
 - HUD ID: MNB19979001
-- HUD ID before: 
 - Project: ALLIANCE APARTMENTS
 - Address: 719 EAST 16TH STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 1987
 - State project ID: D1889
@@ -16,15 +14,11 @@
 - Tract 2020: 27053005901
 - Tract 2010: 27053005901
 - Tract 2000: 27053005901
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 504392
 - Units: 123
 - Low-income units: 123
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 93
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +60,11 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Chemical Dependency
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: BROOK COURT APARTMENTS (KYA19950040)
 
 - HUD ID: KYA19950040
-- HUD ID before: 
 - Project: BROOK COURT APARTMENTS
 - Address: S. BROOK ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40203
-- ZIP extension: 
 - State project ID: KY-94-142
 - Latitude: 38.2416
 - Longitude: -85.7603
@@ -19,12 +16,9 @@
 - Tract 1990: 21111006200
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 12
 - Low-income units: 12
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +56,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +69,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

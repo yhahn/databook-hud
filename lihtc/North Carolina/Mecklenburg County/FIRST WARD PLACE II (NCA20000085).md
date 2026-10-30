@@ -1,13 +1,10 @@
 # Project: FIRST WARD PLACE II (NCA20000085)
 
 - HUD ID: NCA20000085
-- HUD ID before: 
 - Project: FIRST WARD PLACE II
 - Address: 550 E 8TH STREET
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28202
-- ZIP extension: 
 - State project ID: 9002325
 - Latitude: 35.226304
 - Longitude: -80.834337
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 441858
 - Units: 108
 - Low-income units: 68
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

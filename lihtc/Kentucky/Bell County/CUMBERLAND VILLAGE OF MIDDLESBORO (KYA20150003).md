@@ -1,13 +1,10 @@
 # Project: CUMBERLAND VILLAGE OF MIDDLESBORO (KYA20150003)
 
 - HUD ID: KYA20150003
-- HUD ID before: 
 - Project: CUMBERLAND VILLAGE OF MIDDLESBORO
 - Address: CUMBERLAND VILLAGE ROAD
 - City: MIDDLESBORO
-- State: KY
 - ZIP: 40965
-- ZIP extension: 
 - State project ID: KY-14-011
 - Latitude: 36.6211
 - Longitude: -83.7234
@@ -19,12 +16,8 @@
 - Tract 1990: 21013960800
 - Place 2020: 51924
 - Place 2010: 51924
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 840444
 - Units: 60
 - Low-income units: 60
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: BECKES STREET APTS (CAA20120956)
 
 - HUD ID: CAA20120956
-- HUD ID before: 
 - Project: BECKES STREET APTS
 - Address: 2650 SPRUCE AVE
 - City: WASCO
-- State: CA
 - ZIP: 93280
-- ZIP extension: 
 - State project ID: CA-10-148
 - Latitude: 35.599191
 - Longitude: -119.355597
@@ -22,9 +19,7 @@
 - Place 2000: 83542
 - Place 1990: 3045
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 758288
 - Units: 58
 - Low-income units: 57
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: MOUNTAIN APARTMENTS II (MTA20020030)
 
 - HUD ID: MTA20020030
-- HUD ID before: 
 - Project: MOUNTAIN APARTMENTS II
 - Address: 430 COLORADO AVE
 - City: WHITEFISH
-- State: MT
 - ZIP: 59937
 - ZIP extension: 0000
 - State project ID: 01070
@@ -22,9 +20,7 @@
 - Place 2000: 79825
 - Place 1990: 0670
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 82031
 - Units: 15
 - Low-income units: 15
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

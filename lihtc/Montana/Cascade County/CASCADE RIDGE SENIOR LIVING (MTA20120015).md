@@ -1,11 +1,9 @@
 # Project: CASCADE RIDGE SENIOR LIVING (MTA20120015)
 
 - HUD ID: MTA20120015
-- HUD ID before: 
 - Project: CASCADE RIDGE SENIOR LIVING
 - Address: 3001 15TH AVE SOUTH
 - City: GREAT FALLS
-- State: MT
 - ZIP: 59405
 - ZIP extension: 0000
 - State project ID: 11040
@@ -22,9 +20,7 @@
 - Place 2000: 32800
 - Place 1990: 0295
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 604527
 - Units: 40
 - Low-income units: 40
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

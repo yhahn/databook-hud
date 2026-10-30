@@ -1,13 +1,10 @@
 # Project: SPRINGDALE CREEK APTS I (TNA20050800)
 
 - HUD ID: TNA20050800
-- HUD ID before: 
 - Project: SPRINGDALE CREEK APTS I
 - Address: 831 SPRINGDALE RUN DR
 - City: MEMPHIS
-- State: TN
 - ZIP: 38108
-- ZIP extension: 
 - State project ID: TN-03-200
 - Latitude: 35.159009
 - Longitude: -89.973902
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 373722
 - Units: 84
 - Low-income units: 84
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2006035, TNA2005160. AKA SPRINGDALE MEMPHIS.
 - Record status: Existing, unchanged

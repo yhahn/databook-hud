@@ -1,13 +1,10 @@
 # Project: COLA COMMONS (KYA20040120)
 
 - HUD ID: KYA20040120
-- HUD ID before: 
 - Project: COLA COMMONS
 - Address: FRANKFORT RD.
 - City: SHELBYVILLE
-- State: KY
 - ZIP: 40065
-- ZIP extension: 
 - State project ID: KY-02-029
 - Latitude: 38.2066
 - Longitude: -85.2248
@@ -19,12 +16,9 @@
 - Tract 1990: 21211040300
 - Place 2020: 70050
 - Place 2010: 70050
-- Place 2000: 
 - Place 1990: 1790
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 384252
 - Units: 31
 - Low-income units: 31
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

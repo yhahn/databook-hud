@@ -1,13 +1,10 @@
 # Project: CASA DE ANGELO APTS (CAA20090515)
 
 - HUD ID: CAA20090515
-- HUD ID before: 
 - Project: CASA DE ANGELO APTS
 - Address: 3151 NOTRE DAME DR
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95826
-- ZIP extension: 
 - State project ID: CA-08-844
 - Latitude: 38.548868
 - Longitude: -121.398089
@@ -22,9 +19,7 @@
 - Place 2000: 62910
 - Place 1990: 2420
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 363217
 - Units: 100
 - Low-income units: 99
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 1200000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

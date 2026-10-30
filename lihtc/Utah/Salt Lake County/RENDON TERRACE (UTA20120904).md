@@ -1,11 +1,9 @@
 # Project: RENDON TERRACE (UTA20120904)
 
 - HUD ID: UTA20120904
-- HUD ID before: 
 - Project: RENDON TERRACE
 - Address: 158 NORTH 600 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84116
 - ZIP extension: 0000
 - State project ID: 2011-06
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 70
 - Low-income units: 70
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: DIAMOND AISLE APTS (CAA20080280)
 
 - HUD ID: CAA20080280
-- HUD ID before: 
 - Project: DIAMOND AISLE APTS
 - Address: 1310 W DIAMOND ST
 - City: ANAHEIM
-- State: CA
 - ZIP: 92801
-- ZIP extension: 
 - State project ID: CA-07-888
 - Latitude: 33.833398
 - Longitude: -117.930057
@@ -22,9 +19,7 @@
 - Place 2000: 02000
 - Place 1990: 0070
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 390805
 - Units: 25
 - Low-income units: 24
@@ -40,12 +35,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +56,7 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

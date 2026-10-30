@@ -1,11 +1,9 @@
 # Project: KELLY BENSON APTS. (UTA20100906)
 
 - HUD ID: UTA20100906
-- HUD ID before: 
 - Project: KELLY BENSON APTS.
 - Address: 3122 SOUTH 3600 WEST
 - City: WEST VALLEY CITY
-- State: UT
 - ZIP: 84120
 - ZIP extension: 0000
 - State project ID: 2009-07
@@ -22,9 +20,7 @@
 - Place 2000: 83470
 - Place 1990: 1082
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 582774
 - Units: 59
 - Low-income units: 59
@@ -40,11 +36,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

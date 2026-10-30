@@ -1,13 +1,10 @@
 # Project: EMERALD PINES APTS (MSA20100020)
 
 - HUD ID: MSA20100020
-- HUD ID before: 
 - Project: EMERALD PINES APTS
 - Address: 3318 39TH AVE
 - City: GULFPORT
-- State: MS
 - ZIP: 39501
-- ZIP extension: 
 - State project ID: MS-07-048
 - Latitude: 30.390616
 - Longitude: -89.108501
@@ -22,9 +19,7 @@
 - Place 2000: 29700
 - Place 1990: 0515
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 538712
 - Units: 120
 - Low-income units: 120
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PHOENIX HILL APARTMENTS (KYA19950150)
 
 - HUD ID: KYA19950150
-- HUD ID before: 
 - Project: PHOENIX HILL APARTMENTS
 - Address: EAST CHESTNUT ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40202
-- ZIP extension: 
 - State project ID: KY-94-090
 - Latitude: 38.2583
 - Longitude: -85.7533
@@ -19,12 +16,9 @@
 - Tract 1990: 21111005900
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 12
 - Low-income units: 12
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

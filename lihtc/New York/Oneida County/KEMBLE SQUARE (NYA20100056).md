@@ -1,13 +1,10 @@
 # Project: KEMBLE SQUARE (NYA20100056)
 
 - HUD ID: NYA20100056
-- HUD ID before: 
 - Project: KEMBLE SQUARE
 - Address: 724 NOYES ST
 - City: UTICA
-- State: NY
 - ZIP: 13502
-- ZIP extension: 
 - State project ID: 20096043
 - Latitude: 43.09658
 - Longitude: -75.247711
@@ -22,9 +19,7 @@
 - Place 2000: 76540
 - Place 1990: 3690
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 814000
 - Units: 37
 - Low-income units: 37
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 3824863
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

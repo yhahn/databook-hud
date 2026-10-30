@@ -1,13 +1,10 @@
 # Project: ROYAL LODGE APARTMENTS (KYA19970115)
 
 - HUD ID: KYA19970115
-- HUD ID before: 
 - Project: ROYAL LODGE APARTMENTS
 - Address: LOOKOUT ST.
 - City: SOMERSET
-- State: KY
 - ZIP: 42501
-- ZIP extension: 
 - State project ID: KY-96-032
 - Latitude: 37.029
 - Longitude: -84.5518
@@ -16,15 +13,10 @@
 - Tract 2020: 21199930802
 - Tract 2010: 21199930800
 - Tract 2000: 21199990800
-- Tract 1990: 
 - Place 2020: 11278
 - Place 2010: 11278
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 18
 - Low-income units: 18
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

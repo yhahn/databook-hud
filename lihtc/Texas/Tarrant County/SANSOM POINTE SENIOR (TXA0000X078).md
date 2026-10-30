@@ -1,13 +1,10 @@
 # Project: SANSOM POINTE SENIOR (TXA0000X078)
 
 - HUD ID: TXA0000X078
-- HUD ID before: 
 - Project: SANSOM POINTE SENIOR
 - Address: 2500 WASHINGTON AVE
 - City: SANSOM PARK
-- State: TX
 - ZIP: 76114
-- ZIP extension: 
 - State project ID: TX5173
 - Latitude: 32.80624
 - Longitude: -97.394911
@@ -16,16 +13,10 @@
 - Tract 2020: 48439110402
 - Tract 2010: 48439110402
 - Tract 2000: 48439110500
-- Tract 1990: 
 - Place 2020: 65660
 - Place 2010: 65660
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 216
 - Low-income units: 216
 - Units reported: 216
@@ -38,10 +29,7 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

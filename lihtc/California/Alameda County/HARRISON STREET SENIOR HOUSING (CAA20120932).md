@@ -1,13 +1,10 @@
 # Project: HARRISON STREET SENIOR HOUSING (CAA20120932)
 
 - HUD ID: CAA20120932
-- HUD ID before: 
 - Project: HARRISON STREET SENIOR HOUSING
 - Address: 1633 HARRISON ST
 - City: OAKLAND
-- State: CA
 - ZIP: 94612
-- ZIP extension: 
 - State project ID: CA-10-81701
 - Latitude: 37.804863
 - Longitude: -122.266622
@@ -22,9 +19,7 @@
 - Place 2000: 53000
 - Place 1990: 1970
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 835320
 - Units: 73
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

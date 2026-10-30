@@ -1,13 +1,10 @@
 # Project: EL NUEVO AMANECER APARTMENTS (CAA20240037)
 
 - HUD ID: CAA20240037
-- HUD ID before: 
 - Project: EL NUEVO AMANECER APARTMENTS
 - Address: 111 NORTH ROWAN AVE.
 - City: LOS ANGELES
-- State: CA
 - ZIP: 90063
-- ZIP extension: 
 - State project ID: CA-2018-125
 - Latitude: 34.036322
 - Longitude: -118.187191
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06037531101
 - Tract 2010: 06037531101
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 20802
 - Place 2010: 20802
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 2172058
 - Units: 61
 - Low-income units: 59
@@ -34,7 +25,6 @@
 - 1-bedroom units: 14
 - 2-bedroom units: 18
 - 3-bedroom units: 2
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
@@ -44,11 +34,9 @@
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -68,18 +56,11 @@
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Veterans
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

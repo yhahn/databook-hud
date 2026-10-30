@@ -1,13 +1,10 @@
 # Project: PINE RIDGE (NCA19940480)
 
 - HUD ID: NCA19940480
-- HUD ID before: 
 - Project: PINE RIDGE
 - Address: 195 JAYNES ROAD
 - City: NEWLAND
-- State: NC
 - ZIP: 28657
-- ZIP extension: 
 - State project ID: 9001378
 - Latitude: 36.08308
 - Longitude: -81.935515
@@ -19,12 +16,8 @@
 - Tract 1990: 37011990300
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 54689
 - Units: 31
 - Low-income units: 31
@@ -39,9 +32,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

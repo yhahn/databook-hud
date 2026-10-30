@@ -1,13 +1,9 @@
 # Project: NORTHWOOD VILLAGE (NDA20080010)
 
 - HUD ID: NDA20080010
-- HUD ID before: 
 - Project: NORTHWOOD VILLAGE
 - Address: 7 N DOHENY ST
 - City: NORTHWOOD
-- State: ND
-- ZIP: 
-- ZIP extension: 
 - State project ID: TC0801
 - Latitude: 47.734305
 - Longitude: -97.570816
@@ -15,16 +11,10 @@
 - County from: 2020
 - Tract 2020: 38035011800
 - Tract 2010: 38035011800
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 58300
 - Place 2010: 58300
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 182473
 - Units: 16
 - Low-income units: 16
@@ -40,8 +30,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

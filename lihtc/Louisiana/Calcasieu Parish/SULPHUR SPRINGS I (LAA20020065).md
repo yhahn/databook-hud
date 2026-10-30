@@ -1,11 +1,9 @@
 # Project: SULPHUR SPRINGS I (LAA20020065)
 
 - HUD ID: LAA20020065
-- HUD ID before: 
 - Project: SULPHUR SPRINGS I
 - Address: 700 HENNING DRIVE
 - City: SULPHUR
-- State: LA
 - ZIP: 70663
 - ZIP extension: 0000
 - State project ID: LA-00-076
@@ -22,9 +20,7 @@
 - Place 2000: 73640
 - Place 1990: 1310
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 47537
 - Units: 76
 - Low-income units: 76
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

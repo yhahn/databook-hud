@@ -1,11 +1,9 @@
 # Project: THE SPRINGS AT LOGAN RIVER IV (UTA20120902)
 
 - HUD ID: UTA20120902
-- HUD ID before: 
 - Project: THE SPRINGS AT LOGAN RIVER IV
 - Address: 1609 SOUTH 1220 WEST
 - City: LOGAN
-- State: UT
 - ZIP: 84321
 - ZIP extension: 0000
 - State project ID: 2012-09
@@ -19,12 +17,8 @@
 - Tract 1990: 49005000300
 - Place 2020: 45860
 - Place 2010: 45860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 652427
 - Units: 40
 - Low-income units: 36
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: NEW RIVER GARDENS (VAA20201021)
 
 - HUD ID: VAA20201021
-- HUD ID before: 
 - Project: NEW RIVER GARDENS
 - Address: 100 JEFFRIES DRIVE
 - City: RADFORD
-- State: VA
 - ZIP: 24141
-- ZIP extension: 
 - State project ID: 1062
 - Latitude: 37.106775
 - Longitude: -80.584065
@@ -22,9 +19,7 @@
 - Place 2000: 65392
 - Place 1990: 1015
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 376783
 - Units: 48
 - Low-income units: 48
@@ -40,15 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

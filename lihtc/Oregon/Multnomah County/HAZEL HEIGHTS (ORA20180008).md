@@ -1,13 +1,10 @@
 # Project: HAZEL HEIGHTS (ORA20180008)
 
 - HUD ID: ORA20180008
-- HUD ID before: 
 - Project: HAZEL HEIGHTS
 - Address: 12613 + 12647 SE STARK ST
 - City: PORTLAND
-- State: OR
 - ZIP: 97233
-- ZIP extension: 
 - State project ID: 3270
 - Latitude: 45.5117
 - Longitude: -122.5036
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 41051009701
 - Tract 2010: 41051009701
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 59000
 - Place 2010: 59000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 994658
 - Units: 153
 - Low-income units: 153
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Workforce
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

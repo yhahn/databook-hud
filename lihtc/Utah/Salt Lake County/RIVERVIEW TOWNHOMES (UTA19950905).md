@@ -1,11 +1,9 @@
 # Project: RIVERVIEW TOWNHOMES (UTA19950905)
 
 - HUD ID: UTA19950905
-- HUD ID before: 
 - Project: RIVERVIEW TOWNHOMES
 - Address: 1665 SOUTH RIVERSIDE DRIVE
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84104
 - ZIP extension: 0000
 - State project ID: 1993-15
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 283516
 - Units: 61
 - Low-income units: 61
@@ -40,11 +36,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: LESSENICH PLACE APTS (IAA20130607)
 
 - HUD ID: IAA20130607
-- HUD ID before: 
 - Project: LESSENICH PLACE APTS
 - Address: 301 FIFTH ST
 - City: SIOUX CITY
-- State: IA
 - ZIP: 51101
-- ZIP extension: 
 - State project ID: 12-12-5
 - Latitude: 42.49542
 - Longitude: -96.407417
@@ -22,9 +19,7 @@
 - Place 2000: 73335
 - Place 1990: 3980
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 673334
 - Units: 41
 - Low-income units: 41
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA1996025.
 - Record status: Existing, unchanged

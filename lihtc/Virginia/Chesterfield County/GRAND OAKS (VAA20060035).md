@@ -1,13 +1,10 @@
 # Project: GRAND OAKS (VAA20060035)
 
 - HUD ID: VAA20060035
-- HUD ID before: 
 - Project: GRAND OAKS
 - Address: 5301 GRAND OAKS FOREST CIR
 - City: CHESTER
-- State: VA
 - ZIP: 23831
-- ZIP extension: 
 - State project ID: 8923
 - Latitude: 37.353197
 - Longitude: -77.457194
@@ -22,9 +19,7 @@
 - Place 2000: 06216
 - Place 1990: 0245
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 635860
 - Units: 184
 - Low-income units: 184
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +64,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

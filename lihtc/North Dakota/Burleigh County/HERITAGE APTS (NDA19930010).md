@@ -1,13 +1,10 @@
 # Project: HERITAGE APTS (NDA19930010)
 
 - HUD ID: NDA19930010
-- HUD ID before: 
 - Project: HERITAGE APTS
 - Address: 112 N FIFTH ST
 - City: BISMARCK
-- State: ND
 - ZIP: 58501
-- ZIP extension: 
 - State project ID: 91-12
 - Latitude: 46.80572
 - Longitude: -100.784878
@@ -22,9 +19,7 @@
 - Place 2000: 07200
 - Place 1990: 0195
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 43122
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: MILL PARK TERRACE (VAA20050130)
 
 - HUD ID: VAA20050130
-- HUD ID before: 
 - Project: MILL PARK TERRACE
 - Address: 2216 CAROLINE ST
 - City: FREDERICKSBURG
-- State: VA
 - ZIP: 22401
-- ZIP extension: 
 - State project ID: 4076
 - Latitude: 38.314754
 - Longitude: -77.467736
@@ -22,9 +19,7 @@
 - Place 2000: 29744
 - Place 1990: 0505
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 334021
 - Units: 129
 - Low-income units: 129
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

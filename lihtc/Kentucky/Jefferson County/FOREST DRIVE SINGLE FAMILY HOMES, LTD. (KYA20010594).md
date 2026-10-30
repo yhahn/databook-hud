@@ -1,13 +1,10 @@
 # Project: FOREST DRIVE SINGLE FAMILY HOMES, LTD. (KYA20010594)
 
 - HUD ID: KYA20010594
-- HUD ID before: 
 - Project: FOREST DRIVE SINGLE FAMILY HOMES, LTD.
 - Address: FOREST DR.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40219
-- ZIP extension: 
 - State project ID: KY-00-022
 - Latitude: 38.1437
 - Longitude: -85.6748
@@ -16,15 +13,10 @@
 - Tract 2020: 21111011906
 - Tract 2010: 21111011906
 - Tract 2000: 21111011906
-- Tract 1990: 
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 214094
 - Units: 10
 - Low-income units: 10
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

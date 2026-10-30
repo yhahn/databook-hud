@@ -1,13 +1,10 @@
 # Project: MAGNOLIA MANOR I (MSA19950082)
 
 - HUD ID: MSA19950082
-- HUD ID before: 
 - Project: MAGNOLIA MANOR I
 - Address: 602 JACINTO RD
 - City: BOONEVILLE
-- State: MS
 - ZIP: 38829
-- ZIP extension: 
 - State project ID: MS-94-043
 - Latitude: 34.659969
 - Longitude: -88.544906
@@ -22,10 +19,7 @@
 - Place 2000: 07780
 - Place 1990: 0130
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
-- Allocation amount: 
 - Units: 12
 - Low-income units: 12
 - Units reported: 12
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1995545, MSA1996090.
 - Record status: Existing, unchanged

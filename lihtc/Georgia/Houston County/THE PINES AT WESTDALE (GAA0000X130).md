@@ -1,11 +1,9 @@
 # Project: THE PINES AT WESTDALE (GAA0000X130)
 
 - HUD ID: GAA0000X130
-- HUD ID before: 
 - Project: THE PINES AT WESTDALE
 - Address: 1127 S HOUSTON LAKE RD
 - City: WARNER ROBINS
-- State: GA
 - ZIP: 31088
 - ZIP extension: 2617
 - State project ID: 2016-507
@@ -15,15 +13,9 @@
 - County from: 2020
 - Tract 2020: 13153021117
 - Tract 2010: 13153021104
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Confirmed, year not given (9999)
-- Allocation year: 
 - Allocation year note: Confirmed, year not given (9999)
 - Allocation amount: 663388
 - Units: 180
@@ -39,12 +31,8 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -70,16 +58,8 @@
 - Families: No
 - Elderly: Yes
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

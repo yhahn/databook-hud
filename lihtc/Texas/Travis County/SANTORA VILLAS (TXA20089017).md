@@ -1,13 +1,10 @@
 # Project: SANTORA VILLAS (TXA20089017)
 
 - HUD ID: TXA20089017
-- HUD ID before: 
 - Project: SANTORA VILLAS
 - Address: 1705 FRONTIER VALLEY DR
 - City: AUSTIN
-- State: TX
 - ZIP: 78741
-- ZIP extension: 
 - State project ID: TX4512
 - Latitude: 30.22484
 - Longitude: -97.695103
@@ -22,10 +19,7 @@
 - Place 2000: 05000
 - Place 1990: 0210
 - Year placed in service: 2008
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 192
 - Low-income units: 192
 - Units reported: 192
@@ -38,17 +32,11 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

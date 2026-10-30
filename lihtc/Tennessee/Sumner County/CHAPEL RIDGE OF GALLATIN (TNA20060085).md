@@ -1,13 +1,10 @@
 # Project: CHAPEL RIDGE OF GALLATIN (TNA20060085)
 
 - HUD ID: TNA20060085
-- HUD ID before: 
 - Project: CHAPEL RIDGE OF GALLATIN
 - Address: 1590 AIRPORT RD
 - City: GALLATIN
-- State: TN
 - ZIP: 37066
-- ZIP extension: 
 - State project ID: TN-04-211
 - Latitude: 36.374212
 - Longitude: -86.434067
@@ -22,9 +19,7 @@
 - Place 2000: 28540
 - Place 1990: 0540
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 414429
 - Units: 208
 - Low-income units: 168
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

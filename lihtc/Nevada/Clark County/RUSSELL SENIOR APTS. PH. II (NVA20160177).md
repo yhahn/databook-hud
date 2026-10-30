@@ -1,11 +1,9 @@
 # Project: RUSSELL SENIOR APTS. PH. II (NVA20160177)
 
 - HUD ID: NVA20160177
-- HUD ID before: 
 - Project: RUSSELL SENIOR APTS. PH. II
 - Address: RUSSELL ROAD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89122
 - ZIP extension: 0000
 - State project ID: 14-03
@@ -16,15 +14,10 @@
 - Tract 2020: 32003005012
 - Tract 2010: 32003005012
 - Tract 2000: 32003005008
-- Tract 1990: 
 - Place 2020: 83800
 - Place 2010: 83800
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 858000
 - Units: 75
 - Low-income units: 75
@@ -40,8 +33,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

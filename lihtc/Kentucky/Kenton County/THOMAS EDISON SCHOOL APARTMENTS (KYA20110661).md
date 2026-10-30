@@ -1,13 +1,10 @@
 # Project: THOMAS EDISON SCHOOL APARTMENTS (KYA20110661)
 
 - HUD ID: KYA20110661
-- HUD ID before: 
 - Project: THOMAS EDISON SCHOOL APARTMENTS
 - Address: SCOTT BLVD.
 - City: COVINGTON
-- State: KY
 - ZIP: 41011
-- ZIP extension: 
 - State project ID: KY-10-037
 - Latitude: 39.0695
 - Longitude: -84.505
@@ -19,12 +16,9 @@
 - Tract 1990: 21117060900
 - Place 2020: 17848
 - Place 2010: 17848
-- Place 2000: 
 - Place 1990: 0465
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 807766
 - Units: 26
 - Low-income units: 26
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

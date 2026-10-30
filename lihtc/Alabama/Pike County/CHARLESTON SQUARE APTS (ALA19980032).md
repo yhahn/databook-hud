@@ -1,13 +1,10 @@
 # Project: CHARLESTON SQUARE APTS (ALA19980032)
 
 - HUD ID: ALA19980032
-- HUD ID before: 
 - Project: CHARLESTON SQUARE APTS
 - Address: 150 W PIKE ST
 - City: TROY
-- State: AL
 - ZIP: 36081
-- ZIP extension: 
 - State project ID: AL-98-0019
 - Latitude: 31.79539
 - Longitude: -85.967807
@@ -22,9 +19,7 @@
 - Place 2000: 76920
 - Place 1990: 1710
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 233200
 - Units: 44
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1999030. FKA DEER RUN
 - Record status: Existing, unchanged

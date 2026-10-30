@@ -1,13 +1,10 @@
 # Project: CHESTNUT HILLS (NCA20030035)
 
 - HUD ID: NCA20030035
-- HUD ID before: 
 - Project: CHESTNUT HILLS
 - Address: 111 MILCHEST PLACE
 - City: RALEIGH
-- State: NC
 - ZIP: 27606
-- ZIP extension: 
 - State project ID: 9002106
 - Latitude: 35.781965
 - Longitude: -78.72775
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 297240
 - Units: 50
 - Low-income units: 50
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 50
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

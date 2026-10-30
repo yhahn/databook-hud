@@ -1,13 +1,10 @@
 # Project: WHISPER ROCK II APARTMENTS (SDA20204002)
 
 - HUD ID: SDA20204002
-- HUD ID before: 
 - Project: WHISPER ROCK II APARTMENTS
 - Address: 424 NEEL STREET
 - City: RAPID CITY
-- State: SD
 - ZIP: 57703
-- ZIP extension: 
 - State project ID: 03509
 - Latitude: 44.079286
 - Longitude: -103.147679
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 46103010908
 - Tract 2010: 46103010903
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 52980
 - Place 2010: 52980
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 491261
 - Units: 40
 - Low-income units: 40
@@ -38,8 +29,6 @@
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: Income average
-- Rents below ceiling: 
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 40
 - Non-profit sponsor: No
@@ -49,7 +38,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,21 +53,10 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

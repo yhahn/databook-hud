@@ -1,11 +1,9 @@
 # Project: PRAIRIE RIDGE (IAA20140080)
 
 - HUD ID: IAA20140080
-- HUD ID before: 
 - Project: PRAIRIE RIDGE
 - Address: 1011 16TH ST
 - City: SHELDON
-- State: IA
 - ZIP: 51201
 - ZIP extension: 2227
 - State project ID: 13-13-42
@@ -22,9 +20,7 @@
 - Place 2000: 72390
 - Place 1990: 3930
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 254020
 - Units: 24
 - Low-income units: 24
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,22 +43,15 @@
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
-- HOME: 
-- HOME amount: 
 - CDBG: No
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA1997085.
 - Record status: Updated

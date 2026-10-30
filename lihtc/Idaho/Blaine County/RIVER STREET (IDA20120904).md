@@ -1,13 +1,10 @@
 # Project: RIVER STREET (IDA20120904)
 
 - HUD ID: IDA20120904
-- HUD ID before: 
 - Project: RIVER STREET
 - Address: 731 NORTH RIVER STREET
 - City: HAILEY
-- State: ID
 - ZIP: 83333
-- ZIP extension: 
 - State project ID: HC1026
 - Latitude: 43.52532
 - Longitude: -114.321464
@@ -19,12 +16,9 @@
 - Tract 1990: 16013960200
 - Place 2020: 34390
 - Place 2010: 34390
-- Place 2000: 
 - Place 1990: 0360
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 592992
 - Units: 24
 - Low-income units: 23
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

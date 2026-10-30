@@ -1,11 +1,9 @@
 # Project: OPELOUSAS VILLA APARTMENTS (LAA19960100)
 
 - HUD ID: LAA19960100
-- HUD ID before: 
 - Project: OPELOUSAS VILLA APARTMENTS
 - Address: 1211 GARLAND AVE
 - City: OPELOUSAS
-- State: LA
 - ZIP: 70570
 - ZIP extension: 0000
 - State project ID: LA-94-007
@@ -22,9 +20,7 @@
 - Place 2000: 58045
 - Place 1990: 1025
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 32
 - Low-income units: 32
@@ -40,12 +36,9 @@
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,6 @@
 - Other population: No
 - Other population named: Elderly/Disabled
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

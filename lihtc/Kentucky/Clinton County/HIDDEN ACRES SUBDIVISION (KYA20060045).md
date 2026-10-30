@@ -1,13 +1,10 @@
 # Project: HIDDEN ACRES SUBDIVISION (KYA20060045)
 
 - HUD ID: KYA20060045
-- HUD ID before: 
 - Project: HIDDEN ACRES SUBDIVISION
 - Address: KY HWY 1590, BOX 245
 - City: ALBANY
-- State: KY
 - ZIP: 42602
-- ZIP extension: 
 - State project ID: KY-04-023
 - Latitude: 36.7981
 - Longitude: -85.1721
@@ -16,15 +13,10 @@
 - Tract 2020: 21053970100
 - Tract 2010: 21053970100
 - Tract 2000: 21053970200
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 246623
 - Units: 19
 - Low-income units: 19
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

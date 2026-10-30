@@ -1,13 +1,10 @@
 # Project: MONICA PLACE (NYA20090130)
 
 - HUD ID: NYA20090130
-- HUD ID before: 
 - Project: MONICA PLACE
 - Address: 837 GENESEE ST
 - City: ROCHESTER
-- State: NY
 - ZIP: 14611
-- ZIP extension: 
 - State project ID: 20086062
 - Latitude: 43.13367
 - Longitude: -77.636225
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 3100
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 265190
 - Units: 21
 - Low-income units: 21
@@ -40,12 +35,9 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: SUBSTANCE ABUSE
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA1992230.
 - Record status: Existing, unchanged

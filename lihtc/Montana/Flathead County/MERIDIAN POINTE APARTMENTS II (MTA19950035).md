@@ -1,11 +1,9 @@
 # Project: MERIDIAN POINTE APARTMENTS II (MTA19950035)
 
 - HUD ID: MTA19950035
-- HUD ID before: 
 - Project: MERIDIAN POINTE APARTMENTS II
 - Address: 1055 NORTH MERIDIAN
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 93010
@@ -22,9 +20,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 124159
 - Units: 16
 - Low-income units: 16
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

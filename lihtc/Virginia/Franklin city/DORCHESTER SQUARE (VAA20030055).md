@@ -1,13 +1,10 @@
 # Project: DORCHESTER SQUARE (VAA20030055)
 
 - HUD ID: VAA20030055
-- HUD ID before: 
 - Project: DORCHESTER SQUARE
 - Address: 1698 DORCHESTER ST
 - City: FRANKLIN
-- State: VA
 - ZIP: 23851
-- ZIP extension: 
 - State project ID: 8744
 - Latitude: 36.662291
 - Longitude: -76.932887
@@ -22,9 +19,7 @@
 - Place 2000: 29600
 - Place 1990: 0500
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 508627
 - Units: 125
 - Low-income units: 125
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

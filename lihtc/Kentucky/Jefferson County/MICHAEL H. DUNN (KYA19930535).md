@@ -1,13 +1,10 @@
 # Project: MICHAEL H. DUNN (KYA19930535)
 
 - HUD ID: KYA19930535
-- HUD ID before: 
 - Project: MICHAEL H. DUNN
 - Address: STROTMAN RD.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40216
-- ZIP extension: 
 - State project ID: KY-93-007
 - Latitude: 38.1858
 - Longitude: -85.8379
@@ -19,12 +16,9 @@
 - Tract 1990: 21111012601
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1805
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 4
 - Low-income units: 4
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

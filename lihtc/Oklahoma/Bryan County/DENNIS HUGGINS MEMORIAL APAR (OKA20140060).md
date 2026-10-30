@@ -1,13 +1,10 @@
 # Project: DENNIS HUGGINS MEMORIAL APAR (OKA20140060)
 
 - HUD ID: OKA20140060
-- HUD ID before: 
 - Project: DENNIS HUGGINS MEMORIAL APAR
 - Address: 101 W MAIN ST
 - City: DURANT
-- State: OK
 - ZIP: 74701
-- ZIP extension: 
 - State project ID: 120774
 - Latitude: 33.990458
 - Longitude: -96.37596
@@ -22,9 +19,7 @@
 - Place 2000: 22050
 - Place 1990: 0730
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 7706925
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

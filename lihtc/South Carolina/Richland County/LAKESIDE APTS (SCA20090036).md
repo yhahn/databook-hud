@@ -1,13 +1,10 @@
 # Project: LAKESIDE APTS (SCA20090036)
 
 - HUD ID: SCA20090036
-- HUD ID before: 
 - Project: LAKESIDE APTS
 - Address: 401 HARBISON BLVD
 - City: COLUMBIA
-- State: SC
 - ZIP: 29212
-- ZIP extension: 
 - State project ID: SC-09-018
 - Latitude: 34.080156
 - Longitude: -81.150163
@@ -22,9 +19,7 @@
 - Place 2000: 16000
 - Place 1990: 1208
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 499984
 - Units: 109
 - Low-income units: 109
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

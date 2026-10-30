@@ -1,13 +1,10 @@
 # Project: SEAGROVE VILLAGE APTS (SCA19960046)
 
 - HUD ID: SCA19960046
-- HUD ID before: 
 - Project: SEAGROVE VILLAGE APTS
 - Address: 300 S LIBERTY ST
 - City: ESTILL
-- State: SC
 - ZIP: 29918
-- ZIP extension: 
 - State project ID: SC-94-016
 - Latitude: 32.758172
 - Longitude: -81.225367
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 45049920402
 - Tract 2010: 45049920400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 23830
 - Place 2010: 23830
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 35479
 - Units: 25
 - Low-income units: 25
@@ -39,9 +30,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

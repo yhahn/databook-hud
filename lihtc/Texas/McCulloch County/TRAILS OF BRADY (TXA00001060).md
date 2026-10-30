@@ -1,13 +1,10 @@
 # Project: TRAILS OF BRADY (TXA00001060)
 
 - HUD ID: TXA00001060
-- HUD ID before: 
 - Project: TRAILS OF BRADY
 - Address: 1915 NINE ROAD
 - City: BRADY
-- State: TX
 - ZIP: 76825
-- ZIP extension: 
 - State project ID: TX5102
 - Latitude: 31.117369
 - Longitude: -99.345342
@@ -16,16 +13,10 @@
 - Tract 2020: 48307950400
 - Tract 2010: 48307950400
 - Tract 2000: 48307950300
-- Tract 1990: 
 - Place 2020: 09916
 - Place 2010: 09916
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2017
-- Allocation year note: 
-- Allocation amount: 
 - Units: 72
 - Low-income units: 64
 - Units reported: 72
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -75,11 +65,4 @@
 - Other population named: Total Special Needs
 - Scattered site: No
 - Resyndicated: No
-- Metro: 
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

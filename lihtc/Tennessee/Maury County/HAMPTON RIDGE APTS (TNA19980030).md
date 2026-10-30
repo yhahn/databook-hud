@@ -1,13 +1,10 @@
 # Project: HAMPTON RIDGE APTS (TNA19980030)
 
 - HUD ID: TNA19980030
-- HUD ID before: 
 - Project: HAMPTON RIDGE APTS
 - Address: 1000 MCMEEN CIR
 - City: COLUMBIA
-- State: TN
 - ZIP: 38401
-- ZIP extension: 
 - State project ID: TN-96-013
 - Latitude: 35.650643
 - Longitude: -87.026176
@@ -22,9 +19,7 @@
 - Place 2000: 16540
 - Place 1990: 0290
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 549687
 - Units: 140
 - Low-income units: 140
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

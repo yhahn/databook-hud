@@ -1,13 +1,10 @@
 # Project: SEIGLE POINT APT HOMES (NCA20080165)
 
 - HUD ID: NCA20080165
-- HUD ID before: 
 - Project: SEIGLE POINT APT HOMES
 - Address: 110 WINDING PATH WAY
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28204
-- ZIP extension: 
 - State project ID: 9002805
 - Latitude: 35.226417
 - Longitude: -80.825484
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 204
 - Low-income units: 204
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 102
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

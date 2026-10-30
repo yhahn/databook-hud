@@ -1,13 +1,10 @@
 # Project: HAZLEHURST MANOR (MSA19920075)
 
 - HUD ID: MSA19920075
-- HUD ID before: 
 - Project: HAZLEHURST MANOR
 - Address: 523 LAKE ST
 - City: HAZLEHURST
-- State: MS
 - ZIP: 39083
-- ZIP extension: 
 - State project ID: MS-92-002
 - Latitude: 31.874536
 - Longitude: -90.406651
@@ -22,10 +19,7 @@
 - Place 2000: 31220
 - Place 1990: 0540
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 32
 - Low-income units: 32
 - Units reported: 32
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

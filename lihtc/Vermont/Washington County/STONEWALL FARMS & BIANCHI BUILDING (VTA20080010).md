@@ -1,13 +1,10 @@
 # Project: STONEWALL FARMS & BIANCHI BUILDING (VTA20080010)
 
 - HUD ID: VTA20080010
-- HUD ID before: 
 - Project: STONEWALL FARMS & BIANCHI BUILDING
 - Address: 208 BARRE ST
 - City: MONTPELIER
-- State: VT
 - ZIP: 05602
-- ZIP extension: 
 - State project ID: 0351
 - Latitude: 44.253449
 - Longitude: -72.569859
@@ -22,9 +19,7 @@
 - Place 2000: 46000
 - Place 1990: 1610
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 150000
 - Units: 18
 - Low-income units: 18
@@ -38,14 +33,9 @@
 - Construction: Acquisition and rehab
 - Credit: Both
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VTA2007015. FKA BIANCHI BUILDING
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CORTLAND MANOR (ILA20030020)
 
 - HUD ID: ILA20030020
-- HUD ID before: 
 - Project: CORTLAND MANOR
 - Address: 1900 N KARLOV AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60639
-- ZIP extension: 
 - State project ID: 136401
 - Latitude: 41.915328
 - Longitude: -87.729139
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 508708
 - Units: 37
 - Low-income units: 37
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

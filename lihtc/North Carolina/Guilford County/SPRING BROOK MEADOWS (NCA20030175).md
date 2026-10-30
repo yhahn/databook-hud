@@ -1,13 +1,10 @@
 # Project: SPRING BROOK MEADOWS (NCA20030175)
 
 - HUD ID: NCA20030175
-- HUD ID before: 
 - Project: SPRING BROOK MEADOWS
 - Address: 2732 GRANVILLE ST
 - City: HIGH POINT
-- State: NC
 - ZIP: 27263
-- ZIP extension: 
 - State project ID: 9000715
 - Latitude: 35.928381
 - Longitude: -79.977807
@@ -19,12 +16,9 @@
 - Tract 1990: 37081014502
 - Place 2020: 31400
 - Place 2010: 31400
-- Place 2000: 
 - Place 1990: 1195
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 267709
 - Units: 44
 - Low-income units: 44
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

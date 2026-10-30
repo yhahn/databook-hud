@@ -1,13 +1,10 @@
 # Project: THE STANDARD AT BOSWELL MARKETPLACE (TXA0000X095)
 
 - HUD ID: TXA0000X095
-- HUD ID before: 
 - Project: THE STANDARD AT BOSWELL MARKETPLACE
 - Address: 8861 OLD DECATUR RD
 - City: FORT WORTH
-- State: TX
 - ZIP: 76179
-- ZIP extension: 
 - State project ID: TX5197
 - Latitude: 32.884482
 - Longitude: -97.392543
@@ -16,16 +13,10 @@
 - Tract 2020: 48439114106
 - Tract 2010: 48439114104
 - Tract 2000: 48439114001
-- Tract 1990: 
 - Place 2020: 27000
 - Place 2010: 27000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 128
 - Low-income units: 118
 - Units reported: 128
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

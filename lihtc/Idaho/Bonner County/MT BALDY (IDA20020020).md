@@ -1,13 +1,10 @@
 # Project: MT BALDY (IDA20020020)
 
 - HUD ID: IDA20020020
-- HUD ID before: 
 - Project: MT BALDY
 - Address: 835 KOOTENAI CUT OFF ROAD
 - City: PONDERAY
-- State: ID
 - ZIP: 83852
-- ZIP extension: 
 - State project ID: HC0003
 - Latitude: 48.309116
 - Longitude: -116.533925
@@ -20,11 +17,8 @@
 - Place 2020: 64450
 - Place 2010: 64450
 - Place 2000: 64450
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 246820
 - Units: 45
 - Low-income units: 39
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

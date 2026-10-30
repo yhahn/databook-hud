@@ -1,13 +1,10 @@
 # Project: COEUR DALENE SENIOR (IDA20000040)
 
 - HUD ID: IDA20000040
-- HUD ID before: 
 - Project: COEUR DALENE SENIOR
 - Address: 7712 NORTH HEARTLAND DRIVE
 - City: COEUR DALENE
-- State: ID
 - ZIP: 83815
-- ZIP extension: 
 - State project ID: HC9902
 - Latitude: 47.741753
 - Longitude: -116.799138
@@ -20,11 +17,8 @@
 - Place 2020: 16750
 - Place 2010: 16750
 - Place 2000: 16750
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 158834
 - Units: 38
 - Low-income units: 29
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: ORCUTT TOWNHOMES III (VAA20120170)
 
 - HUD ID: VAA20120170
-- HUD ID before: 
 - Project: ORCUTT TOWNHOMES III
 - Address: 1008 37TH ST
 - City: NEWPORT NEWS
-- State: VA
 - ZIP: 23607
-- ZIP extension: 
 - State project ID: 1296
 - Latitude: 36.992852
 - Longitude: -76.415694
@@ -22,9 +19,7 @@
 - Place 2000: 56000
 - Place 1990: 0860
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 272060
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: Yes
 - TCAP amount: 1004231
 - TCEP: Yes
 - TCEP amount: 900000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

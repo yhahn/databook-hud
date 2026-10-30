@@ -1,13 +1,10 @@
 # Project: 104TH STREET HOUSING, L.P. (NYC20151002)
 
 - HUD ID: NYC20151002
-- HUD ID before: 
 - Project: 104TH STREET HOUSING, L.P.
 - Address: 222 EAST 104TH STREET
 - City: NEW YORK
-- State: NY
 - ZIP: 10029
-- ZIP extension: 
 - State project ID: 90-0854800
 - Latitude: 40.789698
 - Longitude: -73.944748
@@ -16,15 +13,11 @@
 - Tract 2020: 36061016400
 - Tract 2010: 36061016400
 - Tract 2000: 36061016400
-- Tract 1990: 
 - Place 2020: 51000
 - Place 2010: 51000
 - Place 2000: 51000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 982719
 - Units: 89
 - Low-income units: 88
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,13 +48,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

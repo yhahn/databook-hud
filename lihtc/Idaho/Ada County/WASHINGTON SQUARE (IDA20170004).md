@@ -1,13 +1,10 @@
 # Project: WASHINGTON SQUARE (IDA20170004)
 
 - HUD ID: IDA20170004
-- HUD ID before: 
 - Project: WASHINGTON SQUARE
 - Address: 416 EAST WASHINGTON AVENUE
 - City: MERIDIAN
-- State: ID
 - ZIP: 83642
-- ZIP extension: 
 - State project ID: HC1607
 - Latitude: 43.614827
 - Longitude: -116.386981
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 16001010368
 - Tract 2010: 16001010321
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 52120
 - Place 2010: 52120
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 426732
 - Units: 42
 - Low-income units: 41
@@ -40,11 +31,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

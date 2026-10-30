@@ -1,13 +1,10 @@
 # Project: VENDOME PALMS APTS (CAA20110522)
 
 - HUD ID: CAA20110522
-- HUD ID before: 
 - Project: VENDOME PALMS APTS
 - Address: 975 N VENDOME ST
 - City: LOS ANGELES
-- State: CA
 - ZIP: 90026
-- ZIP extension: 
 - State project ID: CA-10-800
 - Latitude: 34.083992
 - Longitude: -118.274677
@@ -22,9 +19,7 @@
 - Place 2000: 44000
 - Place 1990: 1630
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 452304
 - Units: 35
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1990126, CAA0001560.
 - Record status: Existing, unchanged

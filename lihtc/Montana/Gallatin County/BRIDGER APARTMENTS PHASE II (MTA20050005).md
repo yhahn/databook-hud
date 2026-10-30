@@ -1,11 +1,9 @@
 # Project: BRIDGER APARTMENTS PHASE II (MTA20050005)
 
 - HUD ID: MTA20050005
-- HUD ID before: 
 - Project: BRIDGER APARTMENTS PHASE II
 - Address: 689-773 PROFESSIONAL DR
 - City: BOZEMAN
-- State: MT
 - ZIP: 59718
 - ZIP extension: 0000
 - State project ID: 04030
@@ -22,9 +20,7 @@
 - Place 2000: 08950
 - Place 1990: 0080
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 505000
 - Units: 46
 - Low-income units: 46
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: GEORGETOWN OF NEW ORLEANS (LAA20070801)
 
 - HUD ID: LAA20070801
-- HUD ID before: 
 - Project: GEORGETOWN OF NEW ORLEANS
 - Address: 6419 DERBYSHIRE DRIVE
 - City: NEW ORLEANS
-- State: LA
 - ZIP: 70126
 - ZIP extension: 0000
 - State project ID: LA-06-213
@@ -22,9 +20,7 @@
 - Place 2000: 55000
 - Place 1990: 0956
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 106130
 - Units: 119
 - Low-income units: 119
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: No
 - Families: No
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: Rehabilitation
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS LAA2007048. AKA GEORGETOWN OF NEW ORLEANS II.;
 - Record status: Existing, unchanged

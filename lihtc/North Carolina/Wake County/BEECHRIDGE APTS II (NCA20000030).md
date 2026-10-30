@@ -1,13 +1,10 @@
 # Project: BEECHRIDGE APTS II (NCA20000030)
 
 - HUD ID: NCA20000030
-- HUD ID before: 
 - Project: BEECHRIDGE APTS II
 - Address: 610 UPCHURCH STREET
 - City: APEX
-- State: NC
 - ZIP: 27502
-- ZIP extension: 
 - State project ID: 9000976
 - Latitude: 35.728357
 - Longitude: -78.860076
@@ -20,11 +17,8 @@
 - Place 2020: 01520
 - Place 2010: 01520
 - Place 2000: 01520
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 165316
 - Units: 32
 - Low-income units: 32
@@ -40,12 +34,9 @@
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

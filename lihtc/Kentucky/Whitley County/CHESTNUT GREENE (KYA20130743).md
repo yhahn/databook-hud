@@ -1,13 +1,10 @@
 # Project: CHESTNUT GREENE (KYA20130743)
 
 - HUD ID: KYA20130743
-- HUD ID before: 
 - Project: CHESTNUT GREENE
 - Address: ROBERT E. COX ROAD
 - City: CORBIN
-- State: KY
 - ZIP: 40701
-- ZIP extension: 
 - State project ID: KY-11-018
 - Latitude: 36.95
 - Longitude: -84.1067
@@ -19,12 +16,8 @@
 - Tract 1990: 21125971000
 - Place 2020: 17362
 - Place 2010: 17362
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 525202
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

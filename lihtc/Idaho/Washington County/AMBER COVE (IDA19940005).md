@@ -1,13 +1,10 @@
 # Project: AMBER COVE (IDA19940005)
 
 - HUD ID: IDA19940005
-- HUD ID before: 
 - Project: AMBER COVE
 - Address: 1302 WEST 6TH STREET
 - City: WEISER
-- State: ID
 - ZIP: 83672
-- ZIP extension: 
 - State project ID: HC9401
 - Latitude: 44.254514
 - Longitude: -116.977216
@@ -22,9 +19,7 @@
 - Place 2000: 86140
 - Place 1990: 1000
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 52395
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,7 +65,6 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +72,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

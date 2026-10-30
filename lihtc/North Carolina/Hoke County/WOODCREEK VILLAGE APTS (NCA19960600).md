@@ -1,13 +1,10 @@
 # Project: WOODCREEK VILLAGE APTS (NCA19960600)
 
 - HUD ID: NCA19960600
-- HUD ID before: 
 - Project: WOODCREEK VILLAGE APTS
 - Address: 307 WOODCREEK VILLA AVENUE
 - City: RAEFORD
-- State: NC
 - ZIP: 28376
-- ZIP extension: 
 - State project ID: 9001354
 - Latitude: 34.991718
 - Longitude: -79.231582
@@ -16,15 +13,10 @@
 - Tract 2020: 37093970300
 - Tract 2010: 37093970300
 - Tract 2000: 37093970300
-- Tract 1990: 
 - Place 2020: 54580
 - Place 2010: 54580
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 43830
 - Units: 27
 - Low-income units: 27
@@ -39,9 +31,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +61,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: WELDON DOWNTOWN APARTMENTS (NCA20060215)
 
 - HUD ID: NCA20060215
-- HUD ID before: 
 - Project: WELDON DOWNTOWN APARTMENTS
 - Address: 121 WASHINGTON AVENUE WASHINGTON THIRD
 - City: WELDON
-- State: NC
 - ZIP: 27890
-- ZIP extension: 
 - State project ID: 9002300
 - Latitude: 36.428011
 - Longitude: -77.595908
@@ -22,9 +19,7 @@
 - Place 2000: 71780
 - Place 1990: 2353
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 246170
 - Units: 24
 - Low-income units: 24
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

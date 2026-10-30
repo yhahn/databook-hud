@@ -1,13 +1,10 @@
 # Project: LINCOLN PARK TOWNHOMES (NDA20130001)
 
 - HUD ID: NDA20130001
-- HUD ID before: 
 - Project: LINCOLN PARK TOWNHOMES
 - Address: 1701 ABRAHAM PKWY
 - City: DICKINSON
-- State: ND
 - ZIP: 58601
-- ZIP extension: 
 - State project ID: TC1204
 - Latitude: 46.8737
 - Longitude: -102.7946
@@ -22,9 +19,7 @@
 - Place 2000: 19620
 - Place 1990: 0425
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 631250
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA DICKINSON LINCOLN PARK APTS.
 - Record status: Existing, unchanged

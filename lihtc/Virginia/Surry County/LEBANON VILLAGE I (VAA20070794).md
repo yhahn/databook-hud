@@ -1,13 +1,10 @@
 # Project: LEBANON VILLAGE I (VAA20070794)
 
 - HUD ID: VAA20070794
-- HUD ID before: 
 - Project: LEBANON VILLAGE I
 - Address: 14 QUEENSWAY LN
 - City: SPRING GROVE
-- State: VA
 - ZIP: 23881
-- ZIP extension: 
 - State project ID: 9093
 - Latitude: 37.142594
 - Longitude: -76.840752
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 16880
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 110174
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006113.
 - Record status: Existing, unchanged

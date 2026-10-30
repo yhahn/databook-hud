@@ -1,13 +1,10 @@
 # Project: DOVE POINTE APTS (SCA20020020)
 
 - HUD ID: SCA20020020
-- HUD ID before: 
 - Project: DOVE POINTE APTS
 - Address: 401 S CAMBRIDGE ST
 - City: NINETY SIX
-- State: SC
 - ZIP: 29666
-- ZIP extension: 
 - State project ID: SC-01-033
 - Latitude: 34.169848
 - Longitude: -82.024943
@@ -20,11 +17,8 @@
 - Place 2020: 50290
 - Place 2010: 50290
 - Place 2000: 50290
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 43942
 - Units: 29
 - Low-income units: 29
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

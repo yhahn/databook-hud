@@ -1,11 +1,9 @@
 # Project: CEDAR CREEK II APARTMENTS - JACKSON (WYA20150001)
 
 - HUD ID: WYA20150001
-- HUD ID before: 
 - Project: CEDAR CREEK II APARTMENTS - JACKSON
 - Address: 2200 CORNER CREEK LANE
 - City: JACKSON
-- State: WY
 - ZIP: 83001
 - ZIP extension: 0000
 - State project ID: 14-007
@@ -16,15 +14,11 @@
 - Tract 2020: 56039967802
 - Tract 2010: 56039967800
 - Tract 2000: 56039997800
-- Tract 1990: 
 - Place 2020: 40120
 - Place 2010: 40120
 - Place 2000: 40120
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 218178
 - Units: 28
 - Low-income units: 27
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

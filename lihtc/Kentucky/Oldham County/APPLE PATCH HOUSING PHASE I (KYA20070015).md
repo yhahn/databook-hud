@@ -1,13 +1,10 @@
 # Project: APPLE PATCH HOUSING PHASE I (KYA20070015)
 
 - HUD ID: KYA20070015
-- HUD ID before: 
 - Project: APPLE PATCH HOUSING PHASE I
 - Address: CELEBRATION WAY
 - City: CRESTWOOD
-- State: KY
 - ZIP: 40014
-- ZIP extension: 
 - State project ID: KY-05-046
 - Latitude: 38.3501
 - Longitude: -85.4492
@@ -19,12 +16,8 @@
 - Tract 1990: 21185030700
 - Place 2020: 18496
 - Place 2010: 18496
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 148376
 - Units: 12
 - Low-income units: 12
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +57,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +69,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

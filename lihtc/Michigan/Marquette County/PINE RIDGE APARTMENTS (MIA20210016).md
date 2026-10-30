@@ -1,11 +1,9 @@
 # Project: PINE RIDGE APARTMENTS (MIA20210016)
 
 - HUD ID: MIA20210016
-- HUD ID before: 
 - Project: PINE RIDGE APARTMENTS
 - Address: 316 PINE STREET
 - City: MARQUETTE
-- State: MI
 - ZIP: 49855
 - ZIP extension: 0000
 - State project ID: 3924
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26103000100
 - Tract 2010: 26103000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 51900
 - Place 2010: 51900
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 612060
 - Units: 140
 - Low-income units: 140
@@ -40,15 +32,12 @@
 - Income ceiling: Income average
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 346000
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

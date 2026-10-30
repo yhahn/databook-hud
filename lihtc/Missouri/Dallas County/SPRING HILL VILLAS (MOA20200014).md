@@ -1,11 +1,9 @@
 # Project: SPRING HILL VILLAS (MOA20200014)
 
 - HUD ID: MOA20200014
-- HUD ID before: 
 - Project: SPRING HILL VILLAS
 - Address: 408 N. PINECREST STREET
 - City: BUFFALO
-- State: MO
 - ZIP: 65622
 - ZIP extension: 0000
 - State project ID: 18-084
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29059480302
 - Tract 2010: 29059480300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 616000
 - Units: 32
 - Low-income units: 32
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MADISON PLACE APARTMENTS (NCA20140090)
 
 - HUD ID: NCA20140090
-- HUD ID before: 
 - Project: MADISON PLACE APARTMENTS
 - Address: 1773 BEAVER POND ROAD
 - City: ROCKY MOUNT
-- State: NC
 - ZIP: 27804
-- ZIP extension: 
 - State project ID: 9134043
 - Latitude: 35.987695
 - Longitude: -77.809347
@@ -19,12 +16,9 @@
 - Tract 1990: 37127010502
 - Place 2020: 57500
 - Place 2010: 57500
-- Place 2000: 
 - Place 1990: 2115
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 378538
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

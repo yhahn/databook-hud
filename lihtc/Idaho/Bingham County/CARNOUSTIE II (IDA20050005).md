@@ -1,13 +1,10 @@
 # Project: CARNOUSTIE II (IDA20050005)
 
 - HUD ID: IDA20050005
-- HUD ID before: 
 - Project: CARNOUSTIE II
 - Address: 604 WEST FIR STREET
 - City: SHELLEY
-- State: ID
 - ZIP: 83274
-- ZIP extension: 
 - State project ID: HC0418
 - Latitude: 43.374101
 - Longitude: -112.133556
@@ -19,12 +16,9 @@
 - Tract 1990: 16011950100
 - Place 2020: 73450
 - Place 2010: 73450
-- Place 2000: 
 - Place 1990: 0885
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 260974
 - Units: 31
 - Low-income units: 31
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

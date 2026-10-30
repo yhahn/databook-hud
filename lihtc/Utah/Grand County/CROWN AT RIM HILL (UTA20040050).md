@@ -1,11 +1,9 @@
 # Project: CROWN AT RIM HILL (UTA20040050)
 
 - HUD ID: UTA20040050
-- HUD ID before: 
 - Project: CROWN AT RIM HILL
 - Address: 1268 SOUTH MADISON WAY
 - City: MOAB
-- State: UT
 - ZIP: 84532
 - ZIP extension: 0000
 - State project ID: 2003-08
@@ -13,18 +11,11 @@
 - Longitude: -109.54168
 - County FIPS: 49019
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49019000300
 - Tract 2000: 49019000100
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 81358
 - Units: 8
 - Low-income units: 8
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: UNION APTS (MSA19970110)
 
 - HUD ID: MSA19970110
-- HUD ID before: 
 - Project: UNION APTS
 - Address: 701 MOSS HILL DR
 - City: NEW ALBANY
-- State: MS
 - ZIP: 38652
-- ZIP extension: 
 - State project ID: MS-95-035
 - Latitude: 34.502489
 - Longitude: -89.023817
@@ -22,10 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 0885
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
-- Allocation amount: 
 - Units: 38
 - Low-income units: 38
 - Units reported: 38
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

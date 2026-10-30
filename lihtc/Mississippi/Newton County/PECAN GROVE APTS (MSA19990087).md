@@ -1,13 +1,10 @@
 # Project: PECAN GROVE APTS (MSA19990087)
 
 - HUD ID: MSA19990087
-- HUD ID before: 
 - Project: PECAN GROVE APTS
 - Address: 239 FIFTH ST
 - City: DECATUR
-- State: MS
 - ZIP: 39327
-- ZIP extension: 
 - State project ID: MS-97-051
 - Latitude: 32.435371
 - Longitude: -89.113378
@@ -20,11 +17,8 @@
 - Place 2020: 18180
 - Place 2010: 18180
 - Place 2000: 15540
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 7410
 - Units: 8
 - Low-income units: 8
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1999614.
 - Record status: Existing, unchanged

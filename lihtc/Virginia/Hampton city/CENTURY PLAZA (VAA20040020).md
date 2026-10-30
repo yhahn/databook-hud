@@ -1,13 +1,10 @@
 # Project: CENTURY PLAZA (VAA20040020)
 
 - HUD ID: VAA20040020
-- HUD ID before: 
 - Project: CENTURY PLAZA
 - Address: 135 LASSITER DR
 - City: HAMPTON
-- State: VA
 - ZIP: 23666
-- ZIP extension: 
 - State project ID: 4166
 - Latitude: 37.022508
 - Longitude: -76.417859
@@ -22,9 +19,7 @@
 - Place 2000: 35000
 - Place 1990: 0590
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 303769
 - Units: 120
 - Low-income units: 120
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

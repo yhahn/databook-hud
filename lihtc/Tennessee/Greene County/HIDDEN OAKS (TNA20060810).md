@@ -1,13 +1,10 @@
 # Project: HIDDEN OAKS (TNA20060810)
 
 - HUD ID: TNA20060810
-- HUD ID before: 
 - Project: HIDDEN OAKS
 - Address: 1108 W SUMMER ST
 - City: GREENEVILLE
-- State: TN
 - ZIP: 37743
-- ZIP extension: 
 - State project ID: TN-04-005
 - Latitude: 36.168994
 - Longitude: -82.85512
@@ -20,11 +17,8 @@
 - Place 2020: 30980
 - Place 2010: 30980
 - Place 2000: 30980
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 501076
 - Units: 72
 - Low-income units: 72
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2007065, TNA2006105, TNA2006040.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: LANDMARK APTS (NCA20099011)
 
 - HUD ID: NCA20099011
-- HUD ID before: 
 - Project: LANDMARK APTS
 - Address: 1600 LANDMARK CIR
 - City: NEW BERN
-- State: NC
 - ZIP: 28560
 - ZIP extension: 6807
 - State project ID: 9002223
@@ -22,9 +20,7 @@
 - Place 2000: 07765
 - Place 1990: 1285
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 38374
 - Units: 32
 - Low-income units: 32
@@ -39,16 +35,13 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

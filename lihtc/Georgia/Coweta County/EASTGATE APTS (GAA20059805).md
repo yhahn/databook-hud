@@ -1,13 +1,10 @@
 # Project: EASTGATE APTS (GAA20059805)
 
 - HUD ID: GAA20059805
-- HUD ID before: 
 - Project: EASTGATE APTS
 - Address: 11 FAIRMONT SCHOOL ROAD
 - City: NEWNAN
-- State: GA
 - ZIP: 30263
-- ZIP extension: 
 - State project ID: 2004-506
 - Latitude: 33.359469
 - Longitude: -84.783994
@@ -22,9 +19,7 @@
 - Place 2000: 25692
 - Place 1990: 2015
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 116769
 - Units: 96
 - Low-income units: 96
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS GAA2005170. AKA EASTGATE APTS AN ALABAMA.
 - Record status: Updated

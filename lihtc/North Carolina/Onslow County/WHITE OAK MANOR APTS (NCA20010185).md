@@ -1,13 +1,10 @@
 # Project: WHITE OAK MANOR APTS (NCA20010185)
 
 - HUD ID: NCA20010185
-- HUD ID before: 
 - Project: WHITE OAK MANOR APTS
 - Address: 41 MANOR LANE
 - City: SWANSBORO
-- State: NC
 - ZIP: 28584
-- ZIP extension: 
 - State project ID: 9001128
 - Latitude: 34.695229
 - Longitude: -77.135199
@@ -20,11 +17,8 @@
 - Place 2020: 66360
 - Place 2010: 66360
 - Place 2000: 66360
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 205370
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

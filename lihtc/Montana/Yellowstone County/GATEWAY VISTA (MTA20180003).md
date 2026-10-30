@@ -1,11 +1,9 @@
 # Project: GATEWAY VISTA (MTA20180003)
 
 - HUD ID: MTA20180003
-- HUD ID before: 
 - Project: GATEWAY VISTA
 - Address: 945 WYOMING AVENUE
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: 17020
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30111001100
 - Tract 2010: 30111001100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 06550
 - Place 2010: 06550
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 417614
 - Units: 24
 - Low-income units: 24
@@ -44,11 +36,9 @@
 - Affordability years: 46
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

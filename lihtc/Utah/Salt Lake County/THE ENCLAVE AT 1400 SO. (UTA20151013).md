@@ -1,11 +1,9 @@
 # Project: THE ENCLAVE AT 1400 SO. (UTA20151013)
 
 - HUD ID: UTA20151013
-- HUD ID before: 
 - Project: THE ENCLAVE AT 1400 SO.
 - Address: 1400 SOUTH 300 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84115
 - ZIP extension: 0000
 - State project ID: 2017-24
@@ -16,15 +14,11 @@
 - Tract 2020: 49035102702
 - Tract 2010: 49035102702
 - Tract 2000: 49035102700
-- Tract 1990: 
 - Place 2020: 67000
 - Place 2010: 67000
 - Place 2000: 67000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1039492
 - Units: 210
 - Low-income units: 210
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

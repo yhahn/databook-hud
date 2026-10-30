@@ -1,13 +1,10 @@
 # Project: PARK PINES APTS PHASE II (MSA20010033)
 
 - HUD ID: MSA20010033
-- HUD ID before: 
 - Project: PARK PINES APTS PHASE II
 - Address: 447 HELVESTON RD
 - City: HATTIESBURG
-- State: MS
 - ZIP: 39401
-- ZIP extension: 
 - State project ID: MS-01-004
 - Latitude: 31.299011
 - Longitude: -89.29968
@@ -22,9 +19,7 @@
 - Place 2000: 31020
 - Place 1990: 0535
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 345042
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2001633.
 - Record status: Existing, unchanged

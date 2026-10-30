@@ -1,13 +1,10 @@
 # Project: UNION STATION (NCA20130896)
 
 - HUD ID: NCA20130896
-- HUD ID before: 
 - Project: UNION STATION
 - Address: 205 S MAIN STREET
 - City: WINGATE
-- State: NC
 - ZIP: 28174
-- ZIP extension: 
 - State project ID: 9111556
 - Latitude: 34.980585
 - Longitude: -80.449131
@@ -22,9 +19,7 @@
 - Place 2000: 74760
 - Place 1990: 2780
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 314136
 - Units: 48
 - Low-income units: 48
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

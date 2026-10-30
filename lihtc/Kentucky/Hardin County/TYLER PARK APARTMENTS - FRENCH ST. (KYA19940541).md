@@ -1,13 +1,10 @@
 # Project: TYLER PARK APARTMENTS - FRENCH ST. (KYA19940541)
 
 - HUD ID: KYA19940541
-- HUD ID before: 
 - Project: TYLER PARK APARTMENTS - FRENCH ST.
 - Address: FRENCH ST.
 - City: ELIZABETHTOWN
-- State: KY
 - ZIP: 42701
-- ZIP extension: 
 - State project ID: KY-93-090
 - Latitude: 37.7012
 - Longitude: -85.8554
@@ -22,9 +19,7 @@
 - Place 2000: 24274
 - Place 1990: 0610
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 6516
 - Units: 1
 - Low-income units: 1
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +57,17 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA1994160, KYA1994070, KYA0000405. AKA TYLER PARK APTS - FRENCH ST.;
 - Record status: Existing, unchanged

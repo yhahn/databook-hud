@@ -1,13 +1,10 @@
 # Project: TIMBER GROVE APTS (MSA20090165)
 
 - HUD ID: MSA20090165
-- HUD ID before: 
 - Project: TIMBER GROVE APTS
 - Address: 10687 AUTO MALL PKWY
 - City: DIBERVILLE
-- State: MS
 - ZIP: 39540
-- ZIP extension: 
 - State project ID: MS-07-015
 - Latitude: 30.440693
 - Longitude: -88.900129
@@ -22,9 +19,7 @@
 - Place 2000: 19180
 - Place 1990: 0330
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 1070039
 - Units: 96
 - Low-income units: 96
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

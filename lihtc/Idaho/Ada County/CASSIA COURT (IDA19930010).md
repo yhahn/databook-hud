@@ -1,13 +1,10 @@
 # Project: CASSIA COURT (IDA19930010)
 
 - HUD ID: IDA19930010
-- HUD ID before: 
 - Project: CASSIA COURT
 - Address: 5503 CASSIA STREET
 - City: BOISE
-- State: ID
 - ZIP: 83705
-- ZIP extension: 
 - State project ID: HC9222
 - Latitude: 43.59694
 - Longitude: -116.249868
@@ -22,9 +19,7 @@
 - Place 2000: 08830
 - Place 1990: 0090
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 88603
 - Units: 18
 - Low-income units: 18
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MCBRAYER MANOR APARTMENTS (KYA19950120)
 
 - HUD ID: KYA19950120
-- HUD ID before: 
 - Project: MCBRAYER MANOR APARTMENTS
 - Address: MCBRAYER RD.
 - City: CLEARFIELD
-- State: KY
 - ZIP: 40351
-- ZIP extension: 
 - State project ID: KY-94-009
 - Latitude: 38.1107
 - Longitude: -83.4394
@@ -19,12 +16,8 @@
 - Tract 1990: 21205950300
 - Place 2020: 99999
 - Place 2010: 53418
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +55,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +68,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

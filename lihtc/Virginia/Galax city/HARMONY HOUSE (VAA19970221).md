@@ -1,13 +1,10 @@
 # Project: HARMONY HOUSE (VAA19970221)
 
 - HUD ID: VAA19970221
-- HUD ID before: 
 - Project: HARMONY HOUSE
 - Address: 1149 GLENDALE ROAD
 - City: GALAX
-- State: VA
 - ZIP: 24333
-- ZIP extension: 
 - State project ID: 999
 - Latitude: 36.693476
 - Longitude: -80.884774
@@ -20,11 +17,8 @@
 - Place 2020: 30208
 - Place 2010: 30208
 - Place 2000: 30208
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 230690
 - Units: 40
 - Low-income units: 40
@@ -40,13 +34,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 22
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
-- RHS 514 loan: 
 - RHS 515 loan: No
 - RHS 538 loan: No
 - HOME: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1993045.
 - Record status: Existing, unchanged

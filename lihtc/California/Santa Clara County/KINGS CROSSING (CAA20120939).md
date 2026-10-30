@@ -1,13 +1,10 @@
 # Project: KINGS CROSSING (CAA20120939)
 
 - HUD ID: CAA20120939
-- HUD ID before: 
 - Project: KINGS CROSSING
 - Address: 678 N KING RD
 - City: SAN JOSE
-- State: CA
 - ZIP: 95133
-- ZIP extension: 
 - State project ID: CA-10-505
 - Latitude: 37.365627
 - Longitude: -121.867884
@@ -22,10 +19,7 @@
 - Place 2000: 68000
 - Place 1990: 2510
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 94
 - Low-income units: 92
 - Units reported: 94
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 92
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,10 @@
 - HOME amount: 5601694
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 2076901
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

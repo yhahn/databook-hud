@@ -1,11 +1,9 @@
 # Project: ST ALBANS PARK (MNB20132008)
 
 - HUD ID: MNB20132008
-- HUD ID before: 
 - Project: ST ALBANS PARK
 - Address: 665 SELBY AVENUE
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55104
 - ZIP extension: 6615
 - State project ID: D3019
@@ -16,15 +14,11 @@
 - Tract 2020: 27123033900
 - Tract 2010: 27123033900
 - Tract 2000: 27123033900
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 989035
 - Units: 74
 - Low-income units: 74
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 8
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -68,18 +61,11 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

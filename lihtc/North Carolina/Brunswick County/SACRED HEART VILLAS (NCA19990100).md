@@ -1,11 +1,9 @@
 # Project: SACRED HEART VILLAS (NCA19990100)
 
 - HUD ID: NCA19990100
-- HUD ID before: 
 - Project: SACRED HEART VILLAS
 - Address: 5339 111 DOSHER CUTOFF ROAD
 - City: SOUTHPORT
-- State: NC
 - ZIP: 28461
 - ZIP extension: 8322
 - State project ID: 9001203
@@ -20,11 +18,8 @@
 - Place 2020: 06760
 - Place 2010: 06760
 - Place 2000: 58630
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 223303
 - Units: 44
 - Low-income units: 44
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

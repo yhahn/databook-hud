@@ -1,13 +1,10 @@
 # Project: MEADOW PARK APTS (NCA20020095)
 
 - HUD ID: NCA20020095
-- HUD ID before: 
 - Project: MEADOW PARK APTS
 - Address: 313 MEADOW PARK DRIVE
 - City: NASHVILLE
-- State: NC
 - ZIP: 27856
-- ZIP extension: 
 - State project ID: 9001298
 - Latitude: 35.963316
 - Longitude: -77.966678
@@ -19,12 +16,9 @@
 - Tract 1990: 37127011100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 1765
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 96078
 - Units: 25
 - Low-income units: 24
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

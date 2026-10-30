@@ -1,13 +1,10 @@
 # Project: ASPEN CLUB (VAA20020513)
 
 - HUD ID: VAA20020513
-- HUD ID before: 
 - Project: ASPEN CLUB
 - Address: 6341B VILLAGE CTR DR
 - City: BEALETON
-- State: VA
 - ZIP: 22712
-- ZIP extension: 
 - State project ID: 7250
 - Latitude: 38.581452
 - Longitude: -77.764053
@@ -20,11 +17,8 @@
 - Place 2020: 05336
 - Place 2010: 05336
 - Place 2000: 66512
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 300125
 - Units: 108
 - Low-income units: 108
@@ -38,10 +32,6 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +62,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2001020. FKA VILLAGES AT ASPEN
 - Record status: Updated

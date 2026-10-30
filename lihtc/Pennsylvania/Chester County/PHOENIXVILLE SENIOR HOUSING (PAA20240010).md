@@ -1,11 +1,9 @@
 # Project: PHOENIXVILLE SENIOR HOUSING (PAA20240010)
 
 - HUD ID: PAA20240010
-- HUD ID before: 
 - Project: PHOENIXVILLE SENIOR HOUSING
 - Address: 115 BUCHANAN ST
 - City: PHOENIXVILLE
-- State: PA
 - ZIP: 19460
 - ZIP extension: 4179
 - State project ID: TC20220409
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42029300700
 - Tract 2010: 42029300700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60120
 - Place 2010: 60120
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1187998
 - Units: 50
 - Low-income units: 50
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

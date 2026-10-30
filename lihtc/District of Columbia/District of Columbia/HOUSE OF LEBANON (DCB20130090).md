@@ -1,13 +1,10 @@
 # Project: HOUSE OF LEBANON (DCB20130090)
 
 - HUD ID: DCB20130090
-- HUD ID before: 
 - Project: HOUSE OF LEBANON
 - Address: 27 O ST NW
 - City: WASHINGTON
-- State: DC
 - ZIP: 20001
-- ZIP extension: 
 - State project ID: DCB2014010
 - Latitude: 38.908733
 - Longitude: -77.010077
@@ -22,8 +19,6 @@
 - Place 2000: 50000
 - Place 1990: 0005
 - Year placed in service: 2013
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 674048
 - Units: 82
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: ST JOSEPH PLACE (PAA20231016)
 
 - HUD ID: PAA20231016
-- HUD ID before: 
 - Project: ST JOSEPH PLACE
 - Address: 502 WOODLAWN AVE
 - City: COLLINGDALE
-- State: PA
 - ZIP: 19023
 - ZIP extension: 4057
 - State project ID: TC20210403
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42045403101
 - Tract 2010: 42045403101
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 15232
 - Place 2010: 15232
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1250000
 - Units: 50
 - Low-income units: 50
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

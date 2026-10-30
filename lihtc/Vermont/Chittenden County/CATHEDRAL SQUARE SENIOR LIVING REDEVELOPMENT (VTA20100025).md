@@ -1,13 +1,10 @@
 # Project: CATHEDRAL SQUARE SENIOR LIVING REDEVELOPMENT (VTA20100025)
 
 - HUD ID: VTA20100025
-- HUD ID before: 
 - Project: CATHEDRAL SQUARE SENIOR LIVING REDEVELOPMENT
 - Address: 3 CATHEDRAL SQ
 - City: BURLINGTON
-- State: VT
 - ZIP: 05401
-- ZIP extension: 
 - State project ID: 0404
 - Latitude: 44.47964
 - Longitude: -73.217653
@@ -22,9 +19,7 @@
 - Place 2000: 10675
 - Place 1990: 0460
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 188029
 - Units: 107
 - Low-income units: 92
@@ -38,14 +33,9 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

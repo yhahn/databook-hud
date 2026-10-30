@@ -1,11 +1,9 @@
 # Project: PRAIRIE RIDGE APTS (IAA19979003)
 
 - HUD ID: IAA19979003
-- HUD ID before: 
 - Project: PRAIRIE RIDGE APTS
 - Address: 1011 16TH ST
 - City: SHELDON
-- State: IA
 - ZIP: 51201
 - ZIP extension: 0000
 - State project ID: 95-52
@@ -13,18 +11,12 @@
 - Longitude: -95.846925
 - County FIPS: 19141
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 19141490300
 - Tract 2000: 19141990300
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 72390
 - Place 2000: 72390
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 78731
 - Units: 24
 - Low-income units: 24
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,7 +39,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

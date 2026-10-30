@@ -1,11 +1,9 @@
 # Project: BOULDER PINES APTS. (UTA20170005)
 
 - HUD ID: UTA20170005
-- HUD ID before: 
 - Project: BOULDER PINES APTS.
 - Address: 4040 SOUTH 1535 WEST #1
 - City: WEST VALLEY CITY
-- State: UT
 - ZIP: 84123
 - ZIP extension: 0000
 - State project ID: 2016-89
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49035113509
 - Tract 2010: 49035113509
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 83470
 - Place 2010: 83470
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 817761
 - Units: 159
 - Low-income units: 159
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

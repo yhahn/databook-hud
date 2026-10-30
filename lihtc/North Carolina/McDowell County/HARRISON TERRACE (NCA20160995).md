@@ -1,13 +1,10 @@
 # Project: HARRISON TERRACE (NCA20160995)
 
 - HUD ID: NCA20160995
-- HUD ID before: 
 - Project: HARRISON TERRACE
 - Address: 90 HARRISON TERRACE DRIVE
 - City: MARION
-- State: NC
 - ZIP: 28752
-- ZIP extension: 
 - State project ID: 9167275
 - Latitude: 35.7256
 - Longitude: -81.9237
@@ -19,12 +16,9 @@
 - Tract 1990: 37111970300
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 1595
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 487505
 - Units: 60
 - Low-income units: 60
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

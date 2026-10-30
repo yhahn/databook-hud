@@ -1,11 +1,9 @@
 # Project: GREENFIELD PLACE (NCA20171015)
 
 - HUD ID: NCA20171015
-- HUD ID before: 
 - Project: GREENFIELD PLACE
 - Address: 150 FORMOSA LN
 - City: CHAPEL HILL
-- State: NC
 - ZIP: 27517
 - ZIP extension: 2921
 - State project ID: 9182555
@@ -16,15 +14,11 @@
 - Tract 2020: 37135012101
 - Tract 2010: 37135012100
 - Tract 2000: 37135012100
-- Tract 1990: 
 - Place 2020: 11800
 - Place 2010: 11800
 - Place 2000: 11800
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 785000
 - Units: 80
 - Low-income units: 80
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,23 +56,12 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

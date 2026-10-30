@@ -1,11 +1,9 @@
 # Project: LAGRAVE ON FIRST (NDA20180001)
 
 - HUD ID: NDA20180001
-- HUD ID before: 
 - Project: LAGRAVE ON FIRST
 - Address: 500 1ST AVE S
 - City: GRAND FORKS
-- State: ND
 - ZIP: 58201
 - ZIP extension: 0000
 - State project ID: TC1705
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 38035010600
 - Tract 2010: 38035010600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 32060
 - Place 2010: 32060
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 776667
 - Units: 42
 - Low-income units: 42
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BRITTANY MANOR (SCA20120010)
 
 - HUD ID: SCA20120010
-- HUD ID before: 
 - Project: BRITTANY MANOR
 - Address: 296 MEANSVILLE RD
 - City: UNION
-- State: SC
 - ZIP: 29379
-- ZIP extension: 
 - State project ID: SC-10-057
 - Latitude: 34.732842
 - Longitude: -81.646807
@@ -20,11 +17,8 @@
 - Place 2020: 73105
 - Place 2010: 73105
 - Place 2000: 10090
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 653278
 - Units: 78
 - Low-income units: 78
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1990015, SCA1988504, SCA1988187.
 - Record status: Existing, unchanged

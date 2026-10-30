@@ -1,13 +1,10 @@
 # Project: PRESTON TAYLOR HOMES I (TNA20020105)
 
 - HUD ID: TNA20020105
-- HUD ID before: 
 - Project: PRESTON TAYLOR HOMES I
 - Address: 812 40TH AVE N
 - City: NASHVILLE
-- State: TN
 - ZIP: 37209
-- ZIP extension: 
 - State project ID: TN-00-030
 - Latitude: 36.158365
 - Longitude: -86.834101
@@ -22,9 +19,7 @@
 - Place 2000: 52006
 - Place 1990: 1016
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 391257
 - Units: 137
 - Low-income units: 137
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 37
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

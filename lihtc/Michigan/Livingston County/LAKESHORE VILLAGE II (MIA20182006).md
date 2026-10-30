@@ -1,11 +1,9 @@
 # Project: LAKESHORE VILLAGE II (MIA20182006)
 
 - HUD ID: MIA20182006
-- HUD ID before: 
 - Project: LAKESHORE VILLAGE II
 - Address: 2812 ONTARIO CT
 - City: GENOA TWP
-- State: MI
 - ZIP: 48843
 - ZIP extension: 0000
 - State project ID: 993
@@ -19,12 +17,8 @@
 - Tract 1990: 26093742000
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 442288
 - Units: 96
 - Low-income units: 96
@@ -39,16 +33,12 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1391805
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

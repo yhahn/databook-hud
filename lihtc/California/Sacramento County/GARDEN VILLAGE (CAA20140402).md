@@ -1,13 +1,10 @@
 # Project: GARDEN VILLAGE (CAA20140402)
 
 - HUD ID: CAA20140402
-- HUD ID before: 
 - Project: GARDEN VILLAGE
 - Address: 6601 SUNNYSLOPE DR
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95828
-- ZIP extension: 
 - State project ID: CA-12-147
 - Latitude: 38.497522
 - Longitude: -121.426258
@@ -22,9 +19,7 @@
 - Place 2000: 24498
 - Place 1990: 1023
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 790029
 - Units: 195
 - Low-income units: 193
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 137
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

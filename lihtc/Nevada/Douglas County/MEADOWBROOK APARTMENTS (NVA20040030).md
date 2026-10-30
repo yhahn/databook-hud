@@ -1,11 +1,9 @@
 # Project: MEADOWBROOK APARTMENTS (NVA20040030)
 
 - HUD ID: NVA20040030
-- HUD ID before: 
 - Project: MEADOWBROOK APARTMENTS
 - Address: 134 KAHLE DRIVE
 - City: STATELINE
-- State: NV
 - ZIP: 89449
 - ZIP extension: 0000
 - State project ID: 02-05
@@ -22,9 +20,7 @@
 - Place 2000: 69200
 - Place 1990: 0140
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 412107
 - Units: 30
 - Low-income units: 30
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

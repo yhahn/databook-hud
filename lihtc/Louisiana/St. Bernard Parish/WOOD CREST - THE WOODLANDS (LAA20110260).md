@@ -1,11 +1,9 @@
 # Project: WOOD CREST / THE WOODLANDS (LAA20110260)
 
 - HUD ID: LAA20110260
-- HUD ID before: 
 - Project: WOOD CREST / THE WOODLANDS
 - Address: 7900 PATRICIA STREET
 - City: CHALMETTE
-- State: LA
 - ZIP: 70043
 - ZIP extension: 0000
 - State project ID: LA-08-021
@@ -22,9 +20,7 @@
 - Place 2000: 14135
 - Place 1990: 0203
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 295419
 - Units: 72
 - Low-income units: 50
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA THE WOODLANDS.;
 - Record status: Existing, unchanged

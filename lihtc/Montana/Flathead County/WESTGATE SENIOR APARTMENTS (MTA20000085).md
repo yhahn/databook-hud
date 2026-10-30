@@ -1,11 +1,9 @@
 # Project: WESTGATE SENIOR APARTMENTS (MTA20000085)
 
 - HUD ID: MTA20000085
-- HUD ID before: 
 - Project: WESTGATE SENIOR APARTMENTS
 - Address: 500-548 CORPORATE DRIVE
 - City: KALISPELL
-- State: MT
 - ZIP: 59903
 - ZIP extension: 0000
 - State project ID: 99030
@@ -22,9 +20,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 49999
 - Units: 24
 - Low-income units: 24
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: HILLTOP VILLA (NDA20060025)
 
 - HUD ID: NDA20060025
-- HUD ID before: 
 - Project: HILLTOP VILLA
 - Address: 911 14TH ST NE
 - City: JAMESTOWN
-- State: ND
 - ZIP: 58401
-- ZIP extension: 
 - State project ID: TC0505
 - Latitude: 46.922166
 - Longitude: -98.696584
@@ -22,9 +19,7 @@
 - Place 2000: 40580
 - Place 1990: 0850
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 32391
 - Units: 16
 - Low-income units: 16
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

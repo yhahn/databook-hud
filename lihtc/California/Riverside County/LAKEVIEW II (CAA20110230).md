@@ -1,13 +1,10 @@
 # Project: LAKEVIEW II (CAA20110230)
 
 - HUD ID: CAA20110230
-- HUD ID before: 
 - Project: LAKEVIEW II
 - Address: 32211 RIVERSIDE DR
 - City: LAKE ELSINORE
-- State: CA
 - ZIP: 92530
-- ZIP extension: 
 - State project ID: CA-10-810
 - Latitude: 33.67433
 - Longitude: -117.376058
@@ -22,9 +19,7 @@
 - Place 2000: 39486
 - Place 1990: 1434
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 221100
 - Units: 64
 - Low-income units: 63
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2011614.
 - Record status: Existing, unchanged

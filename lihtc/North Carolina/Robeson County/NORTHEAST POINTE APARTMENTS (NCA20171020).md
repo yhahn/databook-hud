@@ -1,11 +1,9 @@
 # Project: NORTHEAST POINTE APARTMENTS (NCA20171020)
 
 - HUD ID: NCA20171020
-- HUD ID before: 
 - Project: NORTHEAST POINTE APARTMENTS
 - Address: 175 HARRILL RD
 - City: LUMBERTON
-- State: NC
 - ZIP: 28358
 - ZIP extension: 6145
 - State project ID: 9182208
@@ -16,15 +14,10 @@
 - Tract 2020: 37155961302
 - Tract 2010: 37155961302
 - Tract 2000: 37155961000
-- Tract 1990: 
 - Place 2020: 39700
 - Place 2010: 39700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 522372
 - Units: 64
 - Low-income units: 64
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 26
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,23 +55,12 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

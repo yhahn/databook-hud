@@ -1,11 +1,9 @@
 # Project: ARBOR POINTE (NVA20090005)
 
 - HUD ID: NVA20090005
-- HUD ID before: 
 - Project: ARBOR POINTE
 - Address: 8855 W ARBY AVE
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89148
 - ZIP extension: 0000
 - State project ID: 08-52
@@ -20,11 +18,8 @@
 - Place 2020: 68585
 - Place 2010: 68585
 - Place 2000: 23770
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1035961
 - Units: 180
 - Low-income units: 178
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

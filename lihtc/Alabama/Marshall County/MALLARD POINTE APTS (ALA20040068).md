@@ -1,13 +1,10 @@
 # Project: MALLARD POINTE APTS (ALA20040068)
 
 - HUD ID: ALA20040068
-- HUD ID before: 
 - Project: MALLARD POINTE APTS
 - Address: 110 EIGHTH ST NW
 - City: ARAB
-- State: AL
 - ZIP: 35016
-- ZIP extension: 
 - State project ID: AL-04-0081
 - Latitude: 34.317985
 - Longitude: -86.508209
@@ -22,9 +19,7 @@
 - Place 2000: 02116
 - Place 1990: 0065
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 335993
 - Units: 74
 - Low-income units: 74
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 74
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007090.
 - Record status: Existing, unchanged

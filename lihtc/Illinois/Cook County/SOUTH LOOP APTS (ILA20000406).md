@@ -1,13 +1,10 @@
 # Project: SOUTH LOOP APTS (ILA20000406)
 
 - HUD ID: ILA20000406
-- HUD ID before: 
 - Project: SOUTH LOOP APTS
 - Address: 1521 S WABASH AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60605
-- ZIP extension: 
 - State project ID: IL-109697
 - Latitude: 41.862098
 - Longitude: -87.625486
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 550000
 - Units: 207
 - Low-income units: 207
@@ -38,12 +33,7 @@
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
-- Increased basis: 
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
@@ -53,18 +43,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +54,7 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2000803, ILB1999050, ILA1999900, ILB2000809.
 - Record status: Existing, unchanged

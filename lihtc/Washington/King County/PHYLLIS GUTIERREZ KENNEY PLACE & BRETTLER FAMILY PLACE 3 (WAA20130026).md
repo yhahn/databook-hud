@@ -1,13 +1,10 @@
 # Project: PHYLLIS GUTIERREZ KENNEY PLACE & BRETTLER FAMILY PLACE 3 (WAA20130026)
 
 - HUD ID: WAA20130026
-- HUD ID before: 
 - Project: PHYLLIS GUTIERREZ KENNEY PLACE & BRETTLER FAMILY PLACE 3
 - Address: 6818 62ND AVE NE
 - City: SEATTLE
-- State: WA
 - ZIP: 98115
-- ZIP extension: 
 - State project ID: WA-12-00001
 - Latitude: 47.678215
 - Longitude: -122.261994
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 1140
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 816696
 - Units: 54
 - Low-income units: 54
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

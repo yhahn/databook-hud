@@ -1,11 +1,9 @@
 # Project: RIVER ROCK RESIDENCES (MTA20130006)
 
 - HUD ID: MTA20130006
-- HUD ID before: 
 - Project: RIVER ROCK RESIDENCES
 - Address: 3225 BEDROCK DRIVE
 - City: HELENA
-- State: MT
 - ZIP: 59602
 - ZIP extension: 0000
 - State project ID: 13070
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30049000503
 - Tract 2010: 30049000502
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 35600
 - Place 2010: 35600
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 616250
 - Units: 33
 - Low-income units: 33
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: BROAD STREET PLACE (CAA20231023)
 
 - HUD ID: CAA20231023
-- HUD ID before: 
 - Project: BROAD STREET PLACE
 - Address: 3720 AND 3722 BROAD STREET
 - City: SAN LUIS OBISPO
-- State: CA
 - ZIP: 93401
-- ZIP extension: 
 - State project ID: CA-2020-084
 - Latitude: 35.2672
 - Longitude: -120.6546
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06079011105
 - Tract 2010: 06079011102
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 68154
 - Place 2010: 68154
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1686414
 - Units: 40
 - Low-income units: 39
@@ -34,7 +25,6 @@
 - 1-bedroom units: 9
 - 2-bedroom units: 19
 - 3-bedroom units: 11
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
@@ -44,11 +34,9 @@
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,8 +56,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Veterans
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

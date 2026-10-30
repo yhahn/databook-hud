@@ -1,11 +1,9 @@
 # Project: NORRIS HOMES PHASE V (PAA20213024)
 
 - HUD ID: PAA20213024
-- HUD ID before: 
 - Project: NORRIS HOMES PHASE V
 - Address: 1900-54 NORTH 10TH ST
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19122
 - ZIP extension: 1902
 - State project ID: TC20190116
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101037700
 - Tract 2010: 42101037700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 1328273
 - Units: 133
 - Low-income units: 111
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: 45 REPLACEMENT UNI
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: VALLEY RIDGE APTS (MSA19880158)
 
 - HUD ID: MSA19880158
-- HUD ID before: 
 - Project: VALLEY RIDGE APTS
 - Address: 548 OLD COUNTRY CLUB RD E
 - City: MARION
-- State: MS
 - ZIP: 39342
-- ZIP extension: 
 - State project ID: 87-031
 - Latitude: 32.442805
 - Longitude: -88.652915
@@ -22,10 +19,7 @@
 - Place 2000: 45160
 - Place 1990: 0807
 - Year placed in service: 1988
-- Placed in service note: 
 - Allocation year: 1987
-- Allocation year note: 
-- Allocation amount: 
 - Units: 52
 - Low-income units: 52
 - Units reported: 52
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

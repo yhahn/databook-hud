@@ -1,13 +1,10 @@
 # Project: BROADWAY SQUARE (MNA20110800)
 
 - HUD ID: MNA20110800
-- HUD ID before: 
 - Project: BROADWAY SQUARE
 - Address: 243 BROADWAY W
 - City: MONTICELLO
-- State: MN
 - ZIP: 55362
-- ZIP extension: 
 - State project ID: D1003
 - Latitude: 45.306217
 - Longitude: -93.796407
@@ -22,9 +19,7 @@
 - Place 2000: 43774
 - Place 1990: 2635
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 96206
 - Units: 28
 - Low-income units: 28
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MNA1990010.
 - Record status: Existing, unchanged

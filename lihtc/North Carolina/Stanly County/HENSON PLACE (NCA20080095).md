@@ -1,13 +1,10 @@
 # Project: HENSON PLACE (NCA20080095)
 
 - HUD ID: NCA20080095
-- HUD ID before: 
 - Project: HENSON PLACE
 - Address: 710 HENSON STREET
 - City: ALBEMARLE
-- State: NC
 - ZIP: 28002
-- ZIP extension: 
 - State project ID: 9002221
 - Latitude: 35.339566
 - Longitude: -80.170936
@@ -20,11 +17,8 @@
 - Place 2020: 00680
 - Place 2010: 00680
 - Place 2000: 00680
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 375152
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

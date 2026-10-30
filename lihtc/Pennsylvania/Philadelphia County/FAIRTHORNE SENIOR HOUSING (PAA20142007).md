@@ -1,11 +1,9 @@
 # Project: FAIRTHORNE SENIOR HOUSING (PAA20142007)
 
 - HUD ID: PAA20142007
-- HUD ID before: 
 - Project: FAIRTHORNE SENIOR HOUSING
 - Address: 6761 & 6763 RIDGE AVE
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19128
 - ZIP extension: 2464
 - State project ID: TC20130103
@@ -16,15 +14,11 @@
 - Tract 2020: 42101021700
 - Tract 2010: 42101021700
 - Tract 2000: 42101021700
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
 - Place 2000: 60000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 306741
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,13 +49,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

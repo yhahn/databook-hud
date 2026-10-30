@@ -1,13 +1,10 @@
 # Project: THE LANDINGS AT STEELE CREEK (NCA20010165)
 
 - HUD ID: NCA20010165
-- HUD ID before: 
 - Project: THE LANDINGS AT STEELE CREEK
 - Address: 10701 10717 STEELE CREEK RD
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28273
-- ZIP extension: 
 - State project ID: 9002316
 - Latitude: 35.1419
 - Longitude: -80.9536
@@ -19,12 +16,9 @@
 - Tract 1990: 37119005903
 - Place 2020: 12000
 - Place 2010: 12000
-- Place 2000: 
 - Place 1990: 0480
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 247003
 - Units: 48
 - Low-income units: 48
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

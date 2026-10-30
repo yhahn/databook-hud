@@ -1,13 +1,10 @@
 # Project: UNITED FAMILY LIFE VILLAGE III (MSA20110115)
 
 - HUD ID: MSA20110115
-- HUD ID before: 
 - Project: UNITED FAMILY LIFE VILLAGE III
 - Address: 1769 PEARMAN RD
 - City: CLEVELAND
-- State: MS
 - ZIP: 38732
-- ZIP extension: 
 - State project ID: MS-09-1-027
 - Latitude: 33.723292
 - Longitude: -90.710714
@@ -22,9 +19,7 @@
 - Place 2000: 14260
 - Place 1990: 0235
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 675424
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 2453885
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011667.
 - Record status: Existing, unchanged

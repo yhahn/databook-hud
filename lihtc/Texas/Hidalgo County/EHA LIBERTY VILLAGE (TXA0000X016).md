@@ -1,13 +1,10 @@
 # Project: EHA LIBERTY VILLAGE (TXA0000X016)
 
 - HUD ID: TXA0000X016
-- HUD ID before: 
 - Project: EHA LIBERTY VILLAGE
 - Address: 4710 S. VETERANS BLVD.
 - City: EDINBURG
-- State: TX
 - ZIP: 78542
-- ZIP extension: 
 - State project ID: TX5223
 - Latitude: 26.255781
 - Longitude: -98.156551
@@ -16,16 +13,10 @@
 - Tract 2020: 48215023803
 - Tract 2010: 48215023801
 - Tract 2000: 48215023600
-- Tract 1990: 
 - Place 2020: 22660
 - Place 2010: 43972
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 100
 - Low-income units: 98
 - Units reported: 100
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

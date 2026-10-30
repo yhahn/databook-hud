@@ -1,13 +1,10 @@
 # Project: ARBORPOINT APTS (CAA20120906)
 
 - HUD ID: CAA20120906
-- HUD ID before: 
 - Project: ARBORPOINT APTS
 - Address: 300 W CLARK ST
 - City: MADERA
-- State: CA
 - ZIP: 93638
-- ZIP extension: 
 - State project ID: CA-11-081
 - Latitude: 36.979883
 - Longitude: -120.068043
@@ -22,9 +19,7 @@
 - Place 2000: 45022
 - Place 1990: 1680
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 713271
 - Units: 65
 - Low-income units: 64
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 3000000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MADERA PACIFIC ASSOC.
 - Record status: Existing, unchanged

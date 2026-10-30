@@ -1,13 +1,10 @@
 # Project: MEWS AT BALDWIN PLACE (NYA20110033)
 
 - HUD ID: NYA20110033
-- HUD ID before: 
 - Project: MEWS AT BALDWIN PLACE
 - Address: 24 CLAYTON BLVD
 - City: BALDWIN PLACE
-- State: NY
 - ZIP: 10505
-- ZIP extension: 
 - State project ID: 20096070
 - Latitude: 41.342878
 - Longitude: -73.759255
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 42455
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1427857
 - Units: 73
 - Low-income units: 73
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: DUDLEY GREENVILLE (MAB20140006)
 
 - HUD ID: MAB20140006
-- HUD ID before: 
 - Project: DUDLEY GREENVILLE
 - Address: 209 DUDLEY ST
 - City: BOSTON
-- State: MA
 - ZIP: 02119
-- ZIP extension: 
 - State project ID: MA-14-03
 - Latitude: 42.328314
 - Longitude: -71.081353
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0440
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 668433
 - Units: 43
 - Low-income units: 43
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

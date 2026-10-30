@@ -1,11 +1,9 @@
 # Project: RED ROCK SQUARE APARTMENTS (MNB20170005)
 
 - HUD ID: MNB20170005
-- HUD ID before: 
 - Project: RED ROCK SQUARE APARTMENTS
 - Address: 150 RED ROCK CROSSING
 - City: NEWPORT
-- State: MN
 - ZIP: 55055
 - ZIP extension: 1830
 - State project ID: D7897
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 27163071003
 - Tract 2010: 27163071003
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 45790
 - Place 2010: 45790
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 922810
 - Units: 42
 - Low-income units: 42
@@ -41,10 +33,8 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 42
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -68,18 +58,10 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: No
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

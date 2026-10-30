@@ -1,13 +1,10 @@
 # Project: WOODLEIGH HOMES (KYA20140030)
 
 - HUD ID: KYA20140030
-- HUD ID before: 
 - Project: WOODLEIGH HOMES
 - Address: FOREST AVENUE
 - City: MAYSVILLE
-- State: KY
 - ZIP: 41056
-- ZIP extension: 
 - State project ID: KY-13-011
 - Latitude: 38.6633
 - Longitude: -83.7874
@@ -19,12 +16,9 @@
 - Tract 1990: 21161960200
 - Place 2020: 51024
 - Place 2010: 51024
-- Place 2000: 
 - Place 1990: 1310
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 390251
 - Units: 30
 - Low-income units: 30
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

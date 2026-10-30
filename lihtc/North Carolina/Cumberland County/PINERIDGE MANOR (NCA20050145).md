@@ -1,13 +1,10 @@
 # Project: PINERIDGE MANOR (NCA20050145)
 
 - HUD ID: NCA20050145
-- HUD ID before: 
 - Project: PINERIDGE MANOR
 - Address: 3200 BIG PINE DRIVE
 - City: HOPE MILLS
-- State: NC
 - ZIP: 28348
-- ZIP extension: 
 - State project ID: 9001231
 - Latitude: 34.979743
 - Longitude: -78.956868
@@ -22,9 +19,7 @@
 - Place 2000: 32640
 - Place 1990: 1240
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 360612
 - Units: 60
 - Low-income units: 60
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 30
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

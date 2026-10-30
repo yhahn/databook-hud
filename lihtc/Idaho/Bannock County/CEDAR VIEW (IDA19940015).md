@@ -1,13 +1,10 @@
 # Project: CEDAR VIEW (IDA19940015)
 
 - HUD ID: IDA19940015
-- HUD ID before: 
 - Project: CEDAR VIEW
 - Address: 1155 EAST CEDAR STREET
 - City: POCATELLO
-- State: ID
 - ZIP: 83201
-- ZIP extension: 
 - State project ID: HC9210
 - Latitude: 42.887512
 - Longitude: -112.438487
@@ -22,9 +19,7 @@
 - Place 2000: 64090
 - Place 1990: 0780
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 73464
 - Units: 32
 - Low-income units: 17
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

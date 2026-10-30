@@ -1,13 +1,10 @@
 # Project: RETREAT AT WESTLOCK (TXA00001057)
 
 - HUD ID: TXA00001057
-- HUD ID before: 
 - Project: RETREAT AT WESTLOCK
 - Address: 24055 SH 249
 - City: TOMBALL
-- State: TX
 - ZIP: 77375
-- ZIP extension: 
 - State project ID: TX4948
 - Latitude: 30.0709
 - Longitude: -95.5697
@@ -16,16 +13,10 @@
 - Tract 2020: 48201554803
 - Tract 2010: 48201554802
 - Tract 2000: 48201555500
-- Tract 1990: 
 - Place 2020: 73316
 - Place 2010: 35000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 140
 - Low-income units: 140
 - Units reported: 140
@@ -41,7 +32,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 27
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TXA0000172;
 - Record status: Updated

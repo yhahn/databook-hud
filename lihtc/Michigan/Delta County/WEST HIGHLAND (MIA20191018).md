@@ -1,11 +1,9 @@
 # Project: WEST HIGHLAND (MIA20191018)
 
 - HUD ID: MIA20191018
-- HUD ID before: 
 - Project: WEST HIGHLAND
 - Address: 2701 1ST AVENUE SOUTH
 - City: ESCANABA
-- State: MI
 - ZIP: 49829
 - ZIP extension: 0000
 - State project ID: 3795
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26041970800
 - Tract 2010: 26041970800
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 26360
 - Place 2010: 26360
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 303939
 - Units: 135
 - Low-income units: 121
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1317975
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

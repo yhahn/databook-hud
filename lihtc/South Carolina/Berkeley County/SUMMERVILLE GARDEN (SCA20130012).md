@@ -1,13 +1,10 @@
 # Project: SUMMERVILLE GARDEN (SCA20130012)
 
 - HUD ID: SCA20130012
-- HUD ID before: 
 - Project: SUMMERVILLE GARDEN
 - Address: 340 HOLIDAY DR
 - City: SUMMERVILLE
-- State: SC
 - ZIP: 29483
-- ZIP extension: 
 - State project ID: SC-11-070
 - Latitude: 33.044715
 - Longitude: -80.157951
@@ -20,11 +17,8 @@
 - Place 2020: 70270
 - Place 2010: 70270
 - Place 2000: 70270
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 850000
 - Units: 72
 - Low-income units: 72
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 800000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SUMMERVILLE GARDEN M11-SG450930.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SERENE GROVE ELDERLY COMMUNITY APTS (ALA19970147)
 
 - HUD ID: ALA19970147
-- HUD ID before: 
 - Project: SERENE GROVE ELDERLY COMMUNITY APTS
 - Address: 1345 PAMELA ST
 - City: LEEDS
-- State: AL
 - ZIP: 35094
-- ZIP extension: 
 - State project ID: AL-97-0046
 - Latitude: 33.541802
 - Longitude: -86.554368
@@ -22,9 +19,7 @@
 - Place 2000: 41968
 - Place 1990: 1015
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 115072
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1998100.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WEATHERSTONE PARK (NCA20010180)
 
 - HUD ID: NCA20010180
-- HUD ID before: 
 - Project: WEATHERSTONE PARK
 - Address: 3800 WEATHERSTONE PARK ROAD
 - City: NEW BERN
-- State: NC
 - ZIP: 28563
-- ZIP extension: 
 - State project ID: 9000964
 - Latitude: 35.124443
 - Longitude: -77.103408
@@ -22,9 +19,7 @@
 - Place 2000: 46340
 - Place 1990: 1770
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 252902
 - Units: 44
 - Low-income units: 44
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

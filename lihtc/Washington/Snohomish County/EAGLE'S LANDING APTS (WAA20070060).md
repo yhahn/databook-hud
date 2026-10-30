@@ -1,13 +1,10 @@
 # Project: EAGLE'S LANDING APTS (WAA20070060)
 
 - HUD ID: WAA20070060
-- HUD ID before: 
 - Project: EAGLE'S LANDING APTS
 - Address: 12601 EIGHTH AVE W
 - City: EVERETT
-- State: WA
 - ZIP: 98204
-- ZIP extension: 
 - State project ID: WA-06-00317
 - Latitude: 47.883265
 - Longitude: -122.243952
@@ -22,9 +19,7 @@
 - Place 2000: 52765
 - Place 1990: 0953
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 607675
 - Units: 211
 - Low-income units: 211
@@ -40,16 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 63
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

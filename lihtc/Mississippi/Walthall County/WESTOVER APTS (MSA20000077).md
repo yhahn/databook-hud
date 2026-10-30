@@ -1,13 +1,9 @@
 # Project: WESTOVER APTS (MSA20000077)
 
 - HUD ID: MSA20000077
-- HUD ID before: 
 - Project: WESTOVER APTS
 - Address: 109 E WESTOVER DR
 - City: TYLERTOWN
-- State: MS
-- ZIP: 
-- ZIP extension: 
 - State project ID: MS-98-051
 - Latitude: 31.11182
 - Longitude: -90.15702
@@ -22,9 +18,7 @@
 - Place 2000: 75160
 - Place 1990: 1355
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 1200000
 - Units: 34
 - Low-income units: 34
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2000625.
 - Record status: Existing, unchanged

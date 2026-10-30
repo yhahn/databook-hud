@@ -1,11 +1,9 @@
 # Project: TYVOLA CROSSING APARTMENTS (NCA20050190)
 
 - HUD ID: NCA20050190
-- HUD ID before: 
 - Project: TYVOLA CROSSING APARTMENTS
 - Address: 2909 CROSS ROADS PL
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28208
 - ZIP extension: 6711
 - State project ID: 9001788
@@ -22,9 +20,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 622509
 - Units: 80
 - Low-income units: 79
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 40
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +66,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

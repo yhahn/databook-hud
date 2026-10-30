@@ -1,13 +1,10 @@
 # Project: ROBERSONVILLE MANOR (NCA19940500)
 
 - HUD ID: NCA19940500
-- HUD ID before: 
 - Project: ROBERSONVILLE MANOR
 - Address: NC HWY 903
 - City: ROBERSONVILLE
-- State: NC
 - ZIP: 27871
-- ZIP extension: 
 - State project ID: 9000784
 - Latitude: 35.8239
 - Longitude: -77.2751
@@ -16,15 +13,10 @@
 - Tract 2020: 37117970600
 - Tract 2010: 37117970600
 - Tract 2000: 37117970600
-- Tract 1990: 
 - Place 2020: 50540
 - Place 2010: 50540
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 19699
 - Units: 12
 - Low-income units: 12
@@ -39,9 +31,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +61,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

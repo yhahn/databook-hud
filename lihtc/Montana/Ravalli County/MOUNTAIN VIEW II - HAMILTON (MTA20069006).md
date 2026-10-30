@@ -1,11 +1,9 @@
 # Project: MOUNTAIN VIEW II - HAMILTON (MTA20069006)
 
 - HUD ID: MTA20069006
-- HUD ID before: 
 - Project: MOUNTAIN VIEW II - HAMILTON
 - Address: 225 STONEGATE DR
 - City: HAMILTON
-- State: MT
 - ZIP: 59840
 - ZIP extension: 0000
 - State project ID: 05050
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30081000602
 - Tract 2010: 30081000600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 33775
 - Place 2010: 33775
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 313625
 - Units: 28
 - Low-income units: 28
@@ -44,7 +36,6 @@
 - Affordability years: 46
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

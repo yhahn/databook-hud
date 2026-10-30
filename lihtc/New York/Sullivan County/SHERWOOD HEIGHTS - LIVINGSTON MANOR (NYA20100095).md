@@ -1,13 +1,10 @@
 # Project: SHERWOOD HEIGHTS / LIVINGSTON MANOR (NYA20100095)
 
 - HUD ID: NYA20100095
-- HUD ID before: 
 - Project: SHERWOOD HEIGHTS / LIVINGSTON MANOR
 - Address: 16 SHERWOOD BLVD
 - City: LIVINGSTON MANOR
-- State: NY
 - ZIP: 12758
-- ZIP extension: 
 - State project ID: 20086004
 - Latitude: 41.92226
 - Longitude: -74.782996
@@ -20,11 +17,8 @@
 - Place 2020: 42928
 - Place 2010: 99999
 - Place 2000: 42928
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 558382
 - Units: 28
 - Low-income units: 28
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 5109580
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SHERWOOD HEIGHTS - LIVINGSTON MANOR.
 - Record status: Existing, unchanged

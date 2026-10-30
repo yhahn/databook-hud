@@ -1,13 +1,10 @@
 # Project: FERN CROSSING APARTMENTS (CAA20210029)
 
 - HUD ID: CAA20210029
-- HUD ID before: 
 - Project: FERN CROSSING APARTMENTS
 - Address: 450 HOLT AVENUE
 - City: HOLTVILLE
-- State: CA
 - ZIP: 92250
-- ZIP extension: 
 - State project ID: CA-2019-046
 - Latitude: 32.80991
 - Longitude: -115.37998
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06025010900
 - Tract 2010: 06025010900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 34246
 - Place 2010: 34246
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1380305
 - Units: 44
 - Low-income units: 43
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: Yes
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +55,6 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Farmworker
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: STEVENS WOODS II (VAA20191023)
 
 - HUD ID: VAA20191023
-- HUD ID before: 
 - Project: STEVENS WOODS II
 - Address: 25090 OAK TRAIL ROAD
 - City: COURTLAND
-- State: VA
 - ZIP: 23837
-- ZIP extension: 
 - State project ID: 1117
 - Latitude: 36.723754
 - Longitude: -77.073362
@@ -20,11 +17,8 @@
 - Place 2020: 19600
 - Place 2010: 19600
 - Place 2000: 19600
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 170270
 - Units: 24
 - Low-income units: 24
@@ -40,15 +34,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

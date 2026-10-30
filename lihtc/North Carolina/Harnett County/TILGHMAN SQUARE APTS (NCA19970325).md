@@ -1,13 +1,10 @@
 # Project: TILGHMAN SQUARE APTS (NCA19970325)
 
 - HUD ID: NCA19970325
-- HUD ID before: 
 - Project: TILGHMAN SQUARE APTS
 - Address: 1101 GREENFIELD ROAD
 - City: DUNN
-- State: NC
 - ZIP: 28334
-- ZIP extension: 
 - State project ID: 9001080
 - Latitude: 35.315058
 - Longitude: -78.588407
@@ -22,9 +19,7 @@
 - Place 2000: 18320
 - Place 1990: 0745
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 47802
 - Units: 20
 - Low-income units: 20
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

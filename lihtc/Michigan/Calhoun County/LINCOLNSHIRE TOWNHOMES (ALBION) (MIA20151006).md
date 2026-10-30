@@ -1,11 +1,9 @@
 # Project: LINCOLNSHIRE TOWNHOMES (ALBION) (MIA20151006)
 
 - HUD ID: MIA20151006
-- HUD ID before: 
 - Project: LINCOLNSHIRE TOWNHOMES (ALBION)
 - Address: 900-912 BOYD DRIVE
 - City: ALBION
-- State: MI
 - ZIP: 49224
 - ZIP extension: 0000
 - State project ID: 3630
@@ -16,15 +14,11 @@
 - Tract 2020: 26025003600
 - Tract 2010: 26025003600
 - Tract 2000: 26025003600
-- Tract 1990: 
 - Place 2020: 00980
 - Place 2010: 00980
 - Place 2000: 00980
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 250491
 - Units: 81
 - Low-income units: 80
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: No
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

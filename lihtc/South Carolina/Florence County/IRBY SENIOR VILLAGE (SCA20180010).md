@@ -1,13 +1,10 @@
 # Project: IRBY SENIOR VILLAGE (SCA20180010)
 
 - HUD ID: SCA20180010
-- HUD ID before: 
 - Project: IRBY SENIOR VILLAGE
 - Address: 125 FEDERAL COURT
 - City: FLORENCE
-- State: SC
 - ZIP: 29505
-- ZIP extension: 
 - State project ID: SC-16-039
 - Latitude: 34.1522
 - Longitude: -79.7632
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 45041001400
 - Tract 2010: 45041000600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 25810
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 717783
 - Units: 40
 - Low-income units: 40
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Older Persons
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

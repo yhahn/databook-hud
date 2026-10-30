@@ -1,11 +1,9 @@
 # Project: CENTENNIAL PARK APARTMENTS (OKA20200003)
 
 - HUD ID: OKA20200003
-- HUD ID before: 
 - Project: CENTENNIAL PARK APARTMENTS
 - Address: 14501 E. 86TH STREET
 - City: OWASSO
-- State: OK
 - ZIP: 74055
 - ZIP extension: 0000
 - State project ID: 180635
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 40131050404
 - Tract 2010: 40131050404
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 56650
 - Place 2010: 56650
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 588000
 - Units: 56
 - Low-income units: 55
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

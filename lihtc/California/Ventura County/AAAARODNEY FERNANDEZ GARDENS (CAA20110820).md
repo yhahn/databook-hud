@@ -1,13 +1,10 @@
 # Project: AAAARODNEY FERNANDEZ GARDENS (CAA20110820)
 
 - HUD ID: CAA20110820
-- HUD ID before: 
 - Project: AAAARODNEY FERNANDEZ GARDENS
 - Address: 210 W SANTA BARBARA ST
 - City: SANTA PAULA
-- State: CA
 - ZIP: 93060
-- ZIP extension: 
 - State project ID: CA-10-515
 - Latitude: 34.350547
 - Longitude: -119.07631
@@ -22,9 +19,7 @@
 - Place 2000: 70042
 - Place 1990: 2605
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 946511
 - Units: 74
 - Low-income units: 73
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 52
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 989870
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

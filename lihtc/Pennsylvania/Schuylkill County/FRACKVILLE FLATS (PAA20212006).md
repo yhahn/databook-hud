@@ -1,11 +1,9 @@
 # Project: FRACKVILLE FLATS (PAA20212006)
 
 - HUD ID: PAA20212006
-- HUD ID before: 
 - Project: FRACKVILLE FLATS
 - Address: 14 N NICE ST
 - City: FRACKVILLE
-- State: PA
 - ZIP: 17931
 - ZIP extension: 1337
 - State project ID: TC20200603
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42107000800
 - Tract 2010: 42107000800
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 27232
 - Place 2010: 27232
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1022952
 - Units: 30
 - Low-income units: 30
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 4358280
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

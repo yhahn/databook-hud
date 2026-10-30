@@ -1,13 +1,10 @@
 # Project: SUMMERVILLE VILLAS (SCA19970050)
 
 - HUD ID: SCA19970050
-- HUD ID before: 
 - Project: SUMMERVILLE VILLAS
 - Address: 350 LUDEN DR
 - City: SUMMERVILLE
-- State: SC
 - ZIP: 29485
-- ZIP extension: 
 - State project ID: SC-96-013
 - Latitude: 32.990845
 - Longitude: -80.206189
@@ -20,11 +17,8 @@
 - Place 2020: 70270
 - Place 2010: 70270
 - Place 2000: 70270
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 55372
 - Units: 41
 - Low-income units: 41
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +58,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

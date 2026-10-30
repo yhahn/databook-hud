@@ -1,11 +1,9 @@
 # Project: RANGEVIEW DRIVE APARTMENTS (MTA19970035)
 
 - HUD ID: MTA19970035
-- HUD ID before: 
 - Project: RANGEVIEW DRIVE APARTMENTS
 - Address: 1128 RANGEVIEW DR
 - City: HARDIN
-- State: MT
 - ZIP: 59034
 - ZIP extension: 0000
 - State project ID: 96060
@@ -22,9 +20,7 @@
 - Place 2000: 34225
 - Place 1990: 0305
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 44630
 - Units: 24
 - Low-income units: 24
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

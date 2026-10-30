@@ -1,13 +1,10 @@
 # Project: SILVER SPRINGS TERRACE (NCA20010155)
 
 - HUD ID: NCA20010155
-- HUD ID before: 
 - Project: SILVER SPRINGS TERRACE
 - Address: 950 20TH STREET NE
 - City: HICKORY
-- State: NC
 - ZIP: 28601
-- ZIP extension: 
 - State project ID: 9001433
 - Latitude: 35.736905
 - Longitude: -81.298554
@@ -22,9 +19,7 @@
 - Place 2000: 31060
 - Place 1990: 2187
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 146933
 - Units: 100
 - Low-income units: 100
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: PICKENS APTS (MSA19890265)
 
 - HUD ID: MSA19890265
-- HUD ID before: 
 - Project: PICKENS APTS
 - Address: 92 CAFFEY LN
 - City: PICKENS
-- State: MS
 - ZIP: 39146
-- ZIP extension: 
 - State project ID: 89-038
 - Latitude: 32.901289
 - Longitude: -89.971896
@@ -20,12 +17,8 @@
 - Place 2020: 57200
 - Place 2010: 57200
 - Place 2000: 28220
-- Place 1990: 
 - Year placed in service: 1989
-- Placed in service note: 
 - Allocation year: 1989
-- Allocation year note: 
-- Allocation amount: 
 - Units: 36
 - Low-income units: 36
 - Units reported: 36
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

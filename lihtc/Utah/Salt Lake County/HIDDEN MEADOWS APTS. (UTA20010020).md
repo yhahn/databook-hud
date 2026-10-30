@@ -1,11 +1,9 @@
 # Project: HIDDEN MEADOWS APTS. (UTA20010020)
 
 - HUD ID: UTA20010020
-- HUD ID before: 
 - Project: HIDDEN MEADOWS APTS.
 - Address: 1794 E HIDDEN MEADOWS DR.
 - City: HOLLADAY
-- State: UT
 - ZIP: 84117
 - ZIP extension: 0000
 - State project ID: 2001-14
@@ -22,9 +20,7 @@
 - Place 2000: 16395
 - Place 1990: 0169
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 302570
 - Units: 133
 - Low-income units: 131
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

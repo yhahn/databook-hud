@@ -1,13 +1,10 @@
 # Project: FOREST PARK PHASE I (VTA20110025)
 
 - HUD ID: VTA20110025
-- HUD ID before: 
 - Project: FOREST PARK PHASE I
 - Address: 12 HICKORY ST
 - City: RUTLAND
-- State: VT
 - ZIP: 05701
-- ZIP extension: 
 - State project ID: 0386
 - Latitude: 43.597759
 - Longitude: -72.982013
@@ -22,9 +19,7 @@
 - Place 2000: 61225
 - Place 1990: 2210
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 519750
 - Units: 33
 - Low-income units: 26
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

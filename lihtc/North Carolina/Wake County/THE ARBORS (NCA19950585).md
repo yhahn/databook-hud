@@ -1,13 +1,10 @@
 # Project: THE ARBORS (NCA19950585)
 
 - HUD ID: NCA19950585
-- HUD ID before: 
 - Project: THE ARBORS
 - Address: 2611 PINE VILLAGE RD
 - City: RALEIGH
-- State: NC
 - ZIP: 27615
-- ZIP extension: 
 - State project ID: 9002100
 - Latitude: 35.874837
 - Longitude: -78.594221
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 237165
 - Units: 50
 - Low-income units: 50
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

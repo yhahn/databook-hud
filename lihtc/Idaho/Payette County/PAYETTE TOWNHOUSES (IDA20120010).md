@@ -1,13 +1,10 @@
 # Project: PAYETTE TOWNHOUSES (IDA20120010)
 
 - HUD ID: IDA20120010
-- HUD ID before: 
 - Project: PAYETTE TOWNHOUSES
 - Address: 415 SOUTH 16TH STREET
 - City: PAYETTE
-- State: ID
 - ZIP: 83661
-- ZIP extension: 
 - State project ID: HC1203
 - Latitude: 44.069931
 - Longitude: -116.922958
@@ -22,9 +19,7 @@
 - Place 2000: 61300
 - Place 1990: 0745
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 278777
 - Units: 27
 - Low-income units: 27
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: VAN CLEVE APARTMENTS EAST (MNB20087006)
 
 - HUD ID: MNB20087006
-- HUD ID before: 
 - Project: VAN CLEVE APARTMENTS EAST
 - Address: 1201 BROOK AVENUE SOUTHEAST
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55414
 - ZIP extension: 2578
 - State project ID: D4048
@@ -16,15 +14,10 @@
 - Tract 2020: 27053104001
 - Tract 2010: 27053104000
 - Tract 2000: 27053104000
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 488828
 - Units: 35
 - Low-income units: 35
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 7
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

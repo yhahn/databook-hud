@@ -1,11 +1,9 @@
 # Project: VALLEY WOODS (UTA19969017)
 
 - HUD ID: UTA19969017
-- HUD ID before: 
 - Project: VALLEY WOODS
 - Address: 3610 SOUTH 1000 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84119
 - ZIP extension: 0000
 - State project ID: 1995-04
@@ -16,15 +14,11 @@
 - Tract 2020: 49035111602
 - Tract 2010: 49035111600
 - Tract 2000: 49035111600
-- Tract 1990: 
 - Place 2020: 71070
 - Place 2010: 71070
 - Place 2000: 71070
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 358221
 - Units: 42
 - Low-income units: 42
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MAPLE STREET SENIOR APTS (VTA20140020)
 
 - HUD ID: VTA20140020
-- HUD ID before: 
 - Project: MAPLE STREET SENIOR APTS
 - Address: 36 MAPLE ST
 - City: HARDWICK
-- State: VT
 - ZIP: 05843
-- ZIP extension: 
 - State project ID: 0099
 - Latitude: 44.504547
 - Longitude: -72.362526
@@ -19,12 +16,8 @@
 - Tract 1990: 50005957700
 - Place 2020: 31750
 - Place 2010: 31750
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 61199
 - Units: 16
 - Low-income units: 16
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

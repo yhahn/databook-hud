@@ -1,11 +1,9 @@
 # Project: COMPASS VILLA (UTA19980020)
 
 - HUD ID: UTA19980020
-- HUD ID before: 
 - Project: COMPASS VILLA
 - Address: 1466 WEST 3500 SOUTH
 - City: WEST VALLEY CITY
-- State: UT
 - ZIP: 84119
 - ZIP extension: 0000
 - State project ID: 1997-06
@@ -22,9 +20,7 @@
 - Place 2000: 83470
 - Place 1990: 1082
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 352992
 - Units: 55
 - Low-income units: 55
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

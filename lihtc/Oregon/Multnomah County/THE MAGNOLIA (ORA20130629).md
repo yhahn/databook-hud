@@ -1,13 +1,10 @@
 # Project: THE MAGNOLIA (ORA20130629)
 
 - HUD ID: ORA20130629
-- HUD ID before: 
 - Project: THE MAGNOLIA
 - Address: 3250 NE MLK JR BLVD
 - City: PORTLAND
-- State: OR
 - ZIP: 97212
-- ZIP extension: 
 - State project ID: 3033
 - Latitude: 45.546811
 - Longitude: -122.661513
@@ -22,9 +19,7 @@
 - Place 2000: 59000
 - Place 1990: 0905
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 820000
 - Units: 49
 - Low-income units: 49
@@ -36,12 +31,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

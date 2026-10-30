@@ -1,11 +1,9 @@
 # Project: HILLTOP APARTMENTS (MSA20190008)
 
 - HUD ID: MSA20190008
-- HUD ID before: 
 - Project: HILLTOP APARTMENTS
 - Address: 40 HARMONY HILL RD
 - City: BURNSVILLE
-- State: MS
 - ZIP: 38833
 - ZIP extension: 0000
 - State project ID: 17-1-006
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28141950302
 - Tract 2010: 28141950300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 09820
 - Place 2010: 09820
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 199084
 - Units: 24
 - Low-income units: 24
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

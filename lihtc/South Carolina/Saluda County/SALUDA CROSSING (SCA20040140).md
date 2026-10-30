@@ -1,13 +1,10 @@
 # Project: SALUDA CROSSING (SCA20040140)
 
 - HUD ID: SCA20040140
-- HUD ID before: 
 - Project: SALUDA CROSSING
 - Address: 105 OAKWOOD DR
 - City: SALUDA
-- State: SC
 - ZIP: 29138
-- ZIP extension: 
 - State project ID: SC-02-009
 - Latitude: 34.009366
 - Longitude: -81.77999
@@ -20,11 +17,8 @@
 - Place 2020: 63250
 - Place 2010: 63250
 - Place 2000: 63250
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 214295
 - Units: 25
 - Low-income units: 25
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,9 @@
 # Project: CAMELLIA PLACE (BAKERSFIELD) (CAA20100802)
 
 - HUD ID: CAA20100802
-- HUD ID before: 
 - Project: CAMELLIA PLACE (BAKERSFIELD)
 - Address: 1855 CHEATHAM AVE
 - City: BAKERSFIELD
-- State: CA
-- ZIP: 
-- ZIP extension: 
 - State project ID: CA-09-565
 - Latitude: 35.342315
 - Longitude: -118.983479
@@ -20,11 +16,8 @@
 - Place 2020: 16623
 - Place 2010: 99999
 - Place 2000: 03526
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 366996
 - Units: 45
 - Low-income units: 44
@@ -38,10 +31,6 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +46,8 @@
 - TCAP amount: 3436553
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

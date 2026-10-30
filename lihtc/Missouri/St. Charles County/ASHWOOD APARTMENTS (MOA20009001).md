@@ -1,11 +1,9 @@
 # Project: ASHWOOD APARTMENTS (MOA20009001)
 
 - HUD ID: MOA20009001
-- HUD ID before: 
 - Project: ASHWOOD APARTMENTS
 - Address: 1200 PARK ASHWOOD DR
 - City: SAINT CHARLES
-- State: MO
 - ZIP: 63301
 - ZIP extension: 0000
 - State project ID: 98206
@@ -13,18 +11,11 @@
 - Longitude: -90.60594
 - County FIPS: 29183
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29183311122
 - Tract 2000: 29183311122
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 622553
 - Units: 276
 - Low-income units: 274
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: FOX HAVEN APTS (NCA19970195)
 
 - HUD ID: NCA19970195
-- HUD ID before: 
 - Project: FOX HAVEN APTS
 - Address: 7021 FOX HAVEN PLACE
 - City: RALEIGH
-- State: NC
 - ZIP: 27616
-- ZIP extension: 
 - State project ID: 9001209
 - Latitude: 35.872102
 - Longitude: -78.553499
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 233878
 - Units: 48
 - Low-income units: 48
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

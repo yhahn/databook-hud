@@ -1,13 +1,10 @@
 # Project: TRAILSIDE HEIGHTS II (AKA20140097)
 
 - HUD ID: AKA20140097
-- HUD ID before: 
 - Project: TRAILSIDE HEIGHTS II
 - Address: 2620 TRAILSIDE LOOP
 - City: ANCHORAGE
-- State: AK
 - ZIP: 99507
-- ZIP extension: 
 - State project ID: AK-13-00007
 - Latitude: 61.134755
 - Longitude: -149.83309
@@ -22,9 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0140
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 470745
 - Units: 20
 - Low-income units: 20
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,13 +49,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

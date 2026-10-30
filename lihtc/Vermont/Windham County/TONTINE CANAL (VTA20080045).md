@@ -1,13 +1,10 @@
 # Project: TONTINE CANAL (VTA20080045)
 
 - HUD ID: VTA20080045
-- HUD ID before: 
 - Project: TONTINE CANAL
 - Address: 182 CANAL ST
 - City: BRATTLEBORO
-- State: VT
 - ZIP: 05301
-- ZIP extension: 
 - State project ID: 0361
 - Latitude: 42.84672
 - Longitude: -72.562231
@@ -22,9 +19,7 @@
 - Place 2000: 07975
 - Place 1990: 0338
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 229500
 - Units: 21
 - Low-income units: 18
@@ -38,14 +33,9 @@
 - Construction: Acquisition and rehab
 - Credit: Both
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

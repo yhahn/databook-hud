@@ -1,13 +1,10 @@
 # Project: JENNI LANE (IDA19930040)
 
 - HUD ID: IDA19930040
-- HUD ID before: 
 - Project: JENNI LANE
 - Address: 6762 WILSON
 - City: BONNERS FERRY
-- State: ID
 - ZIP: 83805
-- ZIP extension: 
 - State project ID: HC9311
 - Latitude: 48.682861
 - Longitude: -116.327925
@@ -22,9 +19,7 @@
 - Place 2000: 09370
 - Place 1990: 0095
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 42115
 - Units: 32
 - Low-income units: 31
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: STONERIDGE ESTATES (TNA20110551)
 
 - HUD ID: TNA20110551
-- HUD ID before: 
 - Project: STONERIDGE ESTATES
 - Address: 500 STONERIDGE CT
 - City: SPARTA
-- State: TN
 - ZIP: 38583
-- ZIP extension: 
 - State project ID: TN-09-052
 - Latitude: 35.949248
 - Longitude: -85.47355
@@ -20,11 +17,8 @@
 - Place 2020: 70180
 - Place 2010: 70180
 - Place 2000: 70180
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 596430
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 1439582
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2011115.
 - Record status: Existing, unchanged

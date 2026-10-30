@@ -1,13 +1,10 @@
 # Project: ARTISAN COURT APTS (CAA20110025)
 
 - HUD ID: CAA20110025
-- HUD ID before: 
 - Project: ARTISAN COURT APTS
 - Address: 422 E COTA ST
 - City: SANTA BARBARA
-- State: CA
 - ZIP: 93101
-- ZIP extension: 
 - State project ID: CA-09-200
 - Latitude: 34.42238
 - Longitude: -119.691611
@@ -22,9 +19,7 @@
 - Place 2000: 69070
 - Place 1990: 2575
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1380503
 - Units: 56
 - Low-income units: 55
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1656604
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2011628.
 - Record status: Existing, unchanged

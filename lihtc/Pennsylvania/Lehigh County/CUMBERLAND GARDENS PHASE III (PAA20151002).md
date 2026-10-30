@@ -1,11 +1,9 @@
 # Project: CUMBERLAND GARDENS PHASE III (PAA20151002)
 
 - HUD ID: PAA20151002
-- HUD ID before: 
 - Project: CUMBERLAND GARDENS PHASE III
 - Address: SCATTERED SITES
 - City: ALLENTOWN
-- State: PA
 - ZIP: 18103
 - ZIP extension: 8237
 - State project ID: TC20140313
@@ -16,15 +14,11 @@
 - Tract 2020: 42077001402
 - Tract 2010: 42077001402
 - Tract 2000: 42077000600
-- Tract 1990: 
 - Place 2020: 02000
 - Place 2010: 02000
 - Place 2000: 02000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 650312
 - Units: 56
 - Low-income units: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -62,8 +54,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

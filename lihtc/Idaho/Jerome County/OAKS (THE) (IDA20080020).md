@@ -1,13 +1,10 @@
 # Project: OAKS (THE) (IDA20080020)
 
 - HUD ID: IDA20080020
-- HUD ID before: 
 - Project: OAKS (THE)
 - Address: 1911 NORTH KENNEDY STREET
 - City: JEROME
-- State: ID
 - ZIP: 83338
-- ZIP extension: 
 - State project ID: HC0704
 - Latitude: 42.741754
 - Longitude: -114.500479
@@ -22,9 +19,7 @@
 - Place 2000: 41320
 - Place 1990: 0465
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 606769
 - Units: 40
 - Low-income units: 39
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

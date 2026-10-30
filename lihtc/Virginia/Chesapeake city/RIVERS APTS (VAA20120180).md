@@ -1,13 +1,10 @@
 # Project: RIVERS APTS (VAA20120180)
 
 - HUD ID: VAA20120180
-- HUD ID before: 
 - Project: RIVERS APTS
 - Address: 847 WINDWARD PL
 - City: CHESAPEAKE
-- State: VA
 - ZIP: 23320
-- ZIP extension: 
 - State project ID: 9351
 - Latitude: 36.756438
 - Longitude: -76.28409
@@ -22,9 +19,7 @@
 - Place 2000: 16000
 - Place 1990: 0242
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 719218
 - Units: 240
 - Low-income units: 240
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 4674448
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

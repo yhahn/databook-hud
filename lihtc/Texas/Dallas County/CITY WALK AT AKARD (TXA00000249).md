@@ -1,13 +1,10 @@
 # Project: CITY WALK AT AKARD (TXA00000249)
 
 - HUD ID: TXA00000249
-- HUD ID before: 
 - Project: CITY WALK AT AKARD
 - Address: 511 N AKARD ST
 - City: DALLAS
-- State: TX
 - ZIP: 75201
-- ZIP extension: 
 - State project ID: TX4445
 - Latitude: 32.783778
 - Longitude: -96.800662
@@ -21,11 +18,8 @@
 - Place 2010: 19000
 - Place 2000: 19000
 - Place 1990: 1085
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 200
 - Low-income units: 200
 - Units reported: 200
@@ -35,7 +29,6 @@
 - 2-bedroom units: 22
 - 3-bedroom units: 0
 - 4-bedroom units: 0
-- Construction: 
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
@@ -44,11 +37,9 @@
 - Affordability years: 40
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

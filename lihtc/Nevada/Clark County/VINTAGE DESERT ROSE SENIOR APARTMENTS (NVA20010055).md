@@ -1,11 +1,9 @@
 # Project: VINTAGE DESERT ROSE SENIOR APARTMENTS (NVA20010055)
 
 - HUD ID: NVA20010055
-- HUD ID before: 
 - Project: VINTAGE DESERT ROSE SENIOR APARTMENTS
 - Address: 1701 N JONES BLVD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89108
 - ZIP extension: 0000
 - State project ID: 00-53
@@ -22,10 +20,7 @@
 - Place 2000: 40000
 - Place 1990: 0065
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
-- Allocation amount: 
 - Units: 184
 - Low-income units: 184
 - Units reported: 184
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

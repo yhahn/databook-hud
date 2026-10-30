@@ -1,13 +1,10 @@
 # Project: GRAND OAKS - BLUEGRASS V (KYA20100706)
 
 - HUD ID: KYA20100706
-- HUD ID before: 
 - Project: GRAND OAKS - BLUEGRASS V
 - Address: THOROUGHBRED WAY
 - City: LEXINGTON
-- State: KY
 - ZIP: 40505
-- ZIP extension: 
 - State project ID: KY-10-101
 - Latitude: 38.0575
 - Longitude: -84.4916
@@ -22,9 +19,7 @@
 - Place 2000: 46027
 - Place 1990: 1160
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 570737
 - Units: 88
 - Low-income units: 88
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BLUEGRASS V.;
 - Record status: Updated

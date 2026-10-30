@@ -1,13 +1,10 @@
 # Project: CARRIAGE COURT II APTS (NCA20030020)
 
 - HUD ID: NCA20030020
-- HUD ID before: 
 - Project: CARRIAGE COURT II APTS
 - Address: 4655 SUNSET AVENUE
 - City: ROCKY MOUNT
-- State: NC
 - ZIP: 27804
-- ZIP extension: 
 - State project ID: 9001230
 - Latitude: 35.970863
 - Longitude: -77.891717
@@ -22,9 +19,7 @@
 - Place 2000: 57500
 - Place 1990: 1765
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 159695
 - Units: 32
 - Low-income units: 32
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

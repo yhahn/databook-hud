@@ -1,13 +1,10 @@
 # Project: EGIDA DE LA FLORIDA (PRA20110107)
 
 - HUD ID: PRA20110107
-- HUD ID before: 
 - Project: EGIDA DE LA FLORIDA
 - Address: 73 CALLE MUNOZ RIVERA
 - City: FLORIDA
-- State: PR
 - ZIP: 00650
-- ZIP extension: 
 - State project ID: 09-029
 - Latitude: 18.3626
 - Longitude: -66.5633
@@ -20,11 +17,8 @@
 - Place 2020: 28824
 - Place 2010: 28824
 - Place 2000: 28824
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1218783
 - Units: 72
 - Low-income units: 72
@@ -39,9 +33,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 4510081
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

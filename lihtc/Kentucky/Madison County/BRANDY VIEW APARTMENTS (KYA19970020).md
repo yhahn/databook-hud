@@ -1,13 +1,10 @@
 # Project: BRANDY VIEW APARTMENTS (KYA19970020)
 
 - HUD ID: KYA19970020
-- HUD ID before: 
 - Project: BRANDY VIEW APARTMENTS
 - Address: BRANDY LN.
 - City: RICHMOND
-- State: KY
 - ZIP: 40475
-- ZIP extension: 
 - State project ID: KY-96-073
 - Latitude: 37.7488
 - Longitude: -84.2906
@@ -19,12 +16,8 @@
 - Tract 1990: 21151010700
 - Place 2020: 65226
 - Place 2010: 65226
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

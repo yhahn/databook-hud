@@ -1,11 +1,9 @@
 # Project: HAILEY APARTMENTS WHITEFISH (MTA20040025)
 
 - HUD ID: MTA20040025
-- HUD ID before: 
 - Project: HAILEY APARTMENTS WHITEFISH
 - Address: 125 WINTER LOOP LANE
 - City: WHITEFISH
-- State: MT
 - ZIP: 59937
 - ZIP extension: 0000
 - State project ID: 02110
@@ -22,9 +20,7 @@
 - Place 2000: 79825
 - Place 1990: 0670
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 70015
 - Units: 10
 - Low-income units: 10
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

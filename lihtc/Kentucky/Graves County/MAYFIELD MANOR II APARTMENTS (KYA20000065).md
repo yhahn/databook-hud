@@ -1,13 +1,10 @@
 # Project: MAYFIELD MANOR II APARTMENTS (KYA20000065)
 
 - HUD ID: KYA20000065
-- HUD ID before: 
 - Project: MAYFIELD MANOR II APARTMENTS
 - Address: INDIANA ST.
 - City: MAYFIELD
-- State: KY
 - ZIP: 42066
-- ZIP extension: 
 - State project ID: KY-99-038
 - Latitude: 36.706
 - Longitude: -88.6302
@@ -19,12 +16,9 @@
 - Tract 1990: 21083020100
 - Place 2020: 50898
 - Place 2010: 50898
-- Place 2000: 
 - Place 1990: 1305
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 23
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

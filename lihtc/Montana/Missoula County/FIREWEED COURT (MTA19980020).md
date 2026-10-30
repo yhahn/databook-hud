@@ -1,11 +1,9 @@
 # Project: FIREWEED COURT (MTA19980020)
 
 - HUD ID: MTA19980020
-- HUD ID before: 
 - Project: FIREWEED COURT
 - Address: 1437 S 1ST STREET WEST
 - City: MISSOULA
-- State: MT
 - ZIP: 59801
 - ZIP extension: 0000
 - State project ID: 97050
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 88430
 - Units: 12
 - Low-income units: 12
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

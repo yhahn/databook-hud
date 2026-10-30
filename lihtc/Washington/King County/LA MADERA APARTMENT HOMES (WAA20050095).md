@@ -1,13 +1,10 @@
 # Project: LA MADERA APARTMENT HOMES (WAA20050095)
 
 - HUD ID: WAA20050095
-- HUD ID before: 
 - Project: LA MADERA APARTMENT HOMES
 - Address: 28620 PACIFIC HIGHWAY SOUTH
 - City: FEDERAL WAY
-- State: WA
 - ZIP: 98003
-- ZIP extension: 
 - State project ID: 04-28
 - Latitude: 47.345231
 - Longitude: -122.312017
@@ -22,9 +19,7 @@
 - Place 2000: 23515
 - Place 1990: 0443
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 344865
 - Units: 76
 - Low-income units: 74
@@ -40,8 +35,6 @@
 - Income ceiling: Not reported
 - Rents below ceiling: Yes
 - Units below ceiling: 74
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,13 +50,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,6 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

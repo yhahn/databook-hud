@@ -1,13 +1,10 @@
 # Project: HEATER LANDING (NHA20221004)
 
 - HUD ID: NHA20221004
-- HUD ID before: 
 - Project: HEATER LANDING
 - Address: 258 HEATER ROAD
 - City: LEBANON
-- State: NH
 - ZIP: 03766
-- ZIP extension: 
 - State project ID: NH-23-80
 - Latitude: 43.65561
 - Longitude: -72.248936
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 33009961701
 - Tract 2010: 33009961700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 41300
 - Place 2010: 41300
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 884500
 - Units: 44
 - Low-income units: 44
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -65,12 +54,7 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: general occupancy
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

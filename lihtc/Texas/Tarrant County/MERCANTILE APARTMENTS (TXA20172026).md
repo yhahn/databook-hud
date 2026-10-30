@@ -1,13 +1,10 @@
 # Project: MERCANTILE APARTMENTS (TXA20172026)
 
 - HUD ID: TXA20172026
-- HUD ID before: 
 - Project: MERCANTILE APARTMENTS
 - Address: 3600 TANACROSS DRIVE
 - City: FORT WORTH
-- State: TX
 - ZIP: 76137
-- ZIP extension: 
 - State project ID: TX5186
 - Latitude: 32.83715
 - Longitude: -97.295114
@@ -16,16 +13,11 @@
 - Tract 2020: 48439105009
 - Tract 2010: 48439105006
 - Tract 2000: 48439105006
-- Tract 1990: 
 - Place 2020: 27000
 - Place 2010: 27000
 - Place 2000: 27000
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 324
 - Low-income units: 311
 - Units reported: 324
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

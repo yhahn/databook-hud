@@ -1,13 +1,10 @@
 # Project: WEST RIDGE SENIOR APARTMENTS (ILA20030205)
 
 - HUD ID: ILA20030205
-- HUD ID before: 
 - Project: WEST RIDGE SENIOR APARTMENTS
 - Address: 6142 N. CALIFORNIA AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60659
-- ZIP extension: 
 - State project ID: 1332-01
 - Latitude: 41.992929
 - Longitude: -87.699717
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 866862
 - Units: 99
 - Low-income units: 99
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILA2003130. AKA WESTRIDGE SENIOR APTS.
 - Record status: Updated

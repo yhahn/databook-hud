@@ -1,11 +1,9 @@
 # Project: HEATHER COMMONS (WAA20000070)
 
 - HUD ID: WAA20000070
-- HUD ID before: 
 - Project: HEATHER COMMONS
 - Address: 4169 CORY STREET
 - City: BELLINGHAM
-- State: WA
 - ZIP: 98226
 - ZIP extension: 6493
 - State project ID: 98-28C
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 53073000102
 - Tract 2010: 53073000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 05280
 - Place 2010: 05280
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 243076
 - Units: 24
 - Low-income units: 24
@@ -39,9 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

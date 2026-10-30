@@ -1,13 +1,10 @@
 # Project: STROTHERS SCHOOL APARTMENTS (KYA20050200)
 
 - HUD ID: KYA20050200
-- HUD ID before: 
 - Project: STROTHERS SCHOOL APARTMENTS
 - Address: DIXIE HWY
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40201
-- ZIP extension: 
 - State project ID: KY-03-053
 - Latitude: 38.2416
 - Longitude: -85.7603
@@ -17,14 +14,9 @@
 - Tract 2010: 21111005000
 - Tract 2000: 21111005000
 - Tract 1990: 21111002800
-- Place 2020: 
-- Place 2010: 
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 29
 - Low-income units: 29
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

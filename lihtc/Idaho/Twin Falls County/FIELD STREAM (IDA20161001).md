@@ -1,13 +1,10 @@
 # Project: FIELD STREAM (IDA20161001)
 
 - HUD ID: IDA20161001
-- HUD ID before: 
 - Project: FIELD STREAM
 - Address: 1425 FIELD STREAM WAY
 - City: TWIN FALLS
-- State: ID
 - ZIP: 83301
-- ZIP extension: 
 - State project ID: HC1408
 - Latitude: 42.587338
 - Longitude: -114.504496
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 16083000701
 - Tract 2010: 16083000700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 82810
 - Place 2010: 82810
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 741585
 - Units: 60
 - Low-income units: 53
@@ -40,11 +31,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

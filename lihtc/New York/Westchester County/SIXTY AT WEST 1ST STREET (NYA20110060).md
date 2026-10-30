@@ -1,13 +1,10 @@
 # Project: SIXTY AT WEST 1ST STREET (NYA20110060)
 
 - HUD ID: NYA20110060
-- HUD ID before: 
 - Project: SIXTY AT WEST 1ST STREET
 - Address: 60 W FIRST ST
 - City: MT VERNON
-- State: NY
 - ZIP: 10550
-- ZIP extension: 
 - State project ID: 20096081
 - Latitude: 40.910664
 - Longitude: -73.839631
@@ -22,9 +19,7 @@
 - Place 2000: 49121
 - Place 1990: 2390
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 935426
 - Units: 43
 - Low-income units: 43
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA2011524.
 - Record status: Existing, unchanged

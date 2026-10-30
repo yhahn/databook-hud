@@ -1,13 +1,10 @@
 # Project: WEST SIDE HOMES (NYA20231022)
 
 - HUD ID: NYA20231022
-- HUD ID before: 
 - Project: WEST SIDE HOMES
 - Address: 217 MASSACHUSETTS AVENUE
 - City: BUFFALO
-- State: NY
 - ZIP: 14213
-- ZIP extension: 
 - State project ID: 20210002
 - Latitude: 42.910023
 - Longitude: -78.892872
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36029006901
 - Tract 2010: 36029006901
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 11000
 - Place 2010: 11000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1152713
 - Units: 49
 - Low-income units: 49
@@ -44,11 +35,9 @@
 - Affordability years: 50
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 73055866
 - CDBG: No
@@ -67,10 +56,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: Yes
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: COURTYARD AT JAMES (NYA20070255)
 
 - HUD ID: NYA20070255
-- HUD ID before: 
 - Project: COURTYARD AT JAMES
 - Address: 708 JAMES ST
 - City: SYRACUSE
-- State: NY
 - ZIP: 13203
-- ZIP extension: 
 - State project ID: 20060121
 - Latitude: 43.054953
 - Longitude: -76.142779
@@ -22,9 +19,7 @@
 - Place 2000: 73000
 - Place 1990: 3565
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 374412
 - Units: 73
 - Low-income units: 73
@@ -39,13 +34,9 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: No
@@ -74,12 +56,8 @@
 - Other population: Yes
 - Other population named: AIDS/HIV
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA1991250. AKA SCHOPFER COURT APTS.
 - Record status: Existing, unchanged

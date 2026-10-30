@@ -1,13 +1,10 @@
 # Project: BALLARD PLACE (KYA20000588)
 
 - HUD ID: KYA20000588
-- HUD ID before: 
 - Project: BALLARD PLACE
 - Address: TOWER PLAZA
 - City: LEXINGTON
-- State: KY
 - ZIP: 40508
-- ZIP extension: 
 - State project ID: KY-98-047
 - Latitude: 38.0575
 - Longitude: -84.4916
@@ -19,12 +16,9 @@
 - Tract 1990: 21067000100
 - Place 2020: 46027
 - Place 2010: 46027
-- Place 2000: 
 - Place 1990: 1160
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 134
 - Low-income units: 134
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

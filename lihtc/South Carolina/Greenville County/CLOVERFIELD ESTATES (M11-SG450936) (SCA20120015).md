@@ -1,13 +1,10 @@
 # Project: CLOVERFIELD ESTATES (M11-SG450936) (SCA20120015)
 
 - HUD ID: SCA20120015
-- HUD ID before: 
 - Project: CLOVERFIELD ESTATES (M11-SG450936)
 - Address: 500 CRAWFORD HILL RD
 - City: GREENVILLE
-- State: SC
 - ZIP: 29617
-- ZIP extension: 
 - State project ID: SC-11-058
 - Latitude: 34.8551
 - Longitude: -82.4502
@@ -22,9 +19,7 @@
 - Place 2000: 14455
 - Place 1990: 1048
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 850000
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

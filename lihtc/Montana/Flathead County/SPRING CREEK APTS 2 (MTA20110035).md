@@ -1,13 +1,10 @@
 # Project: SPRING CREEK APTS 2 (MTA20110035)
 
 - HUD ID: MTA20110035
-- HUD ID before: 
 - Project: SPRING CREEK APTS 2
 - Address: 20 APPLEWAY DR
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
-- ZIP extension: 
 - State project ID: MT-09-020
 - Latitude: 48.197171
 - Longitude: -114.332216
@@ -22,9 +19,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 661750
 - Units: 33
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 670000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA2011512.
 - Record status: Existing, unchanged

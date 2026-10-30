@@ -1,13 +1,10 @@
 # Project: THE LANDING APARTMENTS (KYA20040535)
 
 - HUD ID: KYA20040535
-- HUD ID before: 
 - Project: THE LANDING APARTMENTS
 - Address: OLD BAILEY RD.
 - City: WHITLEY CITY
-- State: KY
 - ZIP: 42653
-- ZIP extension: 
 - State project ID: KY-02-064
 - Latitude: 36.7296
 - Longitude: -84.4649
@@ -19,12 +16,8 @@
 - Tract 1990: 21147960300
 - Place 2020: 73362
 - Place 2010: 73362
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 44854
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

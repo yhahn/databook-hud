@@ -1,13 +1,10 @@
 # Project: THE KENSLEY APTS (ALA20050052)
 
 - HUD ID: ALA20050052
-- HUD ID before: 
 - Project: THE KENSLEY APTS
 - Address: 31230 STAGECOACH RD
 - City: SPANISH FORT
-- State: AL
 - ZIP: 36527
-- ZIP extension: 
 - State project ID: AL-05-0034
 - Latitude: 30.680612
 - Longitude: -87.860223
@@ -20,11 +17,8 @@
 - Place 2020: 71976
 - Place 2010: 71976
 - Place 2000: 19648
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 717113
 - Units: 104
 - Low-income units: 104
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 104
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007135. AKA KENSLEY HALL APTS.
 - Record status: Existing, unchanged

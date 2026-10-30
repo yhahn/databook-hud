@@ -1,11 +1,9 @@
 # Project: BUTORAC RENTALS (MTA19940010)
 
 - HUD ID: MTA19940010
-- HUD ID before: 
 - Project: BUTORAC RENTALS
 - Address: 1914 SCOTT STREET
 - City: MISSOULA
-- State: MT
 - ZIP: 59802
 - ZIP extension: 0000
 - State project ID: 93050
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 14082
 - Units: 4
 - Low-income units: 4
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -76,10 +65,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

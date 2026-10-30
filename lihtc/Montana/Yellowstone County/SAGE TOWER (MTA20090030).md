@@ -1,11 +1,9 @@
 # Project: SAGE TOWER (MTA20090030)
 
 - HUD ID: MTA20090030
-- HUD ID before: 
 - Project: SAGE TOWER
 - Address: 115 NORTH 24TH STREET
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: 06090
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 81559
 - Units: 81
 - Low-income units: 76
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

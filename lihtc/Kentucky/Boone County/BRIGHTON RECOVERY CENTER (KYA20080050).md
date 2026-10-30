@@ -1,13 +1,10 @@
 # Project: BRIGHTON RECOVERY CENTER (KYA20080050)
 
 - HUD ID: KYA20080050
-- HUD ID before: 
 - Project: BRIGHTON RECOVERY CENTER
 - Address: WEAVER RD
 - City: FLORENCE
-- State: KY
 - ZIP: 41042
-- ZIP extension: 
 - State project ID: KY-07-001
 - Latitude: 38.9912
 - Longitude: -84.6538
@@ -16,15 +13,10 @@
 - Tract 2020: 21015070312
 - Tract 2010: 21015070312
 - Tract 2000: 21015070306
-- Tract 1990: 
 - Place 2020: 27982
 - Place 2010: 27982
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 592954
 - Units: 38
 - Low-income units: 38
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +68,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: HOMETOWN HARBOR BETTENDORF (IAA20100032)
 
 - HUD ID: IAA20100032
-- HUD ID before: 
 - Project: HOMETOWN HARBOR BETTENDORF
 - Address: 2205 KIMBERLY RD
 - City: BETTENDORF
-- State: IA
 - ZIP: 52722
-- ZIP extension: 
 - State project ID: 08-0929
 - Latitude: 41.545753
 - Longitude: -90.522171
@@ -22,9 +19,7 @@
 - Place 2000: 06355
 - Place 1990: 0395
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 2970218
 - Units: 116
 - Low-income units: 116
@@ -39,13 +34,9 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 6089429
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2010508.
 - Record status: Existing, unchanged

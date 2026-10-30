@@ -1,11 +1,9 @@
 # Project: SPRING CREEK APARTMENTS (MTA20090040)
 
 - HUD ID: MTA20090040
-- HUD ID before: 
 - Project: SPRING CREEK APARTMENTS
 - Address: 20 APPLE WAY DR
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 08040
@@ -22,9 +20,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 580000
 - Units: 33
 - Low-income units: 33
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

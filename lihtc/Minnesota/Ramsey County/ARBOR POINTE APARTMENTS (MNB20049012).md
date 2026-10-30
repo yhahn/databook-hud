@@ -1,11 +1,9 @@
 # Project: ARBOR POINTE APARTMENTS (MNB20049012)
 
 - HUD ID: MNB20049012
-- HUD ID before: 
 - Project: ARBOR POINTE APARTMENTS
 - Address: 635 MARYLAND AVENUE WEST
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55117
 - ZIP extension: 4164
 - State project ID: D5383
@@ -16,15 +14,11 @@
 - Tract 2020: 27123030300
 - Tract 2010: 27123030300
 - Tract 2000: 27123030300
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 216656
 - Units: 47
 - Low-income units: 47
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

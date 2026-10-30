@@ -1,13 +1,10 @@
 # Project: QUANTICO COURT (VAA20030165)
 
 - HUD ID: VAA20030165
-- HUD ID before: 
 - Project: QUANTICO COURT
 - Address: 19050 FULLER HEIGHTS RD
 - City: TRIANGLE
-- State: VA
 - ZIP: 22172
-- ZIP extension: 
 - State project ID: 1089
 - Latitude: 38.536641
 - Longitude: -77.323449
@@ -22,9 +19,7 @@
 - Place 2000: 23760
 - Place 1990: 1240
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 226403
 - Units: 120
 - Low-income units: 120
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

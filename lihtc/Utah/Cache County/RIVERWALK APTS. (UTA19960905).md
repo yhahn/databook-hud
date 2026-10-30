@@ -1,11 +1,9 @@
 # Project: RIVERWALK APTS. (UTA19960905)
 
 - HUD ID: UTA19960905
-- HUD ID before: 
 - Project: RIVERWALK APTS.
 - Address: 781 SOUTH RIVERWALK DRIVE
 - City: LOGAN
-- State: UT
 - ZIP: 84323
 - ZIP extension: 0000
 - State project ID: 1994-14
@@ -18,13 +16,10 @@
 - Tract 2000: 49005001000
 - Tract 1990: 49005001000
 - Place 2020: 45860
-- Place 2010: 
 - Place 2000: 45860
 - Place 1990: 0520
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 417863
 - Units: 88
 - Low-income units: 88
@@ -40,11 +35,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

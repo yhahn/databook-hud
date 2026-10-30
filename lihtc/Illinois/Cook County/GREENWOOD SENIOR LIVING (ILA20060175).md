@@ -1,13 +1,10 @@
 # Project: GREENWOOD SENIOR LIVING (ILA20060175)
 
 - HUD ID: ILA20060175
-- HUD ID before: 
 - Project: GREENWOOD SENIOR LIVING
 - Address: 801 E 61ST ST
 - City: CHICAGO
-- State: IL
 - ZIP: 60637
-- ZIP extension: 
 - State project ID: 231005
 - Latitude: 41.783878
 - Longitude: -87.606016
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 340255
 - Units: 218
 - Low-income units: 218
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILA2006100.
 - Record status: Existing, unchanged

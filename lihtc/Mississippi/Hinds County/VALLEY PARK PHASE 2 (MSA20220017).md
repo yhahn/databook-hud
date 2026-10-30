@@ -1,11 +1,9 @@
 # Project: VALLEY PARK PHASE 2 (MSA20220017)
 
 - HUD ID: MSA20220017
-- HUD ID before: 
 - Project: VALLEY PARK PHASE 2
 - Address: 673 VALEWOOD DRIVE
 - City: JACKSON
-- State: MS
 - ZIP: 39212
 - ZIP extension: 0000
 - State project ID: 20-1-013
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28049011101
 - Tract 2010: 28049011101
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 36000
 - Place 2010: 36000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 42
 - Low-income units: 42
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

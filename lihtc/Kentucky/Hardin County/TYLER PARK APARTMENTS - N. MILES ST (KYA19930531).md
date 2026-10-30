@@ -1,13 +1,10 @@
 # Project: TYLER PARK APARTMENTS - N. MILES ST (KYA19930531)
 
 - HUD ID: KYA19930531
-- HUD ID before: 
 - Project: TYLER PARK APARTMENTS - N. MILES ST
 - Address: N. MILES ST.
 - City: ELIZABETHTOWN
-- State: KY
 - ZIP: 42701
-- ZIP extension: 
 - State project ID: KY-92-037
 - Latitude: 37.7012
 - Longitude: -85.8554
@@ -19,12 +16,9 @@
 - Tract 1990: 21093001400
 - Place 2020: 24274
 - Place 2010: 24274
-- Place 2000: 
 - Place 1990: 0610
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 72
 - Low-income units: 72
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

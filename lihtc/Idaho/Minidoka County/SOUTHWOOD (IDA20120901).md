@@ -1,13 +1,10 @@
 # Project: SOUTHWOOD (IDA20120901)
 
 - HUD ID: IDA20120901
-- HUD ID before: 
 - Project: SOUTHWOOD
 - Address: 210 SOUTH A STREET
 - City: RUPERT
-- State: ID
 - ZIP: 83350
-- ZIP extension: 
 - State project ID: HC1109
 - Latitude: 42.611322
 - Longitude: -113.667716
@@ -16,15 +13,10 @@
 - Tract 2020: 16067970500
 - Tract 2010: 16067970500
 - Tract 2000: 16067980400
-- Tract 1990: 
 - Place 2020: 70660
 - Place 2010: 70660
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 103793
 - Units: 24
 - Low-income units: 24
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

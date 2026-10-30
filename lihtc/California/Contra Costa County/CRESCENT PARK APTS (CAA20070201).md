@@ -1,13 +1,10 @@
 # Project: CRESCENT PARK APTS (CAA20070201)
 
 - HUD ID: CAA20070201
-- HUD ID before: 
 - Project: CRESCENT PARK APTS
 - Address: 5004 HARTNETT AVE
 - City: RICHMOND
-- State: CA
 - ZIP: 94804
-- ZIP extension: 
 - State project ID: CA-07-826
 - Latitude: 37.916207
 - Longitude: -122.324696
@@ -22,9 +19,7 @@
 - Place 2000: 21796
 - Place 1990: 2330
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 3968856
 - Units: 378
 - Low-income units: 376
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 199
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

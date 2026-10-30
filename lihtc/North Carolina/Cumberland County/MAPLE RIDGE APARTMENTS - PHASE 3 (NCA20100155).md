@@ -1,13 +1,10 @@
 # Project: MAPLE RIDGE APARTMENTS - PHASE 3 (NCA20100155)
 
 - HUD ID: NCA20100155
-- HUD ID before: 
 - Project: MAPLE RIDGE APARTMENTS - PHASE 3
 - Address: 6736 BONE CREEK DRIVE
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28314
-- ZIP extension: 
 - State project ID: 9102470
 - Latitude: 35.065774
 - Longitude: -79.040501
@@ -19,12 +16,8 @@
 - Tract 1990: 37051003301
 - Place 2020: 22920
 - Place 2010: 22920
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 680276
 - Units: 80
 - Low-income units: 80
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

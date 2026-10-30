@@ -1,13 +1,10 @@
 # Project: FOUNTAIN POINTE (NCA20150012)
 
 - HUD ID: NCA20150012
-- HUD ID before: 
 - Project: FOUNTAIN POINTE
 - Address: 192 CLEMMER ROAD
 - City: ROCKINGHAM
-- State: NC
 - ZIP: 28379
-- ZIP extension: 
 - State project ID: 9150911
 - Latitude: 34.917743
 - Longitude: -79.733102
@@ -22,9 +19,7 @@
 - Place 2000: 57260
 - Place 1990: 2105
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 385400
 - Units: 39
 - Low-income units: 39
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

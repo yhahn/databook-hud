@@ -1,11 +1,9 @@
 # Project: GREENVIEW GARDENS APARTMENTS (PAA20213045)
 
 - HUD ID: PAA20213045
-- HUD ID before: 
 - Project: GREENVIEW GARDENS APARTMENTS
 - Address: 105 GREENVIEW DR
 - City: BUTLER
-- State: PA
 - ZIP: 16001
 - ZIP extension: 6265
 - State project ID: TC20210116
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42019902500
 - Tract 2010: 42019902500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 10464
 - Place 2010: 10464
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 478466
 - Units: 136
 - Low-income units: 136
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: New

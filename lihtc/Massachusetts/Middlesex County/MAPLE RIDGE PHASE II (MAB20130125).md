@@ -1,13 +1,10 @@
 # Project: MAPLE RIDGE PHASE II (MAB20130125)
 
 - HUD ID: MAB20130125
-- HUD ID before: 
 - Project: MAPLE RIDGE PHASE II
 - Address: 4 LONGFELLOW LN
 - City: TYNGSBORO
-- State: MA
 - ZIP: 01879
-- ZIP extension: 
 - State project ID: MA-14-01
 - Latitude: 42.661081
 - Longitude: -71.415496
@@ -19,12 +16,8 @@
 - Tract 1990: 25017313100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 627000
 - Units: 24
 - Low-income units: 24
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

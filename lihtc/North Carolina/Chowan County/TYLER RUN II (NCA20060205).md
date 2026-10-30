@@ -1,13 +1,10 @@
 # Project: TYLER RUN II (NCA20060205)
 
 - HUD ID: NCA20060205
-- HUD ID before: 
 - Project: TYLER RUN II
 - Address: 201 TYLER LANE
 - City: EDENTON
-- State: NC
 - ZIP: 27932
-- ZIP extension: 
 - State project ID: 9001414
 - Latitude: 36.069639
 - Longitude: -76.593797
@@ -22,9 +19,7 @@
 - Place 2000: 20120
 - Place 1990: 0795
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 215186
 - Units: 60
 - Low-income units: 60
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

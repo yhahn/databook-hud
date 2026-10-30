@@ -1,13 +1,10 @@
 # Project: WATERVIEW COMMONS PHASE II (TNA19950135)
 
 - HUD ID: TNA19950135
-- HUD ID before: 
 - Project: WATERVIEW COMMONS PHASE II
 - Address: 1300 WATERVIEW CIR
 - City: HENDERSONVILLE
-- State: TN
 - ZIP: 37075
-- ZIP extension: 
 - State project ID: TN-95-073
 - Latitude: 36.301608
 - Longitude: -86.580548
@@ -22,9 +19,7 @@
 - Place 2000: 33280
 - Place 1990: 0637
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 195409
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA1995100. AKA WATERVIEW APTS PHASE II.
 - Record status: Existing, unchanged

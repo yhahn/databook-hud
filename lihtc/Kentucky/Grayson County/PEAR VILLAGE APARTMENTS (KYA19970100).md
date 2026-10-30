@@ -1,13 +1,10 @@
 # Project: PEAR VILLAGE APARTMENTS (KYA19970100)
 
 - HUD ID: KYA19970100
-- HUD ID before: 
 - Project: PEAR VILLAGE APARTMENTS
 - Address: PEAR ST.
 - City: LEITCHFIELD
-- State: KY
 - ZIP: 42754
-- ZIP extension: 
 - State project ID: KY-95-134
 - Latitude: 37.5086
 - Longitude: -86.3256
@@ -19,12 +16,9 @@
 - Tract 1990: 21085950400
 - Place 2020: 44686
 - Place 2010: 44686
-- Place 2000: 
 - Place 1990: 1145
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 16
 - Low-income units: 16
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

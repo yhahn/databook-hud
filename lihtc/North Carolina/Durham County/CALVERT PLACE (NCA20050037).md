@@ -1,13 +1,10 @@
 # Project: CALVERT PLACE (NCA20050037)
 
 - HUD ID: NCA20050037
-- HUD ID before: 
 - Project: CALVERT PLACE
 - Address: 930 E MAIN STREET
 - City: DURHAM
-- State: NC
 - ZIP: 27701
-- ZIP extension: 
 - State project ID: 9002335
 - Latitude: 35.989189
 - Longitude: -78.890853
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 725967
 - Units: 75
 - Low-income units: 75
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 38
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

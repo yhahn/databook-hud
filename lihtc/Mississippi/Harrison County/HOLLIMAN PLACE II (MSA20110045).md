@@ -1,13 +1,10 @@
 # Project: HOLLIMAN PLACE II (MSA20110045)
 
 - HUD ID: MSA20110045
-- HUD ID before: 
 - Project: HOLLIMAN PLACE II
 - Address: 12340 HOUGHTON DR
 - City: GULFPORT
-- State: MS
 - ZIP: 39503
-- ZIP extension: 
 - State project ID: MS-06-014
 - Latitude: 30.458994
 - Longitude: -89.064113
@@ -22,9 +19,7 @@
 - Place 2000: 06220
 - Place 1990: 0943
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 459763
 - Units: 40
 - Low-income units: 38
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011669.
 - Record status: Existing, unchanged

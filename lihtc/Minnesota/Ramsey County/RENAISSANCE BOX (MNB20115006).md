@@ -1,11 +1,9 @@
 # Project: RENAISSANCE BOX (MNB20115006)
 
 - HUD ID: MNB20115006
-- HUD ID before: 
 - Project: RENAISSANCE BOX
 - Address: 200 E 10TH STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55101
 - ZIP extension: 2312
 - State project ID: D5218
@@ -16,15 +14,11 @@
 - Tract 2020: 27123034203
 - Tract 2010: 27123034202
 - Tract 2000: 27123034200
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 757447
 - Units: 70
 - Low-income units: 70
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -68,8 +61,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: HH of Color, Single HOH with minor
@@ -78,8 +69,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

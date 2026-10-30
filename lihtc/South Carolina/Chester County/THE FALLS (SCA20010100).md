@@ -1,13 +1,10 @@
 # Project: THE FALLS (SCA20010100)
 
 - HUD ID: SCA20010100
-- HUD ID before: 
 - Project: THE FALLS
 - Address: 810 DEARBORN ST
 - City: GREAT FALLS
-- State: SC
 - ZIP: 29055
-- ZIP extension: 
 - State project ID: SC-99-015
 - Latitude: 34.567197
 - Longitude: -80.890044
@@ -22,9 +19,7 @@
 - Place 2000: 30490
 - Place 1990: 0552
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 37962
 - Units: 10
 - Low-income units: 8
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CATAWBA FALLS APTS.
 - Record status: Existing, unchanged

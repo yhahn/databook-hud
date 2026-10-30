@@ -1,13 +1,10 @@
 # Project: CORAL WOOD COURT (CAA20130019)
 
 - HUD ID: CAA20130019
-- HUD ID before: 
 - Project: CORAL WOOD COURT
 - Address: 8039 RESEDA BLVD
 - City: RESEDA
-- State: CA
 - ZIP: 91335
-- ZIP extension: 
 - State project ID: CA-13-824
 - Latitude: 34.216769
 - Longitude: -118.536276
@@ -22,9 +19,7 @@
 - Place 2000: 44000
 - Place 1990: 1630
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 830626
 - Units: 106
 - Low-income units: 105
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1996035.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: HAMLINE STATION WEST (MNB20160005)
 
 - HUD ID: MNB20160005
-- HUD ID before: 
 - Project: HAMLINE STATION WEST
 - Address: 1309 UNIVERSITY AVENUE WEST
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55104
 - ZIP extension: 4241
 - State project ID: D7589
@@ -16,15 +14,11 @@
 - Tract 2020: 27123032300
 - Tract 2010: 27123032300
 - Tract 2000: 27123032300
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 354655
 - Units: 57
 - Low-income units: 57
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 13
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +60,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

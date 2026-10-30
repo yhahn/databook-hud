@@ -1,13 +1,10 @@
 # Project: WEST TISBURY (IDA19990050)
 
 - HUD ID: IDA19990050
-- HUD ID before: 
 - Project: WEST TISBURY
 - Address: 455 WEST 5TH STREET SOUTH
 - City: REXBURG
-- State: ID
 - ZIP: 83440
-- ZIP extension: 
 - State project ID: HC9719
 - Latitude: 43.815455
 - Longitude: -111.796795
@@ -22,9 +19,7 @@
 - Place 2000: 67420
 - Place 1990: 0820
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 75133
 - Units: 34
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

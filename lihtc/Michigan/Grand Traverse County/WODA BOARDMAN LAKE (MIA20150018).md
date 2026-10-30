@@ -1,11 +1,9 @@
 # Project: WODA BOARDMAN LAKE (MIA20150018)
 
 - HUD ID: MIA20150018
-- HUD ID before: 
 - Project: WODA BOARDMAN LAKE
 - Address: 2790 BOARDMAN LAKE DRIVE
 - City: TRAVERSE CITY
-- State: MI
 - ZIP: 49684
 - ZIP extension: 0000
 - State project ID: 3558
@@ -16,15 +14,10 @@
 - Tract 2020: 26055551400
 - Tract 2010: 26055551400
 - Tract 2000: 26055991400
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1039775
 - Units: 112
 - Low-income units: 112
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 51
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

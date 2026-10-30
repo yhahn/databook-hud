@@ -1,13 +1,10 @@
 # Project: CLIFTON HILLS (KYA20130745)
 
 - HUD ID: KYA20130745
-- HUD ID before: 
 - Project: CLIFTON HILLS
 - Address: 18TH STREET
 - City: NEWPORT
-- State: KY
 - ZIP: 41071
-- ZIP extension: 
 - State project ID: KY-12-013
 - Latitude: 39.0698
 - Longitude: -84.4793
@@ -19,12 +16,9 @@
 - Tract 1990: 21037052500
 - Place 2020: 55884
 - Place 2010: 55884
-- Place 2000: 
 - Place 1990: 1445
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 899324
 - Units: 32
 - Low-income units: 32
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

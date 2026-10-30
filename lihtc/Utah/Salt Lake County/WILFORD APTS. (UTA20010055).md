@@ -1,11 +1,9 @@
 # Project: WILFORD APTS. (UTA20010055)
 
 - HUD ID: UTA20010055
-- HUD ID before: 
 - Project: WILFORD APTS.
 - Address: 932 SOUTH 200 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84101
 - ZIP extension: 0000
 - State project ID: 2001-04
@@ -16,15 +14,11 @@
 - Tract 2020: 49035102900
 - Tract 2010: 49035102900
 - Tract 2000: 49035102900
-- Tract 1990: 
 - Place 2020: 67000
 - Place 2010: 67000
 - Place 2000: 67000
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 74772
 - Units: 14
 - Low-income units: 14
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HUDSON / HALF MOON TERRACE APTS (NYA20100050)
 
 - HUD ID: NYA20100050
-- HUD ID before: 
 - Project: HUDSON / HALF MOON TERRACE APTS
 - Address: 15 N FRONT ST
 - City: HUDSON
-- State: NY
 - ZIP: 12534
-- ZIP extension: 
 - State project ID: 20096054
 - Latitude: 42.256859
 - Longitude: -73.795536
@@ -22,9 +19,7 @@
 - Place 2000: 35969
 - Place 1990: 1680
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1430000
 - Units: 168
 - Low-income units: 168
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 1831443
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA HUDSON TERRACE APTS.
 - Record status: Existing, unchanged

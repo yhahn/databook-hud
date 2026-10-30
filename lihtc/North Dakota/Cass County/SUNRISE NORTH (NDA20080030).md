@@ -1,13 +1,10 @@
 # Project: SUNRISE NORTH (NDA20080030)
 
 - HUD ID: NDA20080030
-- HUD ID before: 
 - Project: SUNRISE NORTH
 - Address: 350 26TH AVE N
 - City: FARGO
-- State: ND
 - ZIP: 58102
-- ZIP extension: 
 - State project ID: TC0705
 - Latitude: 46.910216
 - Longitude: -96.786662
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 495631
 - Units: 43
 - Low-income units: 43
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HARVEST PARK APTS (CAA20130359)
 
 - HUD ID: CAA20130359
-- HUD ID before: 
 - Project: HARVEST PARK APTS
 - Address: 75 HARVEST PARK CT
 - City: CHICO
-- State: CA
 - ZIP: 95926
-- ZIP extension: 
 - State project ID: CA-12-817
 - Latitude: 39.752858
 - Longitude: -121.866789
@@ -20,11 +17,8 @@
 - Place 2020: 13014
 - Place 2010: 13014
 - Place 2000: 13014
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 497273
 - Units: 90
 - Low-income units: 89
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

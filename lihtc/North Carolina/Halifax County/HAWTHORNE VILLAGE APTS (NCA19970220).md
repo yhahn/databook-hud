@@ -1,13 +1,10 @@
 # Project: HAWTHORNE VILLAGE APTS (NCA19970220)
 
 - HUD ID: NCA19970220
-- HUD ID before: 
 - Project: HAWTHORNE VILLAGE APTS
 - Address: 215 E 11TH STREET
 - City: SCOTLAND NECK
-- State: NC
 - ZIP: 27874
-- ZIP extension: 
 - State project ID: 9001333
 - Latitude: 36.129647
 - Longitude: -77.420166
@@ -22,9 +19,7 @@
 - Place 2000: 59780
 - Place 1990: 2220
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 40163
 - Units: 20
 - Low-income units: 20
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

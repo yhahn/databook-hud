@@ -1,13 +1,10 @@
 # Project: BAYOU BEND APARTMENTS (TXA20040015)
 
 - HUD ID: TXA20040015
-- HUD ID before: 
 - Project: BAYOU BEND APARTMENTS
 - Address: 3025 WALLER ST
 - City: WALLER
-- State: TX
 - ZIP: 77484
-- ZIP extension: 
 - State project ID: TX3385
 - Latitude: 30.06196
 - Longitude: -95.932261
@@ -22,10 +19,7 @@
 - Place 2000: 33200
 - Place 1990: 3385
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 56
 - Low-income units: 56
 - Units reported: 56
@@ -40,15 +34,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 250000
 - CDBG: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

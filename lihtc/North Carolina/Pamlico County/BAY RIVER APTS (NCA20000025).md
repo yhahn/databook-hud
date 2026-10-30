@@ -1,11 +1,9 @@
 # Project: BAY RIVER APTS (NCA20000025)
 
 - HUD ID: NCA20000025
-- HUD ID before: 
 - Project: BAY RIVER APTS
 - Address: 1 FAIRVIEW CT
 - City: BAYBORO
-- State: NC
 - ZIP: 28515
 - ZIP extension: 9003
 - State project ID: 9000973
@@ -19,12 +17,8 @@
 - Tract 1990: 37137950200
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 109830
 - Units: 20
 - Low-income units: 20
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 2
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

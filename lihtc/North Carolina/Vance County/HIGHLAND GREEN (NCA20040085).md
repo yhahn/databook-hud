@@ -1,13 +1,10 @@
 # Project: HIGHLAND GREEN (NCA20040085)
 
 - HUD ID: NCA20040085
-- HUD ID before: 
 - Project: HIGHLAND GREEN
 - Address: 111 S PINKSTON STREET
 - City: HENDERSON
-- State: NC
 - ZIP: 27536
-- ZIP extension: 
 - State project ID: 9001407
 - Latitude: 36.319884
 - Longitude: -78.391461
@@ -22,9 +19,7 @@
 - Place 2000: 30660
 - Place 1990: 1155
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 349937
 - Units: 50
 - Low-income units: 50
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

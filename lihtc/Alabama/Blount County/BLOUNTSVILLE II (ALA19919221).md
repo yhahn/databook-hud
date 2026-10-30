@@ -1,13 +1,10 @@
 # Project: BLOUNTSVILLE II (ALA19919221)
 
 - HUD ID: ALA19919221
-- HUD ID before: 
 - Project: BLOUNTSVILLE II
 - Address: 40 RATLIFF ST
 - City: BLOUNTSVILLE
-- State: AL
 - ZIP: 35031
-- ZIP extension: 
 - State project ID: AL-90-0027
 - Latitude: 34.072864
 - Longitude: -86.587661
@@ -20,11 +17,8 @@
 - Place 2020: 07456
 - Place 2010: 07456
 - Place 2000: 07456
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 30703
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,10 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1991015. AKA BLOUNTSVILLE MANOR II.
 - Record status: Existing, unchanged

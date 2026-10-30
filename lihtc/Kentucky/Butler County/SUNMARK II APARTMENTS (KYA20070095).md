@@ -1,13 +1,10 @@
 # Project: SUNMARK II APARTMENTS (KYA20070095)
 
 - HUD ID: KYA20070095
-- HUD ID before: 
 - Project: SUNMARK II APARTMENTS
 - Address: BOAT FACTORY ROAD
 - City: MORGANTOWN
-- State: KY
 - ZIP: 42261
-- ZIP extension: 
 - State project ID: KY-06-051
 - Latitude: 37.2352
 - Longitude: -86.7284
@@ -19,12 +16,9 @@
 - Tract 1990: 21031990300
 - Place 2020: 53490
 - Place 2010: 53490
-- Place 2000: 
 - Place 1990: 1380
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 968880
 - Units: 48
 - Low-income units: 48
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

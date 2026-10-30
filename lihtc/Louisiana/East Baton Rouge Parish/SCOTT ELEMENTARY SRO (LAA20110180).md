@@ -1,11 +1,9 @@
 # Project: SCOTT ELEMENTARY SRO (LAA20110180)
 
 - HUD ID: LAA20110180
-- HUD ID before: 
 - Project: SCOTT ELEMENTARY SRO
 - Address: 900 N. 19TH STREET
 - City: BATON ROUGE
-- State: LA
 - ZIP: 70802
 - ZIP extension: 0000
 - State project ID: LA-07-033
@@ -22,9 +20,7 @@
 - Place 2000: 05000
 - Place 1990: 0095
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 60
 - Low-income units: 60
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Acquisition/Rehab
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

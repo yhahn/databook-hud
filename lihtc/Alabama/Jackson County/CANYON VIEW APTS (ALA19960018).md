@@ -1,13 +1,10 @@
 # Project: CANYON VIEW APTS (ALA19960018)
 
 - HUD ID: ALA19960018
-- HUD ID before: 
 - Project: CANYON VIEW APTS
 - Address: 108 CANYONVIEW DR
 - City: PISGAH
-- State: AL
 - ZIP: 35765
-- ZIP extension: 
 - State project ID: AL-96-0097
 - Latitude: 34.68355
 - Longitude: -85.840625
@@ -20,11 +17,8 @@
 - Place 2020: 60720
 - Place 2010: 60720
 - Place 2000: 60720
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 18883
 - Units: 12
 - Low-income units: 12
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997025.
 - Record status: Existing, unchanged

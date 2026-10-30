@@ -1,11 +1,9 @@
 # Project: AUTUMN RUN APARTMENT (MTA19990010)
 
 - HUD ID: MTA19990010
-- HUD ID before: 
 - Project: AUTUMN RUN APARTMENT
 - Address: 4101 CENTRAL AVE
 - City: GREAT FALLS
-- State: MT
 - ZIP: 59405
 - ZIP extension: 0000
 - State project ID: 97070
@@ -22,9 +20,7 @@
 - Place 2000: 32800
 - Place 1990: 0295
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 269117
 - Units: 120
 - Low-income units: 120
@@ -76,10 +72,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA AUTUMN RUN APTS.
 - Record status: Updated

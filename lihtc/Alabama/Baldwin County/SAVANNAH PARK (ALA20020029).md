@@ -1,13 +1,10 @@
 # Project: SAVANNAH PARK (ALA20020029)
 
 - HUD ID: ALA20020029
-- HUD ID before: 
 - Project: SAVANNAH PARK
 - Address: 300 E LAWSON AVE
 - City: FOLEY
-- State: AL
 - ZIP: 36535
-- ZIP extension: 
 - State project ID: AL-02-0030
 - Latitude: 30.388448
 - Longitude: -87.679157
@@ -22,9 +19,7 @@
 - Place 2000: 26992
 - Place 1990: 0645
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 127273
 - Units: 80
 - Low-income units: 68
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2004090.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: OSCEOLA PARK APARTMENTS (MNB20039023)
 
 - HUD ID: MNB20039023
-- HUD ID before: 
 - Project: OSCEOLA PARK APARTMENTS
 - Address: 260 OSCEOLA STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55102
 - ZIP extension: 3296
 - State project ID: D3693
@@ -16,15 +14,11 @@
 - Tract 2020: 27123036900
 - Tract 2010: 27123035900
 - Tract 2000: 27123036900
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 355032
 - Units: 89
 - Low-income units: 88
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

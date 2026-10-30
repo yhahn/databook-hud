@@ -1,13 +1,10 @@
 # Project: BLUESTEM HOMES (NDA20070005)
 
 - HUD ID: NDA20070005
-- HUD ID before: 
 - Project: BLUESTEM HOMES
 - Address: 4406 BLUE STEM CT S
 - City: FARGO
-- State: ND
 - ZIP: 58104
-- ZIP extension: 
 - State project ID: TC0706
 - Latitude: 46.813538
 - Longitude: -96.873686
@@ -20,11 +17,8 @@
 - Place 2020: 25700
 - Place 2010: 25700
 - Place 2000: 09320
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 368790
 - Units: 30
 - Low-income units: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

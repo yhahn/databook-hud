@@ -1,13 +1,10 @@
 # Project: TIMBERWOOD APTS, PHASE II (NCA19940525)
 
 - HUD ID: NCA19940525
-- HUD ID before: 
 - Project: TIMBERWOOD APTS, PHASE II
 - Address: TIMBER PLACE
 - City: SANFORD
-- State: NC
 - ZIP: 27330
-- ZIP extension: 
 - State project ID: 9001795
 - Latitude: 35.4917
 - Longitude: -79.1799
@@ -16,15 +13,10 @@
 - Tract 2020: 37105030200
 - Tract 2010: 37105030200
 - Tract 2000: 37105030200
-- Tract 1990: 
 - Place 2020: 59280
 - Place 2010: 59280
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 107721
 - Units: 36
 - Low-income units: 36
@@ -39,9 +31,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +61,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

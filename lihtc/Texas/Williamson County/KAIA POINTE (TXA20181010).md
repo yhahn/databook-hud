@@ -1,13 +1,10 @@
 # Project: KAIA POINTE (TXA20181010)
 
 - HUD ID: TXA20181010
-- HUD ID before: 
 - Project: KAIA POINTE
 - Address: 104 BETTY MAY WAY
 - City: GEORGETOWN
-- State: TX
 - ZIP: 78633
-- ZIP extension: 
 - State project ID: TX5228
 - Latitude: 30.7134
 - Longitude: -97.7423
@@ -16,16 +13,10 @@
 - Tract 2020: 48491020118
 - Tract 2010: 48491020105
 - Tract 2000: 48491020101
-- Tract 1990: 
 - Place 2020: 29336
 - Place 2010: 29336
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
-- Allocation amount: 
 - Units: 102
 - Low-income units: 80
 - Units reported: 102
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: KOINONIA APARTMENTS - ISAIAH (MTA20029007)
 
 - HUD ID: MTA20029007
-- HUD ID before: 
 - Project: KOINONIA APARTMENTS - ISAIAH
 - Address: SOUTH 34TH, 30TH,31ST ST
 - City: BILLINGS
-- State: MT
 - ZIP: 59103
 - ZIP extension: 0000
 - State project ID: 00070
@@ -15,16 +13,8 @@
 - County from: 2020
 - Tract 2020: 30111000402
 - Tract 2010: 30111000402
-- Tract 2000: 
-- Tract 1990: 
-- Place 2020: 
-- Place 2010: 
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 98760
 - Units: 10
 - Low-income units: 10
@@ -44,7 +34,6 @@
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
 - Record status: Updated

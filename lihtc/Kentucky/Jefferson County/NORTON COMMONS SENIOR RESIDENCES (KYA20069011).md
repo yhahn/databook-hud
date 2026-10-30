@@ -1,13 +1,10 @@
 # Project: NORTON COMMONS SENIOR RESIDENCES (KYA20069011)
 
 - HUD ID: KYA20069011
-- HUD ID before: 
 - Project: NORTON COMMONS SENIOR RESIDENCES
 - Address: MEETING STREET
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40059
-- ZIP extension: 
 - State project ID: KY-04-008
 - Latitude: 38.3461
 - Longitude: -85.6031
@@ -16,15 +13,10 @@
 - Tract 2020: 21111010312
 - Tract 2010: 21111010312
 - Tract 2000: 21111010303
-- Tract 1990: 
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 441600
 - Units: 24
 - Low-income units: 24
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

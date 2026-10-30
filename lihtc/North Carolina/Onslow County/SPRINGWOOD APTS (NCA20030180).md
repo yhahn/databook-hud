@@ -1,13 +1,10 @@
 # Project: SPRINGWOOD APTS (NCA20030180)
 
 - HUD ID: NCA20030180
-- HUD ID before: 
 - Project: SPRINGWOOD APTS
 - Address: 400 N WILMINGTON ST
 - City: RICHLANDS
-- State: NC
 - ZIP: 28574
-- ZIP extension: 
 - State project ID: 9001619
 - Latitude: 34.903689
 - Longitude: -77.542688
@@ -20,11 +17,8 @@
 - Place 2020: 56360
 - Place 2010: 56360
 - Place 2000: 56360
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 90314
 - Units: 25
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

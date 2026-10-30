@@ -1,13 +1,10 @@
 # Project: AUSTIN SPRINGS APTS (ALA20010008)
 
 - HUD ID: ALA20010008
-- HUD ID before: 
 - Project: AUSTIN SPRINGS APTS
 - Address: 716 WINDSOR DR
 - City: SCOTTSBORO
-- State: AL
 - ZIP: 35769
-- ZIP extension: 
 - State project ID: AL-00-0031
 - Latitude: 34.660508
 - Longitude: -86.010933
@@ -22,9 +19,7 @@
 - Place 2000: 35632
 - Place 1990: 1540
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 335110
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1188790
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2002010. FKA SANDY SPRINGS
 - Record status: Existing, unchanged

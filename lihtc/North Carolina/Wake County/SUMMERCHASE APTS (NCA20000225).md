@@ -1,13 +1,10 @@
 # Project: SUMMERCHASE APTS (NCA20000225)
 
 - HUD ID: NCA20000225
-- HUD ID before: 
 - Project: SUMMERCHASE APTS
 - Address: 1500 RAVENSONG CIRCLE
 - City: FUQUAY VARINA
-- State: NC
 - ZIP: 27526
-- ZIP extension: 
 - State project ID: 9002131
 - Latitude: 35.602999
 - Longitude: -78.806088
@@ -20,11 +17,8 @@
 - Place 2020: 25300
 - Place 2010: 25300
 - Place 2000: 25300
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 245712
 - Units: 46
 - Low-income units: 46
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

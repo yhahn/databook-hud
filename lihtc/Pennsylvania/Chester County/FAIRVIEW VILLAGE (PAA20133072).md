@@ -1,11 +1,9 @@
 # Project: FAIRVIEW VILLAGE (PAA20133072)
 
 - HUD ID: PAA20133072
-- HUD ID before: 
 - Project: FAIRVIEW VILLAGE
 - Address: FAIRVIEW & GRANT STS
 - City: PHOENIXVILLE
-- State: PA
 - ZIP: 19460
 - ZIP extension: 3003
 - State project ID: TC20120438
@@ -22,9 +20,7 @@
 - Place 2000: 60120
 - Place 1990: 7188
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 721917
 - Units: 36
 - Low-income units: 36
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

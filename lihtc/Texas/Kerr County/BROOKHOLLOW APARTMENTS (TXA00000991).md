@@ -1,13 +1,10 @@
 # Project: BROOKHOLLOW APARTMENTS (TXA00000991)
 
 - HUD ID: TXA00000991
-- HUD ID before: 
 - Project: BROOKHOLLOW APARTMENTS
 - Address: 612 EAST TRAVIS STREET
 - City: KERRVILLE
-- State: TX
 - ZIP: 78028
-- ZIP extension: 
 - State project ID: TX5107
 - Latitude: 30.04136
 - Longitude: -99.126933
@@ -16,16 +13,11 @@
 - Tract 2020: 48265960601
 - Tract 2010: 48265960600
 - Tract 2000: 48265960600
-- Tract 1990: 
 - Place 2020: 39040
 - Place 2010: 39040
 - Place 2000: 39040
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -75,11 +66,4 @@
 - Other population named: Total Special Needs
 - Scattered site: No
 - Resyndicated: No
-- Metro: 
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

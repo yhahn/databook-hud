@@ -1,13 +1,10 @@
 # Project: TRINITY HILLS APTS (TNA20010160)
 
 - HUD ID: TNA20010160
-- HUD ID before: 
 - Project: TRINITY HILLS APTS
 - Address: 400 E NOCTURNE DR
 - City: NASHVILLE
-- State: TN
 - ZIP: 37207
-- ZIP extension: 
 - State project ID: TN-00-119
 - Latitude: 36.211623
 - Longitude: -86.7977
@@ -22,9 +19,7 @@
 - Place 2000: 52006
 - Place 1990: 1016
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 89501
 - Units: 100
 - Low-income units: 100
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

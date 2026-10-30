@@ -1,13 +1,10 @@
 # Project: LAS PALMAS APARTMENTS (TXA19990115)
 
 - HUD ID: TXA19990115
-- HUD ID before: 
 - Project: LAS PALMAS APARTMENTS
 - Address: 27745 S KANSAS CITY RD
 - City: LA FERIA
-- State: TX
 - ZIP: 78559
-- ZIP extension: 
 - State project ID: TX1899
 - Latitude: 26.156642
 - Longitude: -97.812763
@@ -20,12 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 40204
 - Place 2000: 40204
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 36
 - Low-income units: 36
 - Units reported: 36
@@ -38,17 +31,12 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

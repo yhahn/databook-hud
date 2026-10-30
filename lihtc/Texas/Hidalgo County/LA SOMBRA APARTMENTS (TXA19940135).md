@@ -1,13 +1,10 @@
 # Project: LA SOMBRA APARTMENTS (TXA19940135)
 
 - HUD ID: TXA19940135
-- HUD ID before: 
 - Project: LA SOMBRA APARTMENTS
 - Address: 519 N MAIN ST
 - City: DONNA
-- State: TX
 - ZIP: 78537
-- ZIP extension: 
 - State project ID: TX1052
 - Latitude: 26.178482
 - Longitude: -98.053133
@@ -22,10 +19,7 @@
 - Place 2000: 20884
 - Place 1990: 1205
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 50
 - Low-income units: 50
 - Units reported: 50
@@ -38,17 +32,11 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

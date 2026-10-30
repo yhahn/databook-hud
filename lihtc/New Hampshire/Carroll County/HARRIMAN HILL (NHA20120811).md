@@ -1,13 +1,10 @@
 # Project: HARRIMAN HILL (NHA20120811)
 
 - HUD ID: NHA20120811
-- HUD ID before: 
 - Project: HARRIMAN HILL
 - Address: 24 BECK DR
 - City: WOLFEBORO
-- State: NH
 - ZIP: 03894
-- ZIP extension: 
 - State project ID: 957
 - Latitude: 43.6351
 - Longitude: -71.1926
@@ -22,9 +19,7 @@
 - Place 2000: 86340
 - Place 1990: 2820
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 583000
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 625588
 - CDBG: Yes
 - CDBG amount: 475000
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

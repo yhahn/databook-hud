@@ -1,13 +1,10 @@
 # Project: DR BETTY SHABAZZ APTS (NYC20060013)
 
 - HUD ID: NYC20060013
-- HUD ID before: 
 - Project: DR BETTY SHABAZZ APTS
 - Address: 690 GATES AVE
 - City: BROOKLYN
-- State: NY
 - ZIP: 11221
-- ZIP extension: 
 - State project ID: NY-03-02121
 - Latitude: 40.687541
 - Longitude: -73.937652
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 2505
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 107363
 - Units: 39
 - Low-income units: 27
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,13 +49,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
@@ -74,12 +63,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYC2006012.
 - Record status: Existing, unchanged

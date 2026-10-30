@@ -1,13 +1,10 @@
 # Project: STEWART SQUARE APARTMENTS (NCA20070195)
 
 - HUD ID: NCA20070195
-- HUD ID before: 
 - Project: STEWART SQUARE APARTMENTS
 - Address: 3200 FAYETTEVILLE STREET
 - City: DURHAM
-- State: NC
 - ZIP: 27707
-- ZIP extension: 
 - State project ID: 9002187
 - Latitude: 35.960757
 - Longitude: -78.910283
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 535500
 - Units: 63
 - Low-income units: 63
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 26
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

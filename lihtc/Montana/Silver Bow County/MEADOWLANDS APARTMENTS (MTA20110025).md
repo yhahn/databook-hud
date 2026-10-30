@@ -1,11 +1,9 @@
 # Project: MEADOWLANDS APARTMENTS (MTA20110025)
 
 - HUD ID: MTA20110025
-- HUD ID before: 
 - Project: MEADOWLANDS APARTMENTS
 - Address: 4034 ELIZABETH WARREN
 - City: BUTTE
-- State: MT
 - ZIP: 59701
 - ZIP extension: 0000
 - State project ID: 10030
@@ -22,9 +20,7 @@
 - Place 2000: 11397
 - Place 1990: 0110
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 606925
 - Units: 48
 - Low-income units: 48
@@ -78,8 +74,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA2011506.
 - Record status: Updated

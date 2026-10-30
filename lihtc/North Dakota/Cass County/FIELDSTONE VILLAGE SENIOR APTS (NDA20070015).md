@@ -1,13 +1,10 @@
 # Project: FIELDSTONE VILLAGE SENIOR APTS (NDA20070015)
 
 - HUD ID: NDA20070015
-- HUD ID before: 
 - Project: FIELDSTONE VILLAGE SENIOR APTS
 - Address: 4574 44TH AVE S
 - City: FARGO
-- State: ND
 - ZIP: 58104
-- ZIP extension: 
 - State project ID: TC0602
 - Latitude: 46.814785
 - Longitude: -96.863751
@@ -20,11 +17,8 @@
 - Place 2020: 25700
 - Place 2010: 25700
 - Place 2000: 09320
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 281577
 - Units: 49
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +66,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

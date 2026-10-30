@@ -1,13 +1,10 @@
 # Project: ELLSWORTH COMMONS (NCA20130005)
 
 - HUD ID: NCA20130005
-- HUD ID before: 
 - Project: ELLSWORTH COMMONS
 - Address: 3200 MOONLIGHT WAY
 - City: GREENVILLE
-- State: NC
 - ZIP: 27834
-- ZIP extension: 
 - State project ID: 9110863
 - Latitude: 35.594646
 - Longitude: -77.419711
@@ -19,12 +16,9 @@
 - Tract 1990: 37147000600
 - Place 2020: 28080
 - Place 2010: 28080
-- Place 2000: 
 - Place 1990: 1070
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 629187
 - Units: 68
 - Low-income units: 68
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 28
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

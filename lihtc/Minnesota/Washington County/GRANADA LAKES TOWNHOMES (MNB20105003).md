@@ -1,11 +1,9 @@
 # Project: GRANADA LAKES TOWNHOMES (MNB20105003)
 
 - HUD ID: MNB20105003
-- HUD ID before: 
 - Project: GRANADA LAKES TOWNHOMES
 - Address: 3915 GRANADA WAY NORTH
 - City: OAKDALE
-- State: MN
 - ZIP: 55128
 - ZIP extension: 3034
 - State project ID: D6241
@@ -16,15 +14,11 @@
 - Tract 2020: 27163070906
 - Tract 2010: 27163070906
 - Tract 2000: 27163070906
-- Tract 1990: 
 - Place 2020: 47680
 - Place 2010: 47680
 - Place 2000: 47680
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 757304
 - Units: 68
 - Low-income units: 68
@@ -39,9 +33,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -68,8 +60,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Single HoH and Families of Color
@@ -78,8 +68,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

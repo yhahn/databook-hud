@@ -1,11 +1,9 @@
 # Project: KEYSTONE ESTATES II (MSA20150013)
 
 - HUD ID: MSA20150013
-- HUD ID before: 
 - Project: KEYSTONE ESTATES II
 - Address: 650 AGAPE DRIVE
 - City: JACKSON
-- State: MS
 - ZIP: 39209
 - ZIP extension: 0000
 - State project ID: 13-1-040
@@ -16,15 +14,10 @@
 - Tract 2020: 28049000700
 - Tract 2010: 28049002200
 - Tract 2000: 28049010901
-- Tract 1990: 
 - Place 2020: 36000
 - Place 2010: 36000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 38
 - Low-income units: 38
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: Veterans
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: AWBURY VIEW APARTMENTS (PAA20240001)
 
 - HUD ID: PAA20240001
-- HUD ID before: 
 - Project: AWBURY VIEW APARTMENTS
 - Address: 6320 CHEW AVE
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19138
 - ZIP extension: 1053
 - State project ID: TC20200138
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101025200
 - Tract 2010: 42101025200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 1041523
 - Units: 127
 - Low-income units: 127
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: New

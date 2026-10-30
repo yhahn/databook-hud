@@ -1,13 +1,10 @@
 # Project: FORESTWOOD AT FOLSOM FAMILY APTS (CAA20120075)
 
 - HUD ID: CAA20120075
-- HUD ID before: 
 - Project: FORESTWOOD AT FOLSOM FAMILY APTS
 - Address: 9483 GREENBACK LN
 - City: FOLSOM
-- State: CA
 - ZIP: 95630
-- ZIP extension: 
 - State project ID: CA-10-853
 - Latitude: 38.678218
 - Longitude: -121.198765
@@ -22,9 +19,7 @@
 - Place 2000: 24638
 - Place 1990: 1025
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 367495
 - Units: 54
 - Low-income units: 54
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

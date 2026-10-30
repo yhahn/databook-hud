@@ -1,13 +1,10 @@
 # Project: OAK CREST APTS (NCA19970255)
 
 - HUD ID: NCA19970255
-- HUD ID before: 
 - Project: OAK CREST APTS
 - Address: 1701 OAK CREST DRIVE
 - City: KANNAPOLIS
-- State: NC
 - ZIP: 28083
-- ZIP extension: 
 - State project ID: 9001766
 - Latitude: 35.467405
 - Longitude: -80.598124
@@ -22,9 +19,7 @@
 - Place 2000: 35200
 - Place 1990: 1320
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 441500
 - Units: 100
 - Low-income units: 100
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

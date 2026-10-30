@@ -1,13 +1,10 @@
 # Project: GRANDVIEW APTS (SCA20110020)
 
 - HUD ID: SCA20110020
-- HUD ID before: 
 - Project: GRANDVIEW APTS
 - Address: 1850 MAGWOOD DR
 - City: CHARLESTON
-- State: SC
 - ZIP: 29414
-- ZIP extension: 
 - State project ID: SC-09-155
 - Latitude: 32.819018
 - Longitude: -80.038267
@@ -20,11 +17,8 @@
 - Place 2020: 13330
 - Place 2010: 13330
 - Place 2000: 13330
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 800000
 - Units: 72
 - Low-income units: 72
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 2448141
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

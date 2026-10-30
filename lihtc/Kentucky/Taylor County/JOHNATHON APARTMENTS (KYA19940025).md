@@ -1,13 +1,10 @@
 # Project: JOHNATHON APARTMENTS (KYA19940025)
 
 - HUD ID: KYA19940025
-- HUD ID before: 
 - Project: JOHNATHON APARTMENTS
 - Address: ASHLEY DR.
 - City: CAMPBELLSVILLE
-- State: KY
 - ZIP: 42719
-- ZIP extension: 
 - State project ID: KY-93-061
 - Latitude: 37.3308
 - Longitude: -85.4011
@@ -17,14 +14,9 @@
 - Tract 2010: 21217920400
 - Tract 2000: 21217980400
 - Tract 1990: 21217980400
-- Place 2020: 
-- Place 2010: 
-- Place 2000: 
 - Place 1990: 0320
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 20
 - Low-income units: 20
@@ -39,9 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +61,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

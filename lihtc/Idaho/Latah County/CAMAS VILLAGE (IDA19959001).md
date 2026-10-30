@@ -1,13 +1,10 @@
 # Project: CAMAS VILLAGE (IDA19959001)
 
 - HUD ID: IDA19959001
-- HUD ID before: 
 - Project: CAMAS VILLAGE
 - Address: 1875 WHITE AVENUE
 - City: MOSCOW
-- State: ID
 - ZIP: 83843
-- ZIP extension: 
 - State project ID: HC9313
 - Latitude: 46.722585
 - Longitude: -116.976936
@@ -16,15 +13,11 @@
 - Tract 2020: 16057005301
 - Tract 2010: 16057005300
 - Tract 2000: 16057005300
-- Tract 1990: 
 - Place 2020: 54550
 - Place 2010: 54550
 - Place 2000: 54550
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 293633
 - Units: 66
 - Low-income units: 47
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

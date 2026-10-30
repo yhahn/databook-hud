@@ -1,13 +1,10 @@
 # Project: SUNGATE (IDA20010045)
 
 - HUD ID: IDA20010045
-- HUD ID before: 
 - Project: SUNGATE
 - Address: 360 MARGARET STREET
 - City: SALMON
-- State: ID
 - ZIP: 83467
-- ZIP extension: 
 - State project ID: HC9910
 - Latitude: 45.173925
 - Longitude: -113.883668
@@ -22,9 +19,7 @@
 - Place 2000: 71650
 - Place 1990: 0875
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 177171
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

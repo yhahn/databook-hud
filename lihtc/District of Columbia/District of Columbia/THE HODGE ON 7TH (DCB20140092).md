@@ -1,13 +1,10 @@
 # Project: THE HODGE ON 7TH (DCB20140092)
 
 - HUD ID: DCB20140092
-- HUD ID before: 
 - Project: THE HODGE ON 7TH
 - Address: 1490 SEVENTH ST NW
 - City: WASHINGTON
-- State: DC
 - ZIP: 20001
-- ZIP extension: 
 - State project ID: DCB2015015
 - Latitude: 38.90959
 - Longitude: -77.022119
@@ -22,8 +19,6 @@
 - Place 2000: 50000
 - Place 1990: 0005
 - Year placed in service: 2014
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 101859
 - Units: 90
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

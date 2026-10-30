@@ -1,11 +1,9 @@
 # Project: PRAIRIE VILLAGE OF LAPORTE CITY (IAA20140090)
 
 - HUD ID: IAA20140090
-- HUD ID before: 
 - Project: PRAIRIE VILLAGE OF LAPORTE CITY
 - Address: 220 VALLEY DR
 - City: LA PORTE CITY
-- State: IA
 - ZIP: 50651
 - ZIP extension: 1152
 - State project ID: 12-12-48
@@ -22,9 +20,7 @@
 - Place 2000: 43365
 - Place 1990: 2285
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 342590
 - Units: 32
 - Low-income units: 32
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,22 +43,15 @@
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
-- HOME: 
-- HOME amount: 
 - CDBG: No
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

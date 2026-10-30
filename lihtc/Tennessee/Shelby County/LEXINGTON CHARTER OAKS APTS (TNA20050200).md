@@ -1,13 +1,10 @@
 # Project: LEXINGTON CHARTER OAKS APTS (TNA20050200)
 
 - HUD ID: TNA20050200
-- HUD ID before: 
 - Project: LEXINGTON CHARTER OAKS APTS
 - Address: 4123 AUX ARMS DR
 - City: MEMPHIS
-- State: TN
 - ZIP: 38128
-- ZIP extension: 
 - State project ID: TN-05-215
 - Latitude: 35.21964
 - Longitude: -89.926431
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 92159
 - Units: 163
 - Low-income units: 163
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

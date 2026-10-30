@@ -1,13 +1,10 @@
 # Project: NEW BALTIMORE PLACE APTS (MIA20070100)
 
 - HUD ID: MIA20070100
-- HUD ID before: 
 - Project: NEW BALTIMORE PLACE APTS
 - Address: 51140 HOOKER
 - City: NEW BALTIMORE
-- State: MI
 - ZIP: 48047
-- ZIP extension: 
 - State project ID: MI-3147
 - Latitude: 42.677489
 - Longitude: -82.745489
@@ -22,9 +19,7 @@
 - Place 2000: 57100
 - Place 1990: 1900
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 420587
 - Units: 101
 - Low-income units: 100
@@ -40,15 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

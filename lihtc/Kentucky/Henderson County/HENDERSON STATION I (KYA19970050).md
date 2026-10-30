@@ -1,13 +1,10 @@
 # Project: HENDERSON STATION I (KYA19970050)
 
 - HUD ID: KYA19970050
-- HUD ID before: 
 - Project: HENDERSON STATION I
 - Address: WASHINGTON ST.
 - City: HENDERSON
-- State: KY
 - ZIP: 42420
-- ZIP extension: 
 - State project ID: KY-95-126
 - Latitude: 37.8336
 - Longitude: -87.578
@@ -19,12 +16,9 @@
 - Tract 1990: 21101020300
 - Place 2020: 35866
 - Place 2010: 35866
-- Place 2000: 
 - Place 1990: 0915
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 30
 - Low-income units: 30
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: QUINN COURT (LAA20070085)
 
 - HUD ID: LAA20070085
-- HUD ID before: 
 - Project: QUINN COURT
 - Address: 2506 RUTH STREET
 - City: LAKE CHARLES
-- State: LA
 - ZIP: 70601
 - ZIP extension: 0000
 - State project ID: LA-06-446
@@ -22,9 +20,7 @@
 - Place 2000: 41155
 - Place 1990: 0715
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 15334
 - Units: 29
 - Low-income units: 29
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Family/Special Needs
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

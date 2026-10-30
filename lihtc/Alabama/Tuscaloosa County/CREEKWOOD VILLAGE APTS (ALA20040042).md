@@ -1,13 +1,10 @@
 # Project: CREEKWOOD VILLAGE APTS (ALA20040042)
 
 - HUD ID: ALA20040042
-- HUD ID before: 
 - Project: CREEKWOOD VILLAGE APTS
 - Address: 1750 40TH AVE
 - City: TUSCALOOSA
-- State: AL
 - ZIP: 35401
-- ZIP extension: 
 - State project ID: AL-01-0807
 - Latitude: 33.19809
 - Longitude: -87.588872
@@ -22,9 +19,7 @@
 - Place 2000: 77256
 - Place 1990: 1720
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 147400
 - Units: 125
 - Low-income units: 117
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 125
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2002020. AKA SUMMIT CREEKWOOD.
 - Record status: Existing, unchanged

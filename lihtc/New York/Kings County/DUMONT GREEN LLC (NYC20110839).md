@@ -1,13 +1,10 @@
 # Project: DUMONT GREEN LLC (NYC20110839)
 
 - HUD ID: NYC20110839
-- HUD ID before: 
 - Project: DUMONT GREEN LLC
 - Address: 1490 DUMONT AVENUE
 - City: BROOKLYN
-- State: NY
 - ZIP: 11208
-- ZIP extension: 
 - State project ID: 27-0289330
 - Latitude: 40.67079
 - Longitude: -73.862512
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 2505
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1830418
 - Units: 176
 - Low-income units: 175
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 176
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,13 +50,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

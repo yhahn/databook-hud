@@ -1,13 +1,10 @@
 # Project: MILWAUKEE PARK APTS (WAA20080135)
 
 - HUD ID: WAA20080135
-- HUD ID before: 
 - Project: MILWAUKEE PARK APTS
 - Address: 209 MILWAUKEE ST
 - City: MT VERNON
-- State: WA
 - ZIP: 98273
-- ZIP extension: 
 - State project ID: WA-07-00147
 - Latitude: 48.41496
 - Longitude: -122.337182
@@ -22,9 +19,7 @@
 - Place 2000: 47560
 - Place 1990: 0820
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 232875
 - Units: 15
 - Low-income units: 15
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

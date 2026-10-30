@@ -1,13 +1,10 @@
 # Project: MALLORY HEIGHTS (TNA19980040)
 
 - HUD ID: TNA19980040
-- HUD ID before: 
 - Project: MALLORY HEIGHTS
 - Address: 32 W FRANK AVE
 - City: MEMPHIS
-- State: TN
 - ZIP: 38109
-- ZIP extension: 
 - State project ID: TN-97-009
 - Latitude: 35.090826
 - Longitude: -90.063716
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 111068
 - Units: 20
 - Low-income units: 20
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

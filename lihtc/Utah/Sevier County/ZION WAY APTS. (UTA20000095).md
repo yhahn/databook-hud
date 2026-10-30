@@ -1,11 +1,9 @@
 # Project: ZION WAY APTS. (UTA20000095)
 
 - HUD ID: UTA20000095
-- HUD ID before: 
 - Project: ZION WAY APTS.
 - Address: 370 NORTH 6TH EAST
 - City: RICHFIELD
-- State: UT
 - ZIP: 84701
 - ZIP extension: 0000
 - State project ID: 1999-09
@@ -22,9 +20,7 @@
 - Place 2000: 63570
 - Place 1990: 0815
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 54345
 - Units: 22
 - Low-income units: 22
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

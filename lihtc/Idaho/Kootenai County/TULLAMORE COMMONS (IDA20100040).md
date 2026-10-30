@@ -1,13 +1,10 @@
 # Project: TULLAMORE COMMONS (IDA20100040)
 
 - HUD ID: IDA20100040
-- HUD ID before: 
 - Project: TULLAMORE COMMONS
 - Address: 3797 EAST CARRADALE AVENUE
 - City: POST FALLS
-- State: ID
 - ZIP: 83854
-- ZIP extension: 
 - State project ID: HC0915
 - Latitude: 47.733255
 - Longitude: -116.896445
@@ -19,12 +16,9 @@
 - Tract 1990: 16055000500
 - Place 2020: 64810
 - Place 2010: 64810
-- Place 2000: 
 - Place 1990: 0790
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 575172
 - Units: 50
 - Low-income units: 44
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

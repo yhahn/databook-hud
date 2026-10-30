@@ -1,11 +1,9 @@
 # Project: GUARDIAN APARTMENTS (MTA20150004)
 
 - HUD ID: MTA20150004
-- HUD ID before: 
 - Project: GUARDIAN APARTMENTS
 - Address: 520 LOGAN ST
 - City: HELENA
-- State: MT
 - ZIP: 59601
 - ZIP extension: 0000
 - State project ID: 15040
@@ -16,15 +14,11 @@
 - Tract 2020: 30049000800
 - Tract 2010: 30049000800
 - Tract 2000: 30049000800
-- Tract 1990: 
 - Place 2020: 35600
 - Place 2010: 35600
 - Place 2000: 35600
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 3952500
 - Units: 118
 - Low-income units: 118
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

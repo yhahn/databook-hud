@@ -1,13 +1,10 @@
 # Project: CRESTVIEW APTS - PEARL (MSA19980009)
 
 - HUD ID: MSA19980009
-- HUD ID before: 
 - Project: CRESTVIEW APTS - PEARL
 - Address: 3910 OLD BRANDON RD
 - City: PEARL
-- State: MS
 - ZIP: 39208
-- ZIP extension: 
 - State project ID: MS-97-055
 - Latitude: 32.290396
 - Longitude: -90.092512
@@ -22,9 +19,7 @@
 - Place 2000: 25100
 - Place 1990: 0985
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 160594
 - Units: 100
 - Low-income units: 99
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 100
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998584.
 - Record status: Existing, unchanged

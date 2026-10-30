@@ -1,13 +1,10 @@
 # Project: BAKER CREEK SENIOR LIVING I (IAA20130001)
 
 - HUD ID: IAA20130001
-- HUD ID before: 
 - Project: BAKER CREEK SENIOR LIVING I
 - Address: 4560 HUBBELL AVE
 - City: DES MOINES
-- State: IA
 - ZIP: 50317
-- ZIP extension: 
 - State project ID: 12-12-35
 - Latitude: 41.640976
 - Longitude: -93.52351
@@ -20,11 +17,8 @@
 - Place 2020: 21000
 - Place 2010: 99999
 - Place 2000: 01630
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 872536
 - Units: 33
 - Low-income units: 33
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

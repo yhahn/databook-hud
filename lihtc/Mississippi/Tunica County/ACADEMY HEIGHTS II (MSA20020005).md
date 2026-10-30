@@ -1,13 +1,10 @@
 # Project: ACADEMY HEIGHTS II (MSA20020005)
 
 - HUD ID: MSA20020005
-- HUD ID before: 
 - Project: ACADEMY HEIGHTS II
 - Address: 1177 ACADEMY DR
 - City: TUNICA
-- State: MS
 - ZIP: 38676
-- ZIP extension: 
 - State project ID: MS-02-011
 - Latitude: 34.682266
 - Longitude: -90.379018
@@ -20,12 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 74760
 - Place 2000: 52680
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 23
 - Units reported: 24
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

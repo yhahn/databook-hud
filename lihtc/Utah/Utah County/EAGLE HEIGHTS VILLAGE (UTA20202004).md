@@ -1,11 +1,9 @@
 # Project: EAGLE HEIGHTS VILLAGE (UTA20202004)
 
 - HUD ID: UTA20202004
-- HUD ID before: 
 - Project: EAGLE HEIGHTS VILLAGE
 - Address: 2600 EAST EAGLE MOUNTAIN BLVD
 - City: EAGLE MOUNTAIN
-- State: UT
 - ZIP: 84005
 - ZIP extension: 0000
 - State project ID: 2018-30
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49049010119
 - Tract 2010: 49049010104
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 20810
 - Place 2010: 20810
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 80
 - Low-income units: 60
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

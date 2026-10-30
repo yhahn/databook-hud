@@ -1,11 +1,9 @@
 # Project: WOODLAND HEIGHTS PHASE II (MOA20029292)
 
 - HUD ID: MOA20029292
-- HUD ID before: 
 - Project: WOODLAND HEIGHTS PHASE II
 - Address: 4201 WOODLAND AVE
 - City: KANSAS CITY
-- State: MO
 - ZIP: 64110
 - ZIP extension: 1451
 - State project ID: 01-001
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29095016900
 - Tract 2010: 29095016900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 38000
 - Place 2010: 38000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 80000
 - Units: 8
 - Low-income units: 8
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

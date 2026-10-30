@@ -1,11 +1,9 @@
 # Project: LINCOLN WAY (NVA20160004)
 
 - HUD ID: NVA20160004
-- HUD ID before: 
 - Project: LINCOLN WAY
 - Address: 618 4TH STREET
 - City: SPARKS
-- State: NV
 - ZIP: 89431
 - ZIP extension: 0000
 - State project ID: 14-06
@@ -16,15 +14,11 @@
 - Tract 2020: 32031003002
 - Tract 2010: 32031003000
 - Tract 2000: 32031003000
-- Tract 1990: 
 - Place 2020: 68400
 - Place 2010: 68400
 - Place 2000: 68400
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 729500
 - Units: 45
 - Low-income units: 45
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: POINTE AT CRESTMONT (TXA0000X070)
 
 - HUD ID: TXA0000X070
-- HUD ID before: 
 - Project: POINTE AT CRESTMONT
 - Address: 5602 SELINSKY ROAD
 - City: HOUSTON
-- State: TX
 - ZIP: 77048
-- ZIP extension: 
 - State project ID: TX5256
 - Latitude: 29.637069
 - Longitude: -95.336764
@@ -16,16 +13,11 @@
 - Tract 2020: 48201331602
 - Tract 2010: 48201331602
 - Tract 2000: 48201331600
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
 - Place 2000: 35000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 192
 - Low-income units: 192
 - Units reported: 192
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

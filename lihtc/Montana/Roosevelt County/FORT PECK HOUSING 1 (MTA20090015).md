@@ -1,13 +1,10 @@
 # Project: FORT PECK HOUSING 1 (MTA20090015)
 
 - HUD ID: MTA20090015
-- HUD ID before: 
 - Project: FORT PECK HOUSING 1
 - Address: 308 CIR DR
 - City: POPLAR
-- State: MT
 - ZIP: 59255
-- ZIP extension: 
 - State project ID: MT-07-060
 - Latitude: 48.3083
 - Longitude: -105.0623
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 30085940002
 - Tract 2010: 30085940002
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 58975
 - Place 2010: 58975
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 528417
 - Units: 23
 - Low-income units: 23
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +63,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

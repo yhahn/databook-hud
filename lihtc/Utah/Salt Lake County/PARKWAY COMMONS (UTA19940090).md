@@ -1,11 +1,9 @@
 # Project: PARKWAY COMMONS (UTA19940090)
 
 - HUD ID: UTA19940090
-- HUD ID before: 
 - Project: PARKWAY COMMONS
 - Address: 875 W MEADOWBROOK EXPY
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84107
 - ZIP extension: 0000
 - State project ID: 1992-26
@@ -22,9 +20,7 @@
 - Place 2000: 50150
 - Place 1990: 0593
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 256919
 - Units: 80
 - Low-income units: 80
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -80,6 +74,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WESTSIDE VILLAGE (SHAFTER) (CAA20140462)
 
 - HUD ID: CAA20140462
-- HUD ID before: 
 - Project: WESTSIDE VILLAGE (SHAFTER)
 - Address: 595 VERA CRUZ WAY
 - City: SHAFTER
-- State: CA
 - ZIP: 93263
-- ZIP extension: 
 - State project ID: CA-97-027
 - Latitude: 35.508456
 - Longitude: -119.286903
@@ -20,11 +17,8 @@
 - Place 2020: 71106
 - Place 2010: 71106
 - Place 2000: 71106
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 200291
 - Units: 80
 - Low-income units: 80
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1998620.
 - Record status: Existing, unchanged

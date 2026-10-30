@@ -1,13 +1,10 @@
 # Project: RIVER WALK APTS (NCA20020150)
 
 - HUD ID: NCA20020150
-- HUD ID before: 
 - Project: RIVER WALK APTS
 - Address: 707 RIVER WALK WAY
 - City: GRIFTON
-- State: NC
 - ZIP: 28530
-- ZIP extension: 
 - State project ID: 9001301
 - Latitude: 35.376505
 - Longitude: -77.421203
@@ -19,12 +16,9 @@
 - Tract 1990: 37147001500
 - Place 2020: 28200
 - Place 2010: 28200
-- Place 2000: 
 - Place 1990: 1075
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 107252
 - Units: 25
 - Low-income units: 24
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

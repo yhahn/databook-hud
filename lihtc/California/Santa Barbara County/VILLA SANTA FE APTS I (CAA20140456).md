@@ -1,13 +1,10 @@
 # Project: VILLA SANTA FE APTS I (CAA20140456)
 
 - HUD ID: CAA20140456
-- HUD ID before: 
 - Project: VILLA SANTA FE APTS I
 - Address: 418 SANTA FE PL
 - City: SANTA BARBARA
-- State: CA
 - ZIP: 93109
-- ZIP extension: 
 - State project ID: CA-12-887
 - Latitude: 34.402619
 - Longitude: -119.713594
@@ -22,9 +19,7 @@
 - Place 2000: 69070
 - Place 1990: 2575
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 574781
 - Units: 107
 - Low-income units: 102
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

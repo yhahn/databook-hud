@@ -1,11 +1,9 @@
 # Project: BEACHWOOD (WAA19990020)
 
 - HUD ID: WAA19990020
-- HUD ID before: 
 - Project: BEACHWOOD
 - Address: 1027 BEACH AVENUE
 - City: MARYSVILLE
-- State: WA
 - ZIP: 98270
 - ZIP extension: 4224
 - State project ID: 97-45L
@@ -22,9 +20,7 @@
 - Place 2000: 43955
 - Place 1990: 0745
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 144033
 - Units: 25
 - Low-income units: 25
@@ -39,9 +35,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,8 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA1998025.
 - Record status: Existing, unchanged

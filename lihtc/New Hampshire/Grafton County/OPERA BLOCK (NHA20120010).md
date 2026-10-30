@@ -1,13 +1,10 @@
 # Project: OPERA BLOCK (NHA20120010)
 
 - HUD ID: NHA20120010
-- HUD ID before: 
 - Project: OPERA BLOCK
 - Address: 65 CENTRAL ST
 - City: WOODSVILLE
-- State: NH
 - ZIP: 03785
-- ZIP extension: 
 - State project ID: NH36H019028
 - Latitude: 44.152677
 - Longitude: -72.037837
@@ -20,11 +17,8 @@
 - Place 2020: 87140
 - Place 2010: 99999
 - Place 2000: 87140
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 165641
 - Units: 34
 - Low-income units: 34
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SPRINGVIEW APARTMENTS (KYA19940111)
 
 - HUD ID: KYA19940111
-- HUD ID before: 
 - Project: SPRINGVIEW APARTMENTS
 - Address: LANCASTER ST.
 - City: CRAB ORCHARD
-- State: KY
 - ZIP: 40419
-- ZIP extension: 
 - State project ID: KY-93-027
 - Latitude: 37.4413
 - Longitude: -84.5235
@@ -20,12 +17,8 @@
 - Place 2020: 17956
 - Place 2010: 17956
 - Place 2000: 17956
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +55,17 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA1994567, KYA0000665, KYA1994050.
 - Record status: Existing, unchanged

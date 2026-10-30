@@ -1,13 +1,10 @@
 # Project: DEERFIELD APTS (ALA19990052)
 
 - HUD ID: ALA19990052
-- HUD ID before: 
 - Project: DEERFIELD APTS
 - Address: 56 DEERFIELD CT
 - City: DALEVILLE
-- State: AL
 - ZIP: 36322
-- ZIP extension: 
 - State project ID: AL-99-0043
 - Latitude: 31.300446
 - Longitude: -85.721616
@@ -22,9 +19,7 @@
 - Place 2000: 19360
 - Place 1990: 0460
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 243131
 - Units: 42
 - Low-income units: 42
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 883000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2000060. FKA WESTGATE APTS
 - Record status: Existing, unchanged

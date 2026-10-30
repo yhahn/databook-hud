@@ -1,13 +1,10 @@
 # Project: ALMA GARDENS (ORA20130614)
 
 - HUD ID: ORA20130614
-- HUD ID before: 
 - Project: ALMA GARDENS
 - Address: 6300 NE CHERRY DR
 - City: HILLSBORO
-- State: OR
 - ZIP: 97124
-- ZIP extension: 
 - State project ID: 3000
 - Latitude: 45.531211
 - Longitude: -122.917702
@@ -22,9 +19,7 @@
 - Place 2000: 34100
 - Place 1990: 0520
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 45
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

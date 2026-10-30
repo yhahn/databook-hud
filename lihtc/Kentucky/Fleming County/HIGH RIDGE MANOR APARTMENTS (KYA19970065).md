@@ -1,13 +1,10 @@
 # Project: HIGH RIDGE MANOR APARTMENTS (KYA19970065)
 
 - HUD ID: KYA19970065
-- HUD ID before: 
 - Project: HIGH RIDGE MANOR APARTMENTS
 - Address: HIGH RIDGE LN.
 - City: FLEMINGSBURG
-- State: KY
 - ZIP: 41041
-- ZIP extension: 
 - State project ID: KY-96-081
 - Latitude: 38.4285
 - Longitude: -83.6509
@@ -19,12 +16,9 @@
 - Tract 1990: 21069980200
 - Place 2020: 27856
 - Place 2010: 27856
-- Place 2000: 
 - Place 1990: 0685
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 16
 - Low-income units: 16
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

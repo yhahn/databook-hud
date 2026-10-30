@@ -1,11 +1,9 @@
 # Project: DAKOTA CREST APTS. (NVA19970070)
 
 - HUD ID: NVA19970070
-- HUD ID before: 
 - Project: DAKOTA CREST APTS.
 - Address: 446 KIRMAN ST.
 - City: RENO
-- State: NV
 - ZIP: 89502
 - ZIP extension: 0000
 - State project ID: 96-10
@@ -22,9 +20,7 @@
 - Place 2000: 60600
 - Place 1990: 0090
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 305253
 - Units: 48
 - Low-income units: 47
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +63,6 @@
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: KSD VILLAGE APARTMENTS, PHASE I (KYA19980065)
 
 - HUD ID: KYA19980065
-- HUD ID before: 
 - Project: KSD VILLAGE APARTMENTS, PHASE I
 - Address: MCCLURE DR.
 - City: DANVILLE
-- State: KY
 - ZIP: 40422
-- ZIP extension: 
 - State project ID: KY-96-021
 - Latitude: 37.6517
 - Longitude: -84.8364
@@ -19,12 +16,9 @@
 - Tract 1990: 21021990300
 - Place 2020: 19882
 - Place 2010: 19882
-- Place 2000: 
 - Place 1990: 0515
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

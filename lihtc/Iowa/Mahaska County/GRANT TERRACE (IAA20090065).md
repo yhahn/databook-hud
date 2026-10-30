@@ -1,13 +1,10 @@
 # Project: GRANT TERRACE (IAA20090065)
 
 - HUD ID: IAA20090065
-- HUD ID before: 
 - Project: GRANT TERRACE
 - Address: 715 B AVE E
 - City: OSKALOOSA
-- State: IA
 - ZIP: 52577
-- ZIP extension: 
 - State project ID: 08-06
 - Latitude: 41.297324
 - Longitude: -92.637783
@@ -22,9 +19,7 @@
 - Place 2000: 59925
 - Place 1990: 3245
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 264060
 - Units: 15
 - Low-income units: 15
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +47,9 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

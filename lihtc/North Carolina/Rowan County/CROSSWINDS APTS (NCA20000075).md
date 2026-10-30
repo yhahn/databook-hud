@@ -1,13 +1,10 @@
 # Project: CROSSWINDS APTS (NCA20000075)
 
 - HUD ID: NCA20000075
-- HUD ID before: 
 - Project: CROSSWINDS APTS
 - Address: 300 LASH DRIVE
 - City: SALISBURY
-- State: NC
 - ZIP: 28147
-- ZIP extension: 
 - State project ID: 9001215
 - Latitude: 35.692
 - Longitude: -80.522752
@@ -20,11 +17,8 @@
 - Place 2020: 58860
 - Place 2010: 58860
 - Place 2000: 58860
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 183657
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 8
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

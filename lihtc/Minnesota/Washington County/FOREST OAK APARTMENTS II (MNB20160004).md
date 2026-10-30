@@ -1,11 +1,9 @@
 # Project: FOREST OAK APARTMENTS II (MNB20160004)
 
 - HUD ID: MNB20160004
-- HUD ID before: 
 - Project: FOREST OAK APARTMENTS II
 - Address: 19838 FOREST ROAD NORTH
 - City: FOREST LAKE
-- State: MN
 - ZIP: 55025
 - ZIP extension: 8077
 - State project ID: D7756
@@ -16,15 +14,11 @@
 - Tract 2020: 27163070107
 - Tract 2010: 27163070106
 - Tract 2000: 27163070106
-- Tract 1990: 
 - Place 2020: 21770
 - Place 2010: 21770
 - Place 2000: 21770
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 629865
 - Units: 36
 - Low-income units: 36
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 36
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -68,18 +61,9 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

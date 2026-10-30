@@ -1,11 +1,9 @@
 # Project: CYPRESS SENIOR LIVING AT RED OAK PRESERVE (MNB20114004)
 
 - HUD ID: MNB20114004
-- HUD ID before: 
 - Project: CYPRESS SENIOR LIVING AT RED OAK PRESERVE
 - Address: 4994 HAMLET AVENUE NORTH
 - City: OAKDALE
-- State: MN
 - ZIP: 55128
 - ZIP extension: 2608
 - State project ID: D6197
@@ -16,15 +14,10 @@
 - Tract 2020: 27163070907
 - Tract 2010: 27163070907
 - Tract 2000: 27163070907
-- Tract 1990: 
 - Place 2020: 47680
 - Place 2010: 47680
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 167000
 - Units: 39
 - Low-income units: 39
@@ -39,9 +32,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +58,11 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

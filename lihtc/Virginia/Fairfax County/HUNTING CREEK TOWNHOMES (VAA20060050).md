@@ -1,13 +1,10 @@
 # Project: HUNTING CREEK TOWNHOMES (VAA20060050)
 
 - HUD ID: VAA20060050
-- HUD ID before: 
 - Project: HUNTING CREEK TOWNHOMES
 - Address: 3138 JACKIES LN
 - City: ALEXANDRIA
-- State: VA
 - ZIP: 22306
-- ZIP extension: 
 - State project ID: 4118
 - Latitude: 38.737298
 - Longitude: -77.085753
@@ -22,9 +19,7 @@
 - Place 2000: 29136
 - Place 1990: 0648
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 144775
 - Units: 35
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

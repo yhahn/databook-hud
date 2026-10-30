@@ -1,13 +1,10 @@
 # Project: HIGH PLAINS APTS (WYA20130004)
 
 - HUD ID: WYA20130004
-- HUD ID before: 
 - Project: HIGH PLAINS APTS
 - Address: 420 COLLEGE DR
 - City: TORRINGTON
-- State: WY
 - ZIP: 82240
-- ZIP extension: 
 - State project ID: 11-020
 - Latitude: 42.081895
 - Longitude: -104.189941
@@ -22,9 +19,7 @@
 - Place 2000: 77530
 - Place 1990: 0450
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 475000
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WYA2013003.
 - Record status: Existing, unchanged

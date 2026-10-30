@@ -1,13 +1,10 @@
 # Project: MCINNIS VILLAGE (ALA19960077)
 
 - HUD ID: ALA19960077
-- HUD ID before: 
 - Project: MCINNIS VILLAGE
 - Address: 4432 NORDALE DR
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36116
-- ZIP extension: 
 - State project ID: AL-96-0003
 - Latitude: 32.320973
 - Longitude: -86.296271
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 1180
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 128000
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 664175
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997110.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HANCEVILLE VILLAGE APTS (ALA19919227)
 
 - HUD ID: ALA19919227
-- HUD ID before: 
 - Project: HANCEVILLE VILLAGE APTS
 - Address: 401 WHALEY AVE NE
 - City: HANCEVILLE
-- State: AL
 - ZIP: 35077
-- ZIP extension: 
 - State project ID: AL-90-0005
 - Latitude: 34.065232
 - Longitude: -86.765415
@@ -20,11 +17,8 @@
 - Place 2020: 32968
 - Place 2010: 32968
 - Place 2000: 20955
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 34052
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,10 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1991100.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SHADY GROVE APTS (SCA20050095)
 
 - HUD ID: SCA20050095
-- HUD ID before: 
 - Project: SHADY GROVE APTS
 - Address: 1725 SAVAGE RD
 - City: CHARLESTON
-- State: SC
 - ZIP: 29407
-- ZIP extension: 
 - State project ID: SC-03-031
 - Latitude: 32.807391
 - Longitude: -80.018643
@@ -22,9 +19,7 @@
 - Place 2000: 13330
 - Place 1990: 0245
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 399848
 - Units: 71
 - Low-income units: 71
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

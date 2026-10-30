@@ -1,11 +1,9 @@
 # Project: CAMBRIDGE MANOR APARTMENTS (MSA20150001)
 
 - HUD ID: MSA20150001
-- HUD ID before: 
 - Project: CAMBRIDGE MANOR APARTMENTS
 - Address: 11 ROYAL STREET
 - City: MACON
-- State: MS
 - ZIP: 39341
 - ZIP extension: 2776
 - State project ID: 13-1-002
@@ -16,15 +14,10 @@
 - Tract 2020: 28103950300
 - Tract 2010: 28103950300
 - Tract 2000: 28103950100
-- Tract 1990: 
 - Place 2020: 44240
 - Place 2010: 44240
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 423377
 - Units: 47
 - Low-income units: 45
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1993005. AKA MACON II ELDERLY HOUSING.
 - Record status: Existing, unchanged

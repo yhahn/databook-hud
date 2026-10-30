@@ -1,11 +1,9 @@
 # Project: SIERRA POINTE I (UTA19959019)
 
 - HUD ID: UTA19959019
-- HUD ID before: 
 - Project: SIERRA POINTE I
 - Address: 1503 NORTH 2100 WEST
 - City: ST. GEORGE
-- State: UT
 - ZIP: 84770
 - ZIP extension: 0000
 - State project ID: 1993-19
@@ -16,15 +14,11 @@
 - Tract 2020: 49053270701
 - Tract 2010: 49053270700
 - Tract 2000: 49053270700
-- Tract 1990: 
 - Place 2020: 65330
 - Place 2010: 65330
 - Place 2000: 65330
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 401700
 - Units: 109
 - Low-income units: 97
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

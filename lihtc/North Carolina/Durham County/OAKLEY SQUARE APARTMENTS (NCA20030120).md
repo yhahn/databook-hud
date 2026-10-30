@@ -1,13 +1,10 @@
 # Project: OAKLEY SQUARE APARTMENTS (NCA20030120)
 
 - HUD ID: NCA20030120
-- HUD ID before: 
 - Project: OAKLEY SQUARE APARTMENTS
 - Address: 1835 CHEEK ROAD
 - City: DURHAM
-- State: NC
 - ZIP: 27704
-- ZIP extension: 
 - State project ID: 9002150
 - Latitude: 36.004898
 - Longitude: -78.868419
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 211689
 - Units: 100
 - Low-income units: 100
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

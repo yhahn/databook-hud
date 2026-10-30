@@ -1,13 +1,10 @@
 # Project: PRAIRIE VILLAGE OF ADEL (IAA20110526)
 
 - HUD ID: IAA20110526
-- HUD ID before: 
 - Project: PRAIRIE VILLAGE OF ADEL
 - Address: 600 S 12TH ST
 - City: ADEL
-- State: IA
 - ZIP: 50003
-- ZIP extension: 
 - State project ID: 10-10-256
 - Latitude: 41.613202
 - Longitude: -94.023004
@@ -22,9 +19,7 @@
 - Place 2000: 00505
 - Place 1990: 0020
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 149441
 - Units: 24
 - Low-income units: 23
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2011055.
 - Record status: Existing, unchanged

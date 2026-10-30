@@ -1,13 +1,10 @@
 # Project: SENIOR SUITES AT MIDWAY VILLAGE (ILB20130100)
 
 - HUD ID: ILB20130100
-- HUD ID before: 
 - Project: SENIOR SUITES AT MIDWAY VILLAGE
 - Address: 6800 S KEATING AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60629
-- ZIP extension: 
 - State project ID: IL-99-99
 - Latitude: 41.770997
 - Longitude: -87.740152
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1371287
 - Units: 89
 - Low-income units: 89
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,8 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SENIOR SUITES AT MIDWAY VILLAGE.
 - Record status: Existing, unchanged

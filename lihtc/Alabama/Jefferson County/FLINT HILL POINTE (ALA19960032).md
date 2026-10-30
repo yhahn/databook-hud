@@ -1,13 +1,10 @@
 # Project: FLINT HILL POINTE (ALA19960032)
 
 - HUD ID: ALA19960032
-- HUD ID before: 
 - Project: FLINT HILL POINTE
 - Address: 600 FLINT HILL LN
 - City: BESSEMER
-- State: AL
 - ZIP: 35022
-- ZIP extension: 
 - State project ID: AL-96-0039
 - Latitude: 33.357261
 - Longitude: -87.00659
@@ -22,9 +19,7 @@
 - Place 2000: 05980
 - Place 1990: 0175
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 527375
 - Units: 136
 - Low-income units: 136
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 136
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997050.
 - Record status: Existing, unchanged

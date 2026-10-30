@@ -1,11 +1,9 @@
 # Project: QUEEN LANE APTS (PAA20162030)
 
 - HUD ID: PAA20162030
-- HUD ID before: 
 - Project: QUEEN LANE APTS
 - Address: 301-329 W QUEEN LN
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19144
 - ZIP extension: 4030
 - State project ID: TC20140104
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101024000
 - Tract 2010: 42101024000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 696015
 - Units: 55
 - Low-income units: 55
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 55
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

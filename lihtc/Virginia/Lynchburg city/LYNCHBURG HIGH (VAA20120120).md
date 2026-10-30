@@ -1,13 +1,10 @@
 # Project: LYNCHBURG HIGH (VAA20120120)
 
 - HUD ID: VAA20120120
-- HUD ID before: 
 - Project: LYNCHBURG HIGH
 - Address: 1301 PARK AVE
 - City: LYNCHBURG
-- State: VA
 - ZIP: 24501
-- ZIP extension: 
 - State project ID: 4074
 - Latitude: 37.410618
 - Longitude: -79.153824
@@ -22,9 +19,7 @@
 - Place 2000: 47672
 - Place 1990: 0760
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 643264
 - Units: 74
 - Low-income units: 74
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 1200000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

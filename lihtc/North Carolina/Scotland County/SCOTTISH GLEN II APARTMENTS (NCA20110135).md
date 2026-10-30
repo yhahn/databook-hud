@@ -1,13 +1,10 @@
 # Project: SCOTTISH GLEN II APARTMENTS (NCA20110135)
 
 - HUD ID: NCA20110135
-- HUD ID before: 
 - Project: SCOTTISH GLEN II APARTMENTS
 - Address: 1420 1434 WEST BOULEVARD
 - City: LAURINBURG
-- State: NC
 - ZIP: 28352
-- ZIP extension: 
 - State project ID: 9104479
 - Latitude: 34.7634
 - Longitude: -79.5028
@@ -19,12 +16,9 @@
 - Tract 1990: 37165010100
 - Place 2020: 37220
 - Place 2010: 37220
-- Place 2000: 
 - Place 1990: 1420
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 416400
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

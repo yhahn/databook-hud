@@ -1,13 +1,10 @@
 # Project: MATTAMUSKEET VILLAGE APTS (NCA19960530)
 
 - HUD ID: NCA19960530
-- HUD ID before: 
 - Project: MATTAMUSKEET VILLAGE APTS
 - Address: 32105 US HWY 264
 - City: ENGELHARD
-- State: NC
 - ZIP: 27824
-- ZIP extension: 
 - State project ID: 9001358
 - Latitude: 35.493002
 - Longitude: -76.033758
@@ -19,12 +16,8 @@
 - Tract 1990: 37095980100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 35808
 - Units: 16
 - Low-income units: 16
@@ -39,9 +32,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

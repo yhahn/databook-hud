@@ -1,13 +1,10 @@
 # Project: PARKWINDS (IAA20120080)
 
 - HUD ID: IAA20120080
-- HUD ID before: 
 - Project: PARKWINDS
 - Address: 3600 E DOUGLAS AVE
 - City: DES MOINES
-- State: IA
 - ZIP: 50317
-- ZIP extension: 
 - State project ID: 10-10-13
 - Latitude: 41.629532
 - Longitude: -93.546187
@@ -22,9 +19,7 @@
 - Place 2000: 21000
 - Place 1990: 1130
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 731035
 - Units: 96
 - Low-income units: 95
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA1995095. FKA SARGENT PARK APTS
 - Record status: Existing, unchanged

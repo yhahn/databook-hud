@@ -1,11 +1,9 @@
 # Project: VALLEY VILLAS REHAB (MTA20170009)
 
 - HUD ID: MTA20170009
-- HUD ID before: 
 - Project: VALLEY VILLAS REHAB
 - Address: 410 N 10TH STREET
 - City: HAMILTON
-- State: MT
 - ZIP: 59840
 - ZIP extension: 0000
 - State project ID: 16060
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30081000502
 - Tract 2010: 30081000500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 33775
 - Place 2010: 33775
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 560392
 - Units: 36
 - Low-income units: 36
@@ -44,7 +36,6 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

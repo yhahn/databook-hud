@@ -1,11 +1,9 @@
 # Project: FOUNTAIN HEIGHTS II (UTA20040015)
 
 - HUD ID: UTA20040015
-- HUD ID before: 
 - Project: FOUNTAIN HEIGHTS II
 - Address: 3424 S. RIVER ROAD
 - City: ST. GEORGE
-- State: UT
 - ZIP: 84790
 - ZIP extension: 0000
 - State project ID: 2003-03
@@ -22,9 +20,7 @@
 - Place 2000: 65330
 - Place 1990: 0855
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 518082
 - Units: 60
 - Low-income units: 60
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

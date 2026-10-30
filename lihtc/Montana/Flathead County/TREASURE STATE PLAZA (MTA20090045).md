@@ -1,13 +1,9 @@
 # Project: TREASURE STATE PLAZA (MTA20090045)
 
 - HUD ID: MTA20090045
-- HUD ID before: 
 - Project: TREASURE STATE PLAZA
 - Address: 600 LIBERTY STREET
 - City: KALISPELL
-- State: MT
-- ZIP: 
-- ZIP extension: 
 - State project ID: 08080
 - Latitude: 48.208738
 - Longitude: -114.339643
@@ -20,11 +16,8 @@
 - Place 2020: 40075
 - Place 2010: 40075
 - Place 2000: 25075
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 117919
 - Units: 38
 - Low-income units: 38
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

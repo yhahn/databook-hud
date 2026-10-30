@@ -1,13 +1,10 @@
 # Project: CENTRAL TOWERS (MNA20120811)
 
 - HUD ID: MNA20120811
-- HUD ID before: 
 - Project: CENTRAL TOWERS
 - Address: 200 1ST AVE NW
 - City: ROCHESTER
-- State: MN
 - ZIP: 55901
-- ZIP extension: 
 - State project ID: D1293
 - Latitude: 44.025335
 - Longitude: -92.464277
@@ -22,9 +19,7 @@
 - Place 2000: 54880
 - Place 1990: 3235
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 779149
 - Units: 105
 - Low-income units: 102
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: SUBSTANCE ABUSE, MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

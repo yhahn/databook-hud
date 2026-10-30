@@ -1,11 +1,9 @@
 # Project: SPRINGWELLS PROPERTIES (MIA20231009)
 
 - HUD ID: MIA20231009
-- HUD ID before: 
 - Project: SPRINGWELLS PROPERTIES
 - Address: 8729 VERNOR, 2310 CABOT, 2316 LAWNDALE, & 2439 CARSON
 - City: DETROIT
-- State: MI
 - ZIP: 48209
 - ZIP extension: 0000
 - State project ID: 4036
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26163524200
 - Tract 2010: 26163523800
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 498489
 - Units: 89
 - Low-income units: 89
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 4319840
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

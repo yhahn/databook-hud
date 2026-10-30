@@ -1,13 +1,10 @@
 # Project: NORTHWOOD TERRACE (IDA19920015)
 
 - HUD ID: IDA19920015
-- HUD ID before: 
 - Project: NORTHWOOD TERRACE
 - Address: 307 HALLEY STREET
 - City: SANDPOINT
-- State: ID
 - ZIP: 83864
-- ZIP extension: 
 - State project ID: HC9202
 - Latitude: 48.27461
 - Longitude: -116.572388
@@ -20,11 +17,8 @@
 - Place 2020: 72100
 - Place 2010: 72100
 - Place 2000: 72100
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 53435
 - Units: 34
 - Low-income units: 34
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

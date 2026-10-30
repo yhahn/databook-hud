@@ -1,13 +1,10 @@
 # Project: SUMMER PLACE APTS (NCA20010160)
 
 - HUD ID: NCA20010160
-- HUD ID before: 
 - Project: SUMMER PLACE APTS
 - Address: 1700 BLOCK OF LIPSCOMB ROAD
 - City: WILSON
-- State: NC
 - ZIP: 27893
-- ZIP extension: 
 - State project ID: 9001218
 - Latitude: 35.7176
 - Longitude: -77.9179
@@ -19,12 +16,9 @@
 - Tract 1990: 37195000700
 - Place 2020: 74540
 - Place 2010: 74540
-- Place 2000: 
 - Place 1990: 2760
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 331750
 - Units: 48
 - Low-income units: 48
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

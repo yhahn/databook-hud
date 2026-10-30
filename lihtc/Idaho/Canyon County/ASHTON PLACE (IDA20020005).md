@@ -1,13 +1,10 @@
 # Project: ASHTON PLACE (IDA20020005)
 
 - HUD ID: IDA20020005
-- HUD ID before: 
 - Project: ASHTON PLACE
 - Address: 3904 EAST USTICK ROAD
 - City: CALDWELL
-- State: ID
 - ZIP: 83605
-- ZIP extension: 
 - State project ID: HC0111
 - Latitude: 43.633676
 - Longitude: -116.650358
@@ -20,11 +17,8 @@
 - Place 2020: 12250
 - Place 2010: 12250
 - Place 2000: 12250
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 305744
 - Units: 48
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

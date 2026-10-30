@@ -1,11 +1,9 @@
 # Project: PENKAY EAGLES MANOR (MTA20050015)
 
 - HUD ID: MTA20050015
-- HUD ID before: 
 - Project: PENKAY EAGLES MANOR
 - Address: 715 FEE ST
 - City: HELENA
-- State: MT
 - ZIP: 59601
 - ZIP extension: 0000
 - State project ID: 03020
@@ -22,9 +20,7 @@
 - Place 2000: 35600
 - Place 1990: 0325
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 391303
 - Units: 66
 - Low-income units: 62
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

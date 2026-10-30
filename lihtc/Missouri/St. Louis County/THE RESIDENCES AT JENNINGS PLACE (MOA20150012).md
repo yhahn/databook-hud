@@ -1,11 +1,9 @@
 # Project: THE RESIDENCES AT JENNINGS PLACE (MOA20150012)
 
 - HUD ID: MOA20150012
-- HUD ID before: 
 - Project: THE RESIDENCES AT JENNINGS PLACE
 - Address: 2360 MIDDLE RIVER ROAD
 - City: JENNINGS
-- State: MO
 - ZIP: 63136
 - ZIP extension: 0000
 - State project ID: 13-059
@@ -16,15 +14,10 @@
 - Tract 2020: 29189212004
 - Tract 2010: 29189212001
 - Tract 2000: 29189211900
-- Tract 1990: 
 - Place 2020: 37178
 - Place 2010: 37178
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 686000
 - Units: 54
 - Low-income units: 54
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

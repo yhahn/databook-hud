@@ -1,13 +1,10 @@
 # Project: NOKOTA RIDGE (NDA20120020)
 
 - HUD ID: NDA20120020
-- HUD ID before: 
 - Project: NOKOTA RIDGE
 - Address: 2205 28TH ST W
 - City: WILLISTON
-- State: ND
 - ZIP: 58801
-- ZIP extension: 
 - State project ID: TC1101
 - Latitude: 48.170546
 - Longitude: -103.654844
@@ -22,9 +19,7 @@
 - Place 2000: 86220
 - Place 1990: 1740
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 602459
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

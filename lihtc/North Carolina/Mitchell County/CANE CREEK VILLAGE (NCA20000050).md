@@ -1,13 +1,10 @@
 # Project: CANE CREEK VILLAGE (NCA20000050)
 
 - HUD ID: NCA20000050
-- HUD ID before: 
 - Project: CANE CREEK VILLAGE
 - Address: 101 AND 102 RHODODENDRON CIRCLE
 - City: BAKERSVILLE
-- State: NC
 - ZIP: 28705
-- ZIP extension: 
 - State project ID: 9001646
 - Latitude: 36.0184
 - Longitude: -82.1365
@@ -19,12 +16,8 @@
 - Tract 1990: 37121950200
 - Place 2020: 03100
 - Place 2010: 03100
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 155414
 - Units: 24
 - Low-income units: 24
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 6
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: GRANDVIEW ESTATES (MOA20120040)
 
 - HUD ID: MOA20120040
-- HUD ID before: 
 - Project: GRANDVIEW ESTATES
 - Address: 116 N WARD RD
 - City: INDEPENDENCE
-- State: MO
 - ZIP: 64050
-- ZIP extension: 
 - State project ID: 10-415
 - Latitude: 39.107872
 - Longitude: -94.385968
@@ -22,9 +19,7 @@
 - Place 2000: 35000
 - Place 1990: 2125
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 239422
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1763000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1595000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

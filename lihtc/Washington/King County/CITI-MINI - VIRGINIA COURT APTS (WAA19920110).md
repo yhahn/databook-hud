@@ -1,13 +1,10 @@
 # Project: CITI-MINI / VIRGINIA COURT APTS (WAA19920110)
 
 - HUD ID: WAA19920110
-- HUD ID before: 
 - Project: CITI-MINI / VIRGINIA COURT APTS
 - Address: 1000 VIRGINIA ST
 - City: SEATTLE
-- State: WA
 - ZIP: 98101
-- ZIP extension: 
 - State project ID: WA-90-02
 - Latitude: 47.6101
 - Longitude: -122.332
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 1140
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 393103
 - Units: 61
 - Low-income units: 61
@@ -39,13 +34,9 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +56,7 @@
 - Other population: Yes
 - Other population named: LARGE FAMILY
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA1992030.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BROOKSTONE SENIOR APARTMENTS (KYA20110665)
 
 - HUD ID: KYA20110665
-- HUD ID before: 
 - Project: BROOKSTONE SENIOR APARTMENTS
 - Address: BIGGIN HILL COURT
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40220
-- ZIP extension: 
 - State project ID: KY-10-054
 - Latitude: 38.2091
 - Longitude: -85.6098
@@ -19,12 +16,8 @@
 - Tract 1990: 21111011101
 - Place 2020: 38170
 - Place 2010: 38170
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 749744
 - Units: 56
 - Low-income units: 56
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

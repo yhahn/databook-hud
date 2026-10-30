@@ -1,13 +1,10 @@
 # Project: COPPERSTONE APARTMENTS (NCA20140015)
 
 - HUD ID: NCA20140015
-- HUD ID before: 
 - Project: COPPERSTONE APARTMENTS
 - Address: 104 COPPERSTONE LANE
 - City: WHITEVILLE
-- State: NC
 - ZIP: 28472
-- ZIP extension: 
 - State project ID: 9134161
 - Latitude: 34.3167
 - Longitude: -78.7618
@@ -19,12 +16,8 @@
 - Tract 1990: 37047990500
 - Place 2020: 73660
 - Place 2010: 73660
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 370717
 - Units: 40
 - Low-income units: 40
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

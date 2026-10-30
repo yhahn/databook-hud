@@ -1,13 +1,10 @@
 # Project: SUNDOWN HEIGHTS (IDA20050017)
 
 - HUD ID: IDA20050017
-- HUD ID before: 
 - Project: SUNDOWN HEIGHTS
 - Address: 835 PARADE AVENUE
 - City: LAPWAI
-- State: ID
 - ZIP: 83540
-- ZIP extension: 
 - State project ID: HC0420
 - Latitude: 46.390277
 - Longitude: -116.804134
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 19900
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 107787
 - Units: 12
 - Low-income units: 12
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

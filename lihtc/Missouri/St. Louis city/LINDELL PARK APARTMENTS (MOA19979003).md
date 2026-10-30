@@ -1,11 +1,9 @@
 # Project: LINDELL PARK APARTMENTS (MOA19979003)
 
 - HUD ID: MOA19979003
-- HUD ID before: 
 - Project: LINDELL PARK APARTMENTS
 - Address: 3520 N GARRISON AVE
 - City: SAINT LOUIS
-- State: MO
 - ZIP: 63107
 - ZIP extension: 2506
 - State project ID: 95038
@@ -13,18 +11,12 @@
 - Longitude: -90.215511
 - County FIPS: 29510
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29510110400
 - Tract 2000: 29510110400
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 65000
 - Place 2000: 65000
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 65605
 - Units: 8
 - Low-income units: 8
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

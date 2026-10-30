@@ -1,13 +1,10 @@
 # Project: GEORGE KNIGHT HOMES AT SKYLAND (NCA20100115)
 
 - HUD ID: NCA20100115
-- HUD ID before: 
 - Project: GEORGE KNIGHT HOMES AT SKYLAND
 - Address: 138 SPRINGSIDE ROAD
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28803
-- ZIP extension: 
 - State project ID: 9002732
 - Latitude: 35.48916
 - Longitude: -82.534863
@@ -20,11 +17,8 @@
 - Place 2020: 02140
 - Place 2010: 02140
 - Place 2000: 02140
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 783135
 - Units: 63
 - Low-income units: 63
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

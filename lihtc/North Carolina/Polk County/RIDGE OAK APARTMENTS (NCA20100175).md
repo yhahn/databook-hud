@@ -1,13 +1,10 @@
 # Project: RIDGE OAK APARTMENTS (NCA20100175)
 
 - HUD ID: NCA20100175
-- HUD ID before: 
 - Project: RIDGE OAK APARTMENTS
 - Address: 160 SHUFORD DRIVE
 - City: COLUMBUS
-- State: NC
 - ZIP: 27822
-- ZIP extension: 
 - State project ID: 9105260
 - Latitude: 35.241073
 - Longitude: -82.20814
@@ -20,11 +17,8 @@
 - Place 2020: 13980
 - Place 2010: 13980
 - Place 2000: 13980
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 49257
 - Units: 18
 - Low-income units: 18
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 2
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

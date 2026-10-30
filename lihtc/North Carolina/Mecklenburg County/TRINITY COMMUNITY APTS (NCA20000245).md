@@ -1,11 +1,9 @@
 # Project: TRINITY COMMUNITY APTS (NCA20000245)
 
 - HUD ID: NCA20000245
-- HUD ID before: 
 - Project: TRINITY COMMUNITY APTS
 - Address: 3015 PEACH BOTTOM LANE
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28205
 - ZIP extension: 0000
 - State project ID: 9001151
@@ -22,9 +20,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 127856
 - Units: 24
 - Low-income units: 24
@@ -39,9 +35,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: MAESER SCHOOL APTS. (UTA20060035)
 
 - HUD ID: UTA20060035
-- HUD ID before: 
 - Project: MAESER SCHOOL APTS.
 - Address: 162 SOUTH 500 EAST
 - City: PROVO
-- State: UT
 - ZIP: 84601
 - ZIP extension: 0000
 - State project ID: 2004-08
@@ -22,9 +20,7 @@
 - Place 2000: 62470
 - Place 1990: 0800
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 215764
 - Units: 31
 - Low-income units: 31
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

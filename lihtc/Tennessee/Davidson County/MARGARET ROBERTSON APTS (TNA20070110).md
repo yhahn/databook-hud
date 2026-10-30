@@ -1,13 +1,10 @@
 # Project: MARGARET ROBERTSON APTS (TNA20070110)
 
 - HUD ID: TNA20070110
-- HUD ID before: 
 - Project: MARGARET ROBERTSON APTS
 - Address: 571 MARGARET ROBERTSON DR
 - City: HERMITAGE
-- State: TN
 - ZIP: 37076
-- ZIP extension: 
 - State project ID: TN-07-209
 - Latitude: 36.178379
 - Longitude: -86.598872
@@ -22,9 +19,7 @@
 - Place 2000: 52006
 - Place 1990: 1016
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 199036
 - Units: 100
 - Low-income units: 100
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +60,10 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MARGARET ROBERTSON II.
 - Record status: Updated

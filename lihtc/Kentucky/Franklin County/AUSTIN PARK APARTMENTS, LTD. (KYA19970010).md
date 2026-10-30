@@ -1,13 +1,10 @@
 # Project: AUSTIN PARK APARTMENTS, LTD. (KYA19970010)
 
 - HUD ID: KYA19970010
-- HUD ID before: 
 - Project: AUSTIN PARK APARTMENTS, LTD.
 - Address: BYPASS PLAZA DR.
 - City: FRANKFORT
-- State: KY
 - ZIP: 40601
-- ZIP extension: 
 - State project ID: KY-95-103
 - Latitude: 38.1911
 - Longitude: -84.8746
@@ -19,12 +16,9 @@
 - Tract 1990: 21073070200
 - Place 2020: 28900
 - Place 2010: 28900
-- Place 2000: 
 - Place 1990: 0735
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 38
 - Low-income units: 38
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

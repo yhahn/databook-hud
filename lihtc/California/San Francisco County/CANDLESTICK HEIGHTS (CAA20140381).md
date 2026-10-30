@@ -1,13 +1,10 @@
 # Project: CANDLESTICK HEIGHTS (CAA20140381)
 
 - HUD ID: CAA20140381
-- HUD ID before: 
 - Project: CANDLESTICK HEIGHTS
 - Address: 833 JAMESTOWN AVE
 - City: SAN FRANCISCO
-- State: CA
 - ZIP: 94124
-- ZIP extension: 
 - State project ID: CA-12-870
 - Latitude: 37.716286
 - Longitude: -122.390424
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 2485
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 4307343
 - Units: 196
 - Low-income units: 194
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 43
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

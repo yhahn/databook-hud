@@ -1,13 +1,10 @@
 # Project: AUTUMN CREST (NCA20151928)
 
 - HUD ID: NCA20151928
-- HUD ID before: 
 - Project: AUTUMN CREST
 - Address: 905 SEARS STREET
 - City: KANNAPOLIS
-- State: NC
 - ZIP: 28083
-- ZIP extension: 
 - State project ID: 9151296
 - Latitude: 35.479119
 - Longitude: -80.609095
@@ -22,9 +19,7 @@
 - Place 2000: 35200
 - Place 1990: 1320
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 756874
 - Units: 87
 - Low-income units: 87
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 22
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

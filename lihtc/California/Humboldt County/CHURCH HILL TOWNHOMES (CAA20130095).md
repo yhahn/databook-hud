@@ -1,13 +1,10 @@
 # Project: CHURCH HILL TOWNHOMES (CAA20130095)
 
 - HUD ID: CAA20130095
-- HUD ID before: 
 - Project: CHURCH HILL TOWNHOMES
 - Address: 2601 SCHOOL ST
 - City: FORTUNA
-- State: CA
 - ZIP: 95540
-- ZIP extension: 
 - State project ID: CA-11-154
 - Latitude: 40.570457
 - Longitude: -124.138655
@@ -22,9 +19,7 @@
 - Place 2000: 25296
 - Place 1990: 1060
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 550000
 - Units: 35
 - Low-income units: 34
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 34
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

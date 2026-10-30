@@ -1,13 +1,10 @@
 # Project: SHERWOOD GLEN APARTMENTS (NCA20070120)
 
 - HUD ID: NCA20070120
-- HUD ID before: 
 - Project: SHERWOOD GLEN APARTMENTS
 - Address: 2006 OAKBROOK COURT
 - City: REIDSVILLE
-- State: NC
 - ZIP: 27320
-- ZIP extension: 
 - State project ID: 9002321
 - Latitude: 36.349162
 - Longitude: -79.688867
@@ -22,9 +19,7 @@
 - Place 2000: 55900
 - Place 1990: 2045
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 382914
 - Units: 56
 - Low-income units: 56
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

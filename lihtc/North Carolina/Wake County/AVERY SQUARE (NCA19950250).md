@@ -1,13 +1,10 @@
 # Project: AVERY SQUARE (NCA19950250)
 
 - HUD ID: NCA19950250
-- HUD ID before: 
 - Project: AVERY SQUARE
 - Address: AVERY STREET
 - City: GARNER
-- State: NC
 - ZIP: 27529
-- ZIP extension: 
 - State project ID: 9002073
 - Latitude: 35.6679
 - Longitude: -78.5962
@@ -19,12 +16,9 @@
 - Tract 1990: 37183052803
 - Place 2020: 25480
 - Place 2010: 25480
-- Place 2000: 
 - Place 1990: 0975
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 81760
 - Units: 20
 - Low-income units: 20
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

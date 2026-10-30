@@ -1,13 +1,10 @@
 # Project: NEWPORT MANOR APT (TNA19930125)
 
 - HUD ID: TNA19930125
-- HUD ID before: 
 - Project: NEWPORT MANOR APT
 - Address: 299 DYKES ST
 - City: NEWPORT
-- State: TN
 - ZIP: 37821
-- ZIP extension: 
 - State project ID: TN-91-049
 - Latitude: 35.964126
 - Longitude: -83.20098
@@ -20,11 +17,8 @@
 - Place 2020: 53000
 - Place 2010: 53000
 - Place 2000: 53000
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 47984
 - Units: 30
 - Low-income units: 30
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

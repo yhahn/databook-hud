@@ -1,13 +1,10 @@
 # Project: LINDEN WOODS II (OKA20130009)
 
 - HUD ID: OKA20130009
-- HUD ID before: 
 - Project: LINDEN WOODS II
 - Address: 86 MATTHEW DR
 - City: DURANT
-- State: OK
 - ZIP: 74701
-- ZIP extension: 
 - State project ID: 110716
 - Latitude: 34.0064
 - Longitude: -96.3945
@@ -22,14 +19,11 @@
 - Place 2000: 22050
 - Place 1990: 0730
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 9000000
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
-- Low-income reported: 
 - Efficiencies: 0
 - 1-bedroom units: 0
 - 2-bedroom units: 0
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -74,12 +65,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

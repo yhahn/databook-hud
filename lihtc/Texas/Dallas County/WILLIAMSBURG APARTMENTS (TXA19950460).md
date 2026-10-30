@@ -1,13 +1,10 @@
 # Project: WILLIAMSBURG APARTMENTS (TXA19950460)
 
 - HUD ID: TXA19950460
-- HUD ID before: 
 - Project: WILLIAMSBURG APARTMENTS
 - Address: 2421 S CARRIER PKWY
 - City: GRAND PRAIRIE
-- State: TX
 - ZIP: 75051
-- ZIP extension: 
 - State project ID: TX2340
 - Latitude: 32.712032
 - Longitude: -97.01509
@@ -22,10 +19,7 @@
 - Place 2000: 30464
 - Place 1990: 1695
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
-- Allocation amount: 
 - Units: 418
 - Low-income units: 418
 - Units reported: 418
@@ -36,12 +30,9 @@
 - 3-bedroom units: 29
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: No
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

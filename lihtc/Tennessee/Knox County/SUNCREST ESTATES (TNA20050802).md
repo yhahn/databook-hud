@@ -1,13 +1,10 @@
 # Project: SUNCREST ESTATES (TNA20050802)
 
 - HUD ID: TNA20050802
-- HUD ID before: 
 - Project: SUNCREST ESTATES
 - Address: 7410 SMOKEY FALLS WAY
 - City: KNOXVILLE
-- State: TN
 - ZIP: 37924
-- ZIP extension: 
 - State project ID: TN-03-039
 - Latitude: 36.017222
 - Longitude: -83.779609
@@ -20,11 +17,8 @@
 - Place 2020: 40000
 - Place 2010: 99999
 - Place 2000: 40000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 182040
 - Units: 32
 - Low-income units: 32
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2006025, TNA2005150. AKA SUNVIEW ESTATES.
 - Record status: Existing, unchanged

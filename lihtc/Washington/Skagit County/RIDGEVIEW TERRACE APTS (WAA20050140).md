@@ -1,13 +1,10 @@
 # Project: RIDGEVIEW TERRACE APTS (WAA20050140)
 
 - HUD ID: WAA20050140
-- HUD ID before: 
 - Project: RIDGEVIEW TERRACE APTS
 - Address: 1500 WILLIAM WAY
 - City: MT VERNON
-- State: WA
 - ZIP: 98273
-- ZIP extension: 
 - State project ID: WA-04-00192
 - Latitude: 48.43254
 - Longitude: -122.322184
@@ -22,9 +19,7 @@
 - Place 2000: 47560
 - Place 1990: 0820
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 241772
 - Units: 80
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 68
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

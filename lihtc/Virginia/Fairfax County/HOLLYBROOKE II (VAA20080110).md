@@ -1,13 +1,10 @@
 # Project: HOLLYBROOKE II (VAA20080110)
 
 - HUD ID: VAA20080110
-- HUD ID before: 
 - Project: HOLLYBROOKE II
 - Address: 3012 PATRICK HENRY DR
 - City: FALLS CHURCH
-- State: VA
 - ZIP: 22044
-- ZIP extension: 
 - State project ID: 1213
 - Latitude: 38.86776
 - Longitude: -77.147583
@@ -22,9 +19,7 @@
 - Place 2000: 04088
 - Place 1990: 1115
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 455267
 - Units: 98
 - Low-income units: 89
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA HOLLYBROOKE CONDOMINIUMS II.
 - Record status: Existing, unchanged

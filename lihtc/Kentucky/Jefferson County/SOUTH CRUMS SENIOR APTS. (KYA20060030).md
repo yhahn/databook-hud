@@ -1,13 +1,10 @@
 # Project: SOUTH CRUMS SENIOR APTS. (KYA20060030)
 
 - HUD ID: KYA20060030
-- HUD ID before: 
 - Project: SOUTH CRUMS SENIOR APTS.
 - Address: KRISTIN WAY
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40216
-- ZIP extension: 
 - State project ID: KY-04-035
 - Latitude: 38.1858
 - Longitude: -85.8379
@@ -19,12 +16,9 @@
 - Tract 1990: 21111012601
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1805
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 159590
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

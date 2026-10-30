@@ -1,11 +1,9 @@
 # Project: OUELLETTE PLACE (MTA20100020)
 
 - HUD ID: MTA20100020
-- HUD ID before: 
 - Project: OUELLETTE PLACE
 - Address: 405 ST JOSEPH DR
 - City: LEWISTOWN
-- State: MT
 - ZIP: 59457
 - ZIP extension: 0000
 - State project ID: 09060
@@ -22,10 +20,7 @@
 - Place 2000: 43375
 - Place 1990: 0395
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -78,8 +73,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: COTTONWOOD ESTATES (ALA20090012)
 
 - HUD ID: ALA20090012
-- HUD ID before: 
 - Project: COTTONWOOD ESTATES
 - Address: 510 E PEARL ST
 - City: JACKSON
-- State: AL
 - ZIP: 36545
-- ZIP extension: 
 - State project ID: AL-08-0071
 - Latitude: 31.515968
 - Longitude: -87.890698
@@ -22,10 +19,7 @@
 - Place 2000: 38152
 - Place 1990: 0950
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009544, ALA2008110, ALA2008027, ALA2008027.
 - Record status: Existing, unchanged

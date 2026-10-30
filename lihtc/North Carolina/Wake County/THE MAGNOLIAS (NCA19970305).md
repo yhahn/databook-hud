@@ -1,13 +1,10 @@
 # Project: THE MAGNOLIAS (NCA19970305)
 
 - HUD ID: NCA19970305
-- HUD ID before: 
 - Project: THE MAGNOLIAS
 - Address: 2151 GLASCOCK STREET
 - City: RALEIGH
-- State: NC
 - ZIP: 27610
-- ZIP extension: 
 - State project ID: 9002208
 - Latitude: 35.792887
 - Longitude: -78.610555
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 191203
 - Units: 40
 - Low-income units: 40
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 40
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

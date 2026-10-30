@@ -1,13 +1,10 @@
 # Project: SHERWOOD APTS (ALA20100055)
 
 - HUD ID: ALA20100055
-- HUD ID before: 
 - Project: SHERWOOD APTS
 - Address: 4921 HATTON AVE
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36108
-- ZIP extension: 
 - State project ID: AL-07-0801
 - Latitude: 32.308607
 - Longitude: -86.344152
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 1180
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 187287
 - Units: 80
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008183, ALA2008540. AKA SUMMIT SHERWOOD APTS.
 - Record status: Existing, unchanged

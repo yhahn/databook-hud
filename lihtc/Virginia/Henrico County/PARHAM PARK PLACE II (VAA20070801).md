@@ -1,13 +1,10 @@
 # Project: PARHAM PARK PLACE II (VAA20070801)
 
 - HUD ID: VAA20070801
-- HUD ID before: 
 - Project: PARHAM PARK PLACE II
 - Address: 7590 E PARHAM RD
 - City: RICHMOND
-- State: VA
 - ZIP: 23294
-- ZIP extension: 
 - State project ID: 9053
 - Latitude: 37.629819
 - Longitude: -77.521713
@@ -22,9 +19,7 @@
 - Place 2000: 44280
 - Place 1990: 0714
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 392839
 - Units: 51
 - Low-income units: 51
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006117. AKA ELDERHOMES III.
 - Record status: Existing, unchanged

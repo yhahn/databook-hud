@@ -1,11 +1,9 @@
 # Project: WILLOW PARK APTS. (UTA20040095)
 
 - HUD ID: UTA20040095
-- HUD ID before: 
 - Project: WILLOW PARK APTS.
 - Address: 3363 & 3367
 - City: WEST VALLEY CITY
-- State: UT
 - ZIP: 84119
 - ZIP extension: 0000
 - State project ID: 2002-03
@@ -19,12 +17,9 @@
 - Tract 1990: 49035113304
 - Place 2020: 83470
 - Place 2010: 83470
-- Place 2000: 
 - Place 1990: 1082
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 586123
 - Units: 88
 - Low-income units: 87
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

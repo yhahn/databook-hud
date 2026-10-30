@@ -1,13 +1,10 @@
 # Project: THE SPRINGS APTS (ALA20010124)
 
 - HUD ID: ALA20010124
-- HUD ID before: 
 - Project: THE SPRINGS APTS
 - Address: 106 BIRCH ST
 - City: MILLBROOK
-- State: AL
 - ZIP: 36054
-- ZIP extension: 
 - State project ID: AL-01-0021
 - Latitude: 32.519529
 - Longitude: -86.373708
@@ -22,9 +19,7 @@
 - Place 2000: 48712
 - Place 1990: 1152
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 153630
 - Units: 24
 - Low-income units: 20
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 486380
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2003095.
 - Record status: Existing, unchanged

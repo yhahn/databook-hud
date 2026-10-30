@@ -1,13 +1,10 @@
 # Project: PALMER HEIGHTS (MSA20020021)
 
 - HUD ID: MSA20020021
-- HUD ID before: 
 - Project: PALMER HEIGHTS
 - Address: 97 PALMER CIR
 - City: HATTIESBURG
-- State: MS
 - ZIP: 39401
-- ZIP extension: 
 - State project ID: MS-00-071
 - Latitude: 31.274913
 - Longitude: -89.264715
@@ -20,11 +17,8 @@
 - Place 2020: 31020
 - Place 2010: 31020
 - Place 2000: 31020
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 296512
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2002638.
 - Record status: Existing, unchanged

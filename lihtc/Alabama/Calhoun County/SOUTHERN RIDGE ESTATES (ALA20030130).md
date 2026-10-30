@@ -1,13 +1,10 @@
 # Project: SOUTHERN RIDGE ESTATES (ALA20030130)
 
 - HUD ID: ALA20030130
-- HUD ID before: 
 - Project: SOUTHERN RIDGE ESTATES
 - Address: 3000 CRESTHILL AVE
 - City: ANNISTON
-- State: AL
 - ZIP: 36201
-- ZIP extension: 
 - State project ID: AL-03-0030
 - Latitude: 33.684307
 - Longitude: -85.8414
@@ -22,9 +19,7 @@
 - Place 2000: 01852
 - Place 1990: 0060
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 460827
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2004095.
 - Record status: Existing, unchanged

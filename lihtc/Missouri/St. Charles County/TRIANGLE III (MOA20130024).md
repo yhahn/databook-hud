@@ -1,13 +1,10 @@
 # Project: TRIANGLE III (MOA20130024)
 
 - HUD ID: MOA20130024
-- HUD ID before: 
 - Project: TRIANGLE III
 - Address: 1511 TRIANGLE DR
 - City: ST PETERS
-- State: MO
 - ZIP: 63303
-- ZIP extension: 
 - State project ID: 11-043
 - Latitude: 38.745371
 - Longitude: -90.560658
@@ -20,11 +17,8 @@
 - Place 2020: 65126
 - Place 2010: 65126
 - Place 2000: 64082
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 385000
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 660000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

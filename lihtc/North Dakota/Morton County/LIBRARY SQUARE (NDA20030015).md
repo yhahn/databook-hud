@@ -1,13 +1,10 @@
 # Project: LIBRARY SQUARE (NDA20030015)
 
 - HUD ID: NDA20030015
-- HUD ID before: 
 - Project: LIBRARY SQUARE
 - Address: 100 FIRST ST NW
 - City: MANDAN
-- State: ND
 - ZIP: 58554
-- ZIP extension: 
 - State project ID: TC0105
 - Latitude: 46.827683
 - Longitude: -100.890078
@@ -22,9 +19,7 @@
 - Place 2000: 49900
 - Place 1990: 1050
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 347226
 - Units: 46
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA2003030.
 - Record status: Existing, unchanged

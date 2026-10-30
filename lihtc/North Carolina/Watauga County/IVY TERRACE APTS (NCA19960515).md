@@ -1,13 +1,10 @@
 # Project: IVY TERRACE APTS (NCA19960515)
 
 - HUD ID: NCA19960515
-- HUD ID before: 
 - Project: IVY TERRACE APTS
 - Address: 206 IVY TERRACE DRIVE
 - City: BOONE
-- State: NC
 - ZIP: 28607
-- ZIP extension: 
 - State project ID: 9000965
 - Latitude: 36.206087
 - Longitude: -81.662352
@@ -16,15 +13,11 @@
 - Tract 2020: 37189920601
 - Tract 2010: 37189920601
 - Tract 2000: 37189980600
-- Tract 1990: 
 - Place 2020: 07080
 - Place 2010: 07080
 - Place 2000: 07080
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 54807
 - Units: 34
 - Low-income units: 34
@@ -39,9 +32,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: HUNTER'S RIDGE (NCA20030085)
 
 - HUD ID: NCA20030085
-- HUD ID before: 
 - Project: HUNTER'S RIDGE
 - Address: 3720 POWDERHORN LANE
 - City: FARMVILLE
-- State: NC
 - ZIP: 28228
-- ZIP extension: 
 - State project ID: 9001302
 - Latitude: 35.590047
 - Longitude: -77.597906
@@ -19,12 +16,9 @@
 - Tract 1990: 37147001800
 - Place 2020: 22820
 - Place 2010: 22820
-- Place 2000: 
 - Place 1990: 0905
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 112177
 - Units: 25
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

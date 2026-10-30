@@ -1,11 +1,9 @@
 # Project: LINCOLN POINTE I APARTMENTS (MNB19939003)
 
 - HUD ID: MNB19939003
-- HUD ID before: 
 - Project: LINCOLN POINTE I APARTMENTS
 - Address: 1060 7TH STREET SE
 - City: SAINT CLOUD
-- State: MN
 - ZIP: 56304
 - ZIP extension: 1555
 - State project ID: D1485
@@ -16,15 +14,11 @@
 - Tract 2020: 27141031500
 - Tract 2010: 27141031500
 - Tract 2000: 27141031300
-- Tract 1990: 
 - Place 2020: 56896
 - Place 2010: 56896
 - Place 2000: 56896
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 52725
 - Units: 21
 - Low-income units: 21
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

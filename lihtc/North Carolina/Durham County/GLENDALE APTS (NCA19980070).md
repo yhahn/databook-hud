@@ -1,13 +1,10 @@
 # Project: GLENDALE APTS (NCA19980070)
 
 - HUD ID: NCA19980070
-- HUD ID before: 
 - Project: GLENDALE APTS
 - Address: 823 MANGUM ST
 - City: DURHAM
-- State: NC
 - ZIP: 27701
-- ZIP extension: 
 - State project ID: 9002097
 - Latitude: 36.002628
 - Longitude: -78.895191
@@ -16,15 +13,11 @@
 - Tract 2020: 37063002200
 - Tract 2010: 37063002200
 - Tract 2000: 37063000802
-- Tract 1990: 
 - Place 2020: 19000
 - Place 2010: 19000
 - Place 2000: 19000
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 110565
 - Units: 29
 - Low-income units: 29
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

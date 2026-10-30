@@ -1,13 +1,10 @@
 # Project: ARBOR CREEK FAMILY APTS (CAA20130294)
 
 - HUD ID: CAA20130294
-- HUD ID before: 
 - Project: ARBOR CREEK FAMILY APTS
 - Address: 8340 ELK GROVE FLORIN RD
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95829
-- ZIP extension: 
 - State project ID: CA-11-122
 - Latitude: 38.45445
 - Longitude: -121.371993
@@ -20,11 +17,8 @@
 - Place 2020: 82852
 - Place 2010: 99999
 - Place 2000: 22020
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1005238
 - Units: 102
 - Low-income units: 101
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 101
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

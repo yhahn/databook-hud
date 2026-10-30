@@ -1,11 +1,9 @@
 # Project: CROWN AT DESERT WIND (UTA20130005)
 
 - HUD ID: UTA20130005
-- HUD ID before: 
 - Project: CROWN AT DESERT WIND
 - Address: 12-16 DESERT WIND DRIVE
 - City: MOAB
-- State: UT
 - ZIP: 84532
 - ZIP extension: 0000
 - State project ID: 2012-28
@@ -19,12 +17,8 @@
 - Tract 1990: 49019969100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 72319
 - Units: 5
 - Low-income units: 5
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

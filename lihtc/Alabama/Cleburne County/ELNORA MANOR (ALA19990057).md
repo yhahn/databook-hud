@@ -1,13 +1,10 @@
 # Project: ELNORA MANOR (ALA19990057)
 
 - HUD ID: ALA19990057
-- HUD ID before: 
 - Project: ELNORA MANOR
 - Address: 74 ADAMS ST
 - City: HEFLIN
-- State: AL
 - ZIP: 36264
-- ZIP extension: 
 - State project ID: AL-99-0071
 - Latitude: 33.654692
 - Longitude: -85.581555
@@ -22,9 +19,7 @@
 - Place 2000: 23176
 - Place 1990: 0880
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 136605
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 560000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2000065.
 - Record status: Existing, unchanged

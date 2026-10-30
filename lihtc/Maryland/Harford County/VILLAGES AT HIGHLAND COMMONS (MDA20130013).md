@@ -1,13 +1,10 @@
 # Project: VILLAGES AT HIGHLAND COMMONS (MDA20130013)
 
 - HUD ID: MDA20130013
-- HUD ID before: 
 - Project: VILLAGES AT HIGHLAND COMMONS
 - Address: 4 TAFT ST
 - City: ABERDEEN
-- State: MD
 - ZIP: 21001
-- ZIP extension: 
 - State project ID: MD11-03001-22
 - Latitude: 39.511129
 - Longitude: -76.159955
@@ -22,10 +19,7 @@
 - Place 2000: 00125
 - Place 1990: 0003
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
-- Allocation amount: 
 - Units: 22
 - Low-income units: 22
 - Units reported: 22
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

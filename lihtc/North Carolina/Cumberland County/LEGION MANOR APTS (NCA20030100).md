@@ -1,11 +1,9 @@
 # Project: LEGION MANOR APTS (NCA20030100)
 
 - HUD ID: NCA20030100
-- HUD ID before: 
 - Project: LEGION MANOR APTS
 - Address: 651 SETH WAY
 - City: HOPE MILLS
-- State: NC
 - ZIP: 28348
 - ZIP extension: 9084
 - State project ID: 9002263
@@ -19,12 +17,8 @@
 - Tract 1990: 37051001602
 - Place 2020: 32640
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 250382
 - Units: 44
 - Low-income units: 44
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: VILLAGE AT BLACKWELL FARM (ALA20110046)
 
 - HUD ID: ALA20110046
-- HUD ID before: 
 - Project: VILLAGE AT BLACKWELL FARM
 - Address: 105 VILLAGE DR
 - City: JASPER
-- State: AL
 - ZIP: 35504
-- ZIP extension: 
 - State project ID: AL-11-0062
 - Latitude: 33.864
 - Longitude: -87.1768
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 38416
 - Place 2000: 38416
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 712514
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1297430
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

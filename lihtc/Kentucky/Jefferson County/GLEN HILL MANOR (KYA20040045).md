@@ -1,13 +1,10 @@
 # Project: GLEN HILL MANOR (KYA20040045)
 
 - HUD ID: KYA20040045
-- HUD ID before: 
 - Project: GLEN HILL MANOR
 - Address: BOLD FORBES DRIVE
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40272
-- ZIP extension: 
 - State project ID: KY-02-018
 - Latitude: 38.101
 - Longitude: -85.8507
@@ -22,9 +19,7 @@
 - Place 2000: 78942
 - Place 1990: 1995
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 1292400
 - Units: 108
 - Low-income units: 81
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA2003800, KYA2003105, KYA2003035.;
 - Record status: Updated

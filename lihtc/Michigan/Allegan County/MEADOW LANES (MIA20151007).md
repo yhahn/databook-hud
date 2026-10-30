@@ -1,11 +1,9 @@
 # Project: MEADOW LANES (MIA20151007)
 
 - HUD ID: MIA20151007
-- HUD ID before: 
 - Project: MEADOW LANES
 - Address: 297 MEADOW LANE DRIVE
 - City: HOLLAND
-- State: MI
 - ZIP: 49423
 - ZIP extension: 0000
 - State project ID: 38
@@ -16,15 +14,11 @@
 - Tract 2020: 26005032200
 - Tract 2010: 26005032200
 - Tract 2000: 26005030100
-- Tract 1990: 
 - Place 2020: 38640
 - Place 2010: 38640
 - Place 2000: 38640
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 304810
 - Units: 118
 - Low-income units: 118
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

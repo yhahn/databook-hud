@@ -1,13 +1,10 @@
 # Project: CREEKSIDE AT BELLEMEADE (NCA19990035)
 
 - HUD ID: NCA19990035
-- HUD ID before: 
 - Project: CREEKSIDE AT BELLEMEADE
 - Address: 2350 BELLEMEADE ST
 - City: HIGH POINT
-- State: NC
 - ZIP: 27263
-- ZIP extension: 
 - State project ID: 9001769
 - Latitude: 35.929501
 - Longitude: -79.982062
@@ -22,9 +19,7 @@
 - Place 2000: 31400
 - Place 1990: 1195
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 372277
 - Units: 76
 - Low-income units: 76
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

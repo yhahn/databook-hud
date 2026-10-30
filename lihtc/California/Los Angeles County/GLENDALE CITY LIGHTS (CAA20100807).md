@@ -1,13 +1,10 @@
 # Project: GLENDALE CITY LIGHTS (CAA20100807)
 
 - HUD ID: CAA20100807
-- HUD ID before: 
 - Project: GLENDALE CITY LIGHTS
 - Address: 3673 SAN FERNANDO RD
 - City: GLENDALE
-- State: CA
 - ZIP: 91204
-- ZIP extension: 
 - State project ID: CA-07-148
 - Latitude: 34.122529
 - Longitude: -118.253891
@@ -22,9 +19,7 @@
 - Place 2000: 30000
 - Place 1990: 1130
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 1800119
 - Units: 67
 - Low-income units: 67
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

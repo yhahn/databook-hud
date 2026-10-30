@@ -1,11 +1,9 @@
 # Project: SEVEN OAKS OF FLORENCE (NEA19980806)
 
 - HUD ID: NEA19980806
-- HUD ID before: 
 - Project: SEVEN OAKS OF FLORENCE
 - Address: 3439 STATE STREET
 - City: OMAHA
-- State: NE
 - ZIP: 68112
 - ZIP extension: 0000
 - State project ID: 67155
@@ -13,18 +11,14 @@
 - Longitude: -95.968168
 - County FIPS: 31055
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 31055006202
 - Tract 2000: 31055006202
 - Tract 1990: 31055006202
-- Place 2020: 
 - Place 2010: 37000
 - Place 2000: 37000
 - Place 1990: 1825
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 98180
 - Units: 32
 - Low-income units: 26
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
 - Record status: Existing, unchanged

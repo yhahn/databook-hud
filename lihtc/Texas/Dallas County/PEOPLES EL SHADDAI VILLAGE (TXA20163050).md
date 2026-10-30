@@ -1,13 +1,10 @@
 # Project: PEOPLES EL SHADDAI VILLAGE (TXA20163050)
 
 - HUD ID: TXA20163050
-- HUD ID before: 
 - Project: PEOPLES EL SHADDAI VILLAGE
 - Address: 2836 E. OVERTON ROAD
 - City: DALLAS
-- State: TX
 - ZIP: 75216
-- ZIP extension: 
 - State project ID: TX5249
 - Latitude: 32.713827
 - Longitude: -96.778716
@@ -16,16 +13,11 @@
 - Tract 2020: 48113008802
 - Tract 2010: 48113008802
 - Tract 2000: 48113008802
-- Tract 1990: 
 - Place 2020: 19000
 - Place 2010: 19000
 - Place 2000: 19000
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 100
 - Low-income units: 100
 - Units reported: 100
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

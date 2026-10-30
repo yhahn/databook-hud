@@ -1,13 +1,10 @@
 # Project: QUAIL MEADOWS APTS (ALA20050072)
 
 - HUD ID: ALA20050072
-- HUD ID before: 
 - Project: QUAIL MEADOWS APTS
 - Address: 955 S FRONT AVE
 - City: DEMOPOLIS
-- State: AL
 - ZIP: 36732
-- ZIP extension: 
 - State project ID: AL-05-0029
 - Latitude: 32.506819
 - Longitude: -87.830357
@@ -22,9 +19,7 @@
 - Place 2000: 20296
 - Place 1990: 0485
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 284147
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1356000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007120.
 - Record status: Existing, unchanged

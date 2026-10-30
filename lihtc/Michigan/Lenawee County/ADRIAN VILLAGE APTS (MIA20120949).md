@@ -1,13 +1,10 @@
 # Project: ADRIAN VILLAGE APTS (MIA20120949)
 
 - HUD ID: MIA20120949
-- HUD ID before: 
 - Project: ADRIAN VILLAGE APTS
 - Address: 1542 VILLAGE GREEN LN
 - City: ADRIAN
-- State: MI
 - ZIP: 49221
-- ZIP extension: 
 - State project ID: MI-3526
 - Latitude: 41.903721
 - Longitude: -84.069335
@@ -22,9 +19,7 @@
 - Place 2000: 00440
 - Place 1990: 0010
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 877163
 - Units: 114
 - Low-income units: 114
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

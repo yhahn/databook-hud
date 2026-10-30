@@ -1,13 +1,10 @@
 # Project: BIRCH HILLS APTS (CAA20130308)
 
 - HUD ID: CAA20130308
-- HUD ID before: 
 - Project: BIRCH HILLS APTS
 - Address: 251 KRAEMER CIR
 - City: BREA
-- State: CA
 - ZIP: 92821
-- ZIP extension: 
 - State project ID: CA-11-145
 - Latitude: 33.916272
 - Longitude: -117.864122
@@ -22,9 +19,7 @@
 - Place 2000: 08100
 - Place 1990: 0325
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1009384
 - Units: 115
 - Low-income units: 114
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 87
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

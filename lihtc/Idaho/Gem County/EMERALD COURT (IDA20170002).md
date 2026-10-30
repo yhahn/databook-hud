@@ -1,13 +1,10 @@
 # Project: EMERALD COURT (IDA20170002)
 
 - HUD ID: IDA20170002
-- HUD ID before: 
 - Project: EMERALD COURT
 - Address: 555 NORTH BUTTE AVENUE
 - City: EMMETT
-- State: ID
 - ZIP: 83617
-- ZIP extension: 
 - State project ID: HC1616
 - Latitude: 43.879555
 - Longitude: -116.486509
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 16045960301
 - Tract 2010: 16045960300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 25570
 - Place 2010: 25570
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 310744
 - Units: 32
 - Low-income units: 25
@@ -40,11 +31,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

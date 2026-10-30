@@ -1,11 +1,9 @@
 # Project: NEW MILFORD SENIOR HOUSING (PAA20130008)
 
 - HUD ID: PAA20130008
-- HUD ID before: 
 - Project: NEW MILFORD SENIOR HOUSING
 - Address: 682 CHURCH ST
 - City: NEW MILFORD
-- State: PA
 - ZIP: 18834
 - ZIP extension: 6607
 - State project ID: TC20110629
@@ -19,12 +17,8 @@
 - Tract 1990: 42115032500
 - Place 2020: 53880
 - Place 2010: 53880
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 554284
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

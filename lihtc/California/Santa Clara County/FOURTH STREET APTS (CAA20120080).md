@@ -1,13 +1,10 @@
 # Project: FOURTH STREET APTS (CAA20120080)
 
 - HUD ID: CAA20120080
-- HUD ID before: 
 - Project: FOURTH STREET APTS
 - Address: 1460 N FOURTH ST
 - City: SAN JOSE
-- State: CA
 - ZIP: 95112
-- ZIP extension: 
 - State project ID: CA-09-562
 - Latitude: 37.364499
 - Longitude: -121.907144
@@ -22,9 +19,7 @@
 - Place 2000: 68000
 - Place 1990: 2510
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1417064
 - Units: 100
 - Low-income units: 99
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 90
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 8789846
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1992090.
 - Record status: Existing, unchanged

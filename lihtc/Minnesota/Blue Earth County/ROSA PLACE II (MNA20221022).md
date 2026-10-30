@@ -1,13 +1,10 @@
 # Project: ROSA PLACE II (MNA20221022)
 
 - HUD ID: MNA20221022
-- HUD ID before: 
 - Project: ROSA PLACE II
 - Address: 875 HENRON DRIVE
 - City: ROCHESTER
-- State: MN
 - ZIP: 56001
-- ZIP extension: 
 - State project ID: D8237
 - Latitude: 44.1417
 - Longitude: -93.9793
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 27013171202
 - Tract 2010: 27013171202
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 39878
 - Place 2010: 39878
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 949025
 - Units: 51
 - Low-income units: 51
@@ -39,16 +30,11 @@
 - Credit: 70 percent present value
 - Income ceiling: Income average
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: Yes
@@ -68,7 +54,6 @@
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

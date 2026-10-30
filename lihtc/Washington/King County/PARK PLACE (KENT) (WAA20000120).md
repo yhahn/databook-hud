@@ -1,13 +1,10 @@
 # Project: PARK PLACE (KENT) (WAA20000120)
 
 - HUD ID: WAA20000120
-- HUD ID before: 
 - Project: PARK PLACE (KENT)
 - Address: 1406 MAPLE LN
 - City: KENT
-- State: WA
 - ZIP: 98030
-- ZIP extension: 
 - State project ID: 98-28P
 - Latitude: 47.366779
 - Longitude: -122.227018
@@ -22,9 +19,7 @@
 - Place 2000: 03180
 - Place 1990: 0615
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 298988
 - Units: 50
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

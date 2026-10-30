@@ -1,13 +1,10 @@
 # Project: CAMBRIDGE OAKS APARTMENTS (NCA20150008)
 
 - HUD ID: NCA20150008
-- HUD ID before: 
 - Project: CAMBRIDGE OAKS APARTMENTS
 - Address: 107 CAMBRIDGE OAKS CIRCLE
 - City: KINGS MOUNTAIN
-- State: NC
 - ZIP: 28086
-- ZIP extension: 
 - State project ID: 9150892
 - Latitude: 35.2163
 - Longitude: -81.3821
@@ -22,9 +19,7 @@
 - Place 2000: 35880
 - Place 1990: 1350
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 503944
 - Units: 56
 - Low-income units: 56
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

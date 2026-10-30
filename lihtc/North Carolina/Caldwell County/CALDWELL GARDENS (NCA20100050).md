@@ -1,13 +1,10 @@
 # Project: CALDWELL GARDENS (NCA20100050)
 
 - HUD ID: NCA20100050
-- HUD ID before: 
 - Project: CALDWELL GARDENS
 - Address: 1302 PIEDMONT DRIVE
 - City: LENOIR
-- State: NC
 - ZIP: 28645
-- ZIP extension: 
 - State project ID: 9102465
 - Latitude: 35.925119
 - Longitude: -81.550345
@@ -20,11 +17,8 @@
 - Place 2020: 37760
 - Place 2010: 37760
 - Place 2000: 37760
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 97
 - Low-income units: 97
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 49
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

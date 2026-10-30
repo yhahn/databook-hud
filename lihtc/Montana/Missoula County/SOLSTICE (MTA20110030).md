@@ -1,11 +1,9 @@
 # Project: SOLSTICE (MTA20110030)
 
 - HUD ID: MTA20110030
-- HUD ID before: 
 - Project: SOLSTICE
 - Address: 1535 LIBERTY LANE
 - City: MISSOULA
-- State: MT
 - ZIP: 59801
 - ZIP extension: 0000
 - State project ID: 09080
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 3393992
 - Units: 34
 - Low-income units: 34
@@ -78,8 +74,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA2011509, MTA2009055.
 - Record status: Updated

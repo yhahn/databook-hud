@@ -1,13 +1,10 @@
 # Project: SPRINGCHASE APARTMENTS (NCA20110150)
 
 - HUD ID: NCA20110150
-- HUD ID before: 
 - Project: SPRINGCHASE APARTMENTS
 - Address: 1010 TURNPIKE RD
 - City: LAURINBURG
-- State: NC
 - ZIP: 28352
-- ZIP extension: 
 - State project ID: 9102498
 - Latitude: 34.764695
 - Longitude: -79.491946
@@ -22,9 +19,7 @@
 - Place 2000: 37220
 - Place 1990: 1420
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 40
 - Low-income units: 39
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

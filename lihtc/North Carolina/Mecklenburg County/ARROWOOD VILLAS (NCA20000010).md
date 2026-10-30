@@ -1,11 +1,9 @@
 # Project: ARROWOOD VILLAS (NCA20000010)
 
 - HUD ID: NCA20000010
-- HUD ID before: 
 - Project: ARROWOOD VILLAS
 - Address: 8825 MONT CARMEL LN
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28217
 - ZIP extension: 5196
 - State project ID: 9002196
@@ -22,9 +20,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 224692
 - Units: 120
 - Low-income units: 50
@@ -39,9 +35,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

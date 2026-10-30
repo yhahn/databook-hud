@@ -1,11 +1,9 @@
 # Project: AUDUBON VILLAGE I (VAA20010025)
 
 - HUD ID: VAA20010025
-- HUD ID before: 
 - Project: AUDUBON VILLAGE I
 - Address: 4901 WOOD THRUSH CIRCLE
 - City: RICHMOND
-- State: VA
 - ZIP: 23231
 - ZIP extension: 2787
 - State project ID: 6385
@@ -20,11 +18,8 @@
 - Place 2020: 70256
 - Place 2010: 70256
 - Place 2000: 52904
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 656484
 - Units: 160
 - Low-income units: 160
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA AUDUBON VILLAGE.
 - Record status: Existing, unchanged

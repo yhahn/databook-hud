@@ -1,13 +1,10 @@
 # Project: VICTORIA PARK (VAA20040654)
 
 - HUD ID: VAA20040654
-- HUD ID before: 
 - Project: VICTORIA PARK
 - Address: 16820 FLOTILLA WAY
 - City: WOODBRIDGE
-- State: VA
 - ZIP: 22191
-- ZIP extension: 
 - State project ID: 1132
 - Latitude: 38.589688
 - Longitude: -77.293682
@@ -19,12 +16,8 @@
 - Tract 1990: 51153900800
 - Place 2020: 15176
 - Place 2010: 15176
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 322067
 - Units: 110
 - Low-income units: 110
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

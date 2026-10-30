@@ -1,11 +1,9 @@
 # Project: WASHINGTON SQUARE TOWN HOMES (PAA20172030)
 
 - HUD ID: PAA20172030
-- HUD ID before: 
 - Project: WASHINGTON SQUARE TOWN HOMES
 - Address: 61 W LIBERTY ST
 - City: CHAMBERSBURG
-- State: PA
 - ZIP: 17201
 - ZIP extension: 2418
 - State project ID: TC20160601
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42055011000
 - Tract 2010: 42055011000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 12536
 - Place 2010: 12536
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 868020
 - Units: 54
 - Low-income units: 54
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 54
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 500000
 - CDBG: Yes
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

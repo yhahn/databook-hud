@@ -1,11 +1,9 @@
 # Project: LOWELL APTS. (UTA19950915)
 
 - HUD ID: UTA19950915
-- HUD ID before: 
 - Project: LOWELL APTS.
 - Address: 756 SOUTH 200 EAST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84111
 - ZIP extension: 0000
 - State project ID: 1993-13
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 404803
 - Units: 80
 - Low-income units: 79
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

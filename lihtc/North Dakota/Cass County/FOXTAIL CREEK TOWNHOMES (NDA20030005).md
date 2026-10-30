@@ -1,13 +1,10 @@
 # Project: FOXTAIL CREEK TOWNHOMES (NDA20030005)
 
 - HUD ID: NDA20030005
-- HUD ID before: 
 - Project: FOXTAIL CREEK TOWNHOMES
 - Address: 3740 42ND ST S
 - City: FARGO
-- State: ND
 - ZIP: 58104
-- ZIP extension: 
 - State project ID: TC0115
 - Latitude: 46.821602
 - Longitude: -96.850831
@@ -20,11 +17,8 @@
 - Place 2020: 25700
 - Place 2010: 25700
 - Place 2000: 09320
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 190881
 - Units: 30
 - Low-income units: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

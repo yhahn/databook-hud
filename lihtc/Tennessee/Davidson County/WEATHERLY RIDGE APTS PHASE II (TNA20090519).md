@@ -1,13 +1,10 @@
 # Project: WEATHERLY RIDGE APTS PHASE II (TNA20090519)
 
 - HUD ID: TNA20090519
-- HUD ID before: 
 - Project: WEATHERLY RIDGE APTS PHASE II
 - Address: 401 KOTHE CT
 - City: ANTIOCH
-- State: TN
 - ZIP: 37013
-- ZIP extension: 
 - State project ID: TN-08-001
 - Latitude: 36.070529
 - Longitude: -86.630023
@@ -22,9 +19,7 @@
 - Place 2000: 52006
 - Place 1990: 1016
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 463499
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 418804
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2009107.
 - Record status: Existing, unchanged

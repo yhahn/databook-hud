@@ -1,13 +1,10 @@
 # Project: EASTSIDE GREEN APARTMENTS (NCA20060090)
 
 - HUD ID: NCA20060090
-- HUD ID before: 
 - Project: EASTSIDE GREEN APARTMENTS
 - Address: 708 DUGGINS WAY
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28312
-- ZIP extension: 
 - State project ID: 9002269
 - Latitude: 35.036674
 - Longitude: -78.849441
@@ -19,12 +16,8 @@
 - Tract 1990: 37051001400
 - Place 2020: 22920
 - Place 2010: 22920
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 348575
 - Units: 60
 - Low-income units: 60
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 30
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

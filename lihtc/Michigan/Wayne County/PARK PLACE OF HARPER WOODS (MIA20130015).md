@@ -1,13 +1,10 @@
 # Project: PARK PLACE OF HARPER WOODS (MIA20130015)
 
 - HUD ID: MIA20130015
-- HUD ID before: 
 - Project: PARK PLACE OF HARPER WOODS
 - Address: 19460 PARK DR
 - City: HARPER WOODS
-- State: MI
 - ZIP: 48225
-- ZIP extension: 
 - State project ID: MI-3511
 - Latitude: 42.428576
 - Longitude: -82.922004
@@ -22,9 +19,7 @@
 - Place 2000: 36700
 - Place 1990: 1170
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1175216
 - Units: 132
 - Low-income units: 131
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

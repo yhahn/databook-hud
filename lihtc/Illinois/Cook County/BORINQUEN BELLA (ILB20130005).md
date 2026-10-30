@@ -1,13 +1,10 @@
 # Project: BORINQUEN BELLA (ILB20130005)
 
 - HUD ID: ILB20130005
-- HUD ID before: 
 - Project: BORINQUEN BELLA
 - Address: 1414 N WASHTENAW AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60622
-- ZIP extension: 
 - State project ID: 16-01-209
 - Latitude: 41.907009
 - Longitude: -87.694698
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 850000
 - Units: 47
 - Low-income units: 47
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB1991020, ILB1988005.
 - Record status: Existing, unchanged

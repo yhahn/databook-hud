@@ -1,13 +1,10 @@
 # Project: COTTAGES AT CYPRESS (CAA20140392)
 
 - HUD ID: CAA20140392
-- HUD ID before: 
 - Project: COTTAGES AT CYPRESS
 - Address: 330 CYPRESS ST
 - City: FORT BRAGG
-- State: CA
 - ZIP: 95437
-- ZIP extension: 
 - State project ID: CA-12-141
 - Latitude: 39.432493
 - Longitude: -123.802548
@@ -22,9 +19,7 @@
 - Place 2000: 25058
 - Place 1990: 1050
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 405162
 - Units: 25
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

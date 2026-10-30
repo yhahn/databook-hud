@@ -1,11 +1,9 @@
 # Project: NORTH SIDE COMMUNITY (MNB20105006)
 
 - HUD ID: MNB20105006
-- HUD ID before: 
 - Project: NORTH SIDE COMMUNITY
 - Address: 610 NORTH LOGAN AVENUE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55411
 - ZIP extension: 3856
 - State project ID: D5896
@@ -16,15 +14,11 @@
 - Tract 2020: 27053003300
 - Tract 2010: 27053003300
 - Tract 2000: 27053003300
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 714280
 - Units: 62
 - Low-income units: 62
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +59,10 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

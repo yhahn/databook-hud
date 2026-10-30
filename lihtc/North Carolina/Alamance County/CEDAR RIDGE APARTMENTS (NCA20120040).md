@@ -1,13 +1,10 @@
 # Project: CEDAR RIDGE APARTMENTS (NCA20120040)
 
 - HUD ID: NCA20120040
-- HUD ID before: 
 - Project: CEDAR RIDGE APARTMENTS
 - Address: 181 WILKINS ROAD
 - City: HAW RIVER
-- State: NC
 - ZIP: 27258
-- ZIP extension: 
 - State project ID: 9107156
 - Latitude: 36.095405
 - Longitude: -79.348649
@@ -20,11 +17,8 @@
 - Place 2020: 30260
 - Place 2010: 30260
 - Place 2000: 30260
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 244594
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

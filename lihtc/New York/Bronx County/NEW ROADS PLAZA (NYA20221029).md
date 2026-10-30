@@ -1,13 +1,10 @@
 # Project: NEW ROADS PLAZA (NYA20221029)
 
 - HUD ID: NYA20221029
-- HUD ID before: 
 - Project: NEW ROADS PLAZA
 - Address: 485 EAST 164TH STREET
 - City: BRONX
-- State: NY
 - ZIP: 10456
-- ZIP extension: 
 - State project ID: 20186073
 - Latitude: 40.825896
 - Longitude: -73.909517
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36005018501
 - Tract 2010: 36005018500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 51000
 - Place 2010: 51000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1577244
 - Units: 95
 - Low-income units: 94
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: SMI
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

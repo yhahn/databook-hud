@@ -1,13 +1,10 @@
 # Project: PIONEER SQUARE (IDA20120015)
 
 - HUD ID: IDA20120015
-- HUD ID before: 
 - Project: PIONEER SQUARE
 - Address: 1220 GRAND AVENUE
 - City: BOISE
-- State: ID
 - ZIP: 83702
-- ZIP extension: 
 - State project ID: HC1102
 - Latitude: 43.615886
 - Longitude: -116.21287
@@ -19,12 +16,9 @@
 - Tract 1990: 16001000100
 - Place 2020: 08830
 - Place 2010: 08830
-- Place 2000: 
 - Place 1990: 0090
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 352984
 - Units: 43
 - Low-income units: 43
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

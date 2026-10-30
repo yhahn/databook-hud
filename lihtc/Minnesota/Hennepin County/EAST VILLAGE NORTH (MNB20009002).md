@@ -1,11 +1,9 @@
 # Project: EAST VILLAGE NORTH (MNB20009002)
 
 - HUD ID: MNB20009002
-- HUD ID before: 
 - Project: EAST VILLAGE NORTH
 - Address: 1105-1133 SOUTH 8TH STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 1387
 - State project ID: D2378
@@ -16,15 +14,11 @@
 - Tract 2020: 27053005901
 - Tract 2010: 27053005901
 - Tract 2000: 27053005901
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 693334
 - Units: 70
 - Low-income units: 40
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -68,18 +60,8 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

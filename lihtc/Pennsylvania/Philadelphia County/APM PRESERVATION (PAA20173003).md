@@ -1,11 +1,9 @@
 # Project: APM PRESERVATION (PAA20173003)
 
 - HUD ID: PAA20173003
-- HUD ID before: 
 - Project: APM PRESERVATION
 - Address: SCATTERED SITES
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19122
 - ZIP extension: 1414
 - State project ID: TC20170305
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101015600
 - Tract 2010: 42101015600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1198979
 - Units: 80
 - Low-income units: 80
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: SECTION 811
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

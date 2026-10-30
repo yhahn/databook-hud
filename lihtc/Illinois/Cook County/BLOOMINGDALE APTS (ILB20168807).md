@@ -1,13 +1,10 @@
 # Project: BLOOMINGDALE APTS (ILB20168807)
 
 - HUD ID: ILB20168807
-- HUD ID before: 
 - Project: BLOOMINGDALE APTS
 - Address: 1745 N KEYSTONE AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60639
-- ZIP extension: 
 - State project ID: IL-01-02035
 - Latitude: 41.91294
 - Longitude: -87.727403
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 185479
 - Units: 111
 - Low-income units: 110
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: RELATED STATE_ID = FTC-10554;
 - Record status: Updated

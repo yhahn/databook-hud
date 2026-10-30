@@ -1,13 +1,10 @@
 # Project: SCHIFF R (ILB20070805)
 
 - HUD ID: ILB20070805
-- HUD ID before: 
 - Project: SCHIFF R
 - Address: 1244 N CLYBOURN AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60610
-- ZIP extension: 
 - State project ID: 17-04-130-139
 - Latitude: 41.904685
 - Longitude: -87.641137
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 690000
 - Units: 96
 - Low-income units: 96
@@ -38,12 +33,7 @@
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
-- Increased basis: 
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
@@ -53,18 +43,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -74,12 +54,8 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2007801.
 - Record status: Existing, unchanged

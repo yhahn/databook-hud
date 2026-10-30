@@ -1,13 +1,10 @@
 # Project: VISTA ANGELINA FAMILY APTS (CAA20130113)
 
 - HUD ID: CAA20130113
-- HUD ID before: 
 - Project: VISTA ANGELINA FAMILY APTS
 - Address: 418 E EDGEWARE RD
 - City: LOS ANGELES
-- State: CA
 - ZIP: 90026
-- ZIP extension: 
 - State project ID: CA-12-806
 - Latitude: 34.065856
 - Longitude: -118.254932
@@ -22,9 +19,7 @@
 - Place 2000: 44000
 - Place 1990: 1630
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 768316
 - Units: 108
 - Low-income units: 106
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 106
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 8725000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1995106. AKA TEMPLE/EDGEWARE APTS.
 - Record status: Existing, unchanged

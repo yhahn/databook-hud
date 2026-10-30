@@ -1,11 +1,9 @@
 # Project: CREEKSIDE COMMONS (MNB20105002)
 
 - HUD ID: MNB20105002
-- HUD ID before: 
 - Project: CREEKSIDE COMMONS
 - Address: 115 EAST 54TH STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55419
 - ZIP extension: 1971
 - State project ID: D5907
@@ -16,15 +14,11 @@
 - Tract 2020: 27053111500
 - Tract 2010: 27053111600
 - Tract 2000: 27053111500
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 783444
 - Units: 30
 - Low-income units: 30
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,10 +59,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

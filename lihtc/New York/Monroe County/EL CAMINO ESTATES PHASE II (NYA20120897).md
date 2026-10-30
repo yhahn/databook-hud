@@ -1,13 +1,10 @@
 # Project: EL CAMINO ESTATES PHASE II (NYA20120897)
 
 - HUD ID: NYA20120897
-- HUD ID before: 
 - Project: EL CAMINO ESTATES PHASE II
 - Address: 191 CLIFFORD AVE
 - City: ROCHESTER
-- State: NY
 - ZIP: 14621
-- ZIP extension: 
 - State project ID: 20116062
 - Latitude: 43.174579
 - Longitude: -77.618787
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 3100
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 496116
 - Units: 25
 - Low-income units: 25
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

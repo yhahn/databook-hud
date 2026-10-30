@@ -1,13 +1,10 @@
 # Project: MERRITT HILL COUNTRY (TXA00001025)
 
 - HUD ID: TXA00001025
-- HUD ID before: 
 - Project: MERRITT HILL COUNTRY
 - Address: 28725 RR 12
 - City: DRIPPING SPRINGS
-- State: TX
 - ZIP: 78620
-- ZIP extension: 
 - State project ID: TX5086
 - Latitude: 30.205898
 - Longitude: -98.087831
@@ -16,16 +13,11 @@
 - Tract 2020: 48209010817
 - Tract 2010: 48209010808
 - Tract 2000: 48209010801
-- Tract 1990: 
 - Place 2020: 21424
 - Place 2010: 21424
 - Place 2000: 21424
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 80
 - Low-income units: 40
 - Units reported: 80
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +67,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

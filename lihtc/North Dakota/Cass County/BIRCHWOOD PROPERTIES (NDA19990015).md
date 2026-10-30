@@ -1,13 +1,10 @@
 # Project: BIRCHWOOD PROPERTIES (NDA19990015)
 
 - HUD ID: NDA19990015
-- HUD ID before: 
 - Project: BIRCHWOOD PROPERTIES
 - Address: 2101 27TH AVE S
 - City: FARGO
-- State: ND
 - ZIP: 58103
-- ZIP extension: 
 - State project ID: TC9812
 - Latitude: 46.838508
 - Longitude: -96.813698
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 191182
 - Units: 181
 - Low-income units: 181
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

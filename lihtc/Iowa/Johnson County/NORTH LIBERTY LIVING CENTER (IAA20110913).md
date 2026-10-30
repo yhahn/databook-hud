@@ -1,13 +1,10 @@
 # Project: NORTH LIBERTY LIVING CENTER (IAA20110913)
 
 - HUD ID: IAA20110913
-- HUD ID before: 
 - Project: NORTH LIBERTY LIVING CENTER
 - Address: 450 ASHLEY CT
 - City: NORTH LIBERTY
-- State: IA
 - ZIP: 52317
-- ZIP extension: 
 - State project ID: 09-0943
 - Latitude: 41.728934
 - Longitude: -91.604468
@@ -22,9 +19,7 @@
 - Place 2000: 16230
 - Place 1990: 3115
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 2046002
 - Units: 80
 - Low-income units: 80
@@ -39,9 +34,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 3965884
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2010505, IAA2010043.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MCGREGOR SENIORS APARTMENTS (TXA19950240)
 
 - HUD ID: TXA19950240
-- HUD ID before: 
 - Project: MCGREGOR SENIORS APARTMENTS
 - Address: 1007 S MADISON ST
 - City: MCGREGOR
-- State: TX
 - ZIP: 76657
-- ZIP extension: 
 - State project ID: TX1274
 - Latitude: 31.432837
 - Longitude: -97.403668
@@ -22,10 +19,7 @@
 - Place 2000: 45672
 - Place 1990: 2605
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
-- Allocation amount: 
 - Units: 36
 - Low-income units: 36
 - Units reported: 36
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -76,10 +63,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WATER'S EDGE APTS (ILB20060803)
 
 - HUD ID: ILB20060803
-- HUD ID before: 
 - Project: WATER'S EDGE APTS
 - Address: 2717 N LEAVITT ST
 - City: CHICAGO
-- State: IL
 - ZIP: 60647
-- ZIP extension: 
 - State project ID: TC05-021
 - Latitude: 41.931444
 - Longitude: -87.680269
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 650864
 - Units: 92
 - Low-income units: 91
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA LATHROP ELDERLY AT WATER'S EDGE.
 - Record status: Existing, unchanged

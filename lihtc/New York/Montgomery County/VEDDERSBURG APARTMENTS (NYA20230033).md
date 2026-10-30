@@ -1,13 +1,10 @@
 # Project: VEDDERSBURG APARTMENTS (NYA20230033)
 
 - HUD ID: NYA20230033
-- HUD ID before: 
 - Project: VEDDERSBURG APARTMENTS
 - Address: 251 E. MAIN STREET
 - City: AMSTERDAM
-- State: NY
 - ZIP: 12010
-- ZIP extension: 
 - State project ID: 20200261
 - Latitude: 42.932507
 - Longitude: -74.182993
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36057070900
 - Tract 2010: 36057070900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 02066
 - Place 2010: 02066
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1318242
 - Units: 62
 - Low-income units: 62
@@ -40,15 +31,11 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1933272
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: ESSHI-SPMI
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

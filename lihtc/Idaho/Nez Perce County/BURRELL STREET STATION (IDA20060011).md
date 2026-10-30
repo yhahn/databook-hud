@@ -1,13 +1,10 @@
 # Project: BURRELL STREET STATION (IDA20060011)
 
 - HUD ID: IDA20060011
-- HUD ID before: 
 - Project: BURRELL STREET STATION
 - Address: 1124 BURRELL AVENUE
 - City: LEWISTON
-- State: ID
 - ZIP: 83501
-- ZIP extension: 
 - State project ID: HC0405
 - Latitude: 46.376485
 - Longitude: -116.972515
@@ -22,9 +19,7 @@
 - Place 2000: 46540
 - Place 1990: 0530
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 94475
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

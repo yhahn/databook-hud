@@ -1,11 +1,9 @@
 # Project: BURNT FORK MANOR (MTA19910005)
 
 - HUD ID: MTA19910005
-- HUD ID before: 
 - Project: BURNT FORK MANOR
 - Address: 309, 313 11TH STREET
 - City: STEVENSVILLE
-- State: MT
 - ZIP: 59870
 - ZIP extension: 0000
 - State project ID: 90040
@@ -20,11 +18,8 @@
 - Place 2020: 71200
 - Place 2010: 71200
 - Place 2000: 71200
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 38033
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -76,10 +64,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA0000005.
 - Record status: Existing, unchanged

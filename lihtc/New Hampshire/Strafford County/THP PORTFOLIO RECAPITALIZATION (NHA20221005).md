@@ -1,13 +1,10 @@
 # Project: THP PORTFOLIO RECAPITALIZATION (NHA20221005)
 
 - HUD ID: NHA20221005
-- HUD ID before: 
 - Project: THP PORTFOLIO RECAPITALIZATION
 - Address: 55 SPRING STREET
 - City: FARMINGTON
-- State: NH
 - ZIP: 03835
-- ZIP extension: 
 - State project ID: NH-23-50
 - Latitude: 43.390452
 - Longitude: -71.071621
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 33017087001
 - Tract 2010: 33017087000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 25940
 - Place 2010: 25940
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 179524
 - Units: 40
 - Low-income units: 38
@@ -39,9 +30,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -65,12 +53,7 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: general occupancy
 - Scattered site: Yes
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

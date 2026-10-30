@@ -1,11 +1,9 @@
 # Project: COURTYARD CENTRE AKA STUDIO III (NVA20009003)
 
 - HUD ID: NVA20009003
-- HUD ID before: 
 - Project: COURTYARD CENTRE AKA STUDIO III
 - Address: 695 WEST 3RD STREET
 - City: RENO
-- State: NV
 - ZIP: 89503
 - ZIP extension: 0000
 - State project ID: 99-57
@@ -16,15 +14,11 @@
 - Tract 2020: 32031000103
 - Tract 2010: 32031000101
 - Tract 2000: 32031000100
-- Tract 1990: 
 - Place 2020: 60600
 - Place 2010: 60600
 - Place 2000: 60600
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 741027
 - Units: 240
 - Low-income units: 240
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA STUDIO III.
 - Record status: Existing, unchanged

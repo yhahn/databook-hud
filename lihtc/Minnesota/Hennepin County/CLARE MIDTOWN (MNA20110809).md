@@ -1,11 +1,9 @@
 # Project: CLARE MIDTOWN (MNA20110809)
 
 - HUD ID: MNA20110809
-- HUD ID before: 
 - Project: CLARE MIDTOWN
 - Address: 3105 23RD AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55407
 - ZIP extension: 1989
 - State project ID: D6260
@@ -22,9 +20,7 @@
 - Place 2000: 43000
 - Place 1990: 2585
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 680923
 - Units: 45
 - Low-income units: 45
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -78,8 +73,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

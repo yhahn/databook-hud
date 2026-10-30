@@ -1,13 +1,10 @@
 # Project: KDVA HOMES 07 (KYA20114016)
 
 - HUD ID: KYA20114016
-- HUD ID before: 
 - Project: KDVA HOMES 07
 - Address: DOVES WAY
 - City: MOREHEAD
-- State: KY
 - ZIP: 40351
-- ZIP extension: 
 - State project ID: KY-09-018
 - Latitude: 38.1993
 - Longitude: -83.4446
@@ -16,15 +13,10 @@
 - Tract 2020: 21205950202
 - Tract 2010: 21205950200
 - Tract 2000: 21205950200
-- Tract 1990: 
 - Place 2020: 53418
 - Place 2010: 26560
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 9670716
 - Units: 26
 - Low-income units: 26
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: WOODLAND PARK APTS (NCA19980180)
 
 - HUD ID: NCA19980180
-- HUD ID before: 
 - Project: WOODLAND PARK APTS
 - Address: 1726 3RD AVENUE NW
 - City: HICKORY
-- State: NC
 - ZIP: 28601
 - ZIP extension: 4682
 - State project ID: 9002346
@@ -22,9 +20,7 @@
 - Place 2000: 31060
 - Place 1990: 1175
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 311966
 - Units: 64
 - Low-income units: 64
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 2
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +66,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

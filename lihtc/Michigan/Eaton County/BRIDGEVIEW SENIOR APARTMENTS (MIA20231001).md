@@ -1,11 +1,9 @@
 # Project: BRIDGEVIEW SENIOR APARTMENTS (MIA20231001)
 
 - HUD ID: MIA20231001
-- HUD ID before: 
 - Project: BRIDGEVIEW SENIOR APARTMENTS
 - Address: 208 KING STREET
 - City: EATON RAPIDS
-- State: MI
 - ZIP: 48827
 - ZIP extension: 0000
 - State project ID: 3886
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26045021302
 - Tract 2010: 26045021302
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 24540
 - Place 2010: 24540
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1003605
 - Units: 36
 - Low-income units: 36
@@ -44,11 +36,9 @@
 - Affordability years: 45
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

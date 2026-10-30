@@ -1,11 +1,9 @@
 # Project: MILLCREEK MEADOWS (UTA19940060)
 
 - HUD ID: UTA19940060
-- HUD ID before: 
 - Project: MILLCREEK MEADOWS
 - Address: 885 EAST MEADOW PINE COURT
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84107
 - ZIP extension: 0000
 - State project ID: 1992-21
@@ -16,15 +14,11 @@
 - Tract 2020: 49035111801
 - Tract 2010: 49035111801
 - Tract 2000: 49035111800
-- Tract 1990: 
 - Place 2020: 50150
 - Place 2010: 50150
 - Place 2000: 50150
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 190416
 - Units: 56
 - Low-income units: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +57,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +67,7 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SILVER SPRING APTS (NCA20020165)
 
 - HUD ID: NCA20020165
-- HUD ID before: 
 - Project: SILVER SPRING APTS
 - Address: 601 PONY ROAD
 - City: ZEBULON
-- State: NC
 - ZIP: 27597
-- ZIP extension: 
 - State project ID: 9001131
 - Latitude: 35.815455
 - Longitude: -78.331132
@@ -19,12 +16,9 @@
 - Tract 1990: 37183054302
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 2845
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 189921
 - Units: 33
 - Low-income units: 33
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 17
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

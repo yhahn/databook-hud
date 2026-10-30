@@ -1,13 +1,10 @@
 # Project: SATURN (IDA20120020)
 
 - HUD ID: IDA20120020
-- HUD ID before: 
 - Project: SATURN
 - Address: 740 SATURN AVENUE
 - City: IDAHO FALLS
-- State: ID
 - ZIP: 83402
-- ZIP extension: 
 - State project ID: HC1108
 - Latitude: 43.493778
 - Longitude: -112.058678
@@ -22,9 +19,7 @@
 - Place 2000: 39700
 - Place 1990: 0440
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 234409
 - Units: 38
 - Low-income units: 38
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 34
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

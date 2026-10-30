@@ -1,11 +1,9 @@
 # Project: SOUTH FORTY (MTA20080005)
 
 - HUD ID: MTA20080005
-- HUD ID before: 
 - Project: SOUTH FORTY
 - Address: 769 FALLOW LANE
 - City: BILLINGS
-- State: MT
 - ZIP: 59102
 - ZIP extension: 0000
 - State project ID: 07070
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 206464
 - Units: 101
 - Low-income units: 101
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +73,5 @@
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA0000100.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: VISTA SUNRISE II (CAA20240141)
 
 - HUD ID: CAA20240141
-- HUD ID before: 
 - Project: VISTA SUNRISE II
 - Address: 1527 N. SUNRISE WAY
 - City: PALM SPRINGS
-- State: CA
 - ZIP: 92262
-- ZIP extension: 
 - State project ID: CA-2021-667
 - Latitude: 33.843912
 - Longitude: -116.528466
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06065044602
 - Tract 2010: 06065044602
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 55254
 - Place 2010: 55254
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1211090
 - Units: 61
 - Low-income units: 60
@@ -33,8 +24,6 @@
 - Efficiencies: 48
 - 1-bedroom units: 12
 - 2-bedroom units: 1
-- 3-bedroom units: 
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
@@ -44,11 +33,9 @@
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,8 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -76,10 +61,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

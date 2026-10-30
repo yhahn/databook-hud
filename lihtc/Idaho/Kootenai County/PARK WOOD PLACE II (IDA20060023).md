@@ -1,13 +1,10 @@
 # Project: PARK WOOD PLACE II (IDA20060023)
 
 - HUD ID: IDA20060023
-- HUD ID before: 
 - Project: PARK WOOD PLACE II
 - Address: 15855 NORTH MEYER ROAD
 - City: RATHDRUM
-- State: ID
 - ZIP: 83858
-- ZIP extension: 
 - State project ID: HC0502
 - Latitude: 47.816145
 - Longitude: -116.872643
@@ -20,11 +17,8 @@
 - Place 2020: 66340
 - Place 2010: 66340
 - Place 2000: 66340
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 218198
 - Units: 36
 - Low-income units: 28
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

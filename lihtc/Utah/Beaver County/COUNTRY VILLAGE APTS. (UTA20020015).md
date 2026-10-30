@@ -1,11 +1,9 @@
 # Project: COUNTRY VILLAGE APTS. (UTA20020015)
 
 - HUD ID: UTA20020015
-- HUD ID before: 
 - Project: COUNTRY VILLAGE APTS.
 - Address: 380 WEST 600 NORTH #1
 - City: BEAVER
-- State: UT
 - ZIP: 84713
 - ZIP extension: 0000
 - State project ID: 2000-10
@@ -22,9 +20,7 @@
 - Place 2000: 04060
 - Place 1990: 0050
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 34950
 - Units: 12
 - Low-income units: 12
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

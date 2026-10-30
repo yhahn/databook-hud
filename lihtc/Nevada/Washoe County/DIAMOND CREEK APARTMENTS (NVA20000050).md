@@ -1,11 +1,9 @@
 # Project: DIAMOND CREEK APARTMENTS (NVA20000050)
 
 - HUD ID: NVA20000050
-- HUD ID before: 
 - Project: DIAMOND CREEK APARTMENTS
 - Address: SOUTH MEADOWS PARKWAY
 - City: RENO
-- State: NV
 - ZIP: 89511
 - ZIP extension: 0000
 - State project ID: 99-53
@@ -22,9 +20,7 @@
 - Place 2000: 60600
 - Place 1990: 0090
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 1119830
 - Units: 288
 - Low-income units: 288
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

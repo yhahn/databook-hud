@@ -1,13 +1,10 @@
 # Project: AUBURN TRACE APARTMENTS II (NCA20120015)
 
 - HUD ID: NCA20120015
-- HUD ID before: 
 - Project: AUBURN TRACE APARTMENTS II
 - Address: 2944 AUBURN DRIVE
 - City: BURLINGTON
-- State: NC
 - ZIP: 27215
-- ZIP extension: 
 - State project ID: 9107155
 - Latitude: 36.062797
 - Longitude: -79.494052
@@ -19,12 +16,9 @@
 - Tract 1990: 37001021700
 - Place 2020: 09060
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 0840
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 676160
 - Units: 80
 - Low-income units: 80
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 40
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

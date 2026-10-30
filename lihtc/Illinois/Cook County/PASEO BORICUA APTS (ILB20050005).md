@@ -1,13 +1,10 @@
 # Project: PASEO BORICUA APTS (ILB20050005)
 
 - HUD ID: ILB20050005
-- HUD ID before: 
 - Project: PASEO BORICUA APTS
 - Address: 1154 N CAMPBELL AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60622
-- ZIP extension: 
 - State project ID: IL-03-02030
 - Latitude: 41.902589
 - Longitude: -87.68969
@@ -22,10 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
-- Allocation amount: 
 - Units: 58
 - Low-income units: 58
 - Units reported: 36
@@ -37,11 +31,6 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 70 percent present value
-- Income ceiling: 
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -65,21 +54,13 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Not indicated
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

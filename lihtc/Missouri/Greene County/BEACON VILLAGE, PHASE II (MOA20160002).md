@@ -1,11 +1,9 @@
 # Project: BEACON VILLAGE, PHASE II (MOA20160002)
 
 - HUD ID: MOA20160002
-- HUD ID before: 
 - Project: BEACON VILLAGE, PHASE II
 - Address: 3957 W. BILLINGS STREET
 - City: SPRINGFIELD
-- State: MO
 - ZIP: 65802
 - ZIP extension: 0000
 - State project ID: 15-059
@@ -16,15 +14,10 @@
 - Tract 2020: 29077004304
 - Tract 2010: 29077004302
 - Tract 2000: 29077001700
-- Tract 1990: 
 - Place 2020: 70000
 - Place 2010: 70000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 392000
 - Units: 32
 - Low-income units: 32
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

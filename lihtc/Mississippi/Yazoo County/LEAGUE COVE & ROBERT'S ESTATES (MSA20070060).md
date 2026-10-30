@@ -1,13 +1,10 @@
 # Project: LEAGUE COVE & ROBERT'S ESTATES (MSA20070060)
 
 - HUD ID: MSA20070060
-- HUD ID before: 
 - Project: LEAGUE COVE & ROBERT'S ESTATES
 - Address: 1000 JASON BLVD
 - City: YAZOO CITY
-- State: MS
 - ZIP: 39194
-- ZIP extension: 
 - State project ID: MS-06-144
 - Latitude: 32.8683
 - Longitude: -90.4171
@@ -20,11 +17,8 @@
 - Place 2020: 81520
 - Place 2010: 81520
 - Place 2000: 21420
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 445199
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

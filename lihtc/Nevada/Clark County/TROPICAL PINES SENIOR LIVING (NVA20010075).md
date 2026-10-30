@@ -1,11 +1,9 @@
 # Project: TROPICAL PINES SENIOR LIVING (NVA20010075)
 
 - HUD ID: NVA20010075
-- HUD ID before: 
 - Project: TROPICAL PINES SENIOR LIVING
 - Address: 5030 S JEFFREYS
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89119
 - ZIP extension: 0000
 - State project ID: 99-05
@@ -22,9 +20,7 @@
 - Place 2000: 54600
 - Place 1990: 0084
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 347670
 - Units: 60
 - Low-income units: 60
@@ -40,8 +36,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

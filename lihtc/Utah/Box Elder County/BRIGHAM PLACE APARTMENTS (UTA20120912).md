@@ -1,11 +1,9 @@
 # Project: BRIGHAM PLACE APARTMENTS (UTA20120912)
 
 - HUD ID: UTA20120912
-- HUD ID before: 
 - Project: BRIGHAM PLACE APARTMENTS
 - Address: 168 EAST 800 SOUTH
 - City: BRIGHAM CITY
-- State: UT
 - ZIP: 84302
 - ZIP extension: 0000
 - State project ID: 2010-17
@@ -22,9 +20,7 @@
 - Place 2000: 08460
 - Place 1990: 0080
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 960807
 - Units: 72
 - Low-income units: 72
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

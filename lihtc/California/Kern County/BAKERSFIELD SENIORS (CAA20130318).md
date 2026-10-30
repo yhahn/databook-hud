@@ -1,13 +1,10 @@
 # Project: BAKERSFIELD SENIORS (CAA20130318)
 
 - HUD ID: CAA20130318
-- HUD ID before: 
 - Project: BAKERSFIELD SENIORS
 - Address: 1655 E CALIFORNIA AVE
 - City: BAKERSFIELD
-- State: CA
 - ZIP: 93307
-- ZIP extension: 
 - State project ID: CA-11-003
 - Latitude: 35.368279
 - Longitude: -118.978707
@@ -22,9 +19,7 @@
 - Place 2000: 03526
 - Place 1990: 0180
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 741664
 - Units: 49
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CASE DE EVA APTS.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: TRAILWINDS (THE) (IDA20150004)
 
 - HUD ID: IDA20150004
-- HUD ID before: 
 - Project: TRAILWINDS (THE)
 - Address: 415 EAST 42ND STREET
 - City: GARDEN CITY
-- State: ID
 - ZIP: 83714
-- ZIP extension: 
 - State project ID: HC1410
 - Latitude: 43.635039
 - Longitude: -116.245964
@@ -16,15 +13,11 @@
 - Tract 2020: 16001001100
 - Tract 2010: 16001001100
 - Tract 2000: 16001001100
-- Tract 1990: 
 - Place 2020: 29620
 - Place 2010: 29620
 - Place 2000: 29620
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 848175
 - Units: 64
 - Low-income units: 57
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

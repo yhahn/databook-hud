@@ -1,13 +1,10 @@
 # Project: HILLSIDE VILLAGE (IDA20069007)
 
 - HUD ID: IDA20069007
-- HUD ID before: 
 - Project: HILLSIDE VILLAGE
 - Address: 1126 NORTH POLK EXTENSION
 - City: MOSCOW
-- State: ID
 - ZIP: 83843
-- ZIP extension: 
 - State project ID: HC0401
 - Latitude: 46.746634
 - Longitude: -116.994603
@@ -16,15 +13,11 @@
 - Tract 2020: 16057005101
 - Tract 2010: 16057005100
 - Tract 2000: 16057005100
-- Tract 1990: 
 - Place 2020: 54550
 - Place 2010: 54550
 - Place 2000: 54550
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 432350
 - Units: 50
 - Low-income units: 50
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

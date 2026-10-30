@@ -1,13 +1,10 @@
 # Project: FAIRFAX HALL APARTMENTS (SOUTHERN OAKS APTS) (KYA20080075)
 
 - HUD ID: KYA20080075
-- HUD ID before: 
 - Project: FAIRFAX HALL APARTMENTS (SOUTHERN OAKS APTS)
 - Address: FAIRFAX WAY
 - City: GEORGETOWN
-- State: KY
 - ZIP: 40324
-- ZIP extension: 
 - State project ID: KY-08-104
 - Latitude: 38.2153
 - Longitude: -84.5537
@@ -22,9 +19,7 @@
 - Place 2000: 30700
 - Place 1990: 0775
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 81357
 - Units: 58
 - Low-income units: 58
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

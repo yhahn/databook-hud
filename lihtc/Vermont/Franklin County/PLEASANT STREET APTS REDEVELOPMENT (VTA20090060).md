@@ -1,13 +1,10 @@
 # Project: PLEASANT STREET APTS REDEVELOPMENT (VTA20090060)
 
 - HUD ID: VTA20090060
-- HUD ID before: 
 - Project: PLEASANT STREET APTS REDEVELOPMENT
 - Address: 30 KENNESON DR
 - City: ENOSBURG FALLS
-- State: VT
 - ZIP: 05450
-- ZIP extension: 
 - State project ID: 0394
 - Latitude: 44.911382
 - Longitude: -72.799492
@@ -22,9 +19,7 @@
 - Place 2000: 24025
 - Place 1990: 0820
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 95191
 - Units: 24
 - Low-income units: 24
@@ -38,14 +33,9 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VTA1989005. AKA PLEASANT STREET APTS. FKA ENOSBURG HOUSING PROJECT
 - Record status: Existing, unchanged

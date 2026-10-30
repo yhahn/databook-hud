@@ -1,13 +1,10 @@
 # Project: RIDGEWAY APTS (NCA20040145)
 
 - HUD ID: NCA20040145
-- HUD ID before: 
 - Project: RIDGEWAY APTS
 - Address: 900 RIDGEWAY DRIVE
 - City: SPRING HOPE
-- State: NC
 - ZIP: 27882
-- ZIP extension: 
 - State project ID: 9001308
 - Latitude: 35.94791
 - Longitude: -78.104887
@@ -19,12 +16,8 @@
 - Tract 1990: 37127011000
 - Place 2020: 64160
 - Place 2010: 64160
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 170353
 - Units: 32
 - Low-income units: 32
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: BOIS FORTE HOMES III (MNA20180003)
 
 - HUD ID: MNA20180003
-- HUD ID before: 
 - Project: BOIS FORTE HOMES III
 - Address: 6466 / 6468 RED PINE WAY
 - City: TOWER
-- State: MN
 - ZIP: 55790
-- ZIP extension: 
 - State project ID: D7641
 - Latitude: 48.2
 - Longitude: -92.4477
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 27137015502
 - Tract 2010: 27137015500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 549837
 - Units: 20
 - Low-income units: 20
@@ -39,16 +30,11 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +54,7 @@
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
 - Disabled: Yes
-- Homeless: 
 - Other population: Yes
 - Other population named: Drugs
 - Scattered site: Yes
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: STONEGATE APT HOMES II (CAA20140446)
 
 - HUD ID: CAA20140446
-- HUD ID before: 
 - Project: STONEGATE APT HOMES II
 - Address: 8911 KATELLA AVE
 - City: ANAHEIM
-- State: CA
 - ZIP: 92804
-- ZIP extension: 
 - State project ID: CA-12-060
 - Latitude: 33.803267
 - Longitude: -117.977126
@@ -22,9 +19,7 @@
 - Place 2000: 02000
 - Place 1990: 2800
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 463212
 - Units: 26
 - Low-income units: 25
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

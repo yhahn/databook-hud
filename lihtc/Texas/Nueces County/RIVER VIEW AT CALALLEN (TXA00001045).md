@@ -1,13 +1,10 @@
 # Project: RIVER VIEW AT CALALLEN (TXA00001045)
 
 - HUD ID: TXA00001045
-- HUD ID before: 
 - Project: RIVER VIEW AT CALALLEN
 - Address: 11930 LEOPARD STREET
 - City: CORPUS CHRISTI
-- State: TX
 - ZIP: 78410
-- ZIP extension: 
 - State project ID: TX5140
 - Latitude: 27.853042
 - Longitude: -97.598069
@@ -16,16 +13,10 @@
 - Tract 2020: 48355003601
 - Tract 2010: 48355003601
 - Tract 2000: 48355003601
-- Tract 1990: 
 - Place 2020: 17000
 - Place 2010: 17000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 96
 - Low-income units: 96
 - Units reported: 96
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

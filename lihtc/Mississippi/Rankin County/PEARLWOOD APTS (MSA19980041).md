@@ -1,13 +1,9 @@
 # Project: PEARLWOOD APTS (MSA19980041)
 
 - HUD ID: MSA19980041
-- HUD ID before: 
 - Project: PEARLWOOD APTS
 - Address: 4531 OLD BRANDON RD
 - City: PEARL
-- State: MS
-- ZIP: 
-- ZIP extension: 
 - State project ID: MS-96-118
 - Latitude: 32.290337
 - Longitude: -90.076091
@@ -22,9 +18,7 @@
 - Place 2000: 08300
 - Place 1990: 0985
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 126607
 - Units: 40
 - Low-income units: 39
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998604.
 - Record status: Existing, unchanged

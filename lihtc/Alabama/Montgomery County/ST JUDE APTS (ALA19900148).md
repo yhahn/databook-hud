@@ -1,13 +1,10 @@
 # Project: ST JUDE APTS (ALA19900148)
 
 - HUD ID: ALA19900148
-- HUD ID before: 
 - Project: ST JUDE APTS
 - Address: 2048 W FAIRVIEW AVE
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36108
-- ZIP extension: 
 - State project ID: AL-90-0063
 - Latitude: 32.351592
 - Longitude: -86.32704
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 1180
 - Year placed in service: 1990
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 280800
 - Units: 96
 - Low-income units: 96
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 96
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,11 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1992100.
 - Record status: Existing, unchanged

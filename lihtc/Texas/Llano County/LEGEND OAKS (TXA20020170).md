@@ -1,13 +1,10 @@
 # Project: LEGEND OAKS (TXA20020170)
 
 - HUD ID: TXA20020170
-- HUD ID before: 
 - Project: LEGEND OAKS
 - Address: 101 LEGEND HILLS BLVD
 - City: LLANO
-- State: TX
 - ZIP: 78643
-- ZIP extension: 
 - State project ID: TX0210
 - Latitude: 30.750968
 - Longitude: -98.697483
@@ -22,10 +19,7 @@
 - Place 2000: 43144
 - Place 1990: 2495
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 40
 - Units reported: 48
@@ -35,20 +29,12 @@
 - 2-bedroom units: 18
 - 3-bedroom units: 0
 - 4-bedroom units: 0
-- Construction: 
-- Credit: 
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +49,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

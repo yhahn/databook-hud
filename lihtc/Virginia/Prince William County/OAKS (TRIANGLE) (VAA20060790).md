@@ -1,13 +1,10 @@
 # Project: OAKS (TRIANGLE) (VAA20060790)
 
 - HUD ID: VAA20060790
-- HUD ID before: 
 - Project: OAKS (TRIANGLE)
 - Address: 3900 SOUNDVIEW CIR
 - City: TRIANGLE
-- State: VA
 - ZIP: 22172
-- ZIP extension: 
 - State project ID: 9061
 - Latitude: 38.554325
 - Longitude: -77.328478
@@ -22,9 +19,7 @@
 - Place 2000: 23760
 - Place 1990: 0414
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 571327
 - Units: 58
 - Low-income units: 58
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005173. AKA OAKS.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: NORTHGATE APTS. (UTA20020070)
 
 - HUD ID: UTA20020070
-- HUD ID before: 
 - Project: NORTHGATE APTS.
 - Address: 55 SOUTH 500 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84101
 - ZIP extension: 0000
 - State project ID: 2000-05
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 1461012
 - Units: 330
 - Low-income units: 159
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

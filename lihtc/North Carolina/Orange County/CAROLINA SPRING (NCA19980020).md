@@ -1,13 +1,10 @@
 # Project: CAROLINA SPRING (NCA19980020)
 
 - HUD ID: NCA19980020
-- HUD ID before: 
 - Project: CAROLINA SPRING
 - Address: 600 W POPLAR AVENUE
 - City: CARRBORO
-- State: NC
 - ZIP: 27514
-- ZIP extension: 
 - State project ID: 9002239
 - Latitude: 35.912917
 - Longitude: -79.091512
@@ -16,15 +13,11 @@
 - Tract 2020: 37135010707
 - Tract 2010: 37135010703
 - Tract 2000: 37135010703
-- Tract 1990: 
 - Place 2020: 10620
 - Place 2010: 10620
 - Place 2000: 10620
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 696825
 - Units: 124
 - Low-income units: 124
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

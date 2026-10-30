@@ -1,13 +1,10 @@
 # Project: WHEATLEY PARK SENIOR LIVING (TXA00000974)
 
 - HUD ID: TXA00000974
-- HUD ID before: 
 - Project: WHEATLEY PARK SENIOR LIVING
 - Address: 910 N. MITTMAN STREET
 - City: SAN ANTONIO
-- State: TX
 - ZIP: 78202
-- ZIP extension: 
 - State project ID: TX5115
 - Latitude: 29.430549
 - Longitude: -98.45471
@@ -16,16 +13,11 @@
 - Tract 2020: 48029130600
 - Tract 2010: 48029130600
 - Tract 2000: 48029130600
-- Tract 1990: 
 - Place 2020: 65000
 - Place 2010: 65000
 - Place 2000: 65000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 80
 - Low-income units: 80
 - Units reported: 80
@@ -63,7 +55,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 3039025
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -76,10 +67,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: FRANK BERRY COURTS (MSA20110030)
 
 - HUD ID: MSA20110030
-- HUD ID before: 
 - Project: FRANK BERRY COURTS
 - Address: 920 42ND AVE
 - City: MERIDIAN
-- State: MS
 - ZIP: 39307
-- ZIP extension: 
 - State project ID: MS-10-T-034
 - Latitude: 32.366582
 - Longitude: -88.719621
@@ -22,9 +19,7 @@
 - Place 2000: 46640
 - Place 1990: 0805
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 414368
 - Units: 113
 - Low-income units: 113
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011676.
 - Record status: Existing, unchanged

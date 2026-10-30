@@ -1,13 +1,10 @@
 # Project: WESTON TRACE (NCA19970345)
 
 - HUD ID: NCA19970345
-- HUD ID before: 
 - Project: WESTON TRACE
 - Address: 204 WESTCROFT DRIVE
 - City: GARNER
-- State: NC
 - ZIP: 27529
-- ZIP extension: 
 - State project ID: 9000961
 - Latitude: 35.719569
 - Longitude: -78.61578
@@ -22,9 +19,7 @@
 - Place 2000: 25480
 - Place 1990: 0975
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 233634
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 48
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

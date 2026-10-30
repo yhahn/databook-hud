@@ -1,13 +1,10 @@
 # Project: HERALD SQUARE (NDA20020015)
 
 - HUD ID: NDA20020015
-- HUD ID before: 
 - Project: HERALD SQUARE
 - Address: 305 ROBERTS ST N
 - City: FARGO
-- State: ND
 - ZIP: 58102
-- ZIP extension: 
 - State project ID: TC0102
 - Latitude: 46.879295
 - Longitude: -96.788869
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 55411
 - Units: 9
 - Low-income units: 9
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA RENAISSANCE PARTNERS.
 - Record status: Existing, unchanged

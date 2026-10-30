@@ -1,13 +1,10 @@
 # Project: PRINCE HALL PLACE (MIA20100058)
 
 - HUD ID: MIA20100058
-- HUD ID before: 
 - Project: PRINCE HALL PLACE
 - Address: 2199 PRINCE HALL DR
 - City: DETROIT
-- State: MI
 - ZIP: 48207
-- ZIP extension: 
 - State project ID: MI-798
 - Latitude: 42.350016
 - Longitude: -83.02457
@@ -22,10 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 156
 - Low-income units: 125
 - Units reported: 156
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 3538092
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1991325.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: JEFFERSON BROOKVILLE (VAA20150015)
 
 - HUD ID: VAA20150015
-- HUD ID before: 
 - Project: JEFFERSON BROOKVILLE
 - Address: 815 28TH STREET
 - City: NEWPORT NEWS
-- State: VA
 - ZIP: 23607
-- ZIP extension: 
 - State project ID: 9535
 - Latitude: 36.986003
 - Longitude: -76.416038
@@ -22,9 +19,7 @@
 - Place 2000: 56000
 - Place 1990: 0860
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 705733
 - Units: 50
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

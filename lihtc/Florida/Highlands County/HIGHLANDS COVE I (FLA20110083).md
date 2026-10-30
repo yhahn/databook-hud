@@ -1,13 +1,10 @@
 # Project: HIGHLANDS COVE I (FLA20110083)
 
 - HUD ID: FLA20110083
-- HUD ID before: 
 - Project: HIGHLANDS COVE I
 - Address: 454 MACLYN CIR
 - City: LAKE PLACID
-- State: FL
 - ZIP: 33852
-- ZIP extension: 
 - State project ID: 2465
 - Latitude: 27.302299
 - Longitude: -81.36231
@@ -20,11 +17,8 @@
 - Place 2020: 38625
 - Place 2010: 38625
 - Place 2000: 38625
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 965000
 - Units: 64
 - Low-income units: 64
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,19 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 2983899
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: LINK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

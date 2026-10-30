@@ -1,11 +1,9 @@
 # Project: MARSH RIDGE (I & II) (MIA20160002)
 
 - HUD ID: MIA20160002
-- HUD ID before: 
 - Project: MARSH RIDGE (I & II)
 - Address: 470 MARSH RIDGE DR NW
 - City: GRAND RAPIDS
-- State: MI
 - ZIP: 49504
 - ZIP extension: 0000
 - State project ID: 3489
@@ -16,15 +14,11 @@
 - Tract 2020: 26081001801
 - Tract 2010: 26081001800
 - Tract 2000: 26081001800
-- Tract 1990: 
 - Place 2020: 34000
 - Place 2010: 34000
 - Place 2000: 34000
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 259732
 - Units: 150
 - Low-income units: 119
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

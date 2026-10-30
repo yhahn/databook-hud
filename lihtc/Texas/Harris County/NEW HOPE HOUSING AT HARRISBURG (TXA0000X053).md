@@ -1,13 +1,10 @@
 # Project: NEW HOPE HOUSING AT HARRISBURG (TXA0000X053)
 
 - HUD ID: TXA0000X053
-- HUD ID before: 
 - Project: NEW HOPE HOUSING AT HARRISBURG
 - Address: 3315 HARRISBURG BLVD.
 - City: HOUSTON
-- State: TX
 - ZIP: 77003
-- ZIP extension: 
 - State project ID: TX5146
 - Latitude: 29.748956
 - Longitude: -95.341953
@@ -16,16 +13,11 @@
 - Tract 2020: 48201310101
 - Tract 2010: 48201310100
 - Tract 2000: 48201310100
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
 - Place 2000: 35000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 175
 - Low-income units: 175
 - Units reported: 175
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -76,10 +67,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

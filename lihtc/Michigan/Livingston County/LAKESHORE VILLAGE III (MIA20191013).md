@@ -1,11 +1,9 @@
 # Project: LAKESHORE VILLAGE III (MIA20191013)
 
 - HUD ID: MIA20191013
-- HUD ID before: 
 - Project: LAKESHORE VILLAGE III
 - Address: 2812 ONTARIO COURT
 - City: HOWELL
-- State: MI
 - ZIP: 48843
 - ZIP extension: 0000
 - State project ID: 3716
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26093742403
 - Tract 2010: 26093742401
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 964990
 - Units: 144
 - Low-income units: 144
@@ -40,15 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 3498274
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

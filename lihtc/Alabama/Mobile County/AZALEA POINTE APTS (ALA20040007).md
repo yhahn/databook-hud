@@ -1,13 +1,10 @@
 # Project: AZALEA POINTE APTS (ALA20040007)
 
 - HUD ID: ALA20040007
-- HUD ID before: 
 - Project: AZALEA POINTE APTS
 - Address: 651 AZALEA RD
 - City: MOBILE
-- State: AL
 - ZIP: 36609
-- ZIP extension: 
 - State project ID: AL-03-0805
 - Latitude: 30.656333
 - Longitude: -88.143125
@@ -22,9 +19,7 @@
 - Place 2000: 50000
 - Place 1990: 1165
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 359237
 - Units: 208
 - Low-income units: 208
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 208
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2003015. AKA SUMMIT VILLAGE GREEN. FKA VILLAGE GREEN APTS
 - Record status: Existing, unchanged

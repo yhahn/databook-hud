@@ -1,13 +1,10 @@
 # Project: HAMILTON PLACE APTS (ALA20050027)
 
 - HUD ID: ALA20050027
-- HUD ID before: 
 - Project: HAMILTON PLACE APTS
 - Address: 111 TODD TRAIL
 - City: MILLBROOK
-- State: AL
 - ZIP: 36054
-- ZIP extension: 
 - State project ID: AL-05-0009
 - Latitude: 32.522796
 - Longitude: -86.36837
@@ -22,9 +19,7 @@
 - Place 2000: 48712
 - Place 1990: 1152
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 388754
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1686100
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007060.
 - Record status: Existing, unchanged

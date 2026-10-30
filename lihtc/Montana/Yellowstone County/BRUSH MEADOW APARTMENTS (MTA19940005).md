@@ -1,11 +1,9 @@
 # Project: BRUSH MEADOW APARTMENTS (MTA19940005)
 
 - HUD ID: MTA19940005
-- HUD ID before: 
 - Project: BRUSH MEADOW APARTMENTS
 - Address: 1203 LAKE ELMO ROAD
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: 92070
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 368792
 - Units: 60
 - Low-income units: 60
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

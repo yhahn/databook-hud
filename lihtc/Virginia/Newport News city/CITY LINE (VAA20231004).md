@@ -1,13 +1,10 @@
 # Project: CITY LINE (VAA20231004)
 
 - HUD ID: VAA20231004
-- HUD ID before: 
 - Project: CITY LINE
 - Address: 155-A MYTILENE DRIVE
 - City: NEWPORT NEWS
-- State: VA
 - ZIP: 23605
-- ZIP extension: 
 - State project ID: 1230
 - Latitude: 37.018448
 - Longitude: -76.421118
@@ -22,9 +19,7 @@
 - Place 2000: 35000
 - Place 1990: 0590
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 2312306
 - Units: 200
 - Low-income units: 200
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 50
 - Non-profit sponsor: No
@@ -48,8 +42,6 @@
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006105. AKA DARBYTOWN MEADOWS.
 - Record status: Updated

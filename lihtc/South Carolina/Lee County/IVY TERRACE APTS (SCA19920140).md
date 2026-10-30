@@ -1,13 +1,10 @@
 # Project: IVY TERRACE APTS (SCA19920140)
 
 - HUD ID: SCA19920140
-- HUD ID before: 
 - Project: IVY TERRACE APTS
 - Address: 560 S LEE ST
 - City: BISHOPVILLE
-- State: SC
 - ZIP: 29010
-- ZIP extension: 
 - State project ID: SC-91-020
 - Latitude: 34.206693
 - Longitude: -80.256695
@@ -20,11 +17,8 @@
 - Place 2020: 06310
 - Place 2010: 06310
 - Place 2000: 06310
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 62016
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

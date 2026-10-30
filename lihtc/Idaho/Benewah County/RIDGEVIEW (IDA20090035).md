@@ -1,13 +1,10 @@
 # Project: RIDGEVIEW (IDA20090035)
 
 - HUD ID: IDA20090035
-- HUD ID before: 
 - Project: RIDGEVIEW
 - Address: 1640 WASHINGTON AVENUE
 - City: ST MARIES
-- State: ID
 - ZIP: 83861
-- ZIP extension: 
 - State project ID: HC0913
 - Latitude: 47.313529
 - Longitude: -116.575898
@@ -22,9 +19,7 @@
 - Place 2000: 71470
 - Place 1990: 0870
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 176920
 - Units: 34
 - Low-income units: 34
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

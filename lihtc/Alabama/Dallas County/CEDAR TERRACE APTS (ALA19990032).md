@@ -1,13 +1,10 @@
 # Project: CEDAR TERRACE APTS (ALA19990032)
 
 - HUD ID: ALA19990032
-- HUD ID before: 
 - Project: CEDAR TERRACE APTS
 - Address: 2917 CITIZENS PKWY
 - City: SELMA
-- State: AL
 - ZIP: 36701
-- ZIP extension: 
 - State project ID: AL-99-0065
 - Latitude: 32.441171
 - Longitude: -87.024711
@@ -22,9 +19,7 @@
 - Place 2000: 69120
 - Place 1990: 1555
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 246390
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,10 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2000035.
 - Record status: Existing, unchanged

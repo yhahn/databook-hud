@@ -1,13 +1,10 @@
 # Project: MARYCREST SENIOR CAMPUS IV (IAA20090040)
 
 - HUD ID: IAA20090040
-- HUD ID before: 
 - Project: MARYCREST SENIOR CAMPUS IV
 - Address: 1601 E 12TH ST
 - City: DAVENPORT
-- State: IA
 - ZIP: 52803
-- ZIP extension: 
 - State project ID: 06-33
 - Latitude: 41.53213
 - Longitude: -90.552346
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 1040
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 244809
 - Units: 20
 - Low-income units: 20
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +47,9 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

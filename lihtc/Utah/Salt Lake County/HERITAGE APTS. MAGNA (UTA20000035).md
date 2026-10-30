@@ -1,11 +1,9 @@
 # Project: HERITAGE APTS. MAGNA (UTA20000035)
 
 - HUD ID: UTA20000035
-- HUD ID before: 
 - Project: HERITAGE APTS. MAGNA
 - Address: 3539 3543 S. KINGSBURG COVE
 - City: MAGNA
-- State: UT
 - ZIP: 84044
 - ZIP extension: 0000
 - State project ID: 1998-14
@@ -19,12 +17,9 @@
 - Tract 1990: 49035113905
 - Place 2020: 47290
 - Place 2010: 47290
-- Place 2000: 
 - Place 1990: 0535
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 450000
 - Units: 80
 - Low-income units: 76
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

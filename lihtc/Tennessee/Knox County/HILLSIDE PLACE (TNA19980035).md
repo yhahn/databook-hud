@@ -1,13 +1,10 @@
 # Project: HILLSIDE PLACE (TNA19980035)
 
 - HUD ID: TNA19980035
-- HUD ID before: 
 - Project: HILLSIDE PLACE
 - Address: 2000 EDGEVIEW WAY
 - City: KNOXVILLE
-- State: TN
 - ZIP: 37918
-- ZIP extension: 
 - State project ID: TN-96-038
 - Latitude: 36.012571
 - Longitude: -83.931851
@@ -22,9 +19,7 @@
 - Place 2000: 40000
 - Place 1990: 0760
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 563396
 - Units: 96
 - Low-income units: 96
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

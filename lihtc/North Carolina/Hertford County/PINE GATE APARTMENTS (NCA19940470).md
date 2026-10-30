@@ -1,13 +1,10 @@
 # Project: PINE GATE APARTMENTS (NCA19940470)
 
 - HUD ID: NCA19940470
-- HUD ID before: 
 - Project: PINE GATE APARTMENTS
 - Address: 26 PARKWOOD DRIVE
 - City: AHOSKIE
-- State: NC
 - ZIP: 27910
-- ZIP extension: 
 - State project ID: 9000763
 - Latitude: 36.292117
 - Longitude: -76.996717
@@ -16,15 +13,10 @@
 - Tract 2020: 37091950401
 - Tract 2010: 37091950401
 - Tract 2000: 37091950400
-- Tract 1990: 
 - Place 2020: 00500
 - Place 2010: 00500
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 61063
 - Units: 56
 - Low-income units: 56
@@ -39,9 +31,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +61,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

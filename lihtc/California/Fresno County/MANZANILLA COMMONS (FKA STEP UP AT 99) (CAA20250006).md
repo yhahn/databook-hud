@@ -1,13 +1,10 @@
 # Project: MANZANILLA COMMONS (FKA STEP UP AT 99) (CAA20250006)
 
 - HUD ID: CAA20250006
-- HUD ID before: 
 - Project: MANZANILLA COMMONS (FKA STEP UP AT 99)
 - Address: 1240 N CRYSTAL AVE
 - City: FRESNO
-- State: CA
 - ZIP: 93728
-- ZIP extension: 
 - State project ID: CA-2022-050
 - Latitude: 36.758362
 - Longitude: -119.831373
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06019002000
 - Tract 2010: 06019002000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 27000
 - Place 2010: 27000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2025
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 2500000
 - Units: 63
 - Low-income units: 62
@@ -34,7 +25,6 @@
 - 1-bedroom units: 20
 - 2-bedroom units: 17
 - 3-bedroom units: 16
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
@@ -44,11 +34,9 @@
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,18 +56,9 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

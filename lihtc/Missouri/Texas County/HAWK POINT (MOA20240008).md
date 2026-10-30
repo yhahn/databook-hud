@@ -1,11 +1,9 @@
 # Project: HAWK POINT (MOA20240008)
 
 - HUD ID: MOA20240008
-- HUD ID before: 
 - Project: HAWK POINT
 - Address: 220 CARTER STREET
 - City: LICKING
-- State: MO
 - ZIP: 65542
 - ZIP extension: 0000
 - State project ID: 21-049
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29215480102
 - Tract 2010: 29215480100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 42464
 - Place 2010: 42464
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 242500
 - Units: 18
 - Low-income units: 16
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +55,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -76,10 +65,5 @@
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

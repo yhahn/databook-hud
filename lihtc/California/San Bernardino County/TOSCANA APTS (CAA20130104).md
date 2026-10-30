@@ -1,13 +1,10 @@
 # Project: TOSCANA APTS (CAA20130104)
 
 - HUD ID: CAA20130104
-- HUD ID before: 
 - Project: TOSCANA APTS
 - Address: 7806 SIERRA AVE
 - City: FONTANA
-- State: CA
 - ZIP: 92336
-- ZIP extension: 
 - State project ID: CA-11-045
 - Latitude: 34.112019
 - Longitude: -117.436021
@@ -22,9 +19,7 @@
 - Place 2000: 24680
 - Place 1990: 1030
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 930738
 - Units: 53
 - Low-income units: 52
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 37
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

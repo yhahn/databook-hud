@@ -1,11 +1,9 @@
 # Project: PIONEER APARTMENTS (PAA20202017)
 
 - HUD ID: PAA20202017
-- HUD ID before: 
 - Project: PIONEER APARTMENTS
 - Address: 1015 4TH AVE
 - City: NEW KENSINGTON
-- State: PA
 - ZIP: 15068
 - ZIP extension: 6246
 - State project ID: TC20190802
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42129800700
 - Tract 2010: 42129800700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 53736
 - Place 2010: 53736
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 1014283
 - Units: 36
 - Low-income units: 36
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: 811
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: ORCHARD GARDENS (MTA20050010)
 
 - HUD ID: MTA20050010
-- HUD ID before: 
 - Project: ORCHARD GARDENS
 - Address: 210 S GROVE ST
 - City: MISSOULA
-- State: MT
 - ZIP: 59804
-- ZIP extension: 
 - State project ID: MT-04-040
 - Latitude: 46.86946
 - Longitude: -114.041821
@@ -22,9 +19,7 @@
 - Place 2000: 50200
 - Place 1990: 0500
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 426132
 - Units: 35
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,6 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

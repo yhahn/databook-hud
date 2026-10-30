@@ -1,13 +1,10 @@
 # Project: KIMBERLY SUNSET (IDA20060015)
 
 - HUD ID: IDA20060015
-- HUD ID before: 
 - Project: KIMBERLY SUNSET
 - Address: 125 SPRUCE STREET
 - City: KIMBERLY
-- State: ID
 - ZIP: 83341
-- ZIP extension: 
 - State project ID: HC0411
 - Latitude: 42.534989
 - Longitude: -114.372351
@@ -22,9 +19,7 @@
 - Place 2000: 43570
 - Place 1990: 0495
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 75152
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

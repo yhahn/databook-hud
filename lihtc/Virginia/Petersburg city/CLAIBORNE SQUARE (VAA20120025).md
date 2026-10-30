@@ -1,13 +1,10 @@
 # Project: CLAIBORNE SQUARE (VAA20120025)
 
 - HUD ID: VAA20120025
-- HUD ID before: 
 - Project: CLAIBORNE SQUARE
 - Address: 518 HALIFAX ST
 - City: PETERSBURG
-- State: VA
 - ZIP: 23803
-- ZIP extension: 
 - State project ID: 1288
 - Latitude: 37.218757
 - Longitude: -77.407378
@@ -22,9 +19,7 @@
 - Place 2000: 61832
 - Place 1990: 0960
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 408906
 - Units: 47
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: Yes
 - TCAP amount: 1900000
 - TCEP: Yes
 - TCEP amount: 798510
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

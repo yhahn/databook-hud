@@ -1,11 +1,9 @@
 # Project: OLYMPIC HOMES (KYA20040608)
 
 - HUD ID: KYA20040608
-- HUD ID before: 
 - Project: OLYMPIC HOMES
 - Address: READY MIX ROAD
 - City: HARLAN
-- State: KY
 - ZIP: 40831
 - ZIP extension: 0956
 - State project ID: KY-02-049
@@ -19,12 +17,8 @@
 - Tract 1990: 21095970900
 - Place 2020: 34732
 - Place 2010: 34732
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 276157
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: EAST SIDE APARTMENTS (MNB20171011)
 
 - HUD ID: MNB20171011
-- HUD ID before: 
 - Project: EAST SIDE APARTMENTS
 - Address: 1256 WILSON AVENUE
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55106
 - ZIP extension: 5787
 - State project ID: D8031
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 27123034601
 - Tract 2010: 27123034601
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 866827
 - Units: 114
 - Low-income units: 113
@@ -39,16 +31,12 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +56,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy, Single HOH w/ Minor Children, Individuals and HH of Color, Single Women, Single M
 - Scattered site: No
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

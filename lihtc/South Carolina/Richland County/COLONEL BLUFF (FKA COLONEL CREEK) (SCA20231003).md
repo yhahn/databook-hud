@@ -1,11 +1,9 @@
 # Project: COLONEL BLUFF (FKA COLONEL CREEK) (SCA20231003)
 
 - HUD ID: SCA20231003
-- HUD ID before: 
 - Project: COLONEL BLUFF (FKA COLONEL CREEK)
 - Address: 930 ASHCROFT CIRCLE
 - City: COLUMBIA
-- State: SC
 - ZIP: 29229
 - ZIP extension: 0000
 - State project ID: SC-42027
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 45079011418
 - Tract 2010: 45079011418
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 2484186
 - Units: 288
 - Low-income units: 288
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +55,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +67,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

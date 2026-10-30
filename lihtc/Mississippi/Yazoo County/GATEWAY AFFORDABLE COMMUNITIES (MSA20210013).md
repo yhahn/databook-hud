@@ -1,11 +1,9 @@
 # Project: GATEWAY AFFORDABLE COMMUNITIES (MSA20210013)
 
 - HUD ID: MSA20210013
-- HUD ID before: 
 - Project: GATEWAY AFFORDABLE COMMUNITIES
 - Address: 941 CALHOUN AVE
 - City: YAZOO CITY
-- State: MS
 - ZIP: 39194
 - ZIP extension: 0000
 - State project ID: 17-T-013
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28163950300
 - Tract 2010: 28163950300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 81520
 - Place 2010: 81520
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 1299231
 - Units: 268
 - Low-income units: 268
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +63,5 @@
 - Scattered site: Yes
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

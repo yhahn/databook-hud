@@ -1,13 +1,10 @@
 # Project: FOX RIDGE APTS (ALA19960033)
 
 - HUD ID: ALA19960033
-- HUD ID before: 
 - Project: FOX RIDGE APTS
 - Address: 520 CNTY RD 9
 - City: VERNON
-- State: AL
 - ZIP: 35592
-- ZIP extension: 
 - State project ID: AL-96-0031
 - Latitude: 33.746585
 - Longitude: -88.118632
@@ -20,11 +17,8 @@
 - Place 2020: 78480
 - Place 2010: 78480
 - Place 2000: 78480
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 208856
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1205000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997055.
 - Record status: Existing, unchanged

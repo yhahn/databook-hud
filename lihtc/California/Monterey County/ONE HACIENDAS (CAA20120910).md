@@ -1,13 +1,10 @@
 # Project: ONE HACIENDAS (CAA20120910)
 
 - HUD ID: CAA20120910
-- HUD ID before: 
 - Project: ONE HACIENDAS
 - Address: 233 CALLE CEBU
 - City: SALINAS
-- State: CA
 - ZIP: 93901
-- ZIP extension: 
 - State project ID: CA-11-058
 - Latitude: 36.680476
 - Longitude: -121.649501
@@ -22,9 +19,7 @@
 - Place 2000: 07578
 - Place 1990: 2435
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 938419
 - Units: 52
 - Low-income units: 52
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

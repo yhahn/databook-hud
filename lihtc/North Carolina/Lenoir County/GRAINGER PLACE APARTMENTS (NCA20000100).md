@@ -1,13 +1,10 @@
 # Project: GRAINGER PLACE APARTMENTS (NCA20000100)
 
 - HUD ID: NCA20000100
-- HUD ID before: 
 - Project: GRAINGER PLACE APARTMENTS
 - Address: 301 SUMMIT AVE
 - City: KINSTON
-- State: NC
 - ZIP: 28501
-- ZIP extension: 
 - State project ID: 9002287
 - Latitude: 35.272363
 - Longitude: -77.57784
@@ -22,9 +19,7 @@
 - Place 2000: 35920
 - Place 1990: 1355
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 321900
 - Units: 57
 - Low-income units: 57
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: LAKE WOODS SENIOR APTS PHASE II (WAA19960075)
 
 - HUD ID: WAA19960075
-- HUD ID before: 
 - Project: LAKE WOODS SENIOR APTS PHASE II
 - Address: 12404 19TH PL W
 - City: EVERETT
-- State: WA
 - ZIP: 98204
-- ZIP extension: 
 - State project ID: WA-94-00119
 - Latitude: 47.885662
 - Longitude: -122.256601
@@ -22,9 +19,7 @@
 - Place 2000: 52765
 - Place 1990: 0953
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 300255
 - Units: 51
 - Low-income units: 51
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA LAKE WOODS II SENIOR APTS.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: AIRWAY RIDGE (TNA20110534)
 
 - HUD ID: TNA20110534
-- HUD ID before: 
 - Project: AIRWAY RIDGE
 - Address: 101 AIRWAY RIDGE RD
 - City: LOUISVILLE
-- State: TN
 - ZIP: 37777
-- ZIP extension: 
 - State project ID: TN-09-073
 - Latitude: 35.855982
 - Longitude: -83.956912
@@ -20,11 +17,8 @@
 - Place 2020: 00540
 - Place 2010: 00540
 - Place 2000: 00540
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 600000
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 1612400
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2011005.
 - Record status: Existing, unchanged

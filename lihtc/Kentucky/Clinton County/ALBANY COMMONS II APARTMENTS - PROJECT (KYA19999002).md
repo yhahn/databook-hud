@@ -1,13 +1,10 @@
 # Project: ALBANY COMMONS II APARTMENTS - PROJECT (KYA19999002)
 
 - HUD ID: KYA19999002
-- HUD ID before: 
 - Project: ALBANY COMMONS II APARTMENTS - PROJECT
 - Address: NOLAN ST.
 - City: ALBANY
-- State: KY
 - ZIP: 42602
-- ZIP extension: 
 - State project ID: KY-98-075
 - Latitude: 36.7984
 - Longitude: -85.1268
@@ -16,15 +13,10 @@
 - Tract 2020: 21053970100
 - Tract 2010: 21053970100
 - Tract 2000: 21053970200
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 23880
 - Units: 12
 - Low-income units: 12
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

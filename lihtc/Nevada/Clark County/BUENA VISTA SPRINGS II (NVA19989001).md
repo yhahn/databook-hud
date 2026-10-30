@@ -1,11 +1,9 @@
 # Project: BUENA VISTA SPRINGS II (NVA19989001)
 
 - HUD ID: NVA19989001
-- HUD ID before: 
 - Project: BUENA VISTA SPRINGS II
 - Address: 2417 MORTON AVENUE
 - City: NORTH LAS VEGAS
-- State: NV
 - ZIP: 89030
 - ZIP extension: 0000
 - State project ID: 96-01
@@ -16,15 +14,11 @@
 - Tract 2020: 32003003616
 - Tract 2010: 32003003616
 - Tract 2000: 32003003602
-- Tract 1990: 
 - Place 2020: 51800
 - Place 2010: 51800
 - Place 2000: 51800
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 159617
 - Units: 24
 - Low-income units: 18
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

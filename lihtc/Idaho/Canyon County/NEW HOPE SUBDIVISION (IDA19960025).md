@@ -1,13 +1,10 @@
 # Project: NEW HOPE SUBDIVISION (IDA19960025)
 
 - HUD ID: IDA19960025
-- HUD ID before: 
 - Project: NEW HOPE SUBDIVISION
 - Address: 839 COMSTOCK CIRCLE
 - City: NAMPA
-- State: ID
 - ZIP: 83651
-- ZIP extension: 
 - State project ID: HC9429
 - Latitude: 43.593812
 - Longitude: -116.591759
@@ -22,9 +19,7 @@
 - Place 2000: 56260
 - Place 1990: 0660
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 95525
 - Units: 16
 - Low-income units: 16
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

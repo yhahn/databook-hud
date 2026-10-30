@@ -1,13 +1,10 @@
 # Project: RENAISSANCE COMMONS (NCA20030155)
 
 - HUD ID: NCA20030155
-- HUD ID before: 
 - Project: RENAISSANCE COMMONS
 - Address: 301 RENAISSANCE CIRCLE
 - City: ELIZABETH CITY
-- State: NC
 - ZIP: 27909
-- ZIP extension: 
 - State project ID: 9001228
 - Latitude: 36.291315
 - Longitude: -76.235215
@@ -22,9 +19,7 @@
 - Place 2000: 20580
 - Place 1990: 0805
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 271619
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

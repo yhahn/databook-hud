@@ -1,11 +1,9 @@
 # Project: UNIVERSITY DALE APARTMENTS (MNB20069018)
 
 - HUD ID: MNB20069018
-- HUD ID before: 
 - Project: UNIVERSITY DALE APARTMENTS
 - Address: 627 AURORA AVENUE WEST
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55104
 - ZIP extension: 4209
 - State project ID: D3839
@@ -16,15 +14,11 @@
 - Tract 2020: 27123033500
 - Tract 2010: 27123033500
 - Tract 2000: 27123033500
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 535483
 - Units: 98
 - Low-income units: 79
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +59,10 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
 - Other population named: No
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

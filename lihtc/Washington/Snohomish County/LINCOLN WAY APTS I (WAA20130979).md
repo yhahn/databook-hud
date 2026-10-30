@@ -1,13 +1,10 @@
 # Project: LINCOLN WAY APTS I (WAA20130979)
 
 - HUD ID: WAA20130979
-- HUD ID before: 
 - Project: LINCOLN WAY APTS I
 - Address: 2721 LINCOLN WAY
 - City: LYNNWOOD
-- State: WA
 - ZIP: 98087
-- ZIP extension: 
 - State project ID: 96-35E
 - Latitude: 47.872721
 - Longitude: -122.270436
@@ -22,10 +19,7 @@
 - Place 2000: 52765
 - Place 1990: 0953
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 50
 - Low-income units: 50
 - Units reported: 50
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA1997085, WAA0000382.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: MCKEESPORT DOWNTOWN HSG (PAA20133028)
 
 - HUD ID: PAA20133028
-- HUD ID before: 
 - Project: MCKEESPORT DOWNTOWN HSG
 - Address: 523 SINCLAIR ST
 - City: MCKEESPORT
-- State: PA
 - ZIP: 15132
 - ZIP extension: 3029
 - State project ID: TC20120404
@@ -16,15 +14,11 @@
 - Tract 2020: 42003551900
 - Tract 2010: 42003551900
 - Tract 2000: 42003551900
-- Tract 1990: 
 - Place 2020: 46256
 - Place 2010: 46256
 - Place 2000: 46256
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 1014705
 - Units: 84
 - Low-income units: 84
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 84
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

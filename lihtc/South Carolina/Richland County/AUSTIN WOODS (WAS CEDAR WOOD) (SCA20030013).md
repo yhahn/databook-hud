@@ -1,13 +1,10 @@
 # Project: AUSTIN WOODS (WAS CEDAR WOOD) (SCA20030013)
 
 - HUD ID: SCA20030013
-- HUD ID before: 
 - Project: AUSTIN WOODS (WAS CEDAR WOOD)
 - Address: 7648 GARNERS FERRY RD
 - City: COLUMBIA
-- State: SC
 - ZIP: 29209
-- ZIP extension: 
 - State project ID: SC-50-102
 - Latitude: 33.959173
 - Longitude: -80.938423
@@ -20,11 +17,8 @@
 - Place 2020: 16000
 - Place 2010: 16000
 - Place 2000: 16000
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 374516
 - Units: 240
 - Low-income units: 240
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2004015. FKA CEDAR WOOD
 - Record status: Existing, unchanged

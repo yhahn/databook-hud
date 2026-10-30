@@ -1,13 +1,10 @@
 # Project: JEFFERSON APARTMENTS I (KYA19950097)
 
 - HUD ID: KYA19950097
-- HUD ID before: 
 - Project: JEFFERSON APARTMENTS I
 - Address: W. JEFFERSON ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40202
-- ZIP extension: 
 - State project ID: KY-94-034
 - Latitude: 38.254138
 - Longitude: -85.759659
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 1230
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 131718
 - Units: 21
 - Low-income units: 21
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +57,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +70,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

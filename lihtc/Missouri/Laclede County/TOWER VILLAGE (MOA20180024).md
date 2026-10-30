@@ -1,11 +1,9 @@
 # Project: TOWER VILLAGE (MOA20180024)
 
 - HUD ID: MOA20180024
-- HUD ID before: 
 - Project: TOWER VILLAGE
 - Address: 623 TOWER RD
 - City: LEBANON
-- State: MO
 - ZIP: 65536
 - ZIP extension: 0000
 - State project ID: 17-005
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29105960500
 - Tract 2010: 29105960500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 41168
 - Place 2010: 41168
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 405000
 - Units: 36
 - Low-income units: 36
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

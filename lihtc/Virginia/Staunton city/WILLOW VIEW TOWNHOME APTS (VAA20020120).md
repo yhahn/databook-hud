@@ -1,13 +1,10 @@
 # Project: WILLOW VIEW TOWNHOME APTS (VAA20020120)
 
 - HUD ID: VAA20020120
-- HUD ID before: 
 - Project: WILLOW VIEW TOWNHOME APTS
 - Address: 102 BAYLOR ST
 - City: STAUNTON
-- State: VA
 - ZIP: 24401
-- ZIP extension: 
 - State project ID: 4110
 - Latitude: 38.162884
 - Longitude: -79.076729
@@ -22,9 +19,7 @@
 - Place 2000: 75216
 - Place 1990: 1257
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 391120
 - Units: 110
 - Low-income units: 110
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA0000091. AKA WOODLEE TERRACE, LINCOLN SQUARE.
 - Record status: Existing, unchanged

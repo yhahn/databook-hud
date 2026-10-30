@@ -1,13 +1,10 @@
 # Project: RIVER GLEN (NCA19980135)
 
 - HUD ID: NCA19980135
-- HUD ID before: 
 - Project: RIVER GLEN
 - Address: 1 RIVER GLEN DRIVE
 - City: ARDEN
-- State: NC
 - ZIP: 28704
-- ZIP extension: 
 - State project ID: 9001349
 - Latitude: 35.456444
 - Longitude: -82.533592
@@ -19,12 +16,8 @@
 - Tract 1990: 37021002201
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 181651
 - Units: 38
 - Low-income units: 38
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

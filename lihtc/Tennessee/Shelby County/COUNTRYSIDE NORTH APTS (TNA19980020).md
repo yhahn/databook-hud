@@ -1,13 +1,10 @@
 # Project: COUNTRYSIDE NORTH APTS (TNA19980020)
 
 - HUD ID: TNA19980020
-- HUD ID before: 
 - Project: COUNTRYSIDE NORTH APTS
 - Address: 6934 COUNTRY MANOR DR
 - City: MEMPHIS
-- State: TN
 - ZIP: 38133
-- ZIP extension: 
 - State project ID: TN-97-106
 - Latitude: 35.196202
 - Longitude: -89.832381
@@ -20,11 +17,8 @@
 - Place 2020: 48000
 - Place 2010: 48000
 - Place 2000: 03440
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 322744
 - Units: 152
 - Low-income units: 152
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS,,, TNA1997800.
 - Record status: Existing, unchanged

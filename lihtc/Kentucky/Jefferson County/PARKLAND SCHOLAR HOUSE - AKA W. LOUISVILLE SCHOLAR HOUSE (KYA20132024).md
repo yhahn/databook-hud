@@ -1,13 +1,10 @@
 # Project: PARKLAND SCHOLAR HOUSE - AKA W. LOUISVILLE SCHOLAR HOUSE (KYA20132024)
 
 - HUD ID: KYA20132024
-- HUD ID before: 
 - Project: PARKLAND SCHOLAR HOUSE - AKA W. LOUISVILLE SCHOLAR HOUSE
 - Address: CATALPA STREET
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40211
-- ZIP extension: 
 - State project ID: KY-13-008
 - Latitude: 38.2386
 - Longitude: -85.8254
@@ -16,15 +13,10 @@
 - Tract 2020: 21111001200
 - Tract 2010: 21111001200
 - Tract 2000: 21111001200
-- Tract 1990: 
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1787732
 - Units: 48
 - Low-income units: 48
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

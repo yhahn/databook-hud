@@ -1,13 +1,10 @@
 # Project: PORTLAND COURTYARD (TNA19960075)
 
 - HUD ID: TNA19960075
-- HUD ID before: 
 - Project: PORTLAND COURTYARD
 - Address: 100 PORTLAND COURTYARD DR
 - City: PORTLAND
-- State: TN
 - ZIP: 37148
-- ZIP extension: 
 - State project ID: TN-94-027
 - Latitude: 36.577962
 - Longitude: -86.499545
@@ -22,9 +19,7 @@
 - Place 2000: 60280
 - Place 1990: 1145
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 275869
 - Units: 63
 - Low-income units: 63
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

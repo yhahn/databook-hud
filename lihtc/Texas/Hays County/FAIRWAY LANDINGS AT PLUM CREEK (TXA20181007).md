@@ -1,13 +1,10 @@
 # Project: FAIRWAY LANDINGS AT PLUM CREEK (TXA20181007)
 
 - HUD ID: TXA20181007
-- HUD ID before: 
 - Project: FAIRWAY LANDINGS AT PLUM CREEK
 - Address: 510 KOHLERS CROSSING
 - City: KYLE
-- State: TX
 - ZIP: 78640
-- ZIP extension: 
 - State project ID: TX5179
 - Latitude: 30.027752
 - Longitude: -97.882933
@@ -16,16 +13,11 @@
 - Tract 2020: 48209010909
 - Tract 2010: 48209010909
 - Tract 2000: 48209010904
-- Tract 1990: 
 - Place 2020: 39952
 - Place 2010: 39952
 - Place 2000: 39952
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 216
 - Low-income units: 216
 - Units reported: 216
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

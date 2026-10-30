@@ -1,13 +1,10 @@
 # Project: YARDS AT UNION STATION C (ORA20130007)
 
 - HUD ID: ORA20130007
-- HUD ID before: 
 - Project: YARDS AT UNION STATION C
 - Address: 615 NW NAITO PKWY
 - City: PORTLAND
-- State: OR
 - ZIP: 97209
-- ZIP extension: 
 - State project ID: 2822
 - Latitude: 45.527668
 - Longitude: -122.673025
@@ -22,9 +19,7 @@
 - Place 2000: 59000
 - Place 1990: 0905
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 531586
 - Units: 154
 - Low-income units: 154
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

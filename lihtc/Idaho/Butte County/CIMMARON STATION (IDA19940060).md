@@ -1,13 +1,10 @@
 # Project: CIMMARON STATION (IDA19940060)
 
 - HUD ID: IDA19940060
-- HUD ID before: 
 - Project: CIMMARON STATION
 - Address: 632 BUTTE AVENUE
 - City: ARCO
-- State: ID
 - ZIP: 83213
-- ZIP extension: 
 - State project ID: HC9309
 - Latitude: 43.629554
 - Longitude: -113.307562
@@ -20,11 +17,8 @@
 - Place 2020: 03160
 - Place 2010: 03160
 - Place 2000: 03160
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 43263
 - Units: 24
 - Low-income units: 23
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

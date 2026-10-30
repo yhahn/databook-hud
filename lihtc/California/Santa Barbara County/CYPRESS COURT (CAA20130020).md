@@ -1,13 +1,10 @@
 # Project: CYPRESS COURT (CAA20130020)
 
 - HUD ID: CAA20130020
-- HUD ID before: 
 - Project: CYPRESS COURT
 - Address: 125 S SEVENTH ST
 - City: LOMPOC
-- State: CA
 - ZIP: 93436
-- ZIP extension: 
 - State project ID: CA-11-134
 - Latitude: 34.638492
 - Longitude: -120.44029
@@ -22,9 +19,7 @@
 - Place 2000: 42524
 - Place 1990: 1600
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 954463
 - Units: 60
 - Low-income units: 59
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 500000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA LOMPOC PACIFIC ASSOC.
 - Record status: Existing, unchanged

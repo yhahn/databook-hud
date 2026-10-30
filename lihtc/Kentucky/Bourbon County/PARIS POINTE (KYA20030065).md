@@ -1,13 +1,10 @@
 # Project: PARIS POINTE (KYA20030065)
 
 - HUD ID: KYA20030065
-- HUD ID before: 
 - Project: PARIS POINTE
 - Address: LILLY LN.
 - City: PARIS
-- State: KY
 - ZIP: 40361
-- ZIP extension: 
 - State project ID: KY-01-025
 - Latitude: 38.2155
 - Longitude: -84.2279
@@ -22,9 +19,7 @@
 - Place 2000: 59196
 - Place 1990: 1530
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 252140
 - Units: 36
 - Low-income units: 36
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

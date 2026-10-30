@@ -1,13 +1,10 @@
 # Project: JAYCEE FAIRGROUNDS VILLAGE (MOA20130016)
 
 - HUD ID: MOA20130016
-- HUD ID before: 
 - Project: JAYCEE FAIRGROUNDS VILLAGE
 - Address: 1355 FAIRGROUNDS RD
 - City: ST CHARLES
-- State: MO
 - ZIP: 63301
-- ZIP extension: 
 - State project ID: 11-055
 - Latitude: 38.772917
 - Longitude: -90.499439
@@ -22,9 +19,7 @@
 - Place 2000: 64082
 - Place 1990: 3830
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 900000
 - Units: 135
 - Low-income units: 131
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA JAYCEE FAIRGROUNDS VILLAGE SENIOR.
 - Record status: Existing, unchanged

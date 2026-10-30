@@ -1,13 +1,10 @@
 # Project: NORWALK & GRIMES PARKS II (IAA20110909)
 
 - HUD ID: IAA20110909
-- HUD ID before: 
 - Project: NORWALK & GRIMES PARKS II
 - Address: 900 E 17TH ST
 - City: NORWALK
-- State: IA
 - ZIP: 50211
-- ZIP extension: 
 - State project ID: 10-10-226
 - Latitude: 41.476586
 - Longitude: -93.667908
@@ -22,9 +19,7 @@
 - Place 2000: 57675
 - Place 1990: 3130
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 262042
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA1993095.
 - Record status: Existing, unchanged

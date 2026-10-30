@@ -1,11 +1,9 @@
 # Project: CROWN AT DELTA (UTA20090907)
 
 - HUD ID: UTA20090907
-- HUD ID before: 
 - Project: CROWN AT DELTA
 - Address: 535 EAST 220 NORTH
 - City: DELTA
-- State: UT
 - ZIP: 84624
 - ZIP extension: 0000
 - State project ID: 2009-02
@@ -22,9 +20,7 @@
 - Place 2000: 18910
 - Place 1990: 0170
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 45803
 - Units: 3
 - Low-income units: 3
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

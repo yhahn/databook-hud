@@ -1,11 +1,9 @@
 # Project: CROWN AT MONROE (UTA20120910)
 
 - HUD ID: UTA20120910
-- HUD ID before: 
 - Project: CROWN AT MONROE
 - Address: 198 NORTH 580 WEST
 - City: MONROE
-- State: UT
 - ZIP: 84754
 - ZIP extension: 0000
 - State project ID: 2011-05
@@ -19,12 +17,9 @@
 - Tract 1990: 49041975500
 - Place 2020: 51360
 - Place 2010: 51360
-- Place 2000: 
 - Place 1990: 0615
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 51048
 - Units: 4
 - Low-income units: 4
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

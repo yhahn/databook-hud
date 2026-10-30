@@ -1,13 +1,10 @@
 # Project: ESTATES AT NORTHAMPTON (ALA20090011)
 
 - HUD ID: ALA20090011
-- HUD ID before: 
 - Project: ESTATES AT NORTHAMPTON
 - Address: 5685 EXPRESS DR
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36116
-- ZIP extension: 
 - State project ID: AL-09-0039
 - Latitude: 32.315846
 - Longitude: -86.2272
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 1180
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1195202
 - Units: 96
 - Low-income units: 96
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 96
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2011030, ALA2011566.
 - Record status: Existing, unchanged

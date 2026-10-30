@@ -1,13 +1,10 @@
 # Project: PINECREST APARTMENTS (NCA20070100)
 
 - HUD ID: NCA20070100
-- HUD ID before: 
 - Project: PINECREST APARTMENTS
 - Address: 3605 MARTINS TRAIL CIRCLE
 - City: WALKERTOWN
-- State: NC
 - ZIP: 27051
-- ZIP extension: 
 - State project ID: 9002319
 - Latitude: 36.162181
 - Longitude: -80.134707
@@ -19,12 +16,8 @@
 - Tract 1990: 37067003001
 - Place 2020: 70660
 - Place 2010: 70660
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 541824
 - Units: 80
 - Low-income units: 80
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: EMERALD TRACE APTS II (LAA19980040)
 
 - HUD ID: LAA19980040
-- HUD ID before: 
 - Project: EMERALD TRACE APTS II
 - Address: 419 EMERALD TRACE DRIVE
 - City: RUSTON
-- State: LA
 - ZIP: 71270
 - ZIP extension: 0000
 - State project ID: LA-96-004
@@ -22,9 +20,7 @@
 - Place 2000: 66655
 - Place 1990: 1190
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 33035
 - Units: 24
 - Low-income units: 24
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

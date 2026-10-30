@@ -1,11 +1,9 @@
 # Project: ACME HOTEL (MTA20040005)
 
 - HUD ID: MTA20040005
-- HUD ID before: 
 - Project: ACME HOTEL
 - Address: 107 NORTH BRODWAY
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: 02130
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 100000
 - Units: 19
 - Low-income units: 19
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

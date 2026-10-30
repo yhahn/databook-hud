@@ -1,13 +1,10 @@
 # Project: FOOTHILL FARMS (CAA20120952)
 
 - HUD ID: CAA20120952
-- HUD ID before: 
 - Project: FOOTHILL FARMS
 - Address: 5400 AUBURN BLVD
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95841
-- ZIP extension: 
 - State project ID: CA-10-202
 - Latitude: 38.667609
 - Longitude: -121.337998
@@ -22,9 +19,7 @@
 - Place 2000: 24722
 - Place 1990: 1935
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1498359
 - Units: 138
 - Low-income units: 136
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 97
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 1660000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA FOOTHILL FARMS SENIOR APTS.
 - Record status: Existing, unchanged

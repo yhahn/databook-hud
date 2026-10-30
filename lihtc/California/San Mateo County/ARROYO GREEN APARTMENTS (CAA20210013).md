@@ -1,13 +1,10 @@
 # Project: ARROYO GREEN APARTMENTS (CAA20210013)
 
 - HUD ID: CAA20210013
-- HUD ID before: 
 - Project: ARROYO GREEN APARTMENTS
 - Address: 707-777 BRADFORD STREET
 - City: REDWOOD CITY
-- State: CA
 - ZIP: 94063
-- ZIP extension: 
 - State project ID: CA-2018-629
 - Latitude: 37.488792
 - Longitude: -122.228146
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06081610202
 - Tract 2010: 06081610202
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60102
 - Place 2010: 60102
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 2813116
 - Units: 117
 - Low-income units: 116
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: Yes
@@ -67,9 +54,7 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Persons with HIV/Aids
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

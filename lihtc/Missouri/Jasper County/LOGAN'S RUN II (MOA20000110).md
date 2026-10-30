@@ -1,11 +1,9 @@
 # Project: LOGAN'S RUN II (MOA20000110)
 
 - HUD ID: MOA20000110
-- HUD ID before: 
 - Project: LOGAN'S RUN II
 - Address: 1630 LOGAN DR
 - City: WEBB CITY
-- State: MO
 - ZIP: 64870
 - ZIP extension: 3057
 - State project ID: 99037
@@ -13,18 +11,10 @@
 - Longitude: -94.49495
 - County FIPS: 29097
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29097010300
-- Tract 2000: 
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 37592
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 83095
 - Units: 12
 - Low-income units: 12
@@ -40,8 +30,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +45,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

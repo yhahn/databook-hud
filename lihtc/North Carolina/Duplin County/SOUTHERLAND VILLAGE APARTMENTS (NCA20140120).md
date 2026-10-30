@@ -1,13 +1,10 @@
 # Project: SOUTHERLAND VILLAGE APARTMENTS (NCA20140120)
 
 - HUD ID: NCA20140120
-- HUD ID before: 
 - Project: SOUTHERLAND VILLAGE APARTMENTS
 - Address: 400 POND VIEW LANE
 - City: WALLACE
-- State: NC
 - ZIP: 28466
-- ZIP extension: 
 - State project ID: 9134611
 - Latitude: 34.7511
 - Longitude: -77.9837
@@ -19,12 +16,8 @@
 - Tract 1990: 37061990700
 - Place 2020: 70720
 - Place 2010: 70720
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 453600
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

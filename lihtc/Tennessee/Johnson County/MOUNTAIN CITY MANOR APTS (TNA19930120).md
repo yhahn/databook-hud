@@ -1,13 +1,10 @@
 # Project: MOUNTAIN CITY MANOR APTS (TNA19930120)
 
 - HUD ID: TNA19930120
-- HUD ID before: 
 - Project: MOUNTAIN CITY MANOR APTS
 - Address: 310 DOTSON LN
 - City: MOUNTAIN CITY
-- State: TN
 - ZIP: 37683
-- ZIP extension: 
 - State project ID: TN-92-032
 - Latitude: 36.438849
 - Longitude: -81.79817
@@ -20,11 +17,8 @@
 - Place 2020: 50400
 - Place 2010: 50400
 - Place 2000: 50400
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 67172
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

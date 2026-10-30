@@ -1,13 +1,10 @@
 # Project: CEDAR SPRINGS PLACE (SCA20080016)
 
 - HUD ID: SCA20080016
-- HUD ID before: 
 - Project: CEDAR SPRINGS PLACE
 - Address: 200 SERENITY SPRINGS LN
 - City: SPARTANBURG
-- State: SC
 - ZIP: 29302
-- ZIP extension: 
 - State project ID: SC-06-901
 - Latitude: 34.910093
 - Longitude: -81.887545
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 61720
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 386678
 - Units: 48
 - Low-income units: 48
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: Yes
 - HOPE VI amount: 414375
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WALKER LANDING (NCA20070200)
 
 - HUD ID: NCA20070200
-- HUD ID before: 
 - Project: WALKER LANDING
 - Address: 1003 WALKER AVENUE
 - City: ELIZABETH CITY
-- State: NC
 - ZIP: 27909
-- ZIP extension: 
 - State project ID: 9002249
 - Latitude: 36.289586
 - Longitude: -76.233502
@@ -22,9 +19,7 @@
 - Place 2000: 20580
 - Place 1990: 0805
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 281244
 - Units: 155
 - Low-income units: 155
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

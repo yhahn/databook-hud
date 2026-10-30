@@ -1,13 +1,10 @@
 # Project: GALWAY (IDA20100010)
 
 - HUD ID: IDA20100010
-- HUD ID before: 
 - Project: GALWAY
 - Address: 2219 WEST KARCHER ROAD
 - City: NAMPA
-- State: ID
 - ZIP: 83651
-- ZIP extension: 
 - State project ID: HC1003
 - Latitude: 43.604794
 - Longitude: -116.608496
@@ -20,11 +17,8 @@
 - Place 2020: 56260
 - Place 2010: 56260
 - Place 2000: 56260
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 341635
 - Units: 56
 - Low-income units: 55
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 55
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,7 +64,6 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +71,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

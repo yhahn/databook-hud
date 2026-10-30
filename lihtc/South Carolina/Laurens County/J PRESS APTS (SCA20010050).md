@@ -1,13 +1,10 @@
 # Project: J PRESS APTS (SCA20010050)
 
 - HUD ID: SCA20010050
-- HUD ID before: 
 - Project: J PRESS APTS
 - Address: 110 CLAY ST
 - City: CLINTON
-- State: SC
 - ZIP: 29325
-- ZIP extension: 
 - State project ID: SC-99-012
 - Latitude: 34.473796
 - Longitude: -81.878589
@@ -20,11 +17,8 @@
 - Place 2020: 15295
 - Place 2010: 15295
 - Place 2000: 15295
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 74725
 - Units: 20
 - Low-income units: 16
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

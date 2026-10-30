@@ -1,13 +1,10 @@
 # Project: ALABAMA STREET FAMILY HOUSING (CAA20080056)
 
 - HUD ID: CAA20080056
-- HUD ID before: 
 - Project: ALABAMA STREET FAMILY HOUSING
 - Address: 2949 18TH ST
 - City: SAN FRANCISCO
-- State: CA
 - ZIP: 94110
-- ZIP extension: 
 - State project ID: CA-06-860
 - Latitude: 37.761537
 - Longitude: -122.411138
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 2485
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 1569463
 - Units: 93
 - Low-income units: 92
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 92
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

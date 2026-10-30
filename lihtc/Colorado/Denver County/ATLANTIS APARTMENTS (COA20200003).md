@@ -1,13 +1,10 @@
 # Project: ATLANTIS APARTMENTS (COA20200003)
 
 - HUD ID: COA20200003
-- HUD ID before: 
 - Project: ATLANTIS APARTMENTS
 - Address: 201 S. CHEROKEE ST.
 - City: DENVER
-- State: CO
 - ZIP: 80223
-- ZIP extension: 
 - State project ID: CO-20-03
 - Latitude: 39.712584
 - Longitude: -104.992613
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 08031002102
 - Tract 2010: 08031002100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 20000
 - Place 2010: 20000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 1244304
 - Units: 60
 - Low-income units: 60
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 46
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Mixed
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

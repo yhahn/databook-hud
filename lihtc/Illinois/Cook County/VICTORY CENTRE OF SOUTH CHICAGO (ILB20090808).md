@@ -1,13 +1,10 @@
 # Project: VICTORY CENTRE OF SOUTH CHICAGO (ILB20090808)
 
 - HUD ID: ILB20090808
-- HUD ID before: 
 - Project: VICTORY CENTRE OF SOUTH CHICAGO
 - Address: 3251 E 92ND STREET
 - City: CHICAGO
-- State: IL
 - ZIP: 60617
-- ZIP extension: 
 - State project ID: TC-07-028
 - Latitude: 41.728162
 - Longitude: -87.545539
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 922905
 - Units: 112
 - Low-income units: 112
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +43,11 @@
 - RHS 538 loan: No
 - HOME: Yes
 - HOME amount: 2000000
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2009802.
 - Record status: Existing, unchanged

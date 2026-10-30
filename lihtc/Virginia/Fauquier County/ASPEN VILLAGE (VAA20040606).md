@@ -1,13 +1,10 @@
 # Project: ASPEN VILLAGE (VAA20040606)
 
 - HUD ID: VAA20040606
-- HUD ID before: 
 - Project: ASPEN VILLAGE
 - Address: 6220 ASPEN WAY
 - City: BEALETON
-- State: VA
 - ZIP: 22712
-- ZIP extension: 
 - State project ID: 8894
 - Latitude: 38.57908
 - Longitude: -77.763294
@@ -20,11 +17,8 @@
 - Place 2020: 05336
 - Place 2010: 05336
 - Place 2000: 66512
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 209895
 - Units: 30
 - Low-income units: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003010. AKA VILLAGES AT ASPEN CLUB.
 - Record status: Updated

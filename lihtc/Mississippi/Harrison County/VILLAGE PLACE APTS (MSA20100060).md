@@ -1,13 +1,10 @@
 # Project: VILLAGE PLACE APTS (MSA20100060)
 
 - HUD ID: MSA20100060
-- HUD ID before: 
 - Project: VILLAGE PLACE APTS
 - Address: 18059 ROBINSON RD
 - City: GULFPORT
-- State: MS
 - ZIP: 39503
-- ZIP extension: 
 - State project ID: MS-07-2-006
 - Latitude: 30.463729
 - Longitude: -89.139313
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 29700
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1111475
 - Units: 96
 - Low-income units: 96
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

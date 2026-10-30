@@ -1,13 +1,10 @@
 # Project: MOREHEAD INSPIRATION CENTER (KYA20070055)
 
 - HUD ID: KYA20070055
-- HUD ID before: 
 - Project: MOREHEAD INSPIRATION CENTER
 - Address: U.S. 60 WEST
 - City: MOREHEAD
-- State: KY
 - ZIP: 40351
-- ZIP extension: 
 - State project ID: KY-06-072
 - Latitude: 38.1993
 - Longitude: -83.4446
@@ -16,15 +13,10 @@
 - Tract 2020: 21205950202
 - Tract 2010: 21205950200
 - Tract 2000: 21205950200
-- Tract 1990: 
 - Place 2020: 53418
 - Place 2010: 26560
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 355349
 - Units: 38
 - Low-income units: 38
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +68,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

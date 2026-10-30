@@ -1,13 +1,10 @@
 # Project: SADDLEWOOD CLUB (TXA19960150)
 
 - HUD ID: TXA19960150
-- HUD ID before: 
 - Project: SADDLEWOOD CLUB
 - Address: 3625 WELLBORN RD
 - City: BRYAN
-- State: TX
 - ZIP: 77801
-- ZIP extension: 
 - State project ID: TX1287
 - Latitude: 30.630457
 - Longitude: -96.361461
@@ -22,10 +19,7 @@
 - Place 2000: 10912
 - Place 1990: 0610
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
-- Allocation amount: 
 - Units: 232
 - Low-income units: 232
 - Units reported: 232
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TXA0000930. AKA SADDLEWOOD.
 - Record status: Existing, unchanged

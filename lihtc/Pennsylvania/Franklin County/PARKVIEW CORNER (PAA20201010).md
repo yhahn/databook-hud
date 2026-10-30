@@ -1,11 +1,9 @@
 # Project: PARKVIEW CORNER (PAA20201010)
 
 - HUD ID: PAA20201010
-- HUD ID before: 
 - Project: PARKVIEW CORNER
 - Address: 121 E SOUTH ST
 - City: CHAMBERSBURG
-- State: PA
 - ZIP: 17201
 - ZIP extension: 3573
 - State project ID: TC20180610
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42055011000
 - Tract 2010: 42055011000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 12536
 - Place 2010: 12536
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1174309
 - Units: 40
 - Low-income units: 40
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1240000
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

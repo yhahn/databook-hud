@@ -1,11 +1,9 @@
 # Project: CROWN AT EPHRAIM (UTA20080919)
 
 - HUD ID: UTA20080919
-- HUD ID before: 
 - Project: CROWN AT EPHRAIM
 - Address: 288 NORTH 350 EAST
 - City: EPHRAIM
-- State: UT
 - ZIP: 84627
 - ZIP extension: 0000
 - State project ID: 2008-01
@@ -19,12 +17,9 @@
 - Tract 1990: 49039972400
 - Place 2020: 23530
 - Place 2010: 23530
-- Place 2000: 
 - Place 1990: 0225
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 51992
 - Units: 3
 - Low-income units: 3
@@ -40,11 +35,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -65,14 +57,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +70,4 @@
 - QCT: Yes
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

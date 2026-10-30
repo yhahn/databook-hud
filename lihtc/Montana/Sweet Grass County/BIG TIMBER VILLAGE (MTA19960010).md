@@ -1,11 +1,9 @@
 # Project: BIG TIMBER VILLAGE (MTA19960010)
 
 - HUD ID: MTA19960010
-- HUD ID before: 
 - Project: BIG TIMBER VILLAGE
 - Address: 317 W 8TH AVE
 - City: BIG TIMBER
-- State: MT
 - ZIP: 59011
 - ZIP extension: 0000
 - State project ID: 94100
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30097967000
 - Tract 2010: 30097967000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 06475
 - Place 2010: 06475
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 53182
 - Units: 24
 - Low-income units: 24
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

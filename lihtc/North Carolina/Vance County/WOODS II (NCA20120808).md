@@ -1,13 +1,10 @@
 # Project: WOODS II (NCA20120808)
 
 - HUD ID: NCA20120808
-- HUD ID before: 
 - Project: WOODS II
 - Address: 300 SOUTH COOPER DRIVE
 - City: HENDERSON
-- State: NC
 - ZIP: 27536
-- ZIP extension: 
 - State project ID: 9107181
 - Latitude: 36.331103
 - Longitude: -78.437312
@@ -22,9 +19,7 @@
 - Place 2000: 30660
 - Place 1990: 1155
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 239588
 - Units: 44
 - Low-income units: 44
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: BAREFIELD MILLS (PAA20130001)
 
 - HUD ID: PAA20130001
-- HUD ID before: 
 - Project: BAREFIELD MILLS
 - Address: 911 W RACE ST
 - City: POTTSVILLE
-- State: PA
 - ZIP: 17901
 - ZIP extension: 2335
 - State project ID: TC20120442
@@ -22,9 +20,7 @@
 - Place 2000: 62432
 - Place 1990: 7344
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 329361
 - Units: 11
 - Low-income units: 11
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

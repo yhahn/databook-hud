@@ -1,13 +1,10 @@
 # Project: FELL STREET APTS (CAA20120867)
 
 - HUD ID: CAA20120867
-- HUD ID before: 
 - Project: FELL STREET APTS
 - Address: 333 FELL ST
 - City: SAN FRANCISCO
-- State: CA
 - ZIP: 94102
-- ZIP extension: 
 - State project ID: CA-11-875
 - Latitude: 37.775745
 - Longitude: -122.423163
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 2485
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 527697
 - Units: 82
 - Low-income units: 81
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 37
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1994115.
 - Record status: Existing, unchanged

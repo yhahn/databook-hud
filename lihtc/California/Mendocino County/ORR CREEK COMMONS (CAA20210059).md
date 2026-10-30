@@ -1,13 +1,10 @@
 # Project: ORR CREEK COMMONS (CAA20210059)
 
 - HUD ID: CAA20210059
-- HUD ID before: 
 - Project: ORR CREEK COMMONS
 - Address: 355 BRUSH STHREET
 - City: UKIAH
-- State: CA
 - ZIP: 95482
-- ZIP extension: 
 - State project ID: CA-2019-067
 - Latitude: 39.1353
 - Longitude: -123.2025
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06045011600
 - Tract 2010: 06045011600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 81134
 - Place 2010: 81134
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1092497
 - Units: 40
 - Low-income units: 39
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -67,8 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

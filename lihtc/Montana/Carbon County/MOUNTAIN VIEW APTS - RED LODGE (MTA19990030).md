@@ -1,11 +1,9 @@
 # Project: MOUNTAIN VIEW APTS - RED LODGE (MTA19990030)
 
 - HUD ID: MTA19990030
-- HUD ID before: 
 - Project: MOUNTAIN VIEW APTS - RED LODGE
 - Address: 522 N AIRPORT RD
 - City: RED LODGE
-- State: MT
 - ZIP: 59068
 - ZIP extension: 0000
 - State project ID: 98100
@@ -20,11 +18,8 @@
 - Place 2020: 61525
 - Place 2010: 61525
 - Place 2000: 61525
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 176516
 - Units: 32
 - Low-income units: 32
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

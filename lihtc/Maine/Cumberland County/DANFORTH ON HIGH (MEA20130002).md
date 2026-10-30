@@ -1,13 +1,10 @@
 # Project: DANFORTH ON HIGH (MEA20130002)
 
 - HUD ID: MEA20130002
-- HUD ID before: 
 - Project: DANFORTH ON HIGH
 - Address: 81 DANFORTH ST
 - City: PORTLAND
-- State: ME
 - ZIP: 04101
-- ZIP extension: 
 - State project ID: MSHARLP1551
 - Latitude: 43.652134
 - Longitude: -70.259923
@@ -22,9 +19,7 @@
 - Place 2000: 60545
 - Place 1990: 3750
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 210418
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

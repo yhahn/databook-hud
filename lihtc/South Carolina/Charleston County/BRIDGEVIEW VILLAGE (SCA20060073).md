@@ -1,13 +1,10 @@
 # Project: BRIDGEVIEW VILLAGE (SCA20060073)
 
 - HUD ID: SCA20060073
-- HUD ID before: 
 - Project: BRIDGEVIEW VILLAGE
 - Address: 100 N ROMNEY ST
 - City: CHARLESTON
-- State: SC
 - ZIP: 29403
-- ZIP extension: 
 - State project ID: SC-50-305
 - Latitude: 32.812496
 - Longitude: -79.942954
@@ -22,9 +19,7 @@
 - Place 2000: 13330
 - Place 1990: 0245
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 1311183
 - Units: 300
 - Low-income units: 300
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -72,14 +64,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2007015. FKA BAYSIDE MANOR 061
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: KIMPTON SQUARE APARTMENTS (UTA20160005)
 
 - HUD ID: UTA20160005
-- HUD ID before: 
 - Project: KIMPTON SQUARE APARTMENTS
 - Address: 850 WEST CENTER STREET
 - City: MIDVALE
-- State: UT
 - ZIP: 84047
 - ZIP extension: 0000
 - State project ID: 2014-23
@@ -16,15 +14,11 @@
 - Tract 2020: 49035112405
 - Tract 2010: 49035112403
 - Tract 2000: 49035112401
-- Tract 1990: 
 - Place 2020: 49710
 - Place 2010: 49710
 - Place 2000: 49710
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 996402
 - Units: 97
 - Low-income units: 78
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

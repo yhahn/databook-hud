@@ -1,13 +1,10 @@
 # Project: PARKWOOD MANOR I (MIA20120960)
 
 - HUD ID: MIA20120960
-- HUD ID before: 
 - Project: PARKWOOD MANOR I
 - Address: 8800 PARKWOOD ST
 - City: BELLEVILLE
-- State: MI
 - ZIP: 48111
-- ZIP extension: 
 - State project ID: MI-290
 - Latitude: 42.238168
 - Longitude: -83.457395
@@ -19,13 +16,8 @@
 - Tract 1990: 26163587900
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 200
 - Low-income units: 200
 - Units reported: 200
@@ -39,9 +31,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +42,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 6000000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +56,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA2004192.
 - Record status: Existing, unchanged

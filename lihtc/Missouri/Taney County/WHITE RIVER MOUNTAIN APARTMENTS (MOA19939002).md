@@ -1,11 +1,9 @@
 # Project: WHITE RIVER MOUNTAIN APARTMENTS (MOA19939002)
 
 - HUD ID: MOA19939002
-- HUD ID before: 
 - Project: WHITE RIVER MOUNTAIN APARTMENTS
 - Address: 121 WHITE RIVER MOUNTAIN BLVD
 - City: HOLLISTER
-- State: MO
 - ZIP: 65672
 - ZIP extension: 0000
 - State project ID: 93045
@@ -13,18 +11,12 @@
 - Longitude: -93.195736
 - County FIPS: 29213
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29213480502
 - Tract 2000: 29213980500
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 32662
 - Place 2000: 32662
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 56819
 - Units: 120
 - Low-income units: 26
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

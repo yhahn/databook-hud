@@ -1,13 +1,10 @@
 # Project: SENECA WOODS (NCA19920455)
 
 - HUD ID: NCA19920455
-- HUD ID before: 
 - Project: SENECA WOODS
 - Address: 1509 F SENECA PLACE
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28209
-- ZIP extension: 
 - State project ID: 9001535
 - Latitude: 35.164406
 - Longitude: -80.84837
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 182144
 - Units: 50
 - Low-income units: 49
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 25
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

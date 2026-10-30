@@ -1,13 +1,10 @@
 # Project: FAWNBROOK (IDA19930025)
 
 - HUD ID: IDA19930025
-- HUD ID before: 
 - Project: FAWNBROOK
 - Address: 647 FAWNBROOK AVENUE
 - City: TWIN FALLS
-- State: ID
 - ZIP: 83301
-- ZIP extension: 
 - State project ID: HC9123
 - Latitude: 42.590228
 - Longitude: -114.466551
@@ -22,9 +19,7 @@
 - Place 2000: 82810
 - Place 1990: 0970
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 511363
 - Units: 94
 - Low-income units: 94
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

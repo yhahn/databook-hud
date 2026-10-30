@@ -1,13 +1,10 @@
 # Project: MORGAN HILLS APARTMENTS (NCA20020105)
 
 - HUD ID: NCA20020105
-- HUD ID before: 
 - Project: MORGAN HILLS APARTMENTS
 - Address: 906 JAMESTOWN ROAD
 - City: MORGANTON
-- State: NC
 - ZIP: 28655
-- ZIP extension: 
 - State project ID: 9001296
 - Latitude: 35.723605
 - Longitude: -81.746322
@@ -22,9 +19,7 @@
 - Place 2000: 44400
 - Place 1990: 1710
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 75998
 - Units: 48
 - Low-income units: 48
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: WESTVIEW APTS (NDA19940050)
 
 - HUD ID: NDA19940050
-- HUD ID before: 
 - Project: WESTVIEW APTS
 - Address: 1802 40TH ST SW
 - City: FARGO
-- State: ND
 - ZIP: 58103
-- ZIP extension: 
 - State project ID: 92-18
 - Latitude: 46.852156
 - Longitude: -96.846822
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 69907
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

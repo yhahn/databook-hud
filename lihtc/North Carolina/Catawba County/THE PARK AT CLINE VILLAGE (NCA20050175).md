@@ -1,13 +1,10 @@
 # Project: THE PARK AT CLINE VILLAGE (NCA20050175)
 
 - HUD ID: NCA20050175
-- HUD ID before: 
 - Project: THE PARK AT CLINE VILLAGE
 - Address: 1810 EDGEWATER DR N W
 - City: CONOVER
-- State: NC
 - ZIP: 28613
-- ZIP extension: 
 - State project ID: 9001408
 - Latitude: 35.749647
 - Longitude: -81.19889
@@ -20,11 +17,8 @@
 - Place 2020: 14340
 - Place 2010: 14340
 - Place 2000: 14340
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 287524
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

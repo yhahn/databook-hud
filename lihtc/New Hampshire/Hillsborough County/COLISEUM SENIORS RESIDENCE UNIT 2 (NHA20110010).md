@@ -1,13 +1,10 @@
 # Project: COLISEUM SENIORS RESIDENCE UNIT 2 (NHA20110010)
 
 - HUD ID: NHA20110010
-- HUD ID before: 
 - Project: COLISEUM SENIORS RESIDENCE UNIT 2
 - Address: 7 COLISEUM AVE
 - City: NASHUA
-- State: NH
 - ZIP: 03063
-- ZIP extension: 
 - State project ID: 999
 - Latitude: 42.764614
 - Longitude: -71.497731
@@ -22,9 +19,7 @@
 - Place 2000: 50260
 - Place 1990: 1770
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 248911
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NHA2011508, NHA2000005.
 - Record status: Existing, unchanged

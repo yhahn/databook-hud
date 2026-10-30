@@ -1,11 +1,9 @@
 # Project: RAINTREE APTS (IAA19950090)
 
 - HUD ID: IAA19950090
-- HUD ID before: 
 - Project: RAINTREE APTS
 - Address: 4850 16TH AVE SW
 - City: CEDAR RAPIDS
-- State: IA
 - ZIP: 52404
 - ZIP extension: 0000
 - State project ID: 93-49
@@ -13,18 +11,14 @@
 - Longitude: -91.730073
 - County FIPS: 19113
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 19113001003
 - Tract 2000: 19113001003
 - Tract 1990: 19113001000
-- Place 2020: 
 - Place 2010: 12000
 - Place 2000: 12000
 - Place 1990: 0670
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 301369
 - Units: 72
 - Low-income units: 72
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

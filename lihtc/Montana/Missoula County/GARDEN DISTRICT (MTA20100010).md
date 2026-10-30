@@ -1,11 +1,9 @@
 # Project: GARDEN DISTRICT (MTA20100010)
 
 - HUD ID: MTA20100010
-- HUD ID before: 
 - Project: GARDEN DISTRICT
 - Address: 220, 226, 230 S CATLIN
 - City: MISSOULA
-- State: MT
 - ZIP: 59801
 - ZIP extension: 0000
 - State project ID: 08060
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0500
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 474071
 - Units: 37
 - Low-income units: 37
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

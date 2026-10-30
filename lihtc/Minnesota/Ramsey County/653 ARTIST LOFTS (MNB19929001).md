@@ -1,11 +1,9 @@
 # Project: 653 ARTIST LOFTS (MNB19929001)
 
 - HUD ID: MNB19929001
-- HUD ID before: 
 - Project: 653 ARTIST LOFTS
 - Address: 653 GALTIER STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55103
 - ZIP extension: 1701
 - State project ID: D1589
@@ -16,15 +14,11 @@
 - Tract 2020: 27123032700
 - Tract 2010: 27123032700
 - Tract 2000: 27123032700
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 299308
 - Units: 36
 - Low-income units: 36
@@ -39,9 +33,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: General Occupancy
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

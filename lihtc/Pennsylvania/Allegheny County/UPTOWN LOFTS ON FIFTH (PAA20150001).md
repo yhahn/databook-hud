@@ -1,11 +1,9 @@
 # Project: UPTOWN LOFTS ON FIFTH (PAA20150001)
 
 - HUD ID: PAA20150001
-- HUD ID before: 
 - Project: UPTOWN LOFTS ON FIFTH
 - Address: 2015 FIFTH AVE
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15219
 - ZIP extension: 5503
 - State project ID: TC20130407
@@ -16,15 +14,11 @@
 - Tract 2020: 42003040200
 - Tract 2010: 42003040200
 - Tract 2000: 42003040200
-- Tract 1990: 
 - Place 2020: 61000
 - Place 2010: 61000
 - Place 2000: 61000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 1197437
 - Units: 47
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -62,8 +54,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

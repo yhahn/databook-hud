@@ -1,13 +1,10 @@
 # Project: BERKSHIRE (IDA20040050)
 
 - HUD ID: IDA20040050
-- HUD ID before: 
 - Project: BERKSHIRE
 - Address: 291 EAST MAINE AVENUE
 - City: NAMPA
-- State: ID
 - ZIP: 83686
-- ZIP extension: 
 - State project ID: HC0215
 - Latitude: 43.550259
 - Longitude: -116.569354
@@ -22,9 +19,7 @@
 - Place 2000: 56260
 - Place 1990: 0660
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 342388
 - Units: 60
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

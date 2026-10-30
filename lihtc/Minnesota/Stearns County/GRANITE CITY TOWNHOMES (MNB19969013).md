@@ -1,11 +1,9 @@
 # Project: GRANITE CITY TOWNHOMES (MNB19969013)
 
 - HUD ID: MNB19969013
-- HUD ID before: 
 - Project: GRANITE CITY TOWNHOMES
 - Address: 433 33RD AVENUE NORTH
 - City: SAINT CLOUD
-- State: MN
 - ZIP: 56303
 - ZIP extension: 3055
 - State project ID: D1477
@@ -16,15 +14,11 @@
 - Tract 2020: 27145000601
 - Tract 2010: 27145000601
 - Tract 2000: 27145000601
-- Tract 1990: 
 - Place 2020: 56896
 - Place 2010: 56896
 - Place 2000: 56896
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 117436
 - Units: 24
 - Low-income units: 24
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 5
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,10 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

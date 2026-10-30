@@ -1,13 +1,10 @@
 # Project: SANTA PAULAN SENIOR APTS (CAA20070511)
 
 - HUD ID: CAA20070511
-- HUD ID before: 
 - Project: SANTA PAULAN SENIOR APTS
 - Address: 115 N FOURTH ST
 - City: SANTA PAULA
-- State: CA
 - ZIP: 93060
-- ZIP extension: 
 - State project ID: CA-07-823
 - Latitude: 34.351648
 - Longitude: -119.069431
@@ -22,9 +19,7 @@
 - Place 2000: 70042
 - Place 1990: 2605
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 452039
 - Units: 150
 - Low-income units: 148
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1992230.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: RIDGEWOOD VISTA (JACKSON) (MIA20080155)
 
 - HUD ID: MIA20080155
-- HUD ID before: 
 - Project: RIDGEWOOD VISTA (JACKSON)
 - Address: 5000 PONDEROSA DR
 - City: JACKSON
-- State: MI
 - ZIP: 49201
-- ZIP extension: 
 - State project ID: MI-595
 - Latitude: 42.276563
 - Longitude: -84.32111
@@ -19,12 +16,8 @@
 - Tract 1990: 26075006000
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 441212
 - Units: 150
 - Low-income units: 150
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -65,21 +55,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1993255.
 - Record status: Updated

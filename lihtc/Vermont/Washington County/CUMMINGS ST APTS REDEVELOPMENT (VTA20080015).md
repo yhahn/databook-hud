@@ -1,13 +1,10 @@
 # Project: CUMMINGS ST APTS REDEVELOPMENT (VTA20080015)
 
 - HUD ID: VTA20080015
-- HUD ID before: 
 - Project: CUMMINGS ST APTS REDEVELOPMENT
 - Address: 21 CUMMINGS ST
 - City: MONTPELIER
-- State: VT
 - ZIP: 05602
-- ZIP extension: 
 - State project ID: 0373
 - Latitude: 44.274499
 - Longitude: -72.57001
@@ -22,9 +19,7 @@
 - Place 2000: 46000
 - Place 1990: 1610
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 77700
 - Units: 20
 - Low-income units: 20
@@ -38,14 +33,9 @@
 - Construction: Acquisition and rehab
 - Credit: Both
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VTA2007025, VTA0000005. AKA CUMMINGS STREET.
 - Record status: Updated

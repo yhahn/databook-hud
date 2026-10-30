@@ -1,13 +1,10 @@
 # Project: JENKINS HIGH SCHOOL APARTMENTS (KYA20130754)
 
 - HUD ID: KYA20130754
-- HUD ID before: 
 - Project: JENKINS HIGH SCHOOL APARTMENTS
 - Address: NORTH PANE ST
 - City: JENKINS
-- State: KY
 - ZIP: 41537
-- ZIP extension: 
 - State project ID: KY-13-009
 - Latitude: 37.1925
 - Longitude: -82.6117
@@ -19,12 +16,9 @@
 - Tract 1990: 21133950100
 - Place 2020: 40312
 - Place 2010: 40312
-- Place 2000: 
 - Place 1990: 1030
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 411536
 - Units: 26
 - Low-income units: 26
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

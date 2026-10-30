@@ -1,13 +1,10 @@
 # Project: CASA VERDE APARTMENTS (TXA00000994)
 
 - HUD ID: TXA00000994
-- HUD ID before: 
 - Project: CASA VERDE APARTMENTS
 - Address: 8501 CASA VERDE RD
 - City: LAREDO
-- State: TX
 - ZIP: 78041
-- ZIP extension: 
 - State project ID: TX5135
 - Latitude: 27.567868
 - Longitude: -99.449118
@@ -16,16 +13,10 @@
 - Tract 2020: 48479001602
 - Tract 2010: 48479001602
 - Tract 2000: 48479001706
-- Tract 1990: 
 - Place 2020: 41464
 - Place 2010: 41464
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 152
 - Low-income units: 138
 - Units reported: 152
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

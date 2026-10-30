@@ -1,13 +1,10 @@
 # Project: PADDOCK AT NORWOOD (TXA20145019)
 
 - HUD ID: TXA20145019
-- HUD ID before: 
 - Project: PADDOCK AT NORWOOD
 - Address: 1044 NORWOOD PARK BLVD
 - City: AUSTIN
-- State: TX
 - ZIP: 78753
-- ZIP extension: 
 - State project ID: TX4889
 - Latitude: 30.33706
 - Longitude: -97.692255
@@ -22,10 +19,7 @@
 - Place 2000: 05000
 - Place 1990: 0210
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 228
 - Low-income units: 228
 - Units reported: 228
@@ -38,17 +32,12 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

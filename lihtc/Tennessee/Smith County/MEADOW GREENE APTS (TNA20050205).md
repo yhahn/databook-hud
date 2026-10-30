@@ -1,13 +1,10 @@
 # Project: MEADOW GREENE APTS (TNA20050205)
 
 - HUD ID: TNA20050205
-- HUD ID before: 
 - Project: MEADOW GREENE APTS
 - Address: 118 MEADOW GREEN LN
 - City: GORDONSVILLE
-- State: TN
 - ZIP: 38563
-- ZIP extension: 
 - State project ID: TN-03-038
 - Latitude: 36.173201
 - Longitude: -85.956026
@@ -20,11 +17,8 @@
 - Place 2020: 30120
 - Place 2010: 30120
 - Place 2000: 30120
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 467716
 - Units: 72
 - Low-income units: 72
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

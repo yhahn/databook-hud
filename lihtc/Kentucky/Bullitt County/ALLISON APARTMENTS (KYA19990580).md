@@ -1,13 +1,10 @@
 # Project: ALLISON APARTMENTS (KYA19990580)
 
 - HUD ID: KYA19990580
-- HUD ID before: 
 - Project: ALLISON APARTMENTS
 - Address: WINNING COLORS DR.
 - City: MT. WASHINGTON
-- State: KY
 - ZIP: 40047
-- ZIP extension: 
 - State project ID: KY-97-043
 - Latitude: 38.0488
 - Longitude: -85.5601
@@ -19,12 +16,8 @@
 - Tract 1990: 21029020200
 - Place 2020: 54228
 - Place 2010: 54228
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

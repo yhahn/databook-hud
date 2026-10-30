@@ -1,13 +1,10 @@
 # Project: FISKE ST APTS (NCA19930175)
 
 - HUD ID: NCA19930175
-- HUD ID before: 
 - Project: FISKE ST APTS
 - Address: 925 FISKE ST
 - City: DURHAM
-- State: NC
 - ZIP: 27703
-- ZIP extension: 
 - State project ID: 9002182
 - Latitude: 35.994962
 - Longitude: -78.874573
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 8822
 - Units: 2
 - Low-income units: 2
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

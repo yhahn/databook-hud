@@ -1,13 +1,10 @@
 # Project: JAMESHOUSE/POSTHOUSE (NDA20110504)
 
 - HUD ID: NDA20110504
-- HUD ID before: 
 - Project: JAMESHOUSE/POSTHOUSE
 - Address: 222 FIRST AVE S
 - City: JAMESTOWN
-- State: ND
 - ZIP: 58401
-- ZIP extension: 
 - State project ID: TC0913
 - Latitude: 46.907351
 - Longitude: -98.708683
@@ -22,9 +19,7 @@
 - Place 2000: 40580
 - Place 1990: 0850
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 314183
 - Units: 106
 - Low-income units: 106
@@ -39,9 +34,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA2011005, NDA1992040, NDA1992010. AKA JAMESTOWN CONGREGATE-THE PSTHS.
 - Record status: Existing, unchanged

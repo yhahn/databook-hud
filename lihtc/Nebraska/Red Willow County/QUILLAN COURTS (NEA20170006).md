@@ -1,11 +1,9 @@
 # Project: QUILLAN COURTS (NEA20170006)
 
 - HUD ID: NEA20170006
-- HUD ID before: 
 - Project: QUILLAN COURTS
 - Address: 1610 WEST 9TH
 - City: MCCOOK
-- State: NE
 - ZIP: 69001
 - ZIP extension: 0000
 - State project ID: 7-0847
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 31145963200
 - Tract 2010: 31145963200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 29925
 - Place 2010: 29925
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 353267
 - Units: 16
 - Low-income units: 16
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

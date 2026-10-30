@@ -1,11 +1,9 @@
 # Project: WESTMINSTER PL @ WINDY HILL II (PAA20182018)
 
 - HUD ID: PAA20182018
-- HUD ID before: 
 - Project: WESTMINSTER PL @ WINDY HILL II
 - Address: 245 DOGWOOD DR
 - City: PHILIPSBURG
-- State: PA
 - ZIP: 16866
 - ZIP extension: 1982
 - State project ID: TC20170408
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42027010400
 - Tract 2010: 42027010400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 55304
 - Place 2010: 55304
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 759404
 - Units: 48
 - Low-income units: 40
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

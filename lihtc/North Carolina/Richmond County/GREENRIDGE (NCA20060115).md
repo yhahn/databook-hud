@@ -1,11 +1,9 @@
 # Project: GREENRIDGE (NCA20060115)
 
 - HUD ID: NCA20060115
-- HUD ID before: 
 - Project: GREENRIDGE
 - Address: 200 GREEN RIDGE DR
 - City: ROCKINGHAM
-- State: NC
 - ZIP: 28379
 - ZIP extension: 9156
 - State project ID: 9001691
@@ -19,12 +17,9 @@
 - Tract 1990: 37153970600
 - Place 2020: 57260
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 2105
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 379107
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

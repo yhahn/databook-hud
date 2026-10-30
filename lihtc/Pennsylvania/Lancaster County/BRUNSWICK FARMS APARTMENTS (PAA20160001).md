@@ -1,11 +1,9 @@
 # Project: BRUNSWICK FARMS APARTMENTS (PAA20160001)
 
 - HUD ID: PAA20160001
-- HUD ID before: 
 - Project: BRUNSWICK FARMS APARTMENTS
 - Address: HAMPDEN DR
 - City: LANCASTER
-- State: PA
 - ZIP: 17603
 - ZIP extension: 9794
 - State project ID: TC20140809
@@ -16,15 +14,10 @@
 - Tract 2020: 42071013502
 - Tract 2010: 42071013502
 - Tract 2000: 42071013702
-- Tract 1990: 
 - Place 2020: 49728
 - Place 2010: 49728
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 1106648
 - Units: 60
 - Low-income units: 60
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -62,8 +53,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

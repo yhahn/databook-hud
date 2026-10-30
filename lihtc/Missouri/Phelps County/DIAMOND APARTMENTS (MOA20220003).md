@@ -1,11 +1,9 @@
 # Project: DIAMOND APARTMENTS (MOA20220003)
 
 - HUD ID: MOA20220003
-- HUD ID before: 
 - Project: DIAMOND APARTMENTS
 - Address: 2005 FORUM DRIVE
 - City: ROLLA
-- State: MO
 - ZIP: 65401
 - ZIP extension: 0000
 - State project ID: 20-403
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29161890302
 - Tract 2010: 29161890300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 62912
 - Place 2010: 62912
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1
 - Units: 80
 - Low-income units: 80
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,7 +52,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +64,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: Previously listed as MOA19950250
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MOUNTAIN VIEW (WAYNESBORO) (VAA20130038)
 
 - HUD ID: VAA20130038
-- HUD ID before: 
 - Project: MOUNTAIN VIEW (WAYNESBORO)
 - Address: 1635 WICKHAM LN
 - City: WAYNESBORO
-- State: VA
 - ZIP: 22980
-- ZIP extension: 
 - State project ID: 1059
 - Latitude: 38.080109
 - Longitude: -78.8976
@@ -22,9 +19,7 @@
 - Place 2000: 83680
 - Place 1990: 1315
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 720428
 - Units: 130
 - Low-income units: 129
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2013022.
 - Record status: Existing, unchanged

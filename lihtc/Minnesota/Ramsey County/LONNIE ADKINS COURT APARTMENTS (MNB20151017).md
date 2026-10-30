@@ -1,11 +1,9 @@
 # Project: LONNIE ADKINS COURT APARTMENTS (MNB20151017)
 
 - HUD ID: MNB20151017
-- HUD ID before: 
 - Project: LONNIE ADKINS COURT APARTMENTS
 - Address: 425 ST ANTHONY AVENUE
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55103
 - ZIP extension: 2207
 - State project ID: D2461
@@ -16,15 +14,11 @@
 - Tract 2020: 27123033600
 - Tract 2010: 27123033600
 - Tract 2000: 27123033600
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 441568
 - Units: 79
 - Low-income units: 79
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

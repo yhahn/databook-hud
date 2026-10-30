@@ -1,11 +1,9 @@
 # Project: BOBBY SMITH SUBDIVISION II (LAA20070010)
 
 - HUD ID: LAA20070010
-- HUD ID before: 
 - Project: BOBBY SMITH SUBDIVISION II
 - Address: 1805 JOSEPH PETE STREET
 - City: CROWLEY
-- State: LA
 - ZIP: 70527
 - ZIP extension: 0000
 - State project ID: LA-06-468
@@ -19,12 +17,9 @@
 - Tract 1990: 22001960900
 - Place 2020: 18650
 - Place 2010: 18650
-- Place 2000: 
 - Place 1990: 0285
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 15990
 - Units: 23
 - Low-income units: 23
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: Family/Special Needs
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Non-metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

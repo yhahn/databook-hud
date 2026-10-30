@@ -1,11 +1,9 @@
 # Project: BEACON HILL APARTMENTS (UTA20151001)
 
 - HUD ID: UTA20151001
-- HUD ID before: 
 - Project: BEACON HILL APARTMENTS
 - Address: 15000 S. HERITAGE CREST WAY
 - City: BLUFFDALE
-- State: UT
 - ZIP: 84065
 - ZIP extension: 0000
 - State project ID: 2016-24
@@ -16,15 +14,10 @@
 - Tract 2020: 49035113017
 - Tract 2010: 49035113017
 - Tract 2000: 49035113017
-- Tract 1990: 
 - Place 2020: 06810
 - Place 2010: 64340
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 615683
 - Units: 168
 - Low-income units: 168
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +69,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

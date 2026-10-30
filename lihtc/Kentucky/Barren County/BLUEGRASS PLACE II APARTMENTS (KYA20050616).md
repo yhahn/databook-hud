@@ -1,13 +1,10 @@
 # Project: BLUEGRASS PLACE II APARTMENTS (KYA20050616)
 
 - HUD ID: KYA20050616
-- HUD ID before: 
 - Project: BLUEGRASS PLACE II APARTMENTS
 - Address: CLEVELAND AVE.
 - City: GLASGOW
-- State: KY
 - ZIP: 42141
-- ZIP extension: 
 - State project ID: KY-04-045
 - Latitude: 36.9954
 - Longitude: -85.9499
@@ -19,12 +16,9 @@
 - Tract 1990: 21009950400
 - Place 2020: 31114
 - Place 2010: 31114
-- Place 2000: 
 - Place 1990: 0795
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 36
 - Low-income units: 36
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

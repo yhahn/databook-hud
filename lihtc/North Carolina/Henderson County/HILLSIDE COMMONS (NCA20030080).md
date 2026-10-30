@@ -1,11 +1,9 @@
 # Project: HILLSIDE COMMONS (NCA20030080)
 
 - HUD ID: NCA20030080
-- HUD ID before: 
 - Project: HILLSIDE COMMONS
 - Address: 189 HILLSIDE COMMONS DR
 - City: HENDERSONVILLE
-- State: NC
 - ZIP: 28792
 - ZIP extension: 1403
 - State project ID: 9001398
@@ -22,9 +20,7 @@
 - Place 2000: 30720
 - Place 1990: 0763
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 135264
 - Units: 36
 - Low-income units: 36
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 15
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +66,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

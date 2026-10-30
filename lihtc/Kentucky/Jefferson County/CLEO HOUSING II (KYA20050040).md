@@ -1,13 +1,10 @@
 # Project: CLEO HOUSING II (KYA20050040)
 
 - HUD ID: KYA20050040
-- HUD ID before: 
 - Project: CLEO HOUSING II
 - Address: CLEO AVE.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40213
-- ZIP extension: 
 - State project ID: KY-04-037
 - Latitude: 38.1851
 - Longitude: -85.7123
@@ -19,12 +16,9 @@
 - Tract 1990: 21111011404
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1433
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 7
 - Low-income units: 7
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

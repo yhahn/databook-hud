@@ -1,11 +1,9 @@
 # Project: ADAMS PLACE (PAA20210002)
 
 - HUD ID: PAA20210002
-- HUD ID before: 
 - Project: ADAMS PLACE
 - Address: 184 N FRANKLIN ST
 - City: COCHRANTON
-- State: PA
 - ZIP: 16314
 - ZIP extension: 9722
 - State project ID: TC20200604
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42039111300
 - Tract 2010: 42039111300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 14800
 - Place 2010: 14800
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1216419
 - Units: 39
 - Low-income units: 39
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 3040000
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

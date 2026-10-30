@@ -1,13 +1,10 @@
 # Project: ST. THERESE APARTMENTS (KYA19940556)
 
 - HUD ID: KYA19940556
-- HUD ID before: 
 - Project: ST. THERESE APARTMENTS
 - Address: E. KENTUCKY ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40204
-- ZIP extension: 
 - State project ID: KY-93-050
 - Latitude: 38.2392
 - Longitude: -85.7269
@@ -19,12 +16,9 @@
 - Tract 1990: 21111006300
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 14
 - Low-income units: 14
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +56,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +69,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

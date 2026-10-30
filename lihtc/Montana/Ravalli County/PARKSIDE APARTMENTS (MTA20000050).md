@@ -1,11 +1,9 @@
 # Project: PARKSIDE APARTMENTS (MTA20000050)
 
 - HUD ID: MTA20000050
-- HUD ID before: 
 - Project: PARKSIDE APARTMENTS
 - Address: 121 STATE STREET
 - City: HAMILTON
-- State: MT
 - ZIP: 59840
 - ZIP extension: 0000
 - State project ID: 98070
@@ -22,9 +20,7 @@
 - Place 2000: 33775
 - Place 1990: 0300
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 29226
 - Units: 24
 - Low-income units: 22
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

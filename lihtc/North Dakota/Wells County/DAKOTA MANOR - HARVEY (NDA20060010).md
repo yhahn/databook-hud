@@ -1,13 +1,10 @@
 # Project: DAKOTA MANOR - HARVEY (NDA20060010)
 
 - HUD ID: NDA20060010
-- HUD ID before: 
 - Project: DAKOTA MANOR - HARVEY
 - Address: 911 FOURTH ST E
 - City: HARVEY
-- State: ND
 - ZIP: 58341
-- ZIP extension: 
 - State project ID: TC0509
 - Latitude: 47.770155
 - Longitude: -99.920483
@@ -22,9 +19,7 @@
 - Place 2000: 35900
 - Place 1990: 0775
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 40618
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

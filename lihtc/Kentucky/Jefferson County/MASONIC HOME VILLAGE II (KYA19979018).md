@@ -1,13 +1,10 @@
 # Project: MASONIC HOME VILLAGE II (KYA19979018)
 
 - HUD ID: KYA19979018
-- HUD ID before: 
 - Project: MASONIC HOME VILLAGE II
 - Address: MASONIC HOME DR.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40041
-- ZIP extension: 
 - State project ID: KY-96-025
 - Latitude: 38.2646
 - Longitude: -85.6808
@@ -16,15 +13,10 @@
 - Tract 2020: 21111007700
 - Tract 2010: 21111007700
 - Tract 2000: 21111007700
-- Tract 1990: 
 - Place 2020: 67944
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 110508
 - Units: 27
 - Low-income units: 27
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

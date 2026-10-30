@@ -1,13 +1,10 @@
 # Project: CEDAR GROVE APARTMENTS, PHASE II (KYA20080060)
 
 - HUD ID: KYA20080060
-- HUD ID before: 
 - Project: CEDAR GROVE APARTMENTS, PHASE II
 - Address: JOHNSON DRIVE
 - City: SHEPHERDSVILLE
-- State: KY
 - ZIP: 40165
-- ZIP extension: 
 - State project ID: KY-07-009
 - Latitude: 37.9917
 - Longitude: -85.6968
@@ -19,12 +16,8 @@
 - Tract 1990: 21029021100
 - Place 2020: 70086
 - Place 2010: 70086
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 157372
 - Units: 36
 - Low-income units: 36
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

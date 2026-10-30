@@ -1,13 +1,10 @@
 # Project: BOBBIN MILL REDEVELOPMENT (VTA20140010)
 
 - HUD ID: VTA20140010
-- HUD ID before: 
 - Project: BOBBIN MILL REDEVELOPMENT
 - Address: 235 PINE ST
 - City: BURLINGTON
-- State: VT
 - ZIP: 05401
-- ZIP extension: 
 - State project ID: 0025
 - Latitude: 44.472912
 - Longitude: -73.215574
@@ -22,9 +19,7 @@
 - Place 2000: 10675
 - Place 1990: 0460
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 740250
 - Units: 51
 - Low-income units: 51
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

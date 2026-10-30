@@ -1,13 +1,10 @@
 # Project: HAMPDEN LANE/LASKO MANOR (MDA20110010)
 
 - HUD ID: MDA20110010
-- HUD ID before: 
 - Project: HAMPDEN LANE/LASKO MANOR
 - Address: 4913 HAMPDEN LN
 - City: BETHESDA
-- State: MD
 - ZIP: 20814
-- ZIP extension: 
 - State project ID: MD09-10001
 - Latitude: 38.982853
 - Longitude: -77.096994
@@ -22,10 +19,7 @@
 - Place 2000: 07125
 - Place 1990: 0065
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 12
 - Low-income units: 12
 - Units reported: 12
@@ -40,12 +34,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1000000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: FOXBOROUGH PINES (NCA19980065)
 
 - HUD ID: NCA19980065
-- HUD ID before: 
 - Project: FOXBOROUGH PINES
 - Address: 100 FOXBOROUGH LN
 - City: HENDERSON
-- State: NC
 - ZIP: 27536
 - ZIP extension: 3055
 - State project ID: 9001062
@@ -19,12 +17,8 @@
 - Tract 1990: 37181960900
 - Place 2020: 30660
 - Place 2010: 30660
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 312847
 - Units: 60
 - Low-income units: 60
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

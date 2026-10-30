@@ -1,13 +1,10 @@
 # Project: CARR CENTRAL APTS I (MSA20140020)
 
 - HUD ID: MSA20140020
-- HUD ID before: 
 - Project: CARR CENTRAL APTS I
 - Address: 1805 CHERRY ST
 - City: VICKSBURG
-- State: MS
 - ZIP: 39180
-- ZIP extension: 
 - State project ID: MS-12-1-028
 - Latitude: 32.344776
 - Longitude: -90.879202
@@ -22,9 +19,7 @@
 - Place 2000: 76720
 - Place 1990: 1390
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 36
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA VILLAGE OAKS APTS I.
 - Record status: Existing, unchanged

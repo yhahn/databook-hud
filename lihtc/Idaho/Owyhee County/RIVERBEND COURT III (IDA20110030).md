@@ -1,13 +1,10 @@
 # Project: RIVERBEND COURT III (IDA20110030)
 
 - HUD ID: IDA20110030
-- HUD ID before: 
 - Project: RIVERBEND COURT III
 - Address: 1120 MAIN STREET
 - City: MARSING
-- State: ID
 - ZIP: 83639
-- ZIP extension: 
 - State project ID: HC0910
 - Latitude: 43.545466
 - Longitude: -116.817298
@@ -22,9 +19,7 @@
 - Place 2000: 50950
 - Place 1990: 0415
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 12
 - Low-income units: 12
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

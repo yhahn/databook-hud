@@ -1,11 +1,9 @@
 # Project: THE TERRACES (MNB19939004)
 
 - HUD ID: MNB19939004
-- HUD ID before: 
 - Project: THE TERRACES
 - Address: 460 SOUTH WABASHA STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55107
 - ZIP extension: 1178
 - State project ID: D6423
@@ -16,15 +14,11 @@
 - Tract 2020: 27123037100
 - Tract 2010: 27123037100
 - Tract 2000: 27123037100
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 105774
 - Units: 23
 - Low-income units: 11
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +60,10 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

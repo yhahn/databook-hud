@@ -1,11 +1,9 @@
 # Project: PINE VALLEY TOWNHOMES I (UTA20020075)
 
 - HUD ID: UTA20020075
-- HUD ID before: 
 - Project: PINE VALLEY TOWNHOMES I
 - Address: 363 & 353 N. OAK RIDGE CT.
 - City: WASHINGTON
-- State: UT
 - ZIP: 84780
 - ZIP extension: 0000
 - State project ID: 2001-12
@@ -22,9 +20,7 @@
 - Place 2000: 81960
 - Place 1990: 0395
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 544925
 - Units: 50
 - Low-income units: 50
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: ST. PATRICKS APARTMENTS (KYA19950175)
 
 - HUD ID: KYA19950175
-- HUD ID before: 
 - Project: ST. PATRICKS APARTMENTS
 - Address: W. MARKET ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40203
-- ZIP extension: 
 - State project ID: KY-93-031
 - Latitude: 38.2416
 - Longitude: -85.7603
@@ -19,12 +16,9 @@
 - Tract 1990: 21111002400
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

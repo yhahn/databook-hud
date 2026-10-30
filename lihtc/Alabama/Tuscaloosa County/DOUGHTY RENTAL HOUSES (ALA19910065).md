@@ -1,13 +1,10 @@
 # Project: DOUGHTY RENTAL HOUSES (ALA19910065)
 
 - HUD ID: ALA19910065
-- HUD ID before: 
 - Project: DOUGHTY RENTAL HOUSES
 - Address: 2904 16TH ST
 - City: TUSCALOOSA
-- State: AL
 - ZIP: 35401
-- ZIP extension: 
 - State project ID: AL-91-0027
 - Latitude: 33.199271
 - Longitude: -87.572369
@@ -22,9 +19,7 @@
 - Place 2000: 77256
 - Place 1990: 1720
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 9165
 - Units: 2
 - Low-income units: 2
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

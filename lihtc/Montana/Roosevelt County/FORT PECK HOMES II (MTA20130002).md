@@ -1,13 +1,10 @@
 # Project: FORT PECK HOMES II (MTA20130002)
 
 - HUD ID: MTA20130002
-- HUD ID before: 
 - Project: FORT PECK HOMES II
 - Address: 125 A ST E
 - City: POPLAR
-- State: MT
 - ZIP: 59255
-- ZIP extension: 
 - State project ID: MT-11-020
 - Latitude: 48.108032
 - Longitude: -105.192662
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 10000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 614401
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +66,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

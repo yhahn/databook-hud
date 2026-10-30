@@ -1,13 +1,10 @@
 # Project: TWIN OAKS APTS (SCA19980101)
 
 - HUD ID: SCA19980101
-- HUD ID before: 
 - Project: TWIN OAKS APTS
 - Address: 200 HOLMAN ST
 - City: GREENWOOD
-- State: SC
 - ZIP: 29649
-- ZIP extension: 
 - State project ID: SC-97-011
 - Latitude: 34.203902
 - Longitude: -82.142993
@@ -22,9 +19,7 @@
 - Place 2000: 30895
 - Place 1990: 0570
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 202156
 - Units: 56
 - Low-income units: 56
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

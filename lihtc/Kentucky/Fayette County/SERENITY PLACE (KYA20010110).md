@@ -1,13 +1,10 @@
 # Project: SERENITY PLACE (KYA20010110)
 
 - HUD ID: KYA20010110
-- HUD ID before: 
 - Project: SERENITY PLACE
 - Address: VERSAILLES RD.
 - City: LEXINGTON
-- State: KY
 - ZIP: 40504
-- ZIP extension: 
 - State project ID: KY-99-013
 - Latitude: 38.037
 - Longitude: -84.5416
@@ -19,12 +16,9 @@
 - Tract 1990: 21067001900
 - Place 2020: 46027
 - Place 2010: 46027
-- Place 2000: 
 - Place 1990: 1160
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 40
 - Low-income units: 40
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

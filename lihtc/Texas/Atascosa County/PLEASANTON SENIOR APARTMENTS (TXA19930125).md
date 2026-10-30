@@ -1,13 +1,10 @@
 # Project: PLEASANTON SENIOR APARTMENTS (TXA19930125)
 
 - HUD ID: TXA19930125
-- HUD ID before: 
 - Project: PLEASANTON SENIOR APARTMENTS
 - Address: 1547 JAMI DR
 - City: PLEASANTON
-- State: TX
 - ZIP: 78064
-- ZIP extension: 
 - State project ID: TX1116
 - Latitude: 28.950556
 - Longitude: -98.503611
@@ -16,16 +13,11 @@
 - Tract 2020: 48013960403
 - Tract 2010: 48013960402
 - Tract 2000: 48013960402
-- Tract 1990: 
 - Place 2020: 58280
 - Place 2010: 58280
 - Place 2000: 58280
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

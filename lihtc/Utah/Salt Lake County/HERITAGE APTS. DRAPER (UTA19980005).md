@@ -1,11 +1,9 @@
 # Project: HERITAGE APTS. DRAPER (UTA19980005)
 
 - HUD ID: UTA19980005
-- HUD ID before: 
 - Project: HERITAGE APTS. DRAPER
 - Address: 11715 SOUTH STATE STREET
 - City: DRAPER
-- State: UT
 - ZIP: 84020
 - ZIP extension: 0000
 - State project ID: 1996-03
@@ -22,9 +20,7 @@
 - Place 2000: 20120
 - Place 1990: 0182
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 396000
 - Units: 152
 - Low-income units: 80
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

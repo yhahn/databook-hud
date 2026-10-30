@@ -1,13 +1,10 @@
 # Project: MERRITT MONUMENT (TXA0000X050)
 
 - HUD ID: TXA0000X050
-- HUD ID before: 
 - Project: MERRITT MONUMENT
 - Address: 203 BEAL PARKWAY
 - City: MIDLAND
-- State: TX
 - ZIP: 79703
-- ZIP extension: 
 - State project ID: TX5251
 - Latitude: 31.977543
 - Longitude: -102.145138
@@ -16,16 +13,10 @@
 - Tract 2020: 48329001300
 - Tract 2010: 48329001300
 - Tract 2000: 48329001200
-- Tract 1990: 
 - Place 2020: 48072
 - Place 2010: 48072
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2018
-- Allocation year note: 
-- Allocation amount: 
 - Units: 104
 - Low-income units: 83
 - Units reported: 104
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

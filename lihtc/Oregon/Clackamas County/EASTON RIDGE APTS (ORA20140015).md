@@ -1,13 +1,10 @@
 # Project: EASTON RIDGE APTS (ORA20140015)
 
 - HUD ID: ORA20140015
-- HUD ID before: 
 - Project: EASTON RIDGE APTS
 - Address: 9009 SE CAUSEY AVE
 - City: HAPPY VALLEY
-- State: OR
 - ZIP: 97086
-- ZIP extension: 
 - State project ID: 3080
 - Latitude: 45.441448
 - Longitude: -122.570384
@@ -19,12 +16,8 @@
 - Tract 1990: 41005022201
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 874719
 - Units: 264
 - Low-income units: 263
@@ -40,8 +33,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

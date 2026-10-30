@@ -1,11 +1,9 @@
 # Project: SUMMERHILL I (UTA20184010)
 
 - HUD ID: UTA20184010
-- HUD ID before: 
 - Project: SUMMERHILL I
 - Address: 360 NORTH VALLEY VIEW DRIVE
 - City: ST. GEORGE
-- State: UT
 - ZIP: 84770
 - ZIP extension: 0000
 - State project ID: 2016-21
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49053271501
 - Tract 2010: 49053271500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 65330
 - Place 2010: 65330
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 116152
 - Units: 24
 - Low-income units: 23
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

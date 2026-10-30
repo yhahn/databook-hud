@@ -1,13 +1,10 @@
 # Project: GALA AT MELISSA (TXA0000X022)
 
 - HUD ID: TXA0000X022
-- HUD ID before: 
 - Project: GALA AT MELISSA
 - Address: 2730 EAST MELISSA ROAD
 - City: MELISSA
-- State: TX
 - ZIP: 75454
-- ZIP extension: 
 - State project ID: TX5232
 - Latitude: 33.282252
 - Longitude: -96.559037
@@ -16,16 +13,10 @@
 - Tract 2020: 48085030201
 - Tract 2010: 48085030201
 - Tract 2000: 48085030200
-- Tract 1990: 
 - Place 2020: 47496
 - Place 2010: 47496
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 93
 - Low-income units: 79
 - Units reported: 93
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

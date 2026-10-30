@@ -1,13 +1,10 @@
 # Project: WALNUT WOODS APTS (NCA19940535)
 
 - HUD ID: NCA19940535
-- HUD ID before: 
 - Project: WALNUT WOODS APTS
 - Address: 3417 E MIDDLE BRANCH RD
 - City: RALEIGH
-- State: NC
 - ZIP: 27610
-- ZIP extension: 
 - State project ID: 9001206
 - Latitude: 35.765312
 - Longitude: -78.581778
@@ -20,11 +17,8 @@
 - Place 2020: 55000
 - Place 2010: 55000
 - Place 2000: 55000
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 117869
 - Units: 36
 - Low-income units: 36
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: MELLONS ORCHARD (PAA20201009)
 
 - HUD ID: PAA20201009
-- HUD ID before: 
 - Project: MELLONS ORCHARD
 - Address: 5820 STATION ST
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15206
 - ZIP extension: 4633
 - State project ID: TC20180441
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42003111500
 - Tract 2010: 42003111500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 61000
 - Place 2010: 61000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1031720
 - Units: 47
 - Low-income units: 37
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: Yes
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

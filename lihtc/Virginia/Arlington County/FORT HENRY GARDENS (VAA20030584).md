@@ -1,13 +1,10 @@
 # Project: FORT HENRY GARDENS (VAA20030584)
 
 - HUD ID: VAA20030584
-- HUD ID before: 
 - Project: FORT HENRY GARDENS
 - Address: 2480 S LOWELL ST
 - City: ARLINGTON
-- State: VA
 - ZIP: 22206
-- ZIP extension: 
 - State project ID: 5153
 - Latitude: 38.846567
 - Longitude: -77.08642
@@ -22,9 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0056
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 202961
 - Units: 82
 - Low-income units: 82
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1997050.
 - Record status: Existing, unchanged

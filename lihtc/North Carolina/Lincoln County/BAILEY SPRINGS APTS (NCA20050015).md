@@ -1,13 +1,10 @@
 # Project: BAILEY SPRINGS APTS (NCA20050015)
 
 - HUD ID: NCA20050015
-- HUD ID before: 
 - Project: BAILEY SPRINGS APTS
 - Address: 939 BAILEY SPRINGS DRIVE
 - City: LINCOLNTON
-- State: NC
 - ZIP: 28092
-- ZIP extension: 
 - State project ID: 9001312
 - Latitude: 35.492485
 - Longitude: -81.237375
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 38320
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 158318
 - Units: 28
 - Low-income units: 28
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: HOLLYFIELD VILLAGE APTS (ORA20130621)
 
 - HUD ID: ORA20130621
-- HUD ID before: 
 - Project: HOLLYFIELD VILLAGE APTS
 - Address: 4077 SUNSET DR
 - City: LAKE OSWEGO
-- State: OR
 - ZIP: 97035
-- ZIP extension: 
 - State project ID: 1778
 - Latitude: 45.408511
 - Longitude: -122.718854
@@ -22,9 +19,7 @@
 - Place 2000: 40550
 - Place 1990: 0633
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 391276
 - Units: 30
 - Low-income units: 30
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

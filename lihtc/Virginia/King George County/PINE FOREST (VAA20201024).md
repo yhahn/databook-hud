@@ -1,13 +1,10 @@
 # Project: PINE FOREST (VAA20201024)
 
 - HUD ID: VAA20201024
-- HUD ID before: 
 - Project: PINE FOREST
 - Address: 5225 PINE FOREST LANE
 - City: KING GEORGE
-- State: VA
 - ZIP: 22485
-- ZIP extension: 
 - State project ID: 1078
 - Latitude: 38.338661
 - Longitude: -77.06192
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 21008
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 340150
 - Units: 40
 - Low-income units: 40
@@ -40,15 +34,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1999205.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: IMAGINE JEFFERSON (UTA20140040)
 
 - HUD ID: UTA20140040
-- HUD ID before: 
 - Project: IMAGINE JEFFERSON
 - Address: 550 EAST 25TH STREET
 - City: OGDEN
-- State: UT
 - ZIP: 84401
 - ZIP extension: 0000
 - State project ID: 2012-21
@@ -22,9 +20,7 @@
 - Place 2000: 55980
 - Place 1990: 0695
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 999389
 - Units: 59
 - Low-income units: 49
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

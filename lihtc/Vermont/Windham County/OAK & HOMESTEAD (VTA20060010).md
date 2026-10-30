@@ -1,13 +1,10 @@
 # Project: OAK & HOMESTEAD (VTA20060010)
 
 - HUD ID: VTA20060010
-- HUD ID before: 
 - Project: OAK & HOMESTEAD
 - Address: 25 HOMESTEAD PL
 - City: BRATTLEBORO
-- State: VT
 - ZIP: 05301
-- ZIP extension: 
 - State project ID: 0309
 - Latitude: 42.846783
 - Longitude: -72.561421
@@ -22,9 +19,7 @@
 - Place 2000: 07975
 - Place 1990: 0338
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 224000
 - Units: 15
 - Low-income units: 14
@@ -40,15 +35,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 383360
 - CDBG: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

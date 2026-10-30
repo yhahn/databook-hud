@@ -1,11 +1,9 @@
 # Project: CASTLE ST. JOHNS (MIA20171003)
 
 - HUD ID: MIA20171003
-- HUD ID before: 
 - Project: CASTLE ST. JOHNS
 - Address: 110 E. HIGHAM STREET
 - City: ST JOHNS
-- State: MI
 - ZIP: 48879
 - ZIP extension: 0000
 - State project ID: 3727
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26037010801
 - Tract 2010: 26037010801
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 70940
 - Place 2010: 70940
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 360254
 - Units: 30
 - Low-income units: 24
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

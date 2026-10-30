@@ -1,13 +1,10 @@
 # Project: WILLOW SPRING APTS (NCA20000285)
 
 - HUD ID: NCA20000285
-- HUD ID before: 
 - Project: WILLOW SPRING APTS
 - Address: 700 SPRING FOREST ROAD
 - City: GREENVILLE
-- State: NC
 - ZIP: 27834
-- ZIP extension: 
 - State project ID: 9001129
 - Latitude: 35.596736
 - Longitude: -77.412785
@@ -22,9 +19,7 @@
 - Place 2000: 28080
 - Place 1990: 1070
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 151169
 - Units: 33
 - Low-income units: 33
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 14
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: OAKWOOD APTS PHASE II (NCA20139019)
 
 - HUD ID: NCA20139019
-- HUD ID before: 
 - Project: OAKWOOD APTS PHASE II
 - Address: 347 TWIN OAKS DR
 - City: YADKINVILLE
-- State: NC
 - ZIP: 27055
 - ZIP extension: 7855
 - State project ID: 9001289
@@ -20,11 +18,8 @@
 - Place 2020: 75960
 - Place 2010: 75960
 - Place 2000: 75960
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 106667
 - Units: 24
 - Low-income units: 24
@@ -41,14 +36,12 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 6
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 972000
 - CDBG: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

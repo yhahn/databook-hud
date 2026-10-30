@@ -1,11 +1,9 @@
 # Project: CROWN AT RIVER BLUFFS (UTA20150004)
 
 - HUD ID: UTA20150004
-- HUD ID before: 
 - Project: CROWN AT RIVER BLUFFS
 - Address: 1960 SIDEWINDER DR.
 - City: PARK CITY
-- State: UT
 - ZIP: 84060
 - ZIP extension: 0000
 - State project ID: 2013-26
@@ -16,15 +14,11 @@
 - Tract 2020: 49043964402
 - Tract 2010: 49043964402
 - Tract 2000: 49043994400
-- Tract 1990: 
 - Place 2020: 58070
 - Place 2010: 58070
 - Place 2000: 58070
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 54086
 - Units: 4
 - Low-income units: 4
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

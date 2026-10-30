@@ -1,11 +1,9 @@
 # Project: VILLAGE AT BRIERWOOD IV (PAA20133271)
 
 - HUD ID: PAA20133271
-- HUD ID before: 
 - Project: VILLAGE AT BRIERWOOD IV
 - Address: FRANKLIN RD EXT
 - City: SOMERSET
-- State: PA
 - ZIP: 15501
 - ZIP extension: 0000
 - State project ID: TC20120605
@@ -16,15 +14,10 @@
 - Tract 2020: 42111020801
 - Tract 2010: 42111020800
 - Tract 2000: 42111020800
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 395861
 - Units: 20
 - Low-income units: 20
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

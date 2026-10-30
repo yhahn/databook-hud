@@ -1,11 +1,9 @@
 # Project: WILLOW RUN (PAA20151019)
 
 - HUD ID: PAA20151019
-- HUD ID before: 
 - Project: WILLOW RUN
 - Address: MILLWOOD RD
 - City: WILLOW STREET
-- State: PA
 - ZIP: 17584
 - ZIP extension: 0000
 - State project ID: TC20130452
@@ -16,15 +14,10 @@
 - Tract 2020: 42071013303
 - Tract 2010: 42071013303
 - Tract 2000: 42071013302
-- Tract 1990: 
 - Place 2020: 85464
 - Place 2010: 85464
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 1316771
 - Units: 72
 - Low-income units: 61
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -62,8 +53,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

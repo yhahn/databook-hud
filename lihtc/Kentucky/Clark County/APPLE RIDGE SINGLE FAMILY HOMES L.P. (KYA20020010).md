@@ -1,13 +1,10 @@
 # Project: APPLE RIDGE SINGLE FAMILY HOMES L.P. (KYA20020010)
 
 - HUD ID: KYA20020010
-- HUD ID before: 
 - Project: APPLE RIDGE SINGLE FAMILY HOMES L.P.
 - Address: ACADIA WAY
 - City: WINCHESTER
-- State: KY
 - ZIP: 40391
-- ZIP extension: 
 - State project ID: KY-00-015
 - Latitude: 37.999293
 - Longitude: -84.149608
@@ -22,9 +19,7 @@
 - Place 2000: 83676
 - Place 1990: 2155
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 948954
 - Units: 40
 - Low-income units: 40
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

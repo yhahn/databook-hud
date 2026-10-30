@@ -1,11 +1,9 @@
 # Project: KARA MANOR APTS. (UTA20080915)
 
 - HUD ID: UTA20080915
-- HUD ID before: 
 - Project: KARA MANOR APTS.
 - Address: 4940 SOUTH 425 WEST
 - City: WASHINGTON TERRACE
-- State: UT
 - ZIP: 84405
 - ZIP extension: 0000
 - State project ID: 2007-18
@@ -22,9 +20,7 @@
 - Place 2000: 82070
 - Place 1990: 1050
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 233303
 - Units: 44
 - Low-income units: 43
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

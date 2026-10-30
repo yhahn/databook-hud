@@ -1,13 +1,10 @@
 # Project: MT PLEASANT PARK APTS (IAA20110903)
 
 - HUD ID: IAA20110903
-- HUD ID before: 
 - Project: MT PLEASANT PARK APTS
 - Address: 1202 N PALM AVE
 - City: MT PLEASANT
-- State: IA
 - ZIP: 52641
-- ZIP extension: 
 - State project ID: 10-10-267
 - Latitude: 40.980446
 - Longitude: -91.544564
@@ -22,9 +19,7 @@
 - Place 2000: 54705
 - Place 1990: 2960
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 139320
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA1991010.
 - Record status: Existing, unchanged

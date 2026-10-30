@@ -1,13 +1,10 @@
 # Project: OWENSBORO REGIONAL RECOVERY (KYA20090639)
 
 - HUD ID: KYA20090639
-- HUD ID before: 
 - Project: OWENSBORO REGIONAL RECOVERY
 - Address: VEACH ROAD
 - City: OWENSBORO
-- State: KY
 - ZIP: 42303
-- ZIP extension: 
 - State project ID: KY-09-092
 - Latitude: 37.7701
 - Longitude: -87.0888
@@ -16,15 +13,10 @@
 - Tract 2020: 21059000401
 - Tract 2010: 21059000400
 - Tract 2000: 21059000400
-- Tract 1990: 
 - Place 2020: 58620
 - Place 2010: 58620
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 414877
 - Units: 38
 - Low-income units: 38
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +68,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

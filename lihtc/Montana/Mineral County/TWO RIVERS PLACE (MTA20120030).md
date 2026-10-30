@@ -1,11 +1,9 @@
 # Project: TWO RIVERS PLACE (MTA20120030)
 
 - HUD ID: MTA20120030
-- HUD ID before: 
 - Project: TWO RIVERS PLACE
 - Address: 343 MT HWY 135
 - City: ST REGIS
-- State: MT
 - ZIP: 59866
 - ZIP extension: 0000
 - State project ID: 11050
@@ -20,11 +18,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 19675
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 118913
 - Units: 8
 - Low-income units: 8
@@ -78,8 +73,5 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA TWO RIVERS APTS LLLP.
 - Record status: Updated

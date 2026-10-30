@@ -1,11 +1,9 @@
 # Project: WALNUT CREEK ESTATES (MOA20200017)
 
 - HUD ID: MOA20200017
-- HUD ID before: 
 - Project: WALNUT CREEK ESTATES
 - Address: 20 MENNEMEYER ROAD
 - City: TROY
-- State: MO
 - ZIP: 63379
 - ZIP extension: 0000
 - State project ID: 18-009
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29113810203
 - Tract 2010: 29113810201
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 73942
 - Place 2010: 73942
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 858000
 - Units: 50
 - Low-income units: 50
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

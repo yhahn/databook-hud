@@ -1,13 +1,10 @@
 # Project: RIVER REST APTS (TNA19940040)
 
 - HUD ID: TNA19940040
-- HUD ID before: 
 - Project: RIVER REST APTS
 - Address: 330 RIVER REST WAY
 - City: NEWPORT
-- State: TN
 - ZIP: 37821
-- ZIP extension: 
 - State project ID: TN-92-050
 - Latitude: 35.980421
 - Longitude: -83.193734
@@ -20,11 +17,8 @@
 - Place 2020: 53000
 - Place 2010: 53000
 - Place 2000: 53000
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 48053
 - Units: 34
 - Low-income units: 34
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

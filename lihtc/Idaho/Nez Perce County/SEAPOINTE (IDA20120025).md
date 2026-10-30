@@ -1,13 +1,10 @@
 # Project: SEAPOINTE (IDA20120025)
 
 - HUD ID: IDA20120025
-- HUD ID before: 
 - Project: SEAPOINTE
 - Address: 1129 CEDAR AVENUE
 - City: LEWISTON
-- State: ID
 - ZIP: 83501
-- ZIP extension: 
 - State project ID: HC1205
 - Latitude: 46.375006
 - Longitude: -116.97267
@@ -22,9 +19,7 @@
 - Place 2000: 46540
 - Place 1990: 0530
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 299017
 - Units: 51
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

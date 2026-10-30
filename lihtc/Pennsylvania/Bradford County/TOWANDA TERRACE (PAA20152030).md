@@ -1,11 +1,9 @@
 # Project: TOWANDA TERRACE (PAA20152030)
 
 - HUD ID: PAA20152030
-- HUD ID before: 
 - Project: TOWANDA TERRACE
 - Address: 410 MAIN ST
 - City: TOWANDA
-- State: PA
 - ZIP: 18848
 - ZIP extension: 1808
 - State project ID: TC20140404
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42015951000
 - Tract 2010: 42015951000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 77168
 - Place 2010: 77168
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 953824
 - Units: 38
 - Low-income units: 38
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -62,8 +51,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

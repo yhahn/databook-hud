@@ -1,13 +1,10 @@
 # Project: VANDERBILT APARTMENTS (NCA20070170)
 
 - HUD ID: NCA20070170
-- HUD ID before: 
 - Project: VANDERBILT APARTMENTS
 - Address: 75 HAYWOOD STREET
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28801
-- ZIP extension: 
 - State project ID: 9002246
 - Latitude: 35.596704
 - Longitude: -82.555216
@@ -22,9 +19,7 @@
 - Place 2000: 02140
 - Place 1990: 0095
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 696940
 - Units: 123
 - Low-income units: 123
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

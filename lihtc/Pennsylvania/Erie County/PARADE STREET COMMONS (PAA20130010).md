@@ -1,11 +1,9 @@
 # Project: PARADE STREET COMMONS (PAA20130010)
 
 - HUD ID: PAA20130010
-- HUD ID before: 
 - Project: PARADE STREET COMMONS
 - Address: 19TH AND PARADE STRS
 - City: ERIE
-- State: PA
 - ZIP: 16503
 - ZIP extension: 2078
 - State project ID: TC20110416
@@ -22,9 +20,7 @@
 - Place 2000: 24000
 - Place 1990: 3685
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 944622
 - Units: 36
 - Low-income units: 36
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

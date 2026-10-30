@@ -1,13 +1,10 @@
 # Project: THE LANDINGS II APTS (NCA20000235)
 
 - HUD ID: NCA20000235
-- HUD ID before: 
 - Project: THE LANDINGS II APTS
 - Address: 2248 HUDSON LANDINGS DRIVE
 - City: GASTONIA
-- State: NC
 - ZIP: 28054
-- ZIP extension: 
 - State project ID: 9002314
 - Latitude: 35.232305
 - Longitude: -81.180309
@@ -22,9 +19,7 @@
 - Place 2000: 25580
 - Place 1990: 0990
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 192193
 - Units: 49
 - Low-income units: 48
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

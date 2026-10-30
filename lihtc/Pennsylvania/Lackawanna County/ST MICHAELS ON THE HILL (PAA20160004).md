@@ -1,11 +1,9 @@
 # Project: ST MICHAELS ON THE HILL (PAA20160004)
 
 - HUD ID: PAA20160004
-- HUD ID before: 
 - Project: ST MICHAELS ON THE HILL
 - Address: 321 2ND AVE
 - City: JESSUP
-- State: PA
 - ZIP: 18434
 - ZIP extension: 1019
 - State project ID: TC20150624
@@ -16,15 +14,11 @@
 - Tract 2020: 42069111300
 - Tract 2010: 42069111300
 - Tract 2000: 42069111300
-- Tract 1990: 
 - Place 2020: 38160
 - Place 2010: 38160
 - Place 2000: 38160
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 694174
 - Units: 31
 - Low-income units: 31
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -62,8 +54,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

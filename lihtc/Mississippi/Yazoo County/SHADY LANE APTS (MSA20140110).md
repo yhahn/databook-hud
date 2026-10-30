@@ -1,13 +1,10 @@
 # Project: SHADY LANE APTS (MSA20140110)
 
 - HUD ID: MSA20140110
-- HUD ID before: 
 - Project: SHADY LANE APTS
 - Address: 740 SHADY DR
 - City: YAZOO CITY
-- State: MS
 - ZIP: 39194
-- ZIP extension: 
 - State project ID: MS-14-T-001
 - Latitude: 32.864271
 - Longitude: -90.414478
@@ -22,9 +19,7 @@
 - Place 2000: 81520
 - Place 1990: 1480
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 355873
 - Units: 120
 - Low-income units: 120
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

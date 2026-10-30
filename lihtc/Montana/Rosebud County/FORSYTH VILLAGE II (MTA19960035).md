@@ -1,11 +1,9 @@
 # Project: FORSYTH VILLAGE II (MTA19960035)
 
 - HUD ID: MTA19960035
-- HUD ID before: 
 - Project: FORSYTH VILLAGE II
 - Address: 2315 EAST FRONT
 - City: FORSYTH
-- State: MT
 - ZIP: 59327
 - ZIP extension: 0000
 - State project ID: 94080
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30087000100
 - Tract 2010: 30087000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 31393
 - Units: 12
 - Low-income units: 12
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

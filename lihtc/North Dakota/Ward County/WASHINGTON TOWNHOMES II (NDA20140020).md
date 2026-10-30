@@ -1,13 +1,10 @@
 # Project: WASHINGTON TOWNHOMES II (NDA20140020)
 
 - HUD ID: NDA20140020
-- HUD ID before: 
 - Project: WASHINGTON TOWNHOMES II
 - Address: 814 17TH AVE SE
 - City: MINOT
-- State: ND
 - ZIP: 58701
-- ZIP extension: 
 - State project ID: TC1309
 - Latitude: 48.216242
 - Longitude: -101.28084
@@ -22,9 +19,7 @@
 - Place 2000: 53380
 - Place 1990: 1140
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 647500
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

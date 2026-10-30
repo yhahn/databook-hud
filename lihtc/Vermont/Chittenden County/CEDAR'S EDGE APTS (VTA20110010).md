@@ -1,13 +1,10 @@
 # Project: CEDAR'S EDGE APTS (VTA20110010)
 
 - HUD ID: VTA20110010
-- HUD ID before: 
 - Project: CEDAR'S EDGE APTS
 - Address: 47 SUSIE WILSON RD
 - City: ESSEX JUNCTION
-- State: VT
 - ZIP: 05452
-- ZIP extension: 
 - State project ID: 0423
 - Latitude: 44.509018
 - Longitude: -73.131956
@@ -19,12 +16,8 @@
 - Tract 1990: 50007002200
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 457107
 - Units: 30
 - Low-income units: 25
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

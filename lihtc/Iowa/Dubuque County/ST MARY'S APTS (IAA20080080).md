@@ -1,13 +1,10 @@
 # Project: ST MARY'S APTS (IAA20080080)
 
 - HUD ID: IAA20080080
-- HUD ID before: 
 - Project: ST MARY'S APTS
 - Address: 2955 KAUFMANN AVE
 - City: DUBUQUE
-- State: IA
 - ZIP: 52001
-- ZIP extension: 
 - State project ID: 07-41
 - Latitude: 42.514497
 - Longitude: -90.70887
@@ -22,9 +19,7 @@
 - Place 2000: 22395
 - Place 1990: 1215
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 162222
 - Units: 79
 - Low-income units: 77
@@ -39,13 +34,9 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +46,7 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +54,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: GLENDALE WOODS (NCA20090045)
 
 - HUD ID: NCA20090045
-- HUD ID before: 
 - Project: GLENDALE WOODS
 - Address: 401 PIKE STREET BOX 38
 - City: WILSON
-- State: NC
 - ZIP: 27893
-- ZIP extension: 
 - State project ID: 9002736
 - Latitude: 35.715382
 - Longitude: -77.938391
@@ -22,9 +19,7 @@
 - Place 2000: 74540
 - Place 1990: 2760
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 327498
 - Units: 36
 - Low-income units: 36
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

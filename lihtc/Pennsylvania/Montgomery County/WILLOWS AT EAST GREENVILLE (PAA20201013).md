@@ -1,11 +1,9 @@
 # Project: WILLOWS AT EAST GREENVILLE (PAA20201013)
 
 - HUD ID: PAA20201013
-- HUD ID before: 
 - Project: WILLOWS AT EAST GREENVILLE
 - Address: 401 W 4TH ST
 - City: EAST GREENVILLE
-- State: PA
 - ZIP: 18041
 - ZIP extension: 1705
 - State project ID: TC20180458
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42091208100
 - Tract 2010: 42091208100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 21200
 - Place 2010: 21200
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1200000
 - Units: 71
 - Low-income units: 59
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

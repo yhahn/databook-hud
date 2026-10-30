@@ -1,11 +1,9 @@
 # Project: OLD MILL AT STANSBURY II (UTA20060045)
 
 - HUD ID: UTA20060045
-- HUD ID before: 
 - Project: OLD MILL AT STANSBURY II
 - Address: 36 PORTER WAY WEST
 - City: STANSBURY PARK
-- State: UT
 - ZIP: 84074
 - ZIP extension: 0000
 - State project ID: 2005-10
@@ -19,12 +17,8 @@
 - Tract 1990: 49045130700
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 850100
 - Units: 70
 - Low-income units: 69
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

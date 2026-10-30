@@ -1,13 +1,10 @@
 # Project: VIRGINIA PLACE (KYA19940551)
 
 - HUD ID: KYA19940551
-- HUD ID before: 
 - Project: VIRGINIA PLACE
 - Address: HORSEMANS LN.
 - City: LEXINGTON
-- State: KY
 - ZIP: 40507
-- ZIP extension: 
 - State project ID: KY-92-004
 - Latitude: 38.037
 - Longitude: -84.5416
@@ -19,12 +16,9 @@
 - Tract 1990: 21067001900
 - Place 2020: 46027
 - Place 2010: 46027
-- Place 2000: 
 - Place 1990: 1160
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 56
 - Low-income units: 56
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +56,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +69,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

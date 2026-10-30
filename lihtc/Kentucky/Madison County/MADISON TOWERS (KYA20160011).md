@@ -1,13 +1,10 @@
 # Project: MADISON TOWERS (KYA20160011)
 
 - HUD ID: KYA20160011
-- HUD ID before: 
 - Project: MADISON TOWERS
 - Address: N. MADISON AVE.
 - City: RICHMOND
-- State: KY
 - ZIP: 40475
-- ZIP extension: 
 - State project ID: KY-15-016
 - Latitude: 37.7488
 - Longitude: -84.2906
@@ -16,15 +13,10 @@
 - Tract 2020: 21151010400
 - Tract 2010: 21151010400
 - Tract 2000: 21151010600
-- Tract 1990: 
 - Place 2020: 65226
 - Place 2010: 65226
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1978538
 - Units: 102
 - Low-income units: 102
@@ -39,7 +31,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

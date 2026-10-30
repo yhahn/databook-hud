@@ -1,11 +1,9 @@
 # Project: RIVER WEST APTS (IAA19979004)
 
 - HUD ID: IAA19979004
-- HUD ID before: 
 - Project: RIVER WEST APTS
 - Address: 674 TERRACE PARK BLVD
 - City: MILFORD
-- State: IA
 - ZIP: 51351
 - ZIP extension: 0000
 - State project ID: 96-49
@@ -13,18 +11,12 @@
 - Longitude: -95.149709
 - County FIPS: 19059
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 19059451100
 - Tract 2000: 19059951100
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 52095
 - Place 2000: 52095
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 149588
 - Units: 30
 - Low-income units: 30
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,7 +39,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: ROOSEVELT APARTMENTS (MIA20171016)
 
 - HUD ID: MIA20171016
-- HUD ID before: 
 - Project: ROOSEVELT APARTMENTS
 - Address: 525 W. SUMMIT
 - City: MUSKEGON HEIGHTS
-- State: MI
 - ZIP: 49444
 - ZIP extension: 0000
 - State project ID: 3730
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26121001402
 - Tract 2010: 26121001402
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 56360
 - Place 2010: 56360
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 1097958
 - Units: 52
 - Low-income units: 52
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

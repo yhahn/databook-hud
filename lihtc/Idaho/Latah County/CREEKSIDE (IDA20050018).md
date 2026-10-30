@@ -1,13 +1,10 @@
 # Project: CREEKSIDE (IDA20050018)
 
 - HUD ID: IDA20050018
-- HUD ID before: 
 - Project: CREEKSIDE
 - Address: 1630 SOUTH MAIN STREET
 - City: MOSCOW
-- State: ID
 - ZIP: 83843
-- ZIP extension: 
 - State project ID: HC0312
 - Latitude: 46.72065
 - Longitude: -117.001168
@@ -22,9 +19,7 @@
 - Place 2000: 54550
 - Place 1990: 0625
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 304145
 - Units: 60
 - Low-income units: 53
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 53
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

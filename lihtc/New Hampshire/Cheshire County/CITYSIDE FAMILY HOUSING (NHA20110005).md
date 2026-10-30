@@ -1,13 +1,10 @@
 # Project: CITYSIDE FAMILY HOUSING (NHA20110005)
 
 - HUD ID: NHA20110005
-- HUD ID before: 
 - Project: CITYSIDE FAMILY HOUSING
 - Address: 92 WATER ST
 - City: KEENE
-- State: NH
 - ZIP: 03431
-- ZIP extension: 
 - State project ID: 969
 - Latitude: 42.930328
 - Longitude: -72.274209
@@ -22,9 +19,7 @@
 - Place 2000: 39300
 - Place 1990: 1360
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 295305
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 909571
 - TCEP: Yes
 - TCEP amount: 838578
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NHA2011509.
 - Record status: Existing, unchanged

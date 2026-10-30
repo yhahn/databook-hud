@@ -1,13 +1,10 @@
 # Project: WINDWOOD (IDA20110050)
 
 - HUD ID: IDA20110050
-- HUD ID before: 
 - Project: WINDWOOD
 - Address: 921 SOUTH DAVIS STREET
 - City: JEROME
-- State: ID
 - ZIP: 83338
-- ZIP extension: 
 - State project ID: HC1012
 - Latitude: 42.716485
 - Longitude: -114.512043
@@ -22,9 +19,7 @@
 - Place 2000: 41320
 - Place 1990: 0465
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 211178
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

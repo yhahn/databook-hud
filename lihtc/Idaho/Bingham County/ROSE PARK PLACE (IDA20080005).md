@@ -1,13 +1,10 @@
 # Project: ROSE PARK PLACE (IDA20080005)
 
 - HUD ID: IDA20080005
-- HUD ID before: 
 - Project: ROSE PARK PLACE
 - Address: 1385 MEGGAN STREET
 - City: BLACKFOOT
-- State: ID
 - ZIP: 83221
-- ZIP extension: 
 - State project ID: HC0706
 - Latitude: 43.19934
 - Longitude: -112.318513
@@ -19,12 +16,9 @@
 - Tract 1990: 16011950400
 - Place 2020: 07840
 - Place 2010: 07840
-- Place 2000: 
 - Place 1990: 0075
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 304307
 - Units: 40
 - Low-income units: 39
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

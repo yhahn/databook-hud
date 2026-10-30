@@ -1,13 +1,10 @@
 # Project: WISTERIA ESTATES 01 (MSA20030075)
 
 - HUD ID: MSA20030075
-- HUD ID before: 
 - Project: WISTERIA ESTATES 01
 - Address: 21 TONEY DR
 - City: HATTIESBURG
-- State: MS
 - ZIP: 39401
-- ZIP extension: 
 - State project ID: MS-01-050
 - Latitude: 31.299624
 - Longitude: -89.29454
@@ -22,9 +19,7 @@
 - Place 2000: 31020
 - Place 1990: 0535
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 286260
 - Units: 30
 - Low-income units: 28
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA WISTERIA ESTATES (00-01).
 - Record status: Existing, unchanged

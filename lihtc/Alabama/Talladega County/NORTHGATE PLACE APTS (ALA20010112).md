@@ -1,13 +1,10 @@
 # Project: NORTHGATE PLACE APTS (ALA20010112)
 
 - HUD ID: ALA20010112
-- HUD ID before: 
 - Project: NORTHGATE PLACE APTS
 - Address: 65440 AL HWY 77
 - City: TALLADEGA
-- State: AL
 - ZIP: 35160
-- ZIP extension: 
 - State project ID: AL-01-0067
 - Latitude: 33.451029
 - Longitude: -86.113916
@@ -22,9 +19,7 @@
 - Place 2000: 74592
 - Place 1990: 1655
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 379535
 - Units: 56
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1149350
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2003075.
 - Record status: Existing, unchanged

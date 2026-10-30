@@ -1,13 +1,10 @@
 # Project: OAK RIDGE FAMILY APTS (CAA20140429)
 
 - HUD ID: CAA20140429
-- HUD ID before: 
 - Project: OAK RIDGE FAMILY APTS
 - Address: 73 CAROL LN
 - City: OAKLEY
-- State: CA
 - ZIP: 94561
-- ZIP extension: 
 - State project ID: CA-13-835
 - Latitude: 38.002628
 - Longitude: -121.735762
@@ -22,9 +19,7 @@
 - Place 2000: 53070
 - Place 1990: 1975
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 209112
 - Units: 30
 - Low-income units: 29
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

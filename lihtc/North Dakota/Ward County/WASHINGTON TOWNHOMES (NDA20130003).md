@@ -1,13 +1,10 @@
 # Project: WASHINGTON TOWNHOMES (NDA20130003)
 
 - HUD ID: NDA20130003
-- HUD ID before: 
 - Project: WASHINGTON TOWNHOMES
 - Address: 813 18TH AVE SE
 - City: MINOT
-- State: ND
 - ZIP: 58701
-- ZIP extension: 
 - State project ID: TC1211
 - Latitude: 48.214804
 - Longitude: -101.279547
@@ -22,9 +19,7 @@
 - Place 2000: 53380
 - Place 1990: 1140
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 631250
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: WILLOW COURT (MTA19980045)
 
 - HUD ID: MTA19980045
-- HUD ID before: 
 - Project: WILLOW COURT
 - Address: 290 SKEELS AVE
 - City: HAMILTON
-- State: MT
 - ZIP: 59840
 - ZIP extension: 0000
 - State project ID: 97030
@@ -20,11 +18,8 @@
 - Place 2020: 33775
 - Place 2010: 33775
 - Place 2000: 33775
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 250080
 - Units: 48
 - Low-income units: 48
@@ -72,14 +67,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

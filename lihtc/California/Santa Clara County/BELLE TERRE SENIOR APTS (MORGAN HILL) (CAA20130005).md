@@ -1,13 +1,10 @@
 # Project: BELLE TERRE SENIOR APTS (MORGAN HILL) (CAA20130005)
 
 - HUD ID: CAA20130005
-- HUD ID before: 
 - Project: BELLE TERRE SENIOR APTS (MORGAN HILL)
 - Address: 235 E DUNNE AVE
 - City: MORGAN HILL
-- State: CA
 - ZIP: 95037
-- ZIP extension: 
 - State project ID: CA-11-149
 - Latitude: 37.126682
 - Longitude: -121.647027
@@ -22,9 +19,7 @@
 - Place 2000: 49278
 - Place 1990: 1850
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 591004
 - Units: 39
 - Low-income units: 39
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 370846
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BELLA TERRA EAH.
 - Record status: Existing, unchanged

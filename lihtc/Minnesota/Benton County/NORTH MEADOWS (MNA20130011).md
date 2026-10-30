@@ -1,13 +1,10 @@
 # Project: NORTH MEADOWS (MNA20130011)
 
 - HUD ID: MNA20130011
-- HUD ID before: 
 - Project: NORTH MEADOWS
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: SAUK RAPIDS
-- State: MN
 - ZIP: 56379
-- ZIP extension: 
 - State project ID: D3494
 - Latitude: 45.6029
 - Longitude: -94.1631
@@ -22,9 +19,7 @@
 - Place 2000: 56896
 - Place 1990: 3480
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 403092
 - Units: 36
 - Low-income units: 36
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +43,9 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +55,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

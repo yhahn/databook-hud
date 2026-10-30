@@ -1,11 +1,9 @@
 # Project: GAAR SCOTT HISTORIC LOFTS (MNB20019002)
 
 - HUD ID: MNB20019002
-- HUD ID before: 
 - Project: GAAR SCOTT HISTORIC LOFTS
 - Address: 614 NORTH FIRST STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55401
 - ZIP extension: 1262
 - State project ID: D3726
@@ -16,15 +14,11 @@
 - Tract 2020: 27053126202
 - Tract 2010: 27053126200
 - Tract 2000: 27053003502
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 47731
 - Units: 30
 - Low-income units: 9
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: No
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

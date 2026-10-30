@@ -1,11 +1,9 @@
 # Project: HIDDEN OAKS VII (UTA19990020)
 
 - HUD ID: UTA19990020
-- HUD ID before: 
 - Project: HIDDEN OAKS VII
 - Address: 3427 SOUTH 200 EAST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84115
 - ZIP extension: 0000
 - State project ID: 1997-20
@@ -22,9 +20,7 @@
 - Place 2000: 71070
 - Place 1990: 0593
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 25800
 - Units: 6
 - Low-income units: 6
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

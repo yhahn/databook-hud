@@ -1,11 +1,9 @@
 # Project: LIGHTHOUSE OF THE SIERRA (NVA20010070)
 
 - HUD ID: NVA20010070
-- HUD ID before: 
 - Project: LIGHTHOUSE OF THE SIERRA
 - Address: CLEARACRE & CRYSTAL LANES
 - City: RENO
-- State: NV
 - ZIP: 89512
 - ZIP extension: 0000
 - State project ID: 2K 5
@@ -22,9 +20,7 @@
 - Place 2000: 60600
 - Place 1990: 0112
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 198993
 - Units: 26
 - Low-income units: 26
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +63,6 @@
 - Other population: Yes
 - Other population named: DRUG DEPENDENCY
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

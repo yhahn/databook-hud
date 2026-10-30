@@ -1,13 +1,10 @@
 # Project: NEW GARDEN PLACE (NCA19940450)
 
 - HUD ID: NCA19940450
-- HUD ID before: 
 - Project: NEW GARDEN PLACE
 - Address: 1622 MCPHERSON STREET
 - City: GREENSBORO
-- State: NC
 - ZIP: 27405
-- ZIP extension: 
 - State project ID: 9002198
 - Latitude: 36.096577
 - Longitude: -79.754255
@@ -22,9 +19,7 @@
 - Place 2000: 28000
 - Place 1990: 1065
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 242343
 - Units: 76
 - Low-income units: 76
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

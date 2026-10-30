@@ -1,11 +1,9 @@
 # Project: LAFITTE LANDING (LAA20080180)
 
 - HUD ID: LAA20080180
-- HUD ID before: 
 - Project: LAFITTE LANDING
 - Address: 951 GAUSE BLVD. WEST
 - City: SLIDELL
-- State: LA
 - ZIP: 70460
 - ZIP extension: 0000
 - State project ID: LA-06-173
@@ -22,9 +20,7 @@
 - Place 2000: 70805
 - Place 1990: 1280
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 41929
 - Units: 52
 - Low-income units: 52
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Scattered Site/New Construction
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

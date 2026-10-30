@@ -1,13 +1,10 @@
 # Project: HOLIDAY VILLAGE (NDA20010020)
 
 - HUD ID: NDA20010020
-- HUD ID before: 
 - Project: HOLIDAY VILLAGE
 - Address: 223 WALNUT ST W
 - City: DEVILS LAKE
-- State: ND
 - ZIP: 58301
-- ZIP extension: 
 - State project ID: TC0116
 - Latitude: 48.1079
 - Longitude: -98.866661
@@ -20,11 +17,8 @@
 - Place 2020: 19420
 - Place 2010: 19420
 - Place 2000: 19420
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 69150
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

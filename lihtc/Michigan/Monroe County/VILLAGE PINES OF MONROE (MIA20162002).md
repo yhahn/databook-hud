@@ -1,11 +1,9 @@
 # Project: VILLAGE PINES OF MONROE (MIA20162002)
 
 - HUD ID: MIA20162002
-- HUD ID before: 
 - Project: VILLAGE PINES OF MONROE
 - Address: 1600 PARK COURT
 - City: MONROE
-- State: MI
 - ZIP: 48162
 - ZIP extension: 0000
 - State project ID: 3685
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26115831400
 - Tract 2010: 26115831400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 55020
 - Place 2010: 55020
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 1011287
 - Units: 190
 - Low-income units: 189
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 75
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

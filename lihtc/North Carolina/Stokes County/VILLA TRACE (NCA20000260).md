@@ -1,11 +1,9 @@
 # Project: VILLA TRACE (NCA20000260)
 
 - HUD ID: NCA20000260
-- HUD ID before: 
 - Project: VILLA TRACE
 - Address: 649 W DALTON RD
 - City: KING
-- State: NC
 - ZIP: 27021
 - ZIP extension: 9252
 - State project ID: 9002286
@@ -19,12 +17,8 @@
 - Tract 1990: 37067002801
 - Place 2020: 35760
 - Place 2010: 35760
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 219237
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

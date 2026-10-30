@@ -1,13 +1,10 @@
 # Project: YMCA SUPPORTIVE HOUSING (IAA20110911)
 
 - HUD ID: IAA20110911
-- HUD ID before: 
 - Project: YMCA SUPPORTIVE HOUSING
 - Address: 2 SW NINTH ST
 - City: DES MOINES
-- State: IA
 - ZIP: 50309
-- ZIP extension: 
 - State project ID: 09-0948
 - Latitude: 41.580539
 - Longitude: -93.626878
@@ -22,9 +19,7 @@
 - Place 2000: 21000
 - Place 1990: 1130
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1433913
 - Units: 140
 - Low-income units: 140
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 5824439
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MARION MANOR II (IAA20120065)
 
 - HUD ID: IAA20120065
-- HUD ID before: 
 - Project: MARION MANOR II
 - Address: 1228 N FREMONT ST
 - City: IOWA FALLS
-- State: IA
 - ZIP: 50126
-- ZIP extension: 
 - State project ID: 10-10-259
 - Latitude: 42.528168
 - Longitude: -93.260823
@@ -22,9 +19,7 @@
 - Place 2000: 38640
 - Place 1990: 2045
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 74203
 - Units: 16
 - Low-income units: 16
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

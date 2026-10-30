@@ -1,13 +1,10 @@
 # Project: BURCHWOOD LEASE PURCHASE PROJECT (KYA19990040)
 
 - HUD ID: KYA19990040
-- HUD ID before: 
 - Project: BURCHWOOD LEASE PURCHASE PROJECT
 - Address: BURCHWOOD DRIVE
 - City: BEREA
-- State: KY
 - ZIP: 40403
-- ZIP extension: 
 - State project ID: KY-97-062
 - Latitude: 37.5659
 - Longitude: -84.2726
@@ -16,15 +13,10 @@
 - Tract 2020: 21151011303
 - Tract 2010: 21151011302
 - Tract 2000: 21151011200
-- Tract 1990: 
 - Place 2020: 05842
 - Place 2010: 05842
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 17
 - Low-income units: 17
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

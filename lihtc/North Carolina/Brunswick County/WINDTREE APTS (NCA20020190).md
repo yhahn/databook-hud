@@ -1,13 +1,10 @@
 # Project: WINDTREE APTS (NCA20020190)
 
 - HUD ID: NCA20020190
-- HUD ID before: 
 - Project: WINDTREE APTS
 - Address: 1229 N CASWELL STREET
 - City: SOUTHPORT
-- State: NC
 - ZIP: 28461
-- ZIP extension: 
 - State project ID: 9001615
 - Latitude: 33.934674
 - Longitude: -78.027993
@@ -22,9 +19,7 @@
 - Place 2000: 63400
 - Place 1990: 2340
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 93609
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

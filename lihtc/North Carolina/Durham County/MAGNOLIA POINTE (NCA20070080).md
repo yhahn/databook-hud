@@ -1,13 +1,10 @@
 # Project: MAGNOLIA POINTE (NCA20070080)
 
 - HUD ID: NCA20070080
-- HUD ID before: 
 - Project: MAGNOLIA POINTE
 - Address: 4801 DANUBE LANE
 - City: DURHAM
-- State: NC
 - ZIP: 27704
-- ZIP extension: 
 - State project ID: 9002231
 - Latitude: 36.056484
 - Longitude: -78.889035
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 696460
 - Units: 156
 - Low-income units: 156
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 8
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: SANDY HILL APARTMENTS (KYA20040609)
 
 - HUD ID: KYA20040609
-- HUD ID before: 
 - Project: SANDY HILL APARTMENTS
 - Address: CLEATON RD.
 - City: CENTRAL CITY
-- State: KY
 - ZIP: 42330
-- ZIP extension: 
 - State project ID: KY-03-012
 - Latitude: 37.3345
 - Longitude: -87.1493
@@ -19,12 +16,8 @@
 - Tract 1990: 21177960100
 - Place 2020: 13978
 - Place 2010: 13978
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 29
 - Low-income units: 29
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

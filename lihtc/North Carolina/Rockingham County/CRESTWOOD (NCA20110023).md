@@ -1,13 +1,10 @@
 # Project: CRESTWOOD (NCA20110023)
 
 - HUD ID: NCA20110023
-- HUD ID before: 
 - Project: CRESTWOOD
 - Address: 521 PRICE STREET
 - City: REIDSVILLE
-- State: NC
 - ZIP: 27320
-- ZIP extension: 
 - State project ID: 9108132
 - Latitude: 36.35513
 - Longitude: -79.654896
@@ -16,15 +13,11 @@
 - Tract 2020: 37157041400
 - Tract 2010: 37157041400
 - Tract 2000: 37157041400
-- Tract 1990: 
 - Place 2020: 55900
 - Place 2010: 55900
 - Place 2000: 55900
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 74514
 - Units: 40
 - Low-income units: 40
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

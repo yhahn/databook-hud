@@ -1,13 +1,10 @@
 # Project: NORTHWEST POINTE (IDA19949007)
 
 - HUD ID: IDA19949007
-- HUD ID before: 
 - Project: NORTHWEST POINTE
 - Address: 3475 NORTH FIVE MILE ROAD
 - City: BOISE
-- State: ID
 - ZIP: 83713
-- ZIP extension: 
 - State project ID: HC9301
 - Latitude: 43.636093
 - Longitude: -116.314555
@@ -16,15 +13,11 @@
 - Tract 2020: 16001002416
 - Tract 2010: 16001002413
 - Tract 2000: 16001002413
-- Tract 1990: 
 - Place 2020: 08830
 - Place 2010: 08830
 - Place 2000: 08830
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 304286
 - Units: 77
 - Low-income units: 50
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

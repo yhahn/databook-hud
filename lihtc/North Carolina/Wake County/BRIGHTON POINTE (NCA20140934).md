@@ -1,11 +1,9 @@
 # Project: BRIGHTON POINTE (NCA20140934)
 
 - HUD ID: NCA20140934
-- HUD ID before: 
 - Project: BRIGHTON POINTE
 - Address: 7510 ESTEY RD
 - City: RALEIGH
-- State: NC
 - ZIP: 27616
 - ZIP extension: 6663
 - State project ID: 9135050
@@ -20,11 +18,8 @@
 - Place 2020: 55000
 - Place 2010: 55000
 - Place 2000: 55000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 801586
 - Units: 80
 - Low-income units: 80
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: LULAC AMISTAD APARTMENTS (TXA20099005)
 
 - HUD ID: TXA20099005
-- HUD ID before: 
 - Project: LULAC AMISTAD APARTMENTS
 - Address: 924 FLORES ST
 - City: SINTON
-- State: TX
 - ZIP: 78387
-- ZIP extension: 
 - State project ID: TX4351
 - Latitude: 28.027896
 - Longitude: -97.504046
@@ -22,10 +19,7 @@
 - Place 2000: 19810
 - Place 1990: 3945
 - Year placed in service: 2009
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -40,15 +34,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 170000
 - CDBG: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -78,8 +67,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

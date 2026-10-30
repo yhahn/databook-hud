@@ -1,11 +1,9 @@
 # Project: HOMEFIELD 2 (NDA20190004)
 
 - HUD ID: NDA20190004
-- HUD ID before: 
 - Project: HOMEFIELD 2
 - Address: 4245 28TH AVE S
 - City: FARGO
-- State: ND
 - ZIP: 58104
 - ZIP extension: 0000
 - State project ID: TC1809
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 38017040700
 - Tract 2010: 38017010305
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 25700
 - Place 2010: 25700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 640984
 - Units: 39
 - Low-income units: 39
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

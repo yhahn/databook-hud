@@ -1,13 +1,10 @@
 # Project: KENMARE TRACE (IDA19990015)
 
 - HUD ID: IDA19990015
-- HUD ID before: 
 - Project: KENMARE TRACE
 - Address: 660 SOUTH 12TH STREET
 - City: PAYETTE
-- State: ID
 - ZIP: 83661
-- ZIP extension: 
 - State project ID: HC9905
 - Latitude: 44.066201
 - Longitude: -116.928364
@@ -22,9 +19,7 @@
 - Place 2000: 61300
 - Place 1990: 0745
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 180333
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

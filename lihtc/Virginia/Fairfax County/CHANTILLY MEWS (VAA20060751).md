@@ -1,13 +1,10 @@
 # Project: CHANTILLY MEWS (VAA20060751)
 
 - HUD ID: VAA20060751
-- HUD ID before: 
 - Project: CHANTILLY MEWS
 - Address: 4114 CHANTILLY LACE CT
 - City: CHANTILLY
-- State: VA
 - ZIP: 20151
-- ZIP extension: 
 - State project ID: 4138
 - Latitude: 38.891147
 - Longitude: -77.426245
@@ -22,9 +19,7 @@
 - Place 2000: 14744
 - Place 1990: 0218
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 355600
 - Units: 50
 - Low-income units: 50
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005052.
 - Record status: Existing, unchanged

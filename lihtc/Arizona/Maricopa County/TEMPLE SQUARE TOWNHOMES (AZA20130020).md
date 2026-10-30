@@ -1,13 +1,10 @@
 # Project: TEMPLE SQUARE TOWNHOMES (AZA20130020)
 
 - HUD ID: AZA20130020
-- HUD ID before: 
 - Project: TEMPLE SQUARE TOWNHOMES
 - Address: 324 S HORNE
 - City: MESA
-- State: AZ
 - ZIP: 85204
-- ZIP extension: 
 - State project ID: TC-0599-11
 - Latitude: 33.408926
 - Longitude: -111.814324
@@ -22,9 +19,7 @@
 - Place 2000: 46000
 - Place 1990: 0215
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 2046355
 - Units: 152
 - Low-income units: 152
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS AZA1993070, AZA1993052, AZA0000581. FKA PALMS AT MESA
 - Record status: Existing, unchanged

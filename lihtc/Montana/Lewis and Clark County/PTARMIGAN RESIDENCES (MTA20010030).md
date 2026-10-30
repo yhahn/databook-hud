@@ -1,11 +1,9 @@
 # Project: PTARMIGAN RESIDENCES (MTA20010030)
 
 - HUD ID: MTA20010030
-- HUD ID before: 
 - Project: PTARMIGAN RESIDENCES
 - Address: 3400 PTARMIGAN LANE
 - City: HELENA
-- State: MT
 - ZIP: 59601
 - ZIP extension: 0000
 - State project ID: 00080
@@ -22,9 +20,7 @@
 - Place 2000: 35600
 - Place 1990: 0329
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 135992
 - Units: 22
 - Low-income units: 22
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

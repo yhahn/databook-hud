@@ -1,13 +1,10 @@
 # Project: CHILEWICH APARTMENTS (KYA20090025)
 
 - HUD ID: KYA20090025
-- HUD ID before: 
 - Project: CHILEWICH APARTMENTS
 - Address: JERICHO ROAD
 - City: LAGRANGE
-- State: KY
 - ZIP: 40031
-- ZIP extension: 
 - State project ID: KY-08-085
 - Latitude: 38.4117
 - Longitude: -85.3976
@@ -19,12 +16,9 @@
 - Tract 1990: 21185030300
 - Place 2020: 10648
 - Place 2010: 10648
-- Place 2000: 
 - Place 1990: 1095
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 750658
 - Units: 35
 - Low-income units: 35
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

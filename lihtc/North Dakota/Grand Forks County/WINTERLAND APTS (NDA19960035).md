@@ -1,13 +1,10 @@
 # Project: WINTERLAND APTS (NDA19960035)
 
 - HUD ID: NDA19960035
-- HUD ID before: 
 - Project: WINTERLAND APTS
 - Address: 4275 FIFTH AVE N
 - City: GRAND FORKS
-- State: ND
 - ZIP: 58203
-- ZIP extension: 
 - State project ID: 94-15
 - Latitude: 47.924861
 - Longitude: -97.090716
@@ -22,9 +19,7 @@
 - Place 2000: 32060
 - Place 1990: 0693
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 30490
 - Units: 18
 - Low-income units: 13
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA1996030.
 - Record status: Existing, unchanged

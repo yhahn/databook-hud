@@ -1,13 +1,10 @@
 # Project: PLUMAS FAMILY APTS (CAA20130075)
 
 - HUD ID: CAA20130075
-- HUD ID before: 
 - Project: PLUMAS FAMILY APTS
 - Address: 1240 PLUMAS ST
 - City: YUBA CITY
-- State: CA
 - ZIP: 95991
-- ZIP extension: 
 - State project ID: CA-11-173
 - Latitude: 39.14818
 - Longitude: -121.617794
@@ -22,9 +19,7 @@
 - Place 2000: 86972
 - Place 1990: 3185
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 352595
 - Units: 15
 - Low-income units: 15
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA YUBA CITY PACIFIC ASSOC.
 - Record status: Existing, unchanged

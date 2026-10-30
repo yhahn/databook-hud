@@ -1,11 +1,9 @@
 # Project: WINNETT APARTMENTS (MTA19910030)
 
 - HUD ID: MTA19910030
-- HUD ID before: 
 - Project: WINNETT APARTMENTS
 - Address: NE MAIN ST & LEEPER
 - City: WINNETT
-- State: MT
 - ZIP: 59087
 - ZIP extension: 0000
 - State project ID: 91040
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30069000100
 - Tract 2010: 30069000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 81100
 - Place 2010: 81100
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 10480
 - Units: 6
 - Low-income units: 6
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +66,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA0000105.
 - Record status: Existing, unchanged

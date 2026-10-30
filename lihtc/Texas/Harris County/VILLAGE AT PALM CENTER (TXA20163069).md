@@ -1,13 +1,10 @@
 # Project: VILLAGE AT PALM CENTER (TXA20163069)
 
 - HUD ID: TXA20163069
-- HUD ID before: 
 - Project: VILLAGE AT PALM CENTER
 - Address: 5110 GRIGGS ROAD
 - City: HOUSTON
-- State: TX
 - ZIP: 77021
-- ZIP extension: 
 - State project ID: TX4984
 - Latitude: 29.698243
 - Longitude: -95.338581
@@ -15,17 +12,10 @@
 - County from: 2020
 - Tract 2020: 48201313400
 - Tract 2010: 48201313400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 222
 - Low-income units: 178
 - Units reported: 222
@@ -40,15 +30,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +50,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

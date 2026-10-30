@@ -1,13 +1,10 @@
 # Project: CHASE PARK APTS (ALA20020012)
 
 - HUD ID: ALA20020012
-- HUD ID before: 
 - Project: CHASE PARK APTS
 - Address: 2421 CHASE PARK DR
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36110
-- ZIP extension: 
 - State project ID: AL-02-0024
 - Latitude: 32.426385
 - Longitude: -86.269802
@@ -20,11 +17,8 @@
 - Place 2020: 51000
 - Place 2010: 51000
 - Place 2000: 51000
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 550512
 - Units: 88
 - Low-income units: 74
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 88
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,10 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2004025.
 - Record status: Existing, unchanged

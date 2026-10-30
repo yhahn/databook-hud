@@ -1,13 +1,10 @@
 # Project: WASHINGTON POINTE APTS (AZA20130025)
 
 - HUD ID: AZA20130025
-- HUD ID before: 
 - Project: WASHINGTON POINTE APTS
 - Address: 1555 E WASHINGTON ST
 - City: PHOENIX
-- State: AZ
 - ZIP: 85034
-- ZIP extension: 
 - State project ID: TC-00734-12
 - Latitude: 33.448056
 - Longitude: -112.048732
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 0260
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 850897
 - Units: 54
 - Low-income units: 54
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 54
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: FORREST BROOK APTS (SCA20030050)
 
 - HUD ID: SCA20030050
-- HUD ID before: 
 - Project: FORREST BROOK APTS
 - Address: 106 EAVES WAY
 - City: YORK
-- State: SC
 - ZIP: 29745
-- ZIP extension: 
 - State project ID: SC-01-023
 - Latitude: 34.995064
 - Longitude: -81.251138
@@ -22,9 +19,7 @@
 - Place 2000: 79630
 - Place 1990: 1605
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 465298
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: FALLS POINTE AT THE PARK (NCA20020195)
 
 - HUD ID: NCA20020195
-- HUD ID before: 
 - Project: FALLS POINTE AT THE PARK
 - Address: 5400 SOUTH ALSTON AVENUE
 - City: DURHAM
-- State: NC
 - ZIP: 27713
-- ZIP extension: 
 - State project ID: 9002225
 - Latitude: 35.885722
 - Longitude: -78.885674
@@ -19,12 +16,9 @@
 - Tract 1990: 37063002097
 - Place 2020: 19000
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 0750
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 468492
 - Units: 312
 - Low-income units: 173
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

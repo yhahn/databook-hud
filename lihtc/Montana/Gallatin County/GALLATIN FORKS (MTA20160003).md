@@ -1,11 +1,9 @@
 # Project: GALLATIN FORKS (MTA20160003)
 
 - HUD ID: MTA20160003
-- HUD ID before: 
 - Project: GALLATIN FORKS
 - Address: 402 WEST MAIN STREET
 - City: MANHATTAN
-- State: MT
 - ZIP: 59741
 - ZIP extension: 0000
 - State project ID: 15030
@@ -16,15 +14,11 @@
 - Tract 2020: 30031000400
 - Tract 2010: 30031000400
 - Tract 2000: 30031000400
-- Tract 1990: 
 - Place 2020: 47575
 - Place 2010: 47575
 - Place 2000: 47575
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 613976
 - Units: 16
 - Low-income units: 16
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

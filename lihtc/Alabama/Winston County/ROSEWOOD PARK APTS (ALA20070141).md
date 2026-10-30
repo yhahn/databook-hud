@@ -1,13 +1,10 @@
 # Project: ROSEWOOD PARK APTS (ALA20070141)
 
 - HUD ID: ALA20070141
-- HUD ID before: 
 - Project: ROSEWOOD PARK APTS
 - Address: 13107 POUNDERS & SIMS RD
 - City: HALEYVILLE
-- State: AL
 - ZIP: 35565
-- ZIP extension: 
 - State project ID: AL-07-0069
 - Latitude: 34.233918
 - Longitude: -87.598169
@@ -20,11 +17,8 @@
 - Place 2020: 32704
 - Place 2010: 32704
 - Place 2000: 32704
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 353361
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 1236940
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009035.
 - Record status: Existing, unchanged

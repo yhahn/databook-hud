@@ -1,13 +1,10 @@
 # Project: YW HOUSING (ALA19990190)
 
 - HUD ID: ALA19990190
-- HUD ID before: 
 - Project: YW HOUSING
 - Address: 309 23RD ST N
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35203
-- ZIP extension: 
 - State project ID: AL-99-8006
 - Latitude: 33.518416
 - Longitude: -86.802667
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0185
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 182878
 - Units: 62
 - Low-income units: 62
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 62
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: JASMINE COURT (NYA20030245)
 
 - HUD ID: NYA20030245
-- HUD ID before: 
 - Project: JASMINE COURT
 - Address: 759 E 138TH ST
 - City: BRONX
-- State: NY
 - ZIP: 10454
-- ZIP extension: 
 - State project ID: 20010892
 - Latitude: 40.804355
 - Longitude: -73.91117
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 2505
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 85401
 - Units: 115
 - Low-income units: 115
@@ -40,12 +35,9 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 114
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,6 @@
 - Other population: Yes
 - Other population named: AIDS/HIV
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

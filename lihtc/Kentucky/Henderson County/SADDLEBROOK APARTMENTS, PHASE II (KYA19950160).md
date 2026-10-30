@@ -1,13 +1,10 @@
 # Project: SADDLEBROOK APARTMENTS, PHASE II (KYA19950160)
 
 - HUD ID: KYA19950160
-- HUD ID before: 
 - Project: SADDLEBROOK APARTMENTS, PHASE II
 - Address: SADDLEBROOK DR.
 - City: HENDERSON
-- State: KY
 - ZIP: 42420
-- ZIP extension: 
 - State project ID: KY-94-022
 - Latitude: 37.8336
 - Longitude: -87.578
@@ -19,12 +16,8 @@
 - Tract 1990: 21101020701
 - Place 2020: 35866
 - Place 2010: 35866
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 40
 - Low-income units: 40
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +55,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

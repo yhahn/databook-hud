@@ -1,11 +1,9 @@
 # Project: MILL HOLLOW (UTA19940055)
 
 - HUD ID: UTA19940055
-- HUD ID before: 
 - Project: MILL HOLLOW
 - Address: 598 SOUTH 100 EAST
 - City: BOUNTIFUL
-- State: UT
 - ZIP: 84010
 - ZIP extension: 0000
 - State project ID: 1992-02
@@ -22,9 +20,7 @@
 - Place 2000: 07690
 - Place 1990: 0075
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 64520
 - Units: 16
 - Low-income units: 16
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -80,6 +74,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: RIVERSIDE APTS (ALA20070131)
 
 - HUD ID: ALA20070131
-- HUD ID before: 
 - Project: RIVERSIDE APTS
 - Address: 1800 HWY 43 S
 - City: DEMOPOLIS
-- State: AL
 - ZIP: 36732
-- ZIP extension: 
 - State project ID: AL-07-0071
 - Latitude: 32.495499
 - Longitude: -87.811743
@@ -22,10 +19,7 @@
 - Place 2000: 20296
 - Place 1990: 0485
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008010, ALA1990130.
 - Record status: Existing, unchanged

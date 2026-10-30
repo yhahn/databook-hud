@@ -1,11 +1,9 @@
 # Project: MILL CREEK APARTMENTS (MIA20160003)
 
 - HUD ID: MIA20160003
-- HUD ID before: 
 - Project: MILL CREEK APARTMENTS
 - Address: 411-415-419 MILL STREET
 - City: STANDISH
-- State: MI
 - ZIP: 48658
 - ZIP extension: 0000
 - State project ID: 3084
@@ -16,15 +14,11 @@
 - Tract 2020: 26011970500
 - Tract 2010: 26011970500
 - Tract 2000: 26011970500
-- Tract 1990: 
 - Place 2020: 76120
 - Place 2010: 76120
 - Place 2000: 76120
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 154538
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: No
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

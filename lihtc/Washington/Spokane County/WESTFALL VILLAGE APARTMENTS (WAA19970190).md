@@ -1,13 +1,10 @@
 # Project: WESTFALL VILLAGE APARTMENTS (WAA19970190)
 
 - HUD ID: WAA19970190
-- HUD ID before: 
 - Project: WESTFALL VILLAGE APARTMENTS
 - Address: 3724 NORTH COOK
 - City: SPOKANE
-- State: WA
 - ZIP: 99207
-- ZIP extension: 
 - State project ID: 95-23K
 - Latitude: 47.69173
 - Longitude: -117.373339
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 1220
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 646773
 - Units: 110
 - Low-income units: 108
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,8 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

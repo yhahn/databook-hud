@@ -1,13 +1,10 @@
 # Project: CLIFTY HEIGHTS ELDERLY RENTAL PROJECT (KYA20000581)
 
 - HUD ID: KYA20000581
-- HUD ID before: 
 - Project: CLIFTY HEIGHTS ELDERLY RENTAL PROJECT
 - Address: STANFORD ST.
 - City: SCIENCE HILL
-- State: KY
 - ZIP: 42553
-- ZIP extension: 
 - State project ID: KY-98-046
 - Latitude: 37.1956
 - Longitude: -84.6857
@@ -16,15 +13,10 @@
 - Tract 2020: 21199930200
 - Tract 2010: 21199930200
 - Tract 2000: 21199990200
-- Tract 1990: 
 - Place 2020: 68952
 - Place 2010: 68952
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 10
 - Low-income units: 10
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

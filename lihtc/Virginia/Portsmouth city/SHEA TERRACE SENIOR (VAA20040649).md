@@ -1,13 +1,10 @@
 # Project: SHEA TERRACE SENIOR (VAA20040649)
 
 - HUD ID: VAA20040649
-- HUD ID before: 
 - Project: SHEA TERRACE SENIOR
 - Address: 253 CONSTITUTION AVE
 - City: PORTSMOUTH
-- State: VA
 - ZIP: 23704
-- ZIP extension: 
 - State project ID: 1106
 - Latitude: 36.840043
 - Longitude: -76.324745
@@ -22,9 +19,7 @@
 - Place 2000: 64000
 - Place 1990: 0990
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 122762
 - Units: 21
 - Low-income units: 21
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003195.
 - Record status: Existing, unchanged

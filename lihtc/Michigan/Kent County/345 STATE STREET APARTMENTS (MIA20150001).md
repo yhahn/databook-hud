@@ -1,13 +1,10 @@
 # Project: 345 STATE STREET APARTMENTS (MIA20150001)
 
 - HUD ID: MIA20150001
-- HUD ID before: 
 - Project: 345 STATE STREET APARTMENTS
 - Address: 345 STATE STREET SE
 - City: GRAND RAPIDS
-- State: MI
 - ZIP: 49503
-- ZIP extension: 
 - State project ID: 3648
 - Latitude: 42.960024
 - Longitude: -85.660165
@@ -16,15 +13,11 @@
 - Tract 2020: 26081002100
 - Tract 2010: 26081002100
 - Tract 2000: 26081002100
-- Tract 1990: 
 - Place 2020: 34000
 - Place 2010: 34000
 - Place 2000: 34000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1183982
 - Units: 34
 - Low-income units: 28
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

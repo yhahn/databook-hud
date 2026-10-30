@@ -1,11 +1,9 @@
 # Project: HARBOURLINE (MNB20240003)
 
 - HUD ID: MNB20240003
-- HUD ID before: 
 - Project: HARBOURLINE
 - Address: 115 PLATO BOULEVARD WEST
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55107
 - ZIP extension: 0000
 - State project ID: D8680
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 27123037100
 - Tract 2010: 27123037100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 954735
 - Units: 63
 - Low-income units: 63
@@ -44,11 +36,9 @@
 - Affordability years: 0
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,7 +58,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -76,10 +65,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: YOUNGLAND APARTMENTS (KYA19940545)
 
 - HUD ID: KYA19940545
-- HUD ID before: 
 - Project: YOUNGLAND APARTMENTS
 - Address: YOUNGLAND AVE.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40216
-- ZIP extension: 
 - State project ID: KY-92-055
 - Latitude: 38.1858
 - Longitude: -85.8379
@@ -19,12 +16,9 @@
 - Tract 1990: 21111012801
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 5
 - Low-income units: 5
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +56,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +69,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

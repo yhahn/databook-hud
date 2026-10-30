@@ -1,13 +1,10 @@
 # Project: FRANKLIN GROVE (IDA20060014)
 
 - HUD ID: IDA20060014
-- HUD ID before: 
 - Project: FRANKLIN GROVE
 - Address: 4929 FRANKLIN ROAD
 - City: BOISE
-- State: ID
 - ZIP: 83705
-- ZIP extension: 
 - State project ID: HC0410
 - Latitude: 43.602395
 - Longitude: -116.242647
@@ -22,9 +19,7 @@
 - Place 2000: 08830
 - Place 1990: 0090
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 115706
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

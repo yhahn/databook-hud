@@ -1,13 +1,10 @@
 # Project: SILVER CREEK (IDA20120905)
 
 - HUD ID: IDA20120905
-- HUD ID before: 
 - Project: SILVER CREEK
 - Address: 3720 WEST TAYJAN LANE
 - City: POST FALLS
-- State: ID
 - ZIP: 83854
-- ZIP extension: 
 - State project ID: HC1008
 - Latitude: 47.71402
 - Longitude: -116.997791
@@ -22,9 +19,7 @@
 - Place 2000: 64810
 - Place 1990: 0790
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 585082
 - Units: 42
 - Low-income units: 41
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

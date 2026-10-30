@@ -1,13 +1,10 @@
 # Project: FOX CREEK PLACE (IDA20000010)
 
 - HUD ID: IDA20000010
-- HUD ID before: 
 - Project: FOX CREEK PLACE
 - Address: 101 HONEYSUCKLE LOOP
 - City: DRIGGS
-- State: ID
 - ZIP: 83422
-- ZIP extension: 
 - State project ID: HC0029
 - Latitude: 43.743395
 - Longitude: -111.114616
@@ -22,9 +19,7 @@
 - Place 2000: 22690
 - Place 1990: 0240
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 156142
 - Units: 32
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA FOX CREEK APTS.;
 - Record status: Existing, unchanged

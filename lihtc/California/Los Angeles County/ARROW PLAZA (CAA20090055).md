@@ -1,13 +1,10 @@
 # Project: ARROW PLAZA (CAA20090055)
 
 - HUD ID: CAA20090055
-- HUD ID before: 
 - Project: ARROW PLAZA
 - Address: 20644 E ARROW HWY
 - City: COVINA
-- State: CA
 - ZIP: 91724
-- ZIP extension: 
 - State project ID: CA-08-899
 - Latitude: 34.10644
 - Longitude: -117.851462
@@ -22,9 +19,7 @@
 - Place 2000: 12734
 - Place 1990: 0491
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 333151
 - Units: 64
 - Low-income units: 63
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PINE CIRCLE GARDENS (MSA20060045)
 
 - HUD ID: MSA20060045
-- HUD ID before: 
 - Project: PINE CIRCLE GARDENS
 - Address: 1408 W PINE CIR ST
 - City: MOORHEAD
-- State: MS
 - ZIP: 38761
-- ZIP extension: 
 - State project ID: MS-04-013
 - Latitude: 33.4453
 - Longitude: -90.5139
@@ -22,9 +19,7 @@
 - Place 2000: 48760
 - Place 1990: 0840
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 348231
 - Units: 30
 - Low-income units: 29
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

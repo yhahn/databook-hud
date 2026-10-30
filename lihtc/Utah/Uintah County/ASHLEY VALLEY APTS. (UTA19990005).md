@@ -1,11 +1,9 @@
 # Project: ASHLEY VALLEY APTS. (UTA19990005)
 
 - HUD ID: UTA19990005
-- HUD ID before: 
 - Project: ASHLEY VALLEY APTS.
 - Address: 1320 WEST MAIN
 - City: VERNAL
-- State: UT
 - ZIP: 84078
 - ZIP extension: 0000
 - State project ID: 1997-14
@@ -22,9 +20,7 @@
 - Place 2000: 80090
 - Place 1990: 0530
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 25086
 - Units: 32
 - Low-income units: 31
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: THE MEADOWS AT BRIER CREEK (NCA20040190)
 
 - HUD ID: NCA20040190
-- HUD ID before: 
 - Project: THE MEADOWS AT BRIER CREEK
 - Address: 11700 ARNOLD PALMER DRIVE
 - City: RALEIGH
-- State: NC
 - ZIP: 27617
-- ZIP extension: 
 - State project ID: 9001686
 - Latitude: 35.903648
 - Longitude: -78.805206
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 0750
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 247455
 - Units: 96
 - Low-income units: 96
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

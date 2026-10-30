@@ -1,11 +1,9 @@
 # Project: CAPITOL VILLA (UTA20030020)
 
 - HUD ID: UTA20030020
-- HUD ID before: 
 - Project: CAPITOL VILLA
 - Address: 239 WEST 600 NORTH
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84103
 - ZIP extension: 0000
 - State project ID: 2002-15
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 300612
 - Units: 108
 - Low-income units: 108
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: WATERFORD POINTE (SCA20230009)
 
 - HUD ID: SCA20230009
-- HUD ID before: 
 - Project: WATERFORD POINTE
 - Address: 135 WATERFORD POINTE CIRCLE
 - City: MYRTLE BEACH
-- State: SC
 - ZIP: 29579
 - ZIP extension: 0000
 - State project ID: SC-20013
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 45051060209
 - Tract 2010: 45051060206
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 11833
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 780779
 - Units: 72
 - Low-income units: 72
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 500000
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

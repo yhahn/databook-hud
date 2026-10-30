@@ -1,11 +1,9 @@
 # Project: TRENTON APARTMENTS (UTA20040070)
 
 - HUD ID: UTA20040070
-- HUD ID before: 
 - Project: TRENTON APARTMENTS
 - Address: 544 EAST 100 SOUTH
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84102
 - ZIP extension: 0000
 - State project ID: 2003-21
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 67381
 - Units: 37
 - Low-income units: 37
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

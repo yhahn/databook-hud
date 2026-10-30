@@ -1,13 +1,10 @@
 # Project: CRAWFORD PARK (ALA20060072)
 
 - HUD ID: ALA20060072
-- HUD ID before: 
 - Project: CRAWFORD PARK
 - Address: 724 SNODGRASS RD
 - City: SCOTTSBORO
-- State: AL
 - ZIP: 35769
-- ZIP extension: 
 - State project ID: AL-06-0067
 - Latitude: 34.678294
 - Longitude: -85.996814
@@ -22,9 +19,7 @@
 - Place 2000: 35632
 - Place 1990: 1540
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 339170
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 962810
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007040.
 - Record status: Existing, unchanged

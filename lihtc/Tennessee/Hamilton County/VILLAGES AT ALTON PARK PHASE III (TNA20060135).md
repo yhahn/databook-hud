@@ -1,13 +1,10 @@
 # Project: VILLAGES AT ALTON PARK PHASE III (TNA20060135)
 
 - HUD ID: TNA20060135
-- HUD ID before: 
 - Project: VILLAGES AT ALTON PARK PHASE III
 - Address: 3750 HUGHES AVE
 - City: CHATTANOOGA
-- State: TN
 - ZIP: 37410
-- ZIP extension: 
 - State project ID: TN-04-054
 - Latitude: 35.007272
 - Longitude: -85.310643
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 0245
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 5745860
 - Units: 102
 - Low-income units: 102
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2006080.
 - Record status: Existing, unchanged

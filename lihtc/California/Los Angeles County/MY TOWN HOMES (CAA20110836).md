@@ -1,13 +1,10 @@
 # Project: MY TOWN HOMES (CAA20110836)
 
 - HUD ID: CAA20110836
-- HUD ID before: 
 - Project: MY TOWN HOMES
 - Address: 12015 S FIGUEROA ST
 - City: LOS ANGELES
-- State: CA
 - ZIP: 90061
-- ZIP extension: 
 - State project ID: CA-09-507
 - Latitude: 33.923264
 - Longitude: -118.282857
@@ -22,10 +19,7 @@
 - Place 2000: 44000
 - Place 1990: 1630
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 21
 - Low-income units: 20
 - Units reported: 21
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,8 @@
 - TCAP amount: 4493534
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

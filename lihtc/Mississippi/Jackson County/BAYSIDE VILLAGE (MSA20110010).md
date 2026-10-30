@@ -1,13 +1,10 @@
 # Project: BAYSIDE VILLAGE (MSA20110010)
 
 - HUD ID: MSA20110010
-- HUD ID before: 
 - Project: BAYSIDE VILLAGE
 - Address: 2903 PASCAGOULA ST
 - City: PASCAGOULA
-- State: MS
 - ZIP: 39567
-- ZIP extension: 
 - State project ID: MS-07-3-105
 - Latitude: 30.363079
 - Longitude: -88.55605
@@ -22,9 +19,7 @@
 - Place 2000: 55360
 - Place 1990: 0975
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 648151
 - Units: 57
 - Low-income units: 57
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 5038280
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011685.
 - Record status: Existing, unchanged

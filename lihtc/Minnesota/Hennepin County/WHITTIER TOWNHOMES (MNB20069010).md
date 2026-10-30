@@ -1,11 +1,9 @@
 # Project: WHITTIER TOWNHOMES (MNB20069010)
 
 - HUD ID: MNB20069010
-- HUD ID before: 
 - Project: WHITTIER TOWNHOMES
 - Address: 2732 STEVENS AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 1644
 - State project ID: D0890
@@ -16,15 +14,11 @@
 - Tract 2020: 27053007801
 - Tract 2010: 27053007801
 - Tract 2000: 27053007801
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 103781
 - Units: 12
 - Low-income units: 12
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -68,18 +60,10 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: BELOVIDA SANTA CLARA SENIOR APTS (CAA20090075)
 
 - HUD ID: CAA20090075
-- HUD ID before: 
 - Project: BELOVIDA SANTA CLARA SENIOR APTS
 - Address: 1820 MAIN ST
 - City: SANTA CLARA
-- State: CA
 - ZIP: 95050
-- ZIP extension: 
 - State project ID: CA-08-851
 - Latitude: 37.356858
 - Longitude: -121.950171
@@ -22,9 +19,7 @@
 - Place 2000: 69084
 - Place 1990: 2580
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 353048
 - Units: 28
 - Low-income units: 27
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

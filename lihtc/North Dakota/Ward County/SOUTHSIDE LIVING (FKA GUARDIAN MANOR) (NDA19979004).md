@@ -1,11 +1,9 @@
 # Project: SOUTHSIDE LIVING (FKA GUARDIAN MANOR) (NDA19979004)
 
 - HUD ID: NDA19979004
-- HUD ID before: 
 - Project: SOUTHSIDE LIVING (FKA GUARDIAN MANOR)
 - Address: 3205 4TH STREET SW
 - City: MINOT
-- State: ND
 - ZIP: 58701
 - ZIP extension: 0000
 - State project ID: TC-96-07
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 38101010601
 - Tract 2010: 38101010600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 53380
 - Place 2010: 53380
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 104182
 - Units: 48
 - Low-income units: 48
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +63,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

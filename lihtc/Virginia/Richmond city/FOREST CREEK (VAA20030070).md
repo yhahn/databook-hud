@@ -1,13 +1,10 @@
 # Project: FOREST CREEK (VAA20030070)
 
 - HUD ID: VAA20030070
-- HUD ID before: 
 - Project: FOREST CREEK
 - Address: 3501 FOREST HAVEN DR
 - City: RICHMOND
-- State: VA
 - ZIP: 23234
-- ZIP extension: 
 - State project ID: 8277
 - Latitude: 37.46673
 - Longitude: -77.487983
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 1035
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 259846
 - Units: 94
 - Low-income units: 94
@@ -38,10 +33,6 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA FOREST CREEK SENIORS.
 - Record status: Existing, unchanged

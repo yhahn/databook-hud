@@ -1,13 +1,10 @@
 # Project: ELECTRA VILLAGE (TXA19910165)
 
 - HUD ID: TXA19910165
-- HUD ID before: 
 - Project: ELECTRA VILLAGE
 - Address: 100 S PRAIRIE CIR
 - City: ELECTRA
-- State: TX
 - ZIP: 76360
-- ZIP extension: 
 - State project ID: TX0969
 - Latitude: 34.028506
 - Longitude: -98.929258
@@ -22,10 +19,7 @@
 - Place 2000: 22984
 - Place 1990: 1325
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -40,11 +34,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: HORIZON APARTMENTS (NVA20019007)
 
 - HUD ID: NVA20019007
-- HUD ID before: 
 - Project: HORIZON APARTMENTS
 - Address: 1654 BUTTE STREE
 - City: WENDOVER
-- State: NV
 - ZIP: 89883
 - ZIP extension: 0000
 - State project ID: 01-13
@@ -16,15 +14,10 @@
 - Tract 2020: 32007951500
 - Tract 2010: 32007951500
 - Tract 2000: 32007951500
-- Tract 1990: 
 - Place 2020: 83730
 - Place 2010: 83730
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 142905
 - Units: 63
 - Low-income units: 62
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

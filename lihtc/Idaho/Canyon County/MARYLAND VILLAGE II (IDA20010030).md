@@ -1,13 +1,10 @@
 # Project: MARYLAND VILLAGE II (IDA20010030)
 
 - HUD ID: IDA20010030
-- HUD ID before: 
 - Project: MARYLAND VILLAGE II
 - Address: 1737 1727 SUNNYRIDGE ROAD
 - City: NAMPA
-- State: ID
 - ZIP: 83686
-- ZIP extension: 
 - State project ID: HC0001
 - Latitude: 43.5392
 - Longitude: -116.5331
@@ -19,12 +16,9 @@
 - Tract 1990: 16027020500
 - Place 2020: 56260
 - Place 2010: 56260
-- Place 2000: 
 - Place 1990: 0660
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 162863
 - Units: 40
 - Low-income units: 31
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WARM RESIDENCES II (KYA20160016)
 
 - HUD ID: KYA20160016
-- HUD ID before: 
 - Project: WARM RESIDENCES II
 - Address: N. MCKINLEY
 - City: HENDERSON
-- State: KY
 - ZIP: 42420
-- ZIP extension: 
 - State project ID: KY-15-001
 - Latitude: 37.8336
 - Longitude: -87.578
@@ -16,15 +13,10 @@
 - Tract 2020: 21101020200
 - Tract 2010: 21101020200
 - Tract 2000: 21101020200
-- Tract 1990: 
 - Place 2020: 35866
 - Place 2010: 35866
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 494112
 - Units: 32
 - Low-income units: 32
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

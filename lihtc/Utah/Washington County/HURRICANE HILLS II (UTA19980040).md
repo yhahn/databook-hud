@@ -1,11 +1,9 @@
 # Project: HURRICANE HILLS II (UTA19980040)
 
 - HUD ID: UTA19980040
-- HUD ID before: 
 - Project: HURRICANE HILLS II
 - Address: 2002 WEST 200 SOUTH
 - City: HURRICANE
-- State: UT
 - ZIP: 84737
 - ZIP extension: 0000
 - State project ID: 1997-03
@@ -22,9 +20,7 @@
 - Place 2000: 37170
 - Place 1990: 0475
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 311122
 - Units: 28
 - Low-income units: 28
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

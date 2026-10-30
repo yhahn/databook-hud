@@ -1,11 +1,9 @@
 # Project: PICCADILLY SQUARE (MNB20161012)
 
 - HUD ID: MNB20161012
-- HUD ID before: 
 - Project: PICCADILLY SQUARE
 - Address: 70 MAHTOMEDI AVENUE
 - City: MAHTOMEDI
-- State: MN
 - ZIP: 55115
 - ZIP extension: 1546
 - State project ID: D7651
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 27163070304
 - Tract 2010: 27163070304
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 39428
 - Place 2010: 39428
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 465941
 - Units: 79
 - Low-income units: 79
@@ -41,10 +33,8 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -67,19 +57,10 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

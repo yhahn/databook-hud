@@ -1,13 +1,10 @@
 # Project: 670 KING ST APTS (WAS CROSSTOWN APTS) (SCA19960010)
 
 - HUD ID: SCA19960010
-- HUD ID before: 
 - Project: 670 KING ST APTS (WAS CROSSTOWN APTS)
 - Address: 670 KING ST
 - City: CHARLESTON
-- State: SC
 - ZIP: 29403
-- ZIP extension: 
 - State project ID: SC-95-021
 - Latitude: 32.796932
 - Longitude: -79.944466
@@ -22,9 +19,7 @@
 - Place 2000: 13330
 - Place 1990: 0245
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 166233
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA CROSSTOWN APTS
 - Record status: Existing, unchanged

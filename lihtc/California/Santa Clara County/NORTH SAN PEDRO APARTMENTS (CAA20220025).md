@@ -1,13 +1,10 @@
 # Project: NORTH SAN PEDRO APARTMENTS (CAA20220025)
 
 - HUD ID: CAA20220025
-- HUD ID before: 
 - Project: NORTH SAN PEDRO APARTMENTS
 - Address: 201 BASSETT STREET
 - City: SAN JOSE
-- State: CA
 - ZIP: 95110
-- ZIP extension: 
 - State project ID: CA-2018-617
 - Latitude: 37.340149
 - Longitude: -121.898127
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06085500200
 - Tract 2010: 06085500200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 68000
 - Place 2010: 68000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 2167128
 - Units: 135
 - Low-income units: 134
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 134
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,9 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: veterans
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

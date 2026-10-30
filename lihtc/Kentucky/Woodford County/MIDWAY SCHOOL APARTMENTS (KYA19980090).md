@@ -1,13 +1,10 @@
 # Project: MIDWAY SCHOOL APARTMENTS (KYA19980090)
 
 - HUD ID: KYA19980090
-- HUD ID before: 
 - Project: MIDWAY SCHOOL APARTMENTS
 - Address: S. WINTER ST.
 - City: MIDWAY
-- State: KY
 - ZIP: 40347
-- ZIP extension: 
 - State project ID: KY-97-012
 - Latitude: 38.1492
 - Longitude: -84.7073
@@ -19,12 +16,9 @@
 - Tract 1990: 21239050400
 - Place 2020: 52140
 - Place 2010: 52140
-- Place 2000: 
 - Place 1990: 1330
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 14
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

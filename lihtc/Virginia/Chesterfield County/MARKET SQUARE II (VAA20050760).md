@@ -1,13 +1,10 @@
 # Project: MARKET SQUARE II (VAA20050760)
 
 - HUD ID: VAA20050760
-- HUD ID before: 
 - Project: MARKET SQUARE II
 - Address: 7310 TAW ST
 - City: NORTH CHESTERFIELD
-- State: VA
 - ZIP: 23237
-- ZIP extension: 
 - State project ID: 8740
 - Latitude: 37.424118
 - Longitude: -77.439596
@@ -22,9 +19,7 @@
 - Place 2000: 06216
 - Place 1990: 0085
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 298728
 - Units: 42
 - Low-income units: 42
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003135. AKA MARKET SQUARE ELDERLY HOUSING II.
 - Record status: Existing, unchanged

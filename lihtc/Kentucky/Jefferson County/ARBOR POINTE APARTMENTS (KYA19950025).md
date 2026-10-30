@@ -1,13 +1,10 @@
 # Project: ARBOR POINTE APARTMENTS (KYA19950025)
 
 - HUD ID: KYA19950025
-- HUD ID before: 
 - Project: ARBOR POINTE APARTMENTS
 - Address: STONEY BROOK DR.
 - City: JEFFERSONTOWN
-- State: KY
 - ZIP: 40220
-- ZIP extension: 
 - State project ID: KY-93-080
 - Latitude: 38.2091
 - Longitude: -85.6098
@@ -20,11 +17,8 @@
 - Place 2020: 38170
 - Place 2010: 38170
 - Place 2000: 38170
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 637173
 - Units: 130
 - Low-income units: 130
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +56,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +69,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

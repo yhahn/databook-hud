@@ -1,11 +1,9 @@
 # Project: PHELPS SQUARE (MIA20151008)
 
 - HUD ID: MIA20151008
-- HUD ID before: 
 - Project: PHELPS SQUARE
 - Address: 700 E. NORTH STREET
 - City: ISHPEMING
-- State: MI
 - ZIP: 49849
 - ZIP extension: 0000
 - State project ID: 3540
@@ -16,15 +14,11 @@
 - Tract 2020: 26103001900
 - Tract 2010: 26103001900
 - Tract 2000: 26103001900
-- Tract 1990: 
 - Place 2020: 41220
 - Place 2010: 41220
 - Place 2000: 41220
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 727729
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

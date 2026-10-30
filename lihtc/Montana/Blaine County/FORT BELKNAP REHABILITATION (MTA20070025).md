@@ -1,11 +1,9 @@
 # Project: FORT BELKNAP REHABILITATION (MTA20070025)
 
 - HUD ID: MTA20070025
-- HUD ID before: 
 - Project: FORT BELKNAP REHABILITATION
 - Address: RR1 BOX 61
 - City: HARLEM
-- State: MT
 - ZIP: 59526
 - ZIP extension: 0000
 - State project ID: 05020
@@ -22,9 +20,7 @@
 - Place 2000: 27850
 - Place 1990: 0130
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 451562
 - Units: 52
 - Low-income units: 52
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: SMITH WILLIAMS APTS (NVA20110050)
 
 - HUD ID: NVA20110050
-- HUD ID before: 
 - Project: SMITH WILLIAMS APTS
 - Address: 575 E. LAKE MEAD
 - City: HENDERSON
-- State: NV
 - ZIP: 89015
 - ZIP extension: 0000
 - State project ID: 09-25
@@ -22,9 +20,7 @@
 - Place 2000: 31900
 - Place 1990: 0058
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1500000
 - Units: 80
 - Low-income units: 80
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

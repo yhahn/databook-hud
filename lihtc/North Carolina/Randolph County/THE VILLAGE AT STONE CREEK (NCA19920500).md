@@ -1,13 +1,10 @@
 # Project: THE VILLAGE AT STONE CREEK (NCA19920500)
 
 - HUD ID: NCA19920500
-- HUD ID before: 
 - Project: THE VILLAGE AT STONE CREEK
 - Address: 504 MARTIN LUTHER KING JR DR
 - City: ASHEBORO
-- State: NC
 - ZIP: 27203
-- ZIP extension: 
 - State project ID: 9001708
 - Latitude: 35.707342
 - Longitude: -79.804699
@@ -22,9 +19,7 @@
 - Place 2000: 02080
 - Place 1990: 0075
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 181507
 - Units: 56
 - Low-income units: 56
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

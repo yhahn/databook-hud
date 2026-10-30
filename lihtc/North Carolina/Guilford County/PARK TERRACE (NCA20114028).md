@@ -1,11 +1,9 @@
 # Project: PARK TERRACE (NCA20114028)
 
 - HUD ID: NCA20114028
-- HUD ID before: 
 - Project: PARK TERRACE
 - Address: 885 SHARON CIR
 - City: HIGH POINT
-- State: NC
 - ZIP: 27260
 - ZIP extension: 7699
 - State project ID: 9102604
@@ -16,15 +14,10 @@
 - Tract 2020: 37081014200
 - Tract 2010: 37081014200
 - Tract 2000: 37081014200
-- Tract 1990: 
 - Place 2020: 31400
 - Place 2010: 31400
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 936661
 - Units: 81
 - Low-income units: 80
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 21
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,23 +55,12 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

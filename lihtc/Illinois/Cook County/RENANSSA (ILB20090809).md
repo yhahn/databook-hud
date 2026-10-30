@@ -1,13 +1,10 @@
 # Project: RENANSSA (ILB20090809)
 
 - HUD ID: ILB20090809
-- HUD ID before: 
 - Project: RENANSSA
 - Address: 3123 W DOUGLAS BLVD
 - City: CHICAGO
-- State: IL
 - ZIP: 60623
-- ZIP extension: 
 - State project ID: TC-07-027
 - Latitude: 41.86237
 - Longitude: -87.703996
@@ -22,10 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
-- Allocation amount: 
 - Units: 54
 - Low-income units: 54
 - Units reported: 54
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2009804.
 - Record status: Existing, unchanged

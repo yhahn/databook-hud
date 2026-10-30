@@ -1,13 +1,10 @@
 # Project: GOODWATER FALLS (KYA19930175)
 
 - HUD ID: KYA19930175
-- HUD ID before: 
 - Project: GOODWATER FALLS
 - Address: GOODWATER ST.
 - City: JENKINS
-- State: KY
 - ZIP: 41537
-- ZIP extension: 
 - State project ID: KY-91-048
 - Latitude: 37.1925
 - Longitude: -82.6117
@@ -19,12 +16,9 @@
 - Tract 1990: 21133950100
 - Place 2020: 40312
 - Place 2010: 40312
-- Place 2000: 
 - Place 1990: 1030
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 36
 - Low-income units: 36
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

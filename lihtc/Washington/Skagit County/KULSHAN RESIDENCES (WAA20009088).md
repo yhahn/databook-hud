@@ -1,13 +1,10 @@
 # Project: KULSHAN RESIDENCES (WAA20009088)
 
 - HUD ID: WAA20009088
-- HUD ID before: 
 - Project: KULSHAN RESIDENCES
 - Address: 2315 KULSHAN VIEW DRIVE
 - City: MOUNT VERNON
-- State: WA
 - ZIP: 98273
-- ZIP extension: 
 - State project ID: 97-45G
 - Latitude: 48.432865
 - Longitude: -122.311058
@@ -22,9 +19,7 @@
 - Place 2000: 47560
 - Place 1990: 0820
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 335947
 - Units: 38
 - Low-income units: 38
@@ -39,17 +34,13 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 40
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -73,13 +60,6 @@
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Transitional
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

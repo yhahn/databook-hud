@@ -1,13 +1,10 @@
 # Project: NORTHSIDE NAMPA HOUSING (IDA19930050)
 
 - HUD ID: IDA19930050
-- HUD ID before: 
 - Project: NORTHSIDE NAMPA HOUSING
 - Address: 839 COMSTOCK CIRCLE
 - City: NAMPA
-- State: ID
 - ZIP: 83651
-- ZIP extension: 
 - State project ID: HC9217
 - Latitude: 43.593812
 - Longitude: -116.591759
@@ -22,9 +19,7 @@
 - Place 2000: 56260
 - Place 1990: 0660
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 164722
 - Units: 25
 - Low-income units: 25
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

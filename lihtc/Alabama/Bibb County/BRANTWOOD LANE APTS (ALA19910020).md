@@ -1,13 +1,10 @@
 # Project: BRANTWOOD LANE APTS (ALA19910020)
 
 - HUD ID: ALA19910020
-- HUD ID before: 
 - Project: BRANTWOOD LANE APTS
 - Address: 507 ALEXANDER AVE
 - City: CENTREVILLE
-- State: AL
 - ZIP: 35042
-- ZIP extension: 
 - State project ID: AL-91-0014
 - Latitude: 32.947862
 - Longitude: -87.152448
@@ -22,9 +19,7 @@
 - Place 2000: 09136
 - Place 1990: 0240
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 53405
 - Units: 36
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

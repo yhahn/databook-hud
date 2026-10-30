@@ -1,11 +1,9 @@
 # Project: PITTSBURGH HOUSE LOFTS (UTA20050045)
 
 - HUD ID: UTA20050045
-- HUD ID before: 
 - Project: PITTSBURGH HOUSE LOFTS
 - Address: 950 SOUTH 200 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84101
 - ZIP extension: 0000
 - State project ID: 2004-35
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 89516
 - Units: 12
 - Low-income units: 12
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

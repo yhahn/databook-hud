@@ -1,11 +1,9 @@
 # Project: ROMANA RILEY LOFTS (GAA0000X176)
 
 - HUD ID: GAA0000X176
-- HUD ID before: 
 - Project: ROMANA RILEY LOFTS
 - Address: 1108 E ANDERSON ST
 - City: SAVANNAH
-- State: GA
 - ZIP: 31404
 - ZIP extension: 0000
 - State project ID: 2016-013
@@ -15,15 +13,9 @@
 - County from: 2020
 - Tract 2020: 13051002100
 - Tract 2010: 13051002100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 69000
 - Place 2010: 69000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Confirmed, year not given (9999)
-- Allocation year: 
 - Allocation year note: Confirmed, year not given (9999)
 - Allocation amount: 1
 - Units: 57
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -75,11 +62,4 @@
 - Other population named: Other
 - Scattered site: No
 - Resyndicated: No
-- Metro: 
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

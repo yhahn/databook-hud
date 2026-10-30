@@ -1,13 +1,10 @@
 # Project: EL DORADO GREEN APARTMENTS (TXA00000127)
 
 - HUD ID: TXA00000127
-- HUD ID before: 
 - Project: EL DORADO GREEN APARTMENTS
 - Address: 250 W EL DORADO BLVD
 - City: FRIENDSWOOD
-- State: TX
 - ZIP: 77546
-- ZIP extension: 
 - State project ID: TX4941
 - Latitude: 29.548511
 - Longitude: -95.159767
@@ -20,12 +17,8 @@
 - Place 2020: 35000
 - Place 2010: 35000
 - Place 2000: 27648
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 108
 - Low-income units: 88
 - Units reported: 108
@@ -48,7 +41,6 @@
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +67,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

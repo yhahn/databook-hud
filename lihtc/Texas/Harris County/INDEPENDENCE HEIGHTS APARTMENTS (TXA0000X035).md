@@ -1,13 +1,10 @@
 # Project: INDEPENDENCE HEIGHTS APARTMENTS (TXA0000X035)
 
 - HUD ID: TXA0000X035
-- HUD ID before: 
 - Project: INDEPENDENCE HEIGHTS APARTMENTS
 - Address: 302 CROSSTIMBERS STREET
 - City: HOUSTON
-- State: TX
 - ZIP: 77057
-- ZIP extension: 
 - State project ID: TX5254
 - Latitude: 29.828213
 - Longitude: -95.397194
@@ -16,16 +13,11 @@
 - Tract 2020: 48201530400
 - Tract 2010: 48201530400
 - Tract 2000: 48201530400
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
 - Place 2000: 35000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 154
 - Low-income units: 154
 - Units reported: 154
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 36
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

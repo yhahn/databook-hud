@@ -1,13 +1,10 @@
 # Project: BAY POINTE II (SCA20110005)
 
 - HUD ID: SCA20110005
-- HUD ID before: 
 - Project: BAY POINTE II
 - Address: 1401 MAKO CT
 - City: MYRTLE BEACH
-- State: SC
 - ZIP: 29577
-- ZIP extension: 
 - State project ID: SC-10-058
 - Latitude: 33.703441
 - Longitude: -78.887759
@@ -22,9 +19,7 @@
 - Place 2000: 49075
 - Place 1990: 0945
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 772537
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 900000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

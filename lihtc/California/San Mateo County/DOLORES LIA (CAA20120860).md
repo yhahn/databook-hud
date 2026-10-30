@@ -1,13 +1,10 @@
 # Project: DOLORES LIA (CAA20120860)
 
 - HUD ID: CAA20120860
-- HUD ID before: 
 - Project: DOLORES LIA
 - Address: 1275 EL CAMINO REAL
 - City: MILLBRAE
-- State: CA
 - ZIP: 94030
-- ZIP extension: 
 - State project ID: CA-11-889
 - Latitude: 37.60825
 - Longitude: -122.399808
@@ -22,9 +19,7 @@
 - Place 2000: 47486
 - Place 1990: 1760
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 355406
 - Units: 27
 - Low-income units: 26
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MILLIBRAE PACIFIC ASSOC.
 - Record status: Existing, unchanged

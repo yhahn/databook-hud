@@ -1,11 +1,9 @@
 # Project: ROYAL HOTEL (UTA19940100)
 
 - HUD ID: UTA19940100
-- HUD ID before: 
 - Project: ROYAL HOTEL
 - Address: 2522 WALL AVENUE
 - City: OGDEN
-- State: UT
 - ZIP: 84401
 - ZIP extension: 0000
 - State project ID: 1993-14
@@ -22,9 +20,7 @@
 - Place 2000: 55980
 - Place 1990: 0695
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 25359
 - Units: 22
 - Low-income units: 22
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +73,4 @@
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

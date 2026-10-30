@@ -1,11 +1,9 @@
 # Project: LITTLE JON APARTMENTS (MTA20170005)
 
 - HUD ID: MTA20170005
-- HUD ID before: 
 - Project: LITTLE JON APARTMENTS
 - Address: 1150 GRAND AVENUE
 - City: BIG FORK
-- State: MT
 - ZIP: 59911
 - ZIP extension: 0000
 - State project ID: 16020
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30029001303
 - Tract 2010: 30029001301
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 05875
 - Place 2010: 05875
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 525078
 - Units: 31
 - Low-income units: 31
@@ -44,7 +36,6 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

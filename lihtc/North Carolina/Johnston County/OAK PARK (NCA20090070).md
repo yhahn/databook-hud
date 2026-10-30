@@ -1,13 +1,10 @@
 # Project: OAK PARK (NCA20090070)
 
 - HUD ID: NCA20090070
-- HUD ID before: 
 - Project: OAK PARK
 - Address: 51 OAK PARK DRIVE
 - City: FOUR OAKS
-- State: NC
 - ZIP: 27524
-- ZIP extension: 
 - State project ID: 9002725
 - Latitude: 35.448729
 - Longitude: -78.437739
@@ -20,11 +17,8 @@
 - Place 2020: 24520
 - Place 2010: 24520
 - Place 2000: 24520
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 162766
 - Units: 30
 - Low-income units: 30
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

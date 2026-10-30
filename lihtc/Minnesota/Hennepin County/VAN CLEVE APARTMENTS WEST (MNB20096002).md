@@ -1,11 +1,9 @@
 # Project: VAN CLEVE APARTMENTS WEST (MNB20096002)
 
 - HUD ID: MNB20096002
-- HUD ID before: 
 - Project: VAN CLEVE APARTMENTS WEST
 - Address: 919 12TH AVENUE SOUTHEAST
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55414
 - ZIP extension: 2497
 - State project ID: D5217
@@ -16,15 +14,11 @@
 - Tract 2020: 27053104001
 - Tract 2010: 27053104000
 - Tract 2000: 27053104000
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 842445
 - Units: 50
 - Low-income units: 50
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 11
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -68,18 +61,10 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: SUGAR MILL HOPE VI APARTMENTS (KYA20049023)
 
 - HUD ID: KYA20049023
-- HUD ID before: 
 - Project: SUGAR MILL HOPE VI APARTMENTS
 - Address: VERSAILLES ROAD
 - City: LEXINGTON
-- State: KY
 - ZIP: 40404
 - ZIP extension: 1402
 - State project ID: KY-02-005
@@ -16,15 +14,10 @@
 - Tract 2020: 21151011303
 - Tract 2010: 21151011302
 - Tract 2000: 21151011300
-- Tract 1990: 
 - Place 2020: 05842
 - Place 2010: 05842
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 1071168
 - Units: 61
 - Low-income units: 60
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

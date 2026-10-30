@@ -1,13 +1,10 @@
 # Project: TULLAMORE SENIOR - LEWISTON (IDA20100208)
 
 - HUD ID: IDA20100208
-- HUD ID before: 
 - Project: TULLAMORE SENIOR - LEWISTON
 - Address: 908 BRYDEN AVENUE
 - City: LEWISTON
-- State: ID
 - ZIP: 83501
-- ZIP extension: 
 - State project ID: HC0713
 - Latitude: 46.380223
 - Longitude: -116.984369
@@ -22,9 +19,7 @@
 - Place 2000: 46540
 - Place 1990: 0530
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 400063
 - Units: 48
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

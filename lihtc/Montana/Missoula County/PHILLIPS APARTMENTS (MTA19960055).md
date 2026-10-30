@@ -1,11 +1,9 @@
 # Project: PHILLIPS APARTMENTS (MTA19960055)
 
 - HUD ID: MTA19960055
-- HUD ID before: 
 - Project: PHILLIPS APARTMENTS
 - Address: 1805 PHILLIPS ST (A-D)(E-H)
 - City: MISSOULA
-- State: MT
 - ZIP: 59802
 - ZIP extension: 0000
 - State project ID: 95010
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 16174
 - Units: 8
 - Low-income units: 8
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

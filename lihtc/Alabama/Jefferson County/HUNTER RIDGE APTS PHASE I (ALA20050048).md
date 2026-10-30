@@ -1,13 +1,10 @@
 # Project: HUNTER RIDGE APTS PHASE I (ALA20050048)
 
 - HUD ID: ALA20050048
-- HUD ID before: 
 - Project: HUNTER RIDGE APTS PHASE I
 - Address: 2901 HUNTER RIDGE CT
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35235
-- ZIP extension: 
 - State project ID: AL-03-0803
 - Latitude: 33.58856
 - Longitude: -86.663141
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0945
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 545053
 - Units: 200
 - Low-income units: 200
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 200
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2004060. AKA SHELBY HALL APTS I.
 - Record status: Existing, unchanged

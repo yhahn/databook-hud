@@ -1,13 +1,10 @@
 # Project: FOX RIDGE APARTMENTS (NCA20070070)
 
 - HUD ID: NCA20070070
-- HUD ID before: 
 - Project: FOX RIDGE APARTMENTS
 - Address: 120 SOUTH MCGOOGAN STREET
 - City: ST PAULS
-- State: NC
 - ZIP: 28384
-- ZIP extension: 
 - State project ID: 9001695
 - Latitude: 34.802623
 - Longitude: -78.959967
@@ -20,11 +17,8 @@
 - Place 2020: 58720
 - Place 2010: 58720
 - Place 2000: 58720
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 255535
 - Units: 52
 - Low-income units: 52
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

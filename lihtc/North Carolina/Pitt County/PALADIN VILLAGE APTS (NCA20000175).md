@@ -1,13 +1,10 @@
 # Project: PALADIN VILLAGE APTS (NCA20000175)
 
 - HUD ID: NCA20000175
-- HUD ID before: 
 - Project: PALADIN VILLAGE APTS
 - Address: 205 PALADIN DRIVE
 - City: GREENVILLE
-- State: NC
 - ZIP: 27834
-- ZIP extension: 
 - State project ID: 9001130
 - Latitude: 35.621061
 - Longitude: -77.409187
@@ -22,9 +19,7 @@
 - Place 2000: 28080
 - Place 1990: 1070
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 276544
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

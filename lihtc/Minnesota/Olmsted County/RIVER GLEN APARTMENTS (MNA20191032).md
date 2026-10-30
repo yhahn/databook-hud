@@ -1,13 +1,10 @@
 # Project: RIVER GLEN APARTMENTS (MNA20191032)
 
 - HUD ID: MNA20191032
-- HUD ID before: 
 - Project: RIVER GLEN APARTMENTS
 - Address: 175 SANDBAR COURT NE
 - City: ROCHESTER
-- State: MN
 - ZIP: 55906
-- ZIP extension: 
 - State project ID: D7978
 - Latitude: 44.1506
 - Longitude: -92.3838
@@ -22,9 +19,7 @@
 - Place 2000: 58000
 - Place 1990: 3425
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 757893
 - Units: 128
 - Low-income units: 128
@@ -39,16 +34,12 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MNA2005050.
 - Record status: Existing, unchanged

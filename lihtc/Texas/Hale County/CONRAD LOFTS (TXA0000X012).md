@@ -1,13 +1,10 @@
 # Project: CONRAD LOFTS (TXA0000X012)
 
 - HUD ID: TXA0000X012
-- HUD ID before: 
 - Project: CONRAD LOFTS
 - Address: 191 W. 6TH STREET
 - City: PLAINVIEW
-- State: TX
 - ZIP: 79072
-- ZIP extension: 
 - State project ID: TX5199
 - Latitude: 34.185518
 - Longitude: -101.704181
@@ -16,16 +13,11 @@
 - Tract 2020: 48189950500
 - Tract 2010: 48189950500
 - Tract 2000: 48189950500
-- Tract 1990: 
 - Place 2020: 57980
 - Place 2010: 57980
 - Place 2000: 57980
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 29
 - Low-income units: 29
 - Units reported: 29
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -75,11 +66,5 @@
 - Other population named: Total Special Needs
 - Scattered site: No
 - Resyndicated: No
-- Metro: 
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

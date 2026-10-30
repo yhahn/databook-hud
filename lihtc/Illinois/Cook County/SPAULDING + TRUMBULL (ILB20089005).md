@@ -1,13 +1,10 @@
 # Project: SPAULDING + TRUMBULL (ILB20089005)
 
 - HUD ID: ILB20089005
-- HUD ID before: 
 - Project: SPAULDING + TRUMBULL
 - Address: 1310 SPAULDING
 - City: CHICAGO
-- State: IL
 - ZIP: 11111
-- ZIP extension: 
 - State project ID: IL-06-003
 - Latitude: 41.864364
 - Longitude: -87.708254
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 578184
 - Units: 25
 - Low-income units: 25
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,7 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +54,10 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2006224, ILB2006020. AKA SPAULDING APTS. FKA TRUMBULL;
 - Record status: Existing, unchanged

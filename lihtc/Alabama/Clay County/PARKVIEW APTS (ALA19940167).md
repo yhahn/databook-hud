@@ -1,13 +1,10 @@
 # Project: PARKVIEW APTS (ALA19940167)
 
 - HUD ID: ALA19940167
-- HUD ID before: 
 - Project: PARKVIEW APTS
 - Address: 491 E COLLEGE ST
 - City: LINEVILLE
-- State: AL
 - ZIP: 36266
-- ZIP extension: 
 - State project ID: AL-94-0007
 - Latitude: 33.314306
 - Longitude: -85.748163
@@ -20,11 +17,8 @@
 - Place 2020: 43264
 - Place 2010: 43264
 - Place 2000: 43264
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 25922
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1995106, ALA1995501. AKA T K C PARKVIEW HOUSING.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: NEVEDA ELDERLY APTS (IAA20110527)
 
 - HUD ID: IAA20110527
-- HUD ID before: 
 - Project: NEVEDA ELDERLY APTS
 - Address: 833 S 13TH ST
 - City: NEVADA
-- State: IA
 - ZIP: 50201
-- ZIP extension: 
 - State project ID: 10-10-268
 - Latitude: 42.0025
 - Longitude: -93.441554
@@ -22,9 +19,7 @@
 - Place 2000: 55695
 - Place 1990: 3015
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 119303
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2011045, IAA1989170.
 - Record status: Existing, unchanged

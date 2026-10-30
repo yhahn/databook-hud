@@ -1,13 +1,10 @@
 # Project: NUEVO AMANECER IV (ORA20130005)
 
 - HUD ID: ORA20130005
-- HUD ID before: 
 - Project: NUEVO AMANECER IV
 - Address: 1300 N SECOND ST
 - City: WOODBURN
-- State: OR
 - ZIP: 97071
-- ZIP extension: 
 - State project ID: 2887
 - Latitude: 45.14868
 - Longitude: -122.85131
@@ -22,9 +19,7 @@
 - Place 2000: 83750
 - Place 1990: 1240
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 820000
 - Units: 80
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: FARMWORKERS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

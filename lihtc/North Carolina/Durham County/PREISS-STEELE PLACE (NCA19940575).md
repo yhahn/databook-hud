@@ -1,13 +1,10 @@
 # Project: PREISS-STEELE PLACE (NCA19940575)
 
 - HUD ID: NCA19940575
-- HUD ID before: 
 - Project: PREISS-STEELE PLACE
 - Address: 500 PICKWICK TRAIL
 - City: DURHAM
-- State: NC
 - ZIP: 27704
-- ZIP extension: 
 - State project ID: 9001101
 - Latitude: 36.042191
 - Longitude: -78.889304
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 427426
 - Units: 82
 - Low-income units: 82
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 82
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

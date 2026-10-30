@@ -1,13 +1,10 @@
 # Project: CRESCENT GARDENS APARTMENTS (NCA20140050)
 
 - HUD ID: NCA20140050
-- HUD ID before: 
 - Project: CRESCENT GARDENS APARTMENTS
 - Address: 1602 KINCAID AVENUE
 - City: WILSON
-- State: NC
 - ZIP: 27893
-- ZIP extension: 
 - State project ID: 9150902
 - Latitude: 35.74608
 - Longitude: -77.911917
@@ -22,9 +19,7 @@
 - Place 2000: 74540
 - Place 1990: 2760
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 724223
 - Units: 100
 - Low-income units: 100
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

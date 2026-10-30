@@ -1,11 +1,9 @@
 # Project: ALCO APARTMENTS (KYA20160001)
 
 - HUD ID: KYA20160001
-- HUD ID before: 
 - Project: ALCO APARTMENTS
 - Address: MONCRIEF STREET
 - City: SCOTTSVILLE
-- State: KY
 - ZIP: 42164
 - ZIP extension: 1667
 - State project ID: KY-15-009
@@ -16,15 +14,11 @@
 - Tract 2020: 21003920300
 - Tract 2010: 21003920400
 - Tract 2000: 21003980300
-- Tract 1990: 
 - Place 2020: 69114
 - Place 2010: 69114
 - Place 2000: 69114
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 430604
 - Units: 40
 - Low-income units: 40
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

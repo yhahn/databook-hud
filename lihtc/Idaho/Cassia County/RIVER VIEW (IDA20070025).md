@@ -1,13 +1,10 @@
 # Project: RIVER VIEW (IDA20070025)
 
 - HUD ID: IDA20070025
-- HUD ID before: 
 - Project: RIVER VIEW
 - Address: 256 WEST 3RD STREET
 - City: BURLEY
-- State: ID
 - ZIP: 83318
-- ZIP extension: 
 - State project ID: HC0609
 - Latitude: 42.550367
 - Longitude: -113.794925
@@ -19,12 +16,9 @@
 - Tract 1990: 16031950500
 - Place 2020: 11260
 - Place 2010: 11260
-- Place 2000: 
 - Place 1990: 0110
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 541993
 - Units: 40
 - Low-income units: 39
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

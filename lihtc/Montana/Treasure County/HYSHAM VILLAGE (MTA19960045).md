@@ -1,11 +1,9 @@
 # Project: HYSHAM VILLAGE (MTA19960045)
 
 - HUD ID: MTA19960045
-- HUD ID before: 
 - Project: HYSHAM VILLAGE
 - Address: 117 DIVISION
 - City: HYSHAM
-- State: MT
 - ZIP: 59038
 - ZIP extension: 0000
 - State project ID: 94090
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30103963500
 - Tract 2010: 30103963500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 38350
 - Place 2010: 38350
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 33160
 - Units: 12
 - Low-income units: 12
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

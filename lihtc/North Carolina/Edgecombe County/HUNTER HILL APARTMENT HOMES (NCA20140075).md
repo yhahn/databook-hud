@@ -1,13 +1,10 @@
 # Project: HUNTER HILL APARTMENT HOMES (NCA20140075)
 
 - HUD ID: NCA20140075
-- HUD ID before: 
 - Project: HUNTER HILL APARTMENT HOMES
 - Address: 200 HUNTER HILL ROAD
 - City: TARBORO
-- State: NC
 - ZIP: 27886
-- ZIP extension: 
 - State project ID: 9133905
 - Latitude: 35.898696
 - Longitude: -77.561503
@@ -19,12 +16,9 @@
 - Tract 1990: 37065021200
 - Place 2020: 66700
 - Place 2010: 66700
-- Place 2000: 
 - Place 1990: 2495
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 415000
 - Units: 56
 - Low-income units: 56
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

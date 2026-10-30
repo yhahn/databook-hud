@@ -1,13 +1,10 @@
 # Project: CINNAMON VILLAS SENIOR (CAA20120905)
 
 - HUD ID: CAA20120905
-- HUD ID before: 
 - Project: CINNAMON VILLAS SENIOR
 - Address: 335 W CINNAMON DR
 - City: LEMOORE
-- State: CA
 - ZIP: 93245
-- ZIP extension: 
 - State project ID: CA-11-082
 - Latitude: 36.306319
 - Longitude: -119.786459
@@ -22,9 +19,7 @@
 - Place 2000: 41152
 - Place 1990: 1515
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 621191
 - Units: 80
 - Low-income units: 78
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 71
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 651200
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA LEMOORE PACIFIC ASSOC II.
 - Record status: Existing, unchanged

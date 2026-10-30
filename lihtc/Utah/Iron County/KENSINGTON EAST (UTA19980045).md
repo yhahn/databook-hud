@@ -1,11 +1,9 @@
 # Project: KENSINGTON EAST (UTA19980045)
 
 - HUD ID: UTA19980045
-- HUD ID before: 
 - Project: KENSINGTON EAST
 - Address: 426 E. NICHOLS CANYON ROAD
 - City: CEDAR CITY
-- State: UT
 - ZIP: 84721
 - ZIP extension: 0000
 - State project ID: 1996-11
@@ -22,9 +20,7 @@
 - Place 2000: 11320
 - Place 1990: 0745
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 340534
 - Units: 72
 - Low-income units: 72
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

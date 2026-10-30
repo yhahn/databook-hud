@@ -1,13 +1,10 @@
 # Project: WILLOW CREEK APTS (OKA20140140)
 
 - HUD ID: OKA20140140
-- HUD ID before: 
 - Project: WILLOW CREEK APTS
 - Address: 5600 HAZEL RD
 - City: BARTLESVILLE
-- State: OK
 - ZIP: 74006
-- ZIP extension: 
 - State project ID: 120121
 - Latitude: 36.737802
 - Longitude: -95.916074
@@ -22,9 +19,7 @@
 - Place 2000: 04450
 - Place 1990: 0145
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 10241997
 - Units: 64
 - Low-income units: 64
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS OKA0000560, OKA0000555. AKA W-C APTS.
 - Record status: Existing, unchanged

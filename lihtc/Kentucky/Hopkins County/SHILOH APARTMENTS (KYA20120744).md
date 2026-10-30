@@ -1,13 +1,10 @@
 # Project: SHILOH APARTMENTS (KYA20120744)
 
 - HUD ID: KYA20120744
-- HUD ID before: 
 - Project: SHILOH APARTMENTS
 - Address: WINDING CREEK ROAD
 - City: MADISONVILLE
-- State: KY
 - ZIP: 42431
-- ZIP extension: 
 - State project ID: KY-11-009
 - Latitude: 37.3305
 - Longitude: -87.5051
@@ -19,12 +16,9 @@
 - Tract 1990: 21107970300
 - Place 2020: 49368
 - Place 2010: 49368
-- Place 2000: 
 - Place 1990: 1280
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 361540
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: HERITAGE VIEW APTS (ALA20100031)
 
 - HUD ID: ALA20100031
-- HUD ID before: 
 - Project: HERITAGE VIEW APTS
 - Address: 1401 AARON ST
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36104
-- ZIP extension: 
 - State project ID: AL-10-0032
 - Latitude: 32.359899
 - Longitude: -86.315498
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 1180
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 856099
 - Units: 55
 - Low-income units: 55
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 55
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 856000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SUMMIT HERITAGE VIEW.
 - Record status: Existing, unchanged

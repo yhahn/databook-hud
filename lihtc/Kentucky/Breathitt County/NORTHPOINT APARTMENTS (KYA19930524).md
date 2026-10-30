@@ -1,13 +1,10 @@
 # Project: NORTHPOINT APARTMENTS (KYA19930524)
 
 - HUD ID: KYA19930524
-- HUD ID before: 
 - Project: NORTHPOINT APARTMENTS
 - Address: NORTH POINT AVE.
 - City: JACKSON
-- State: KY
 - ZIP: 41339
-- ZIP extension: 
 - State project ID: KY-92-034
 - Latitude: 37.5687
 - Longitude: -83.3865
@@ -19,12 +16,9 @@
 - Tract 1990: 21025980300
 - Place 2020: 39952
 - Place 2010: 39952
-- Place 2000: 
 - Place 1990: 1015
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

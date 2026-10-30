@@ -1,13 +1,10 @@
 # Project: NEW VISTAS II (ILA20050085)
 
 - HUD ID: ILA20050085
-- HUD ID before: 
 - Project: NEW VISTAS II
 - Address: 6909 S CRANDON AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60649
-- ZIP extension: 
 - State project ID: 006804
 - Latitude: 41.769717
 - Longitude: -87.569667
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 383236
 - Units: 154
 - Low-income units: 154
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

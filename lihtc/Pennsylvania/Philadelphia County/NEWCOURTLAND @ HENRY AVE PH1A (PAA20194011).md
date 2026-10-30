@@ -1,11 +1,9 @@
 # Project: NEWCOURTLAND @ HENRY AVE PH1A (PAA20194011)
 
 - HUD ID: PAA20194011
-- HUD ID before: 
 - Project: NEWCOURTLAND @ HENRY AVE PH1A
 - Address: 3232 HENRY AVE
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19129
 - ZIP extension: 1238
 - State project ID: TC20170139
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101017000
 - Tract 2010: 42101017000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 557778
 - Units: 49
 - Low-income units: 49
@@ -41,14 +33,11 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 49
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: Yes
@@ -62,8 +51,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

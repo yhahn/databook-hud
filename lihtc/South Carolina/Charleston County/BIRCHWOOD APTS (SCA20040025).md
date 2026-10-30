@@ -1,13 +1,10 @@
 # Project: BIRCHWOOD APTS (SCA20040025)
 
 - HUD ID: SCA20040025
-- HUD ID before: 
 - Project: BIRCHWOOD APTS
 - Address: 2001 STOKES AVE
 - City: NORTH CHARLESTON
-- State: SC
 - ZIP: 29406
-- ZIP extension: 
 - State project ID: SC-02-032
 - Latitude: 32.924072
 - Longitude: -80.028372
@@ -22,9 +19,7 @@
 - Place 2000: 50875
 - Place 1990: 0987
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 490933
 - Units: 64
 - Low-income units: 64
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: Yes
 - HOPE VI amount: 2095076
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

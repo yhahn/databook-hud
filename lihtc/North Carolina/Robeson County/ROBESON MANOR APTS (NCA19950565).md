@@ -1,13 +1,10 @@
 # Project: ROBESON MANOR APTS (NCA19950565)
 
 - HUD ID: NCA19950565
-- HUD ID before: 
 - Project: ROBESON MANOR APTS
 - Address: 800 WHITE POND ROAD
 - City: FAIRMONT
-- State: NC
 - ZIP: 28340
-- ZIP extension: 
 - State project ID: 9002126
 - Latitude: 34.479202
 - Longitude: -79.138132
@@ -19,12 +16,8 @@
 - Tract 1990: 37155961700
 - Place 2020: 22360
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 26841
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: CITYCENTER PLACE (ALA19960016)
 
 - HUD ID: ALA19960016
-- HUD ID before: 
 - Project: CITYCENTER PLACE
 - Address: 1400 SEVENTH AVE N
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35203
-- ZIP extension: 
 - State project ID: AL-96-0002
 - Latitude: 33.516583
 - Longitude: -86.818111
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0185
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 271386
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1179000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1998035. AKA CITY CENTER PLACE.
 - Record status: Existing, unchanged

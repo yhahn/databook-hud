@@ -1,11 +1,9 @@
 # Project: LEXINGTON PARK APTS. (UTA19930045)
 
 - HUD ID: UTA19930045
-- HUD ID before: 
 - Project: LEXINGTON PARK APTS.
 - Address: 2293 LEXINGTON PARK DRIVE
 - City: WEST VALLEY CITY
-- State: UT
 - ZIP: 84119
 - ZIP extension: 0000
 - State project ID: 1991-03
@@ -22,9 +20,7 @@
 - Place 2000: 83470
 - Place 1990: 1082
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 319980
 - Units: 80
 - Low-income units: 80
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

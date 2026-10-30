@@ -1,13 +1,10 @@
 # Project: PARTRIDGE PARK (IDA20130002)
 
 - HUD ID: IDA20130002
-- HUD ID before: 
 - Project: PARTRIDGE PARK
 - Address: 557 BURTON AVENUE
 - City: BURLEY
-- State: ID
 - ZIP: 83318
-- ZIP extension: 
 - State project ID: HC1307
 - Latitude: 42.546606
 - Longitude: -113.798336
@@ -22,9 +19,7 @@
 - Place 2000: 11260
 - Place 1990: 0110
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 216235
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: LA ESTANCIA APARTMENTS (TXA00000353)
 
 - HUD ID: TXA00000353
-- HUD ID before: 
 - Project: LA ESTANCIA APARTMENTS
 - Address: 3711 EXPRESSWAY 77 S
 - City: LYFORD
-- State: TX
 - ZIP: 78569
-- ZIP extension: 
 - State project ID: TX0176
 - Latitude: 26.4125
 - Longitude: -97.6946
@@ -15,15 +12,9 @@
 - County from: 2020
 - Tract 2020: 48489950500
 - Tract 2010: 48489950500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 45228
 - Place 2010: 45228
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 6827
 - Units: 32
@@ -41,14 +32,11 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 11
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
-- Metro: 
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION.
 - Record status: Updated

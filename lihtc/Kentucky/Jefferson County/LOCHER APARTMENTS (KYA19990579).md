@@ -1,13 +1,10 @@
 # Project: LOCHER APARTMENTS (KYA19990579)
 
 - HUD ID: KYA19990579
-- HUD ID before: 
 - Project: LOCHER APARTMENTS
 - Address: W. OAK ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40212
-- ZIP extension: 
 - State project ID: KY-97-029
 - Latitude: 38.2663
 - Longitude: -85.8044
@@ -19,12 +16,9 @@
 - Tract 1990: 21111000200
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 19
 - Low-income units: 19
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

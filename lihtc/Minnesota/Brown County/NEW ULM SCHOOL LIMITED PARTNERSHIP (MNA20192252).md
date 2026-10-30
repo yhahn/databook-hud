@@ -1,13 +1,10 @@
 # Project: NEW ULM SCHOOL LIMITED PARTNERSHIP (MNA20192252)
 
 - HUD ID: MNA20192252
-- HUD ID before: 
 - Project: NEW ULM SCHOOL LIMITED PARTNERSHIP
 - Address: 15 NORTH STATE STREET
 - City: NEW ULM
-- State: MN
 - ZIP: 56073
-- ZIP extension: 
 - State project ID: D7989
 - Latitude: 44.312011
 - Longitude: -94.462175
@@ -22,9 +19,7 @@
 - Place 2000: 43000
 - Place 1990: 2585
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1018870
 - Units: 49
 - Low-income units: 49
@@ -39,16 +34,12 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +69,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

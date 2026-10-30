@@ -1,13 +1,10 @@
 # Project: HOLY FAMILY SENIOR APTS (NYA20110022)
 
 - HUD ID: NYA20110022
-- HUD ID before: 
 - Project: HOLY FAMILY SENIOR APTS
 - Address: 892 TIFFT ST
 - City: BUFFALO
-- State: NY
 - ZIP: 14220
-- ZIP extension: 
 - State project ID: 20096089
 - Latitude: 42.847128
 - Longitude: -78.826352
@@ -22,9 +19,7 @@
 - Place 2000: 11000
 - Place 1990: 0450
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 705687
 - Units: 35
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

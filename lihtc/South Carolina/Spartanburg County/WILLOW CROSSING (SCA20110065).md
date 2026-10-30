@@ -1,13 +1,10 @@
 # Project: WILLOW CROSSING (SCA20110065)
 
 - HUD ID: SCA20110065
-- HUD ID before: 
 - Project: WILLOW CROSSING
 - Address: 101 WILLOW CROSSING LN
 - City: SPARTANBURG
-- State: SC
 - ZIP: 29301
-- ZIP extension: 
 - State project ID: SC-10-005
 - Latitude: 34.9412
 - Longitude: -82.0082
@@ -20,11 +17,8 @@
 - Place 2020: 68290
 - Place 2010: 68290
 - Place 2000: 68290
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 842156
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

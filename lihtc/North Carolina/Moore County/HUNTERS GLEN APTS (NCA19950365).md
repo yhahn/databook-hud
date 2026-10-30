@@ -1,13 +1,10 @@
 # Project: HUNTERS GLEN APTS (NCA19950365)
 
 - HUD ID: NCA19950365
-- HUD ID before: 
 - Project: HUNTERS GLEN APTS
 - Address: 1655 CENTRAL DRIVE
 - City: SOUTHERN PINES
-- State: NC
 - ZIP: 28327
-- ZIP extension: 
 - State project ID: 9001357
 - Latitude: 35.22136
 - Longitude: -79.396199
@@ -22,9 +19,7 @@
 - Place 2000: 63120
 - Place 1990: 2320
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 61371
 - Units: 50
 - Low-income units: 50
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

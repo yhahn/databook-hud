@@ -1,13 +1,10 @@
 # Project: PUTNAM COURT (NYA20130004)
 
 - HUD ID: NYA20130004
-- HUD ID before: 
 - Project: PUTNAM COURT
 - Address: 40 PUTNAM AVE
 - City: BROOKLYN
-- State: NY
 - ZIP: 11238
-- ZIP extension: 
 - State project ID: 20116034
 - Latitude: 40.682692
 - Longitude: -73.960221
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 2505
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1270779
 - Units: 59
 - Low-income units: 59
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

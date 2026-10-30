@@ -1,11 +1,9 @@
 # Project: HAVEN APARTMENTS (MSA20190007)
 
 - HUD ID: MSA20190007
-- HUD ID before: 
 - Project: HAVEN APARTMENTS
 - Address: 3031 WILLIE MOORE ROAD
 - City: TUPELO
-- State: MS
 - ZIP: 38801
 - ZIP extension: 0000
 - State project ID: 16-1-037
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28081950401
 - Tract 2010: 28081950401
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 74840
 - Place 2010: 74840
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 272582
 - Units: 28
 - Low-income units: 28
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

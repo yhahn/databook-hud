@@ -1,13 +1,10 @@
 # Project: BAYTREE APARTMENTS (NCA20100540)
 
 - HUD ID: NCA20100540
-- HUD ID before: 
 - Project: BAYTREE APARTMENTS
 - Address: 401 S ONSLOW STREET
 - City: RICHLANDS
-- State: NC
 - ZIP: 28574
-- ZIP extension: 
 - State project ID: 9104474
 - Latitude: 34.895247
 - Longitude: -77.545513
@@ -19,12 +16,8 @@
 - Tract 1990: 37133000200
 - Place 2020: 56360
 - Place 2010: 56360
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 124643
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

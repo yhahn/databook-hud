@@ -1,13 +1,10 @@
 # Project: THE HEALING PLACE, INC. (KYA20090696)
 
 - HUD ID: KYA20090696
-- HUD ID before: 
 - Project: THE HEALING PLACE, INC.
 - Address: SOUTH 15TH STREET
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40210
-- ZIP extension: 
 - State project ID: KY-07-025
 - Latitude: 38.2271
 - Longitude: -85.7847
@@ -19,12 +16,9 @@
 - Tract 1990: 21111003000
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 675000
 - Units: 68
 - Low-income units: 68
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +70,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

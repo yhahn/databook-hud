@@ -1,13 +1,10 @@
 # Project: TRAMORE SENIOR (IDA20030035)
 
 - HUD ID: IDA20030035
-- HUD ID before: 
 - Project: TRAMORE SENIOR
 - Address: 1103 PINE STREET
 - City: MERIDIAN
-- State: ID
 - ZIP: 83642
-- ZIP extension: 
 - State project ID: HC0104
 - Latitude: 43.6067
 - Longitude: -116.3639
@@ -20,11 +17,8 @@
 - Place 2020: 52120
 - Place 2010: 08830
 - Place 2000: 52120
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 288665
 - Units: 72
 - Low-income units: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

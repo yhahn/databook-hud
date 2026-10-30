@@ -1,13 +1,10 @@
 # Project: GARDENVIEW ESTATES PHASE III B (MIA20120957)
 
 - HUD ID: MIA20120957
-- HUD ID before: 
 - Project: GARDENVIEW ESTATES PHASE III B
 - Address: 16461 VAN BUREN ST
 - City: DETROIT
-- State: MI
 - ZIP: 48228
-- ZIP extension: 
 - State project ID: MI-3437
 - Latitude: 42.356364
 - Longitude: -83.207769
@@ -22,9 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 942210
 - Units: 46
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

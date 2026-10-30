@@ -1,11 +1,9 @@
 # Project: VILLAGE OF KALAMAZOO APARTMENTS (MIA20191017)
 
 - HUD ID: MIA20191017
-- HUD ID before: 
 - Project: VILLAGE OF KALAMAZOO APARTMENTS
 - Address: 4510 LILAC LANE
 - City: KALAMAZOO
-- State: MI
 - ZIP: 49006
 - ZIP extension: 0000
 - State project ID: 3790
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26077001511
 - Tract 2010: 26077001507
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 42160
 - Place 2010: 42160
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1470293
 - Units: 165
 - Low-income units: 160
@@ -40,15 +32,11 @@
 - Income ceiling: Income average
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CLARKE GARDENS FKA ASHTON CLARKE APTS (GAA20040090)
 
 - HUD ID: GAA20040090
-- HUD ID before: 
 - Project: CLARKE GARDENS FKA ASHTON CLARKE APTS
 - Address: 110 CARRIAGE CT
 - City: ATHENS
-- State: GA
 - ZIP: 30605
 - ZIP extension: 1883
 - State project ID: GA-02-54(C)
@@ -22,9 +20,7 @@
 - Place 2000: 03440
 - Place 1990: 1153
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 45182
 - Units: 100
 - Low-income units: 100
@@ -36,12 +32,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +63,9 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS GAA2003805, GAA2003157, GAA0000016. AKA ASHTON CLARKE. FKA ASHTON CLARKE APTS
 - Record status: Updated

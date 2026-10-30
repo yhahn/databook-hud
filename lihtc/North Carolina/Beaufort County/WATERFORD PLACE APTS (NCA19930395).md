@@ -1,13 +1,10 @@
 # Project: WATERFORD PLACE APTS (NCA19930395)
 
 - HUD ID: NCA19930395
-- HUD ID before: 
 - Project: WATERFORD PLACE APTS
 - Address: 202 WATERFORD ROAD
 - City: WASHINGTON
-- State: NC
 - ZIP: 27889
-- ZIP extension: 
 - State project ID: 9001524
 - Latitude: 35.564801
 - Longitude: -77.054885
@@ -22,9 +19,7 @@
 - Place 2000: 71220
 - Place 1990: 2655
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 52364
 - Units: 38
 - Low-income units: 38
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

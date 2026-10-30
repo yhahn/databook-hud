@@ -1,13 +1,10 @@
 # Project: DEWITT SUPPORTIVE HOUSING (NYA20120910)
 
 - HUD ID: NYA20120910
-- HUD ID before: 
 - Project: DEWITT SUPPORTIVE HOUSING
 - Address: 437 DEWITT AVE
 - City: BROOKLYN
-- State: NY
 - ZIP: 11207
-- ZIP extension: 
 - State project ID: 20096119
 - Latitude: 40.657127
 - Longitude: -73.894071
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 2505
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 615927
 - Units: 33
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: THE MEADOWS APARTMENTS (NCA19940520)
 
 - HUD ID: NCA19940520
-- HUD ID before: 
 - Project: THE MEADOWS APARTMENTS
 - Address: 601 RICKS ROAD APT 31 A
 - City: SELMA
-- State: NC
 - ZIP: 27576
-- ZIP extension: 
 - State project ID: 9001367
 - Latitude: 35.523851
 - Longitude: -78.291533
@@ -19,12 +16,9 @@
 - Tract 1990: 37101040300
 - Place 2020: 60320
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 2240
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 58209
 - Units: 58
 - Low-income units: 57
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 6
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

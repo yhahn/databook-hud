@@ -1,13 +1,10 @@
 # Project: ANGELA HOMES (KYA19990015)
 
 - HUD ID: KYA19990015
-- HUD ID before: 
 - Project: ANGELA HOMES
 - Address: SAND DOLLAR CT.
 - City: SHEPHERDSVILLE
-- State: KY
 - ZIP: 40165
-- ZIP extension: 
 - State project ID: KY-98-053
 - Latitude: 37.998109
 - Longitude: -85.717957
@@ -22,9 +19,7 @@
 - Place 2000: 70086
 - Place 1990: 1795
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

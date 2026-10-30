@@ -1,11 +1,9 @@
 # Project: WESTOVER SENIOR VILLAGE (GAA20210043)
 
 - HUD ID: GAA20210043
-- HUD ID before: 
 - Project: WESTOVER SENIOR VILLAGE
 - Address: 280 CAPSTONE CONNECTOR
 - City: LEESBURG
-- State: GA
 - ZIP: 31707
 - ZIP extension: 1275
 - State project ID: 2019-022
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 13095000400
 - Tract 2010: 13095000600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 01052
 - Place 2010: 01052
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 645730
 - Units: 46
 - Low-income units: 46
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,7 +52,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

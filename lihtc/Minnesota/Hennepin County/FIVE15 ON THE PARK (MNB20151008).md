@@ -1,11 +1,9 @@
 # Project: FIVE15 ON THE PARK (MNB20151008)
 
 - HUD ID: MNB20151008
-- HUD ID before: 
 - Project: FIVE15 ON THE PARK
 - Address: 515 15TH AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55454
 - ZIP extension: 1588
 - State project ID: D5908
@@ -16,15 +14,11 @@
 - Tract 2020: 27053104801
 - Tract 2010: 27053104800
 - Tract 2000: 27053104800
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 763843
 - Units: 259
 - Low-income units: 130
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +59,10 @@
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

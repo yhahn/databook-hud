@@ -1,13 +1,10 @@
 # Project: OLDE SCHOOL COMMONS APTS (NCA19980115)
 
 - HUD ID: NCA19980115
-- HUD ID before: 
 - Project: OLDE SCHOOL COMMONS APTS
 - Address: 742 WEST GARNER ROAD
 - City: GARNER
-- State: NC
 - ZIP: 27529
-- ZIP extension: 
 - State project ID: 9002277
 - Latitude: 35.710836
 - Longitude: -78.612599
@@ -22,9 +19,7 @@
 - Place 2000: 25480
 - Place 1990: 0975
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 168490
 - Units: 45
 - Low-income units: 45
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: OLIVE GROVE (FLA20120095)
 
 - HUD ID: FLA20120095
-- HUD ID before: 
 - Project: OLIVE GROVE
 - Address: 765 W GRANADA BLVD
 - City: ORMOND BEACH
-- State: FL
 - ZIP: 32174
-- ZIP extension: 
 - State project ID: 2520
 - Latitude: 29.279207
 - Longitude: -81.078739
@@ -22,9 +19,7 @@
 - Place 2000: 53150
 - Place 1990: 1605
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1510000
 - Units: 88
 - Low-income units: 88
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,19 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 5015000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: LINK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS FLA2011532, FLA2011180.
 - Record status: Existing, unchanged

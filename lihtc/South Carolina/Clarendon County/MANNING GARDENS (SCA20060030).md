@@ -1,13 +1,10 @@
 # Project: MANNING GARDENS (SCA20060030)
 
 - HUD ID: SCA20060030
-- HUD ID before: 
 - Project: MANNING GARDENS
 - Address: 214 ALFRED HENRY DR
 - City: MANNING
-- State: SC
 - ZIP: 29102
-- ZIP extension: 
 - State project ID: SC-04-019
 - Latitude: 33.690868
 - Longitude: -80.224614
@@ -22,9 +19,7 @@
 - Place 2000: 44350
 - Place 1990: 0890
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 288037
 - Units: 50
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

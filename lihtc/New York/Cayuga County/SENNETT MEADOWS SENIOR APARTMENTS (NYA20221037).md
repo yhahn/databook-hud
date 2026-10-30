@@ -1,13 +1,10 @@
 # Project: SENNETT MEADOWS SENIOR APARTMENTS (NYA20221037)
 
 - HUD ID: NYA20221037
-- HUD ID before: 
 - Project: SENNETT MEADOWS SENIOR APARTMENTS
 - Address: 3365 EAST GENESEE STREET ROAD
 - City: SENNETT
-- State: NY
 - ZIP: 13021
-- ZIP extension: 
 - State project ID: 20210016
 - Latitude: 42.937352
 - Longitude: -76.518097
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36011040600
 - Tract 2010: 36011040600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1167561
 - Units: 60
 - Low-income units: 60
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,8 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
 - Disabled: Yes
-- Homeless: 
 - Other population: Yes
 - Other population named: Military w/ Disabilities
 - Scattered site: No
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: EMPYREAN HARRISON RENOVATION (CAA20192008)
 
 - HUD ID: CAA20192008
-- HUD ID before: 
 - Project: EMPYREAN HARRISON RENOVATION
 - Address: EMPYREAN: 344 13TH ST., HARRISON: 1415 HARRISON ST
 - City: OAKLAND
-- State: CA
 - ZIP: 94612
-- ZIP extension: 
 - State project ID: CA-2018-609
 - Latitude: 37.8068
 - Longitude: -122.2677
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06001402900
 - Tract 2010: 06001402900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 53000
 - Place 2010: 53000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1988622
 - Units: 147
 - Low-income units: 146
@@ -39,16 +30,11 @@
 - Credit: 30 percent present value
 - Income ceiling: Income average
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -67,8 +53,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

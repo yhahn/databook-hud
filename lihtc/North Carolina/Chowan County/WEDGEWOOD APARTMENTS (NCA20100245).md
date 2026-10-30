@@ -1,13 +1,10 @@
 # Project: WEDGEWOOD APARTMENTS (NCA20100245)
 
 - HUD ID: NCA20100245
-- HUD ID before: 
 - Project: WEDGEWOOD APARTMENTS
 - Address: 725 DR MARTIN LUTHER KING JR AVENUE
 - City: EDENTON
-- State: NC
 - ZIP: 27932
-- ZIP extension: 
 - State project ID: 9102466
 - Latitude: 36.066877
 - Longitude: -76.62334
@@ -22,9 +19,7 @@
 - Place 2000: 20120
 - Place 1990: 0795
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 50
 - Low-income units: 49
@@ -39,9 +34,7 @@
 - Credit: TCEP only
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

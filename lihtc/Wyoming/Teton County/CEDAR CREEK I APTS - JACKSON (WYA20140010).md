@@ -1,13 +1,10 @@
 # Project: CEDAR CREEK I APTS - JACKSON (WYA20140010)
 
 - HUD ID: WYA20140010
-- HUD ID before: 
 - Project: CEDAR CREEK I APTS - JACKSON
 - Address: 340 RANCHER ST
 - City: JACKSON
-- State: WY
 - ZIP: 83001
-- ZIP extension: 
 - State project ID: 13-017
 - Latitude: 43.475173
 - Longitude: -110.744537
@@ -22,9 +19,7 @@
 - Place 2000: 40120
 - Place 1990: 0215
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 221400
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: THE ABERDEEN APARTMENTS (IAA20180011)
 
 - HUD ID: IAA20180011
-- HUD ID before: 
 - Project: THE ABERDEEN APARTMENTS
 - Address: 1121 JACKSON ST
 - City: SIOUX CITY
-- State: IA
 - ZIP: 51105
 - ZIP extension: 1434
 - State project ID: 17-09
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 19193001300
 - Tract 2010: 19193001300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 73335
 - Place 2010: 73335
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 688936
 - Units: 46
 - Low-income units: 41
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

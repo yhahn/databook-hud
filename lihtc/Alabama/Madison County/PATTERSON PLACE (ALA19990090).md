@@ -1,13 +1,10 @@
 # Project: PATTERSON PLACE (ALA19990090)
 
 - HUD ID: ALA19990090
-- HUD ID before: 
 - Project: PATTERSON PLACE
 - Address: 2640 BLUE SPRING RD NW
 - City: HUNTSVILLE
-- State: AL
 - ZIP: 35810
-- ZIP extension: 
 - State project ID: AL-99-0061
 - Latitude: 34.761815
 - Longitude: -86.59887
@@ -22,9 +19,7 @@
 - Place 2000: 37000
 - Place 1990: 0935
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 269414
 - Units: 52
 - Low-income units: 52
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 52
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1232000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MADISON ASSOC.
 - Record status: Existing, unchanged

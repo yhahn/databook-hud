@@ -1,13 +1,10 @@
 # Project: VANCE SENIOR HOUSING (NCA20030210)
 
 - HUD ID: NCA20030210
-- HUD ID before: 
 - Project: VANCE SENIOR HOUSING
 - Address: 125 WYCHE ST
 - City: HENDERSON
-- State: NC
 - ZIP: 27536
-- ZIP extension: 
 - State project ID: 9002296
 - Latitude: 36.327463
 - Longitude: -78.403381
@@ -22,9 +19,7 @@
 - Place 2000: 30660
 - Place 1990: 1155
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 236458
 - Units: 31
 - Low-income units: 31
@@ -39,9 +34,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

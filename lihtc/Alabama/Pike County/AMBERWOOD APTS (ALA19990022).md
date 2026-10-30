@@ -1,13 +1,10 @@
 # Project: AMBERWOOD APTS (ALA19990022)
 
 - HUD ID: ALA19990022
-- HUD ID before: 
 - Project: AMBERWOOD APTS
 - Address: 115 SEGARS LN
 - City: TROY
-- State: AL
 - ZIP: 36081
-- ZIP extension: 
 - State project ID: AL-99-0060
 - Latitude: 31.798954
 - Longitude: -85.978085
@@ -22,9 +19,7 @@
 - Place 2000: 76920
 - Place 1990: 1710
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 180727
 - Units: 36
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 984000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2000020. AKA AMBERWOOD IN TROY.
 - Record status: Existing, unchanged

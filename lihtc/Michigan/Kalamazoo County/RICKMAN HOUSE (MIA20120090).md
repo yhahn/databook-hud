@@ -1,13 +1,10 @@
 # Project: RICKMAN HOUSE (MIA20120090)
 
 - HUD ID: MIA20120090
-- HUD ID before: 
 - Project: RICKMAN HOUSE
 - Address: 345 N BURDICK ST
 - City: KALAMAZOO
-- State: MI
 - ZIP: 49007
-- ZIP extension: 
 - State project ID: MI-895
 - Latitude: 42.293997
 - Longitude: -85.583539
@@ -22,9 +19,7 @@
 - Place 2000: 42160
 - Place 1990: 1370
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1179805
 - Units: 49
 - Low-income units: 49
@@ -39,9 +34,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1230134
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1994135.
 - Record status: Existing, unchanged

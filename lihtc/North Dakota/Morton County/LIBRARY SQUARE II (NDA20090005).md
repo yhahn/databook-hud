@@ -1,13 +1,10 @@
 # Project: LIBRARY SQUARE II (NDA20090005)
 
 - HUD ID: NDA20090005
-- HUD ID before: 
 - Project: LIBRARY SQUARE II
 - Address: 110 FIRST ST NW
 - City: MANDAN
-- State: ND
 - ZIP: 58554
-- ZIP extension: 
 - State project ID: TC0709
 - Latitude: 46.82751
 - Longitude: -100.891386
@@ -22,9 +19,7 @@
 - Place 2000: 49900
 - Place 1990: 1050
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 524679
 - Units: 45
 - Low-income units: 45
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

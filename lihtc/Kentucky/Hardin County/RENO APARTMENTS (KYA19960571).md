@@ -1,13 +1,10 @@
 # Project: RENO APARTMENTS (KYA19960571)
 
 - HUD ID: KYA19960571
-- HUD ID before: 
 - Project: RENO APARTMENTS
 - Address: BUFORD LN.
 - City: ELIZABETHTOWN
-- State: KY
 - ZIP: 42701
-- ZIP extension: 
 - State project ID: KY-94-159
 - Latitude: 37.7012
 - Longitude: -85.8554
@@ -22,9 +19,7 @@
 - Place 2000: 24274
 - Place 1990: 0610
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 229130
 - Units: 40
 - Low-income units: 40
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA1996127, KYA1995155.;
 - Record status: Updated

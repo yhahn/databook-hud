@@ -1,11 +1,9 @@
 # Project: WHISTLESTOP VIEW APTS (PAA20165053)
 
 - HUD ID: PAA20165053
-- HUD ID before: 
 - Project: WHISTLESTOP VIEW APTS
 - Address: 443 W HIGH ST
 - City: ELIZABETHTOWN
-- State: PA
 - ZIP: 17002
 - ZIP extension: 3140
 - State project ID: TC20150106
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42071010701
 - Tract 2010: 42071010701
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 23016
 - Place 2010: 23016
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 103928
 - Units: 37
 - Low-income units: 37
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 37
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +58,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: Updated

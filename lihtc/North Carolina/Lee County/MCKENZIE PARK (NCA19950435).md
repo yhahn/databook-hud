@@ -1,11 +1,9 @@
 # Project: MCKENZIE PARK (NCA19950435)
 
 - HUD ID: NCA19950435
-- HUD ID before: 
 - Project: MCKENZIE PARK
 - Address: 2000 KENAN DR
 - City: SANFORD
-- State: NC
 - ZIP: 27330
 - ZIP extension: 7317
 - State project ID: 9001793
@@ -19,12 +17,8 @@
 - Tract 1990: 37105030400
 - Place 2020: 59280
 - Place 2010: 59280
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 129416
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 7
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

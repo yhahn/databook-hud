@@ -1,11 +1,9 @@
 # Project: CROWN AT KINGS PEAK (UTA20140015)
 
 - HUD ID: UTA20140015
-- HUD ID before: 
 - Project: CROWN AT KINGS PEAK
 - Address: 192 S 100 E 336-211
 - City: ROOSEVELT
-- State: UT
 - ZIP: 84066
 - ZIP extension: 0000
 - State project ID: 2012-29
@@ -22,9 +20,7 @@
 - Place 2000: 64670
 - Place 1990: 0840
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 46583
 - Units: 3
 - Low-income units: 3
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

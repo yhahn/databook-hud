@@ -1,11 +1,9 @@
 # Project: SELBY COMMONS (MNB19919006)
 
 - HUD ID: MNB19919006
-- HUD ID before: 
 - Project: SELBY COMMONS
 - Address: 180 MILTON AVENUE
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55104
 - ZIP extension: 6615
 - State project ID: D1619
@@ -16,15 +14,11 @@
 - Tract 2020: 27123033800
 - Tract 2010: 27123033400
 - Tract 2000: 27123033800
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 298125
 - Units: 33
 - Low-income units: 32
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -68,18 +59,10 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: No
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

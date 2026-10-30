@@ -1,13 +1,10 @@
 # Project: CAROUSEL PLACE (NCA20070040)
 
 - HUD ID: NCA20070040
-- HUD ID before: 
 - Project: CAROUSEL PLACE
 - Address: 750 BRIGHT CREEK WAY
 - City: RALEIGH
-- State: NC
 - ZIP: 27601
-- ZIP extension: 
 - State project ID: 9001723
 - Latitude: 35.771625
 - Longitude: -78.627829
@@ -19,12 +16,9 @@
 - Tract 1990: 37183050800
 - Place 2020: 55000
 - Place 2010: 55000
-- Place 2000: 
 - Place 1990: 2020
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 588151
 - Units: 55
 - Low-income units: 55
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 14
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

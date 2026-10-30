@@ -1,13 +1,10 @@
 # Project: BOULEVARD (MNA20191031)
 
 - HUD ID: MNA20191031
-- HUD ID before: 
 - Project: BOULEVARD
 - Address: 2901 MOUNDS VIEW BOULEVARD
 - City: MOUNDS VIEW
-- State: MN
 - ZIP: 55112
-- ZIP extension: 
 - State project ID: D8022
 - Latitude: 45.113588
 - Longitude: -93.222663
@@ -22,9 +19,7 @@
 - Place 2000: 43000
 - Place 1990: 2585
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 404859
 - Units: 60
 - Low-income units: 60
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

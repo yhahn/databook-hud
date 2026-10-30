@@ -1,13 +1,10 @@
 # Project: JOSHUA PLACE (KYA20087016)
 
 - HUD ID: KYA20087016
-- HUD ID before: 
 - Project: JOSHUA PLACE
 - Address: 100 CRESTMORE DRIVE
 - City: FRANKLIN
-- State: KY
 - ZIP: 42134
-- ZIP extension: 
 - State project ID: KY-06-021
 - Latitude: 36.711032
 - Longitude: -86.565171
@@ -16,15 +13,10 @@
 - Tract 2020: 21213970402
 - Tract 2010: 21213970400
 - Tract 2000: 21213970200
-- Tract 1990: 
 - Place 2020: 28918
 - Place 2010: 28918
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 520000
 - Units: 24
 - Low-income units: 24
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

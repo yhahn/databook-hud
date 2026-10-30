@@ -1,13 +1,10 @@
 # Project: RIVERVIEW (IDA20100020)
 
 - HUD ID: IDA20100020
-- HUD ID before: 
 - Project: RIVERVIEW
 - Address: 1070 SOUTH LEADVILLE AVENUE
 - City: BOISE
-- State: ID
 - ZIP: 83706
-- ZIP extension: 
 - State project ID: HC1005
 - Latitude: 43.600174
 - Longitude: -116.191151
@@ -22,9 +19,7 @@
 - Place 2000: 08830
 - Place 1990: 0090
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 274150
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

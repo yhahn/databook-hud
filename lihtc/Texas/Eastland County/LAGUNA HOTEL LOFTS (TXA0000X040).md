@@ -1,13 +1,10 @@
 # Project: LAGUNA HOTEL LOFTS (TXA0000X040)
 
 - HUD ID: TXA0000X040
-- HUD ID before: 
 - Project: LAGUNA HOTEL LOFTS
 - Address: 400 CONRAD HILTON BLVD
 - City: CISCO
-- State: TX
 - ZIP: 76437
-- ZIP extension: 
 - State project ID: TX5198
 - Latitude: 32.390808
 - Longitude: -98.981301
@@ -16,16 +13,11 @@
 - Tract 2020: 48133950301
 - Tract 2010: 48133950300
 - Tract 2000: 48133950300
-- Tract 1990: 
 - Place 2020: 15004
 - Place 2010: 15004
 - Place 2000: 15004
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -75,11 +66,5 @@
 - Other population named: Total Special Needs
 - Scattered site: No
 - Resyndicated: No
-- Metro: 
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

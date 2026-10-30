@@ -1,13 +1,10 @@
 # Project: ROOSEVELT SQUARE II (ILA20080105)
 
 - HUD ID: ILA20080105
-- HUD ID before: 
 - Project: ROOSEVELT SQUARE II
 - Address: 1007 S THROOP
 - City: CHICAGO
-- State: IL
 - ZIP: 60608
-- ZIP extension: 
 - State project ID: 2349-06
 - Latitude: 41.869339
 - Longitude: -87.65896
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 1500000
 - Units: 45
 - Low-income units: 45
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 64
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2008803, ILB2008809. AKA ROOSEVELT SQUARE RENTAL II.
 - Record status: Existing, unchanged

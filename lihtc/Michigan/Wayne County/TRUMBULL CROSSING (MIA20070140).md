@@ -1,13 +1,10 @@
 # Project: TRUMBULL CROSSING (MIA20070140)
 
 - HUD ID: MIA20070140
-- HUD ID before: 
 - Project: TRUMBULL CROSSING
 - Address: 5500 TRUMBULL ST
 - City: DETROIT
-- State: MI
 - ZIP: 48208
-- ZIP extension: 
 - State project ID: MI-300
 - Latitude: 42.357023
 - Longitude: -83.081318
@@ -22,9 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 1062242
 - Units: 245
 - Low-income units: 244
@@ -40,15 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 220
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 5000000
 - CDBG: No
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1989340.
 - Record status: Updated

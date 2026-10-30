@@ -1,13 +1,10 @@
 # Project: MAGNOLIA ACRES (TXA00000144)
 
 - HUD ID: TXA00000144
-- HUD ID before: 
 - Project: MAGNOLIA ACRES
 - Address: 108 DEBORAH DR
 - City: ANGLETON
-- State: TX
 - ZIP: 77515
-- ZIP extension: 
 - State project ID: TX4805
 - Latitude: 29.182261
 - Longitude: -95.407051
@@ -21,11 +18,8 @@
 - Place 2010: 03264
 - Place 2000: 02272
 - Place 1990: 0120
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2011
-- Allocation year note: 
-- Allocation amount: 
 - Units: 67
 - Low-income units: 66
 - Units reported: 67
@@ -48,7 +42,6 @@
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -76,10 +68,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

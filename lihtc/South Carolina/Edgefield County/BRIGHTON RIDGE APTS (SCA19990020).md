@@ -1,13 +1,10 @@
 # Project: BRIGHTON RIDGE APTS (SCA19990020)
 
 - HUD ID: SCA19990020
-- HUD ID before: 
 - Project: BRIGHTON RIDGE APTS
 - Address: 1048 WOODLAND AVE
 - City: EDGEFIELD
-- State: SC
 - ZIP: 29824
-- ZIP extension: 
 - State project ID: SC-97-012
 - Latitude: 33.792994
 - Longitude: -81.9331
@@ -20,11 +17,8 @@
 - Place 2020: 22795
 - Place 2010: 22795
 - Place 2000: 22795
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 131550
 - Units: 44
 - Low-income units: 44
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

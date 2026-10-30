@@ -1,13 +1,10 @@
 # Project: MANNINGTON PLACE (SCA20140050)
 
 - HUD ID: SCA20140050
-- HUD ID before: 
 - Project: MANNINGTON PLACE
 - Address: 625 S MILL ST
 - City: MANNING
-- State: SC
 - ZIP: 29102
-- ZIP extension: 
 - State project ID: SC-13-047
 - Latitude: 33.68376
 - Longitude: -80.2124
@@ -20,11 +17,8 @@
 - Place 2020: 44350
 - Place 2010: 44350
 - Place 2000: 44350
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 71560
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1994060. AKA NEW MANNINGTON PLACE APTS.
 - Record status: Existing, unchanged

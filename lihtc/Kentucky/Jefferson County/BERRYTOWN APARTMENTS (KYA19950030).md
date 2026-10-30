@@ -1,13 +1,10 @@
 # Project: BERRYTOWN APARTMENTS (KYA19950030)
 
 - HUD ID: KYA19950030
-- HUD ID before: 
 - Project: BERRYTOWN APARTMENTS
 - Address: HEAFER ROAD
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40223
-- ZIP extension: 
 - State project ID: KY-94-140
 - Latitude: 38.2642
 - Longitude: -85.5147
@@ -19,12 +16,8 @@
 - Tract 1990: 21111010401
 - Place 2020: 01504
 - Place 2010: 01504
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 17
 - Low-income units: 17
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

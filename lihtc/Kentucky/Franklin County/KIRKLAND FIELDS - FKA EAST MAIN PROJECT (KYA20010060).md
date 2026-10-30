@@ -1,13 +1,10 @@
 # Project: KIRKLAND FIELDS - FKA EAST MAIN PROJECT (KYA20010060)
 
 - HUD ID: KYA20010060
-- HUD ID before: 
 - Project: KIRKLAND FIELDS - FKA EAST MAIN PROJECT
 - Address: EAST MAIN ST.
 - City: FRANKFORT
-- State: KY
 - ZIP: 40601
-- ZIP extension: 
 - State project ID: KY-99-046
 - Latitude: 38.1911
 - Longitude: -84.8746
@@ -19,12 +16,9 @@
 - Tract 1990: 21073070600
 - Place 2020: 28900
 - Place 2010: 28900
-- Place 2000: 
 - Place 1990: 0735
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 20
 - Low-income units: 20
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

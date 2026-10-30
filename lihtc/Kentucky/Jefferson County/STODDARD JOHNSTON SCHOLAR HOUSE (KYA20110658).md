@@ -1,13 +1,10 @@
 # Project: STODDARD JOHNSTON SCHOLAR HOUSE (KYA20110658)
 
 - HUD ID: KYA20110658
-- HUD ID before: 
 - Project: STODDARD JOHNSTON SCHOLAR HOUSE
 - Address: BRADLEY AVENUE
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40217
-- ZIP extension: 
 - State project ID: KY-10-079
 - Latitude: 38.2238
 - Longitude: -85.739
@@ -19,12 +16,9 @@
 - Tract 1990: 21111007100
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1111389
 - Units: 57
 - Low-income units: 57
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

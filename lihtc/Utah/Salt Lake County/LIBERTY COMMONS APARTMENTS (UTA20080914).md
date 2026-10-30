@@ -1,11 +1,9 @@
 # Project: LIBERTY COMMONS APARTMENTS (UTA20080914)
 
 - HUD ID: UTA20080914
-- HUD ID before: 
 - Project: LIBERTY COMMONS APARTMENTS
 - Address: 2785 SO, WINSTED WAY
 - City: WEST VALLEY CITY
-- State: UT
 - ZIP: 84120
 - ZIP extension: 0000
 - State project ID: 2009-18
@@ -22,9 +20,7 @@
 - Place 2000: 83470
 - Place 1990: 1082
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 311050
 - Units: 209
 - Low-income units: 104
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

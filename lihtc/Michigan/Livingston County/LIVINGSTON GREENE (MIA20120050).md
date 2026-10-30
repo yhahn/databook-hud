@@ -1,13 +1,10 @@
 # Project: LIVINGSTON GREENE (MIA20120050)
 
 - HUD ID: MIA20120050
-- HUD ID before: 
 - Project: LIVINGSTON GREENE
 - Address: 470 N GRAND AVE
 - City: FOWLERVILLE
-- State: MI
 - ZIP: 48836
-- ZIP extension: 
 - State project ID: MI-3424
 - Latitude: 42.666217
 - Longitude: -84.073217
@@ -20,11 +17,8 @@
 - Place 2020: 30060
 - Place 2010: 30060
 - Place 2000: 30060
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 358401
 - Units: 32
 - Low-income units: 32
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1991260. AKA MEADOW GLEN APTS.
 - Record status: Existing, unchanged

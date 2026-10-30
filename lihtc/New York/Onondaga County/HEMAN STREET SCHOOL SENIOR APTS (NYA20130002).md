@@ -1,13 +1,10 @@
 # Project: HEMAN STREET SCHOOL SENIOR APTS (NYA20130002)
 
 - HUD ID: NYA20130002
-- HUD ID before: 
 - Project: HEMAN STREET SCHOOL SENIOR APTS
 - Address: 121 E HEMAN ST
 - City: EAST SYRACUSE
-- State: NY
 - ZIP: 13057
-- ZIP extension: 
 - State project ID: 20116018
 - Latitude: 43.067084
 - Longitude: -76.068859
@@ -22,9 +19,7 @@
 - Place 2000: 23052
 - Place 1990: 1050
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 558568
 - Units: 37
 - Low-income units: 37
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 2239391
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SISTERS VILLA (IDA20040025)
 
 - HUD ID: IDA20040025
-- HUD ID before: 
 - Project: SISTERS VILLA
 - Address: 540 NORTH EAGLE ROAD
 - City: EAGLE
-- State: ID
 - ZIP: 83616
-- ZIP extension: 
 - State project ID: HC0202
 - Latitude: 43.700692
 - Longitude: -116.353686
@@ -20,11 +17,8 @@
 - Place 2020: 23410
 - Place 2010: 23410
 - Place 2000: 23410
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 333488
 - Units: 49
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

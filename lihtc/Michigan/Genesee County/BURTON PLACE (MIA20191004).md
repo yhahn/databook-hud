@@ -1,11 +1,9 @@
 # Project: BURTON PLACE (MIA20191004)
 
 - HUD ID: MIA20191004
-- HUD ID before: 
 - Project: BURTON PLACE
 - Address: 2287 SOUTH CENTER ROAD
 - City: BURTON
-- State: MI
 - ZIP: 48519
 - ZIP extension: 0000
 - State project ID: 468
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26049011508
 - Tract 2010: 26049011508
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 12060
 - Place 2010: 12060
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 751746
 - Units: 200
 - Low-income units: 200
@@ -40,15 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 2350000
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

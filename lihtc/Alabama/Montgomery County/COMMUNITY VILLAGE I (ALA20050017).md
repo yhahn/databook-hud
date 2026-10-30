@@ -1,13 +1,10 @@
 # Project: COMMUNITY VILLAGE I (ALA20050017)
 
 - HUD ID: ALA20050017
-- HUD ID before: 
 - Project: COMMUNITY VILLAGE I
 - Address: 3000 REUNION DR
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36116
-- ZIP extension: 
 - State project ID: 2005002-TC2
 - Latitude: 32.296647
 - Longitude: -86.275488
@@ -20,11 +17,8 @@
 - Place 2020: 51000
 - Place 2010: 51000
 - Place 2000: 51000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 613229
 - Units: 72
 - Low-income units: 72
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007030.
 - Record status: Existing, unchanged

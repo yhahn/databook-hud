@@ -1,13 +1,10 @@
 # Project: CITY NEIGHBORHOODS (VTA20120020)
 
 - HUD ID: VTA20120020
-- HUD ID before: 
 - Project: CITY NEIGHBORHOODS
 - Address: 52 N CHAMPLAIN ST
 - City: BURLINGTON
-- State: VT
 - ZIP: 05401
-- ZIP extension: 
 - State project ID: 0444
 - Latitude: 44.481967
 - Longitude: -73.217309
@@ -22,9 +19,7 @@
 - Place 2000: 10675
 - Place 1990: 0460
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 407400
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

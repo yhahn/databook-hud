@@ -1,11 +1,9 @@
 # Project: VILLAGE MEADOW (MOA20180025)
 
 - HUD ID: MOA20180025
-- HUD ID before: 
 - Project: VILLAGE MEADOW
 - Address: 1400 VILLAGE DRIVE
 - City: BOONVILLE
-- State: MO
 - ZIP: 65233
 - ZIP extension: 0000
 - State project ID: 17-048
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29053950300
 - Tract 2010: 29053950300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 07318
 - Place 2010: 07318
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 404000
 - Units: 52
 - Low-income units: 44
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

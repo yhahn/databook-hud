@@ -1,13 +1,10 @@
 # Project: RUMELY LOFTS (IAA20100045)
 
 - HUD ID: IAA20100045
-- HUD ID before: 
 - Project: RUMELY LOFTS
 - Address: 104 SW FOURTH ST
 - City: DES MOINES
-- State: IA
 - ZIP: 50309
-- ZIP extension: 
 - State project ID: 08-0923
 - Latitude: 41.583173
 - Longitude: -93.621186
@@ -22,9 +19,7 @@
 - Place 2000: 21000
 - Place 1990: 1130
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1269284
 - Units: 66
 - Low-income units: 66
@@ -39,13 +34,9 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 426332
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: DEERFIELD CROSSING APTS (NCA19970185)
 
 - HUD ID: NCA19970185
-- HUD ID before: 
 - Project: DEERFIELD CROSSING APTS
 - Address: 600 DEERFIELD TRACE
 - City: MEBANE
-- State: NC
 - ZIP: 27302
-- ZIP extension: 
 - State project ID: 9001778
 - Latitude: 36.064866
 - Longitude: -79.297657
@@ -20,11 +17,8 @@
 - Place 2020: 42240
 - Place 2010: 42240
 - Place 2000: 42240
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 388639
 - Units: 120
 - Low-income units: 120
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

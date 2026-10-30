@@ -1,13 +1,10 @@
 # Project: KENTFIELD APTS (CAA20090560)
 
 - HUD ID: CAA20090560
-- HUD ID before: 
 - Project: KENTFIELD APTS
 - Address: 4545 KENTFIELD RD
 - City: STOCKTON
-- State: CA
 - ZIP: 95207
-- ZIP extension: 
 - State project ID: CA-08-826
 - Latitude: 37.993765
 - Longitude: -121.301248
@@ -22,9 +19,7 @@
 - Place 2000: 75000
 - Place 1990: 2805
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 363147
 - Units: 90
 - Low-income units: 89
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 89
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

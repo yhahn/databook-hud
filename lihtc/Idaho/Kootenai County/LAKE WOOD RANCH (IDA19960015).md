@@ -1,13 +1,10 @@
 # Project: LAKE WOOD RANCH (IDA19960015)
 
 - HUD ID: IDA19960015
-- HUD ID before: 
 - Project: LAKE WOOD RANCH
 - Address: 3755 4TH STREET
 - City: COEUR DALENE
-- State: ID
 - ZIP: 83815
-- ZIP extension: 
 - State project ID: HC9508
 - Latitude: 47.712232
 - Longitude: -116.778876
@@ -22,9 +19,7 @@
 - Place 2000: 16750
 - Place 1990: 0170
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 455125
 - Units: 80
 - Low-income units: 79
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PARK ROW CROSSING (MNA20140901)
 
 - HUD ID: MNA20140901
-- HUD ID before: 
 - Project: PARK ROW CROSSING
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: SAINT PETER
-- State: MN
 - ZIP: 56082
-- ZIP extension: 
 - State project ID: D7524
 - Latitude: 44.3453
 - Longitude: -93.9638
@@ -22,9 +19,7 @@
 - Place 2000: 58036
 - Place 1990: 3435
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 652686
 - Units: 40
 - Low-income units: 39
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +43,9 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +53,9 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MNA2013013.
 - Record status: Existing, unchanged

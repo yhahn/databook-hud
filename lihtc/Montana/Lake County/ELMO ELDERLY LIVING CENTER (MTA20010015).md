@@ -1,11 +1,9 @@
 # Project: ELMO ELDERLY LIVING CENTER (MTA20010015)
 
 - HUD ID: MTA20010015
-- HUD ID before: 
 - Project: ELMO ELDERLY LIVING CENTER
 - Address: 100 CEMETERY RD
 - City: ELMO
-- State: MT
 - ZIP: 59915
 - ZIP extension: 0000
 - State project ID: 00020
@@ -20,11 +18,8 @@
 - Place 2020: 24100
 - Place 2010: 24100
 - Place 2000: 26226
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 64000
 - Units: 10
 - Low-income units: 8
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: PHEASANT GLEN (MTA20030030)
 
 - HUD ID: MTA20030030
-- HUD ID before: 
 - Project: PHEASANT GLEN
 - Address: 3440 PTARMIGAN LANE
 - City: HELENA
-- State: MT
 - ZIP: 59602
 - ZIP extension: 0000
 - State project ID: 02100
@@ -22,9 +20,7 @@
 - Place 2000: 35600
 - Place 1990: 0329
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 250724
 - Units: 32
 - Low-income units: 32
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

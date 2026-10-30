@@ -1,13 +1,10 @@
 # Project: ALLEN CREEK (TNA20090521)
 
 - HUD ID: TNA20090521
-- HUD ID before: 
 - Project: ALLEN CREEK
 - Address: 411 ALLEN DR
 - City: KINGSPORT
-- State: TN
 - ZIP: 37660
-- ZIP extension: 
 - State project ID: TN-09-114
 - Latitude: 36.569989
 - Longitude: -82.575047
@@ -22,9 +19,7 @@
 - Place 2000: 39560
 - Place 1990: 0750
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 694044
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2009003.
 - Record status: Existing, unchanged

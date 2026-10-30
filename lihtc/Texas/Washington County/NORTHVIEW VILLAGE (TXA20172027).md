@@ -1,13 +1,10 @@
 # Project: NORTHVIEW VILLAGE (TXA20172027)
 
 - HUD ID: TXA20172027
-- HUD ID before: 
 - Project: NORTHVIEW VILLAGE
 - Address: 1801 NORTHVIEW CIRCLE
 - City: BRENHAM
-- State: TX
 - ZIP: 77833
-- ZIP extension: 
 - State project ID: TX5187
 - Latitude: 30.185155
 - Longitude: -96.402848
@@ -16,16 +13,11 @@
 - Tract 2020: 48477170201
 - Tract 2010: 48477170200
 - Tract 2000: 48477170200
-- Tract 1990: 
 - Place 2020: 10156
 - Place 2010: 10156
 - Place 2000: 10156
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 66
 - Low-income units: 66
 - Units reported: 66
@@ -38,10 +30,6 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: Yes
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

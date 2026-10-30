@@ -1,13 +1,10 @@
 # Project: COUNTRY CLUB COTTAGES (ALA20060067)
 
 - HUD ID: ALA20060067
-- HUD ID before: 
 - Project: COUNTRY CLUB COTTAGES
 - Address: 705 COGLE ST
 - City: THOMASVILLE
-- State: AL
 - ZIP: 36784
-- ZIP extension: 
 - State project ID: AL-06-0034
 - Latitude: 31.921167
 - Longitude: -87.742243
@@ -22,10 +19,7 @@
 - Place 2000: 75960
 - Place 1990: 1680
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 32
 - Low-income units: 32
 - Units reported: 32
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1057510
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007035.
 - Record status: Existing, unchanged

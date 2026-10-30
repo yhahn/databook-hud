@@ -1,13 +1,10 @@
 # Project: SUTHERLAND SQUARE APTS (TNA20010155)
 
 - HUD ID: TNA20010155
-- HUD ID before: 
 - Project: SUTHERLAND SQUARE APTS
 - Address: 330 ST FRANCIS WAY
 - City: KNOXVILLE
-- State: TN
 - ZIP: 37919
-- ZIP extension: 
 - State project ID: TN-00-110
 - Latitude: 35.951483
 - Longitude: -83.965446
@@ -22,9 +19,7 @@
 - Place 2000: 40000
 - Place 1990: 0760
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 123619
 - Units: 36
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

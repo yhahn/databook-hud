@@ -1,11 +1,9 @@
 # Project: CANTON PLACE APARTMENTS (MIA20150004)
 
 - HUD ID: MIA20150004
-- HUD ID before: 
 - Project: CANTON PLACE APARTMENTS
 - Address: 44505 FORD ROAD
 - City: CANTON TWP
-- State: MI
 - ZIP: 48187
 - ZIP extension: 0000
 - State project ID: 3687
@@ -16,15 +14,11 @@
 - Tract 2020: 26163564200
 - Tract 2010: 26163564200
 - Tract 2000: 26163564200
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 13110
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 476170
 - Units: 118
 - Low-income units: 117
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: GREENLAKES (VAA20040626)
 
 - HUD ID: VAA20040626
-- HUD ID before: 
 - Project: GREENLAKES
 - Address: 3218 GREEN LAKES DR
 - City: VIRGINIA BEACH
-- State: VA
 - ZIP: 23452
-- ZIP extension: 
 - State project ID: 8585
 - Latitude: 36.812126
 - Longitude: -76.084403
@@ -22,9 +19,7 @@
 - Place 2000: 82000
 - Place 1990: 1280
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 418282
 - Units: 150
 - Low-income units: 150
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003090.
 - Record status: Existing, unchanged

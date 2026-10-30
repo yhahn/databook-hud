@@ -1,13 +1,10 @@
 # Project: ACADEMY FLATS SENIOR HOUSING (KYA20070005)
 
 - HUD ID: KYA20070005
-- HUD ID before: 
 - Project: ACADEMY FLATS SENIOR HOUSING
 - Address: WOODBURN AVE.
 - City: COVINGTON
-- State: KY
 - ZIP: 41011
-- ZIP extension: 
 - State project ID: KY-05-030
 - Latitude: 39.0786
 - Longitude: -84.5159
@@ -19,12 +16,9 @@
 - Tract 1990: 21117065000
 - Place 2020: 17848
 - Place 2010: 17848
-- Place 2000: 
 - Place 1990: 0465
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 244539
 - Units: 26
 - Low-income units: 26
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

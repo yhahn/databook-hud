@@ -1,13 +1,10 @@
 # Project: FOREST PARK GARDENS PHASE II (NCA19980060)
 
 - HUD ID: NCA19980060
-- HUD ID before: 
 - Project: FOREST PARK GARDENS PHASE II
 - Address: 1305 FOREST PARK TERRACE
 - City: STATESVILLE
-- State: NC
 - ZIP: 28677
-- ZIP extension: 
 - State project ID: 9001047
 - Latitude: 35.796249
 - Longitude: -80.869261
@@ -22,9 +19,7 @@
 - Place 2000: 64740
 - Place 1990: 2430
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 190122
 - Units: 40
 - Low-income units: 40
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

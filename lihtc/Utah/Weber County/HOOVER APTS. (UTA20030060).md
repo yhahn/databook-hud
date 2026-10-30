@@ -1,11 +1,9 @@
 # Project: HOOVER APTS. (UTA20030060)
 
 - HUD ID: UTA20030060
-- HUD ID before: 
 - Project: HOOVER APTS.
 - Address: 330 EAST 27TH STREET
 - City: OGDEN
-- State: UT
 - ZIP: 84401
 - ZIP extension: 0000
 - State project ID: 2002-23
@@ -13,18 +11,14 @@
 - Longitude: -111.972483
 - County FIPS: 49057
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49057201100
 - Tract 2000: 49057201100
 - Tract 1990: 49057201100
-- Place 2020: 
 - Place 2010: 55980
 - Place 2000: 55980
 - Place 1990: 0695
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 56947
 - Units: 23
 - Low-income units: 23
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: Mentally Ill
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

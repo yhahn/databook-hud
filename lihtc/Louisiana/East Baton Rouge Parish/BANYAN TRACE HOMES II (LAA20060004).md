@@ -1,11 +1,9 @@
 # Project: BANYAN TRACE HOMES II (LAA20060004)
 
 - HUD ID: LAA20060004
-- HUD ID before: 
 - Project: BANYAN TRACE HOMES II
 - Address: 5560 BANYAN TRACE DRIVE
 - City: BATON ROUGE
-- State: LA
 - ZIP: 70805
 - ZIP extension: 0000
 - State project ID: LA-06-455
@@ -22,8 +20,6 @@
 - Place 2000: 05000
 - Place 1990: 0095
 - Year placed in service: 2006
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 31381
 - Units: 20
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -74,12 +60,6 @@
 - Other population: Yes
 - Other population named: Multi-Family
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

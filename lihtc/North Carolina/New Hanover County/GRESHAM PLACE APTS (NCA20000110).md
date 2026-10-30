@@ -1,13 +1,10 @@
 # Project: GRESHAM PLACE APTS (NCA20000110)
 
 - HUD ID: NCA20000110
-- HUD ID before: 
 - Project: GRESHAM PLACE APTS
 - Address: 6612 GORDON ROAD
 - City: WILMINGTON
-- State: NC
 - ZIP: 28411
-- ZIP extension: 
 - State project ID: 9001584
 - Latitude: 34.266618
 - Longitude: -77.838159
@@ -22,9 +19,7 @@
 - Place 2000: 35870
 - Place 1990: 2288
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 308507
 - Units: 52
 - Low-income units: 51
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

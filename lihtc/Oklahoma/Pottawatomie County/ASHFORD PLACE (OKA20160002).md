@@ -1,11 +1,9 @@
 # Project: ASHFORD PLACE (OKA20160002)
 
 - HUD ID: OKA20160002
-- HUD ID before: 
 - Project: ASHFORD PLACE
 - Address: 3105 ACME ROAD
 - City: SHAWNEE
-- State: OK
 - ZIP: 74804
 - ZIP extension: 0000
 - State project ID: 141069
@@ -16,15 +14,11 @@
 - Tract 2020: 40125501004
 - Tract 2010: 40125501004
 - Tract 2000: 40125501002
-- Tract 1990: 
 - Place 2020: 66800
 - Place 2010: 66800
 - Place 2000: 66800
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 200000
 - Units: 101
 - Low-income units: 101
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

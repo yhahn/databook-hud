@@ -1,13 +1,10 @@
 # Project: ELDERS PEAK APTS (NCA20050065)
 
 - HUD ID: NCA20050065
-- HUD ID before: 
 - Project: ELDERS PEAK APTS
 - Address: 2917 CREECH ROAD
 - City: RALEIGH
-- State: NC
 - ZIP: 27610
-- ZIP extension: 
 - State project ID: 9001683
 - Latitude: 35.738656
 - Longitude: -78.606819
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 0975
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 284466
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

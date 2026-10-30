@@ -1,13 +1,10 @@
 # Project: EMMERDALE (NCA20070065)
 
 - HUD ID: NCA20070065
-- HUD ID before: 
 - Project: EMMERDALE
 - Address: 100 EMMERDALE WAY
 - City: JACKSONVILLE
-- State: NC
 - ZIP: 28546
-- ZIP extension: 
 - State project ID: 9001023
 - Latitude: 34.80457
 - Longitude: -77.413634
@@ -19,12 +16,9 @@
 - Tract 1990: 37133002200
 - Place 2020: 34200
 - Place 2010: 34200
-- Place 2000: 
 - Place 1990: 1280
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 315889
 - Units: 46
 - Low-income units: 46
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 9
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

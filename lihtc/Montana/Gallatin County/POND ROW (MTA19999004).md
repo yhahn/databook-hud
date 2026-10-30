@@ -1,11 +1,9 @@
 # Project: POND ROW (MTA19999004)
 
 - HUD ID: MTA19999004
-- HUD ID before: 
 - Project: POND ROW
 - Address: 102 POND ROW
 - City: BOZEMAN
-- State: MT
 - ZIP: 59715
 - ZIP extension: 0000
 - State project ID: MF024
@@ -22,9 +20,7 @@
 - Place 2000: 08950
 - Place 1990: 0080
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 1
 - Units: 20
 - Low-income units: 20
@@ -44,7 +40,6 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +67,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

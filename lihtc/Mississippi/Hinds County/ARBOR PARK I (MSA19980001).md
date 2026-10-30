@@ -1,13 +1,10 @@
 # Project: ARBOR PARK I (MSA19980001)
 
 - HUD ID: MSA19980001
-- HUD ID before: 
 - Project: ARBOR PARK I
 - Address: 5551 SHAW RD
 - City: JACKSON
-- State: MS
 - ZIP: 39209
-- ZIP extension: 
 - State project ID: MS-96-113
 - Latitude: 32.321896
 - Longitude: -90.294376
@@ -22,9 +19,7 @@
 - Place 2000: 14420
 - Place 1990: 0615
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 3958204
 - Units: 160
 - Low-income units: 158
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998602, MSA1997005. AKA ARBOR PARK IA.
 - Record status: Existing, unchanged

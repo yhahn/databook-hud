@@ -1,13 +1,10 @@
 # Project: HILLCREST MANOR SENIOR COMMUNITY (TXA20079003)
 
 - HUD ID: TXA20079003
-- HUD ID before: 
 - Project: HILLCREST MANOR SENIOR COMMUNITY
 - Address: 1102 N MEMPHIS AVENUE
 - City: LUBBOCK
-- State: TX
 - ZIP: 79415
-- ZIP extension: 
 - State project ID: TX4334
 - Latitude: 33.611966
 - Longitude: -101.896595
@@ -22,10 +19,7 @@
 - Place 2000: 45000
 - Place 1990: 2565
 - Year placed in service: 2007
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 220
 - Low-income units: 200
 - Units reported: 220
@@ -38,17 +32,11 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

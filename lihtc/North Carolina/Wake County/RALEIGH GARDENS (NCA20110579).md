@@ -1,13 +1,10 @@
 # Project: RALEIGH GARDENS (NCA20110579)
 
 - HUD ID: NCA20110579
-- HUD ID before: 
 - Project: RALEIGH GARDENS
 - Address: 6145 A ST GILES RD
 - City: RALEIGH
-- State: NC
 - ZIP: 27612
-- ZIP extension: 
 - State project ID: 9104471
 - Latitude: 35.854143
 - Longitude: -78.706353
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 575932
 - Units: 126
 - Low-income units: 125
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

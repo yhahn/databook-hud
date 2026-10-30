@@ -1,13 +1,10 @@
 # Project: KINGS MILL (NCA20020060)
 
 - HUD ID: NCA20020060
-- HUD ID before: 
 - Project: KINGS MILL
 - Address: 1200 DAUGHTER'S DRIVE
 - City: NEWPORT
-- State: NC
 - ZIP: 28570
-- ZIP extension: 
 - State project ID: 9000998
 - Latitude: 34.802177
 - Longitude: -76.861223
@@ -19,12 +16,8 @@
 - Tract 1990: 37031970700
 - Place 2020: 46860
 - Place 2010: 46860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 249398
 - Units: 44
 - Low-income units: 44
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 22
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

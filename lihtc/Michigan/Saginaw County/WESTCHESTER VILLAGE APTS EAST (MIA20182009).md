@@ -1,11 +1,9 @@
 # Project: WESTCHESTER VILLAGE APTS EAST (MIA20182009)
 
 - HUD ID: MIA20182009
-- HUD ID before: 
 - Project: WESTCHESTER VILLAGE APTS EAST
 - Address: 4000 HAROLD STREET
 - City: SAGINAW
-- State: MI
 - ZIP: 48601
 - ZIP extension: 0000
 - State project ID: 3783
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26145000900
 - Tract 2010: 26145000900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 70520
 - Place 2010: 70520
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 282680
 - Units: 75
 - Low-income units: 74
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1479371
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CONCORD CHASE (NCA20020030)
 
 - HUD ID: NCA20020030
-- HUD ID before: 
 - Project: CONCORD CHASE
 - Address: 100 CONCORD CHASE CIRCLE
 - City: CONCORD
-- State: NC
 - ZIP: 28205
-- ZIP extension: 
 - State project ID: 9002338
 - Latitude: 35.381463
 - Longitude: -80.58815
@@ -19,12 +16,9 @@
 - Tract 1990: 37025042100
 - Place 2020: 14100
 - Place 2010: 14100
-- Place 2000: 
 - Place 1990: 0565
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 378546
 - Units: 126
 - Low-income units: 124
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

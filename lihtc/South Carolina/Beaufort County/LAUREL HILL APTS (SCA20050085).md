@@ -1,13 +1,10 @@
 # Project: LAUREL HILL APTS (SCA20050085)
 
 - HUD ID: SCA20050085
-- HUD ID before: 
 - Project: LAUREL HILL APTS
 - Address: 1640 RIBAUT RD
 - City: PORT ROYAL
-- State: SC
 - ZIP: 29935
-- ZIP extension: 
 - State project ID: SC-03-030
 - Latitude: 32.388228
 - Longitude: -80.687516
@@ -22,9 +19,7 @@
 - Place 2000: 04690
 - Place 1990: 1135
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 400000
 - Units: 71
 - Low-income units: 71
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 71
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SADDLE RIDGE APTS II (ALA20070146)
 
 - HUD ID: ALA20070146
-- HUD ID before: 
 - Project: SADDLE RIDGE APTS II
 - Address: 440 BRIDLE RIDGE LN
 - City: ANDALUSIA
-- State: AL
 - ZIP: 36420
-- ZIP extension: 
 - State project ID: AL-07-0037
 - Latitude: 31.292893
 - Longitude: -86.491433
@@ -22,9 +19,7 @@
 - Place 2000: 01708
 - Place 1990: 0055
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 535955
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1605250
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009045.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: STONEY CREEK APARTMENTS (NCA20130018)
 
 - HUD ID: NCA20130018
-- HUD ID before: 
 - Project: STONEY CREEK APARTMENTS
 - Address: 321 PLAZA ROAD
 - City: LAURINBURG
-- State: NC
 - ZIP: 28352
-- ZIP extension: 
 - State project ID: 9110187
 - Latitude: 34.75914
 - Longitude: -79.4787
@@ -22,9 +19,7 @@
 - Place 2000: 37220
 - Place 1990: 1420
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 447471
 - Units: 44
 - Low-income units: 44
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

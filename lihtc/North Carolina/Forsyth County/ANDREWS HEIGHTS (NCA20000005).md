@@ -1,13 +1,10 @@
 # Project: ANDREWS HEIGHTS (NCA20000005)
 
 - HUD ID: NCA20000005
-- HUD ID before: 
 - Project: ANDREWS HEIGHTS
 - Address: 125 FERRELL HEIGHTS COURT
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27101
-- ZIP extension: 
 - State project ID: 9000969
 - Latitude: 36.107215
 - Longitude: -80.219419
@@ -16,15 +13,11 @@
 - Tract 2020: 37067001602
 - Tract 2010: 37067001602
 - Tract 2000: 37067001700
-- Tract 1990: 
 - Place 2020: 75000
 - Place 2010: 75000
 - Place 2000: 75000
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 356760
 - Units: 56
 - Low-income units: 56
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

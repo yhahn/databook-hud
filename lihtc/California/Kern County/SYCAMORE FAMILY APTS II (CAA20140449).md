@@ -1,13 +1,10 @@
 # Project: SYCAMORE FAMILY APTS II (CAA20140449)
 
 - HUD ID: CAA20140449
-- HUD ID before: 
 - Project: SYCAMORE FAMILY APTS II
 - Address: 740 SYCAMORE RD
 - City: ARVIN
-- State: CA
 - ZIP: 93203
-- ZIP extension: 
 - State project ID: CA-13-038
 - Latitude: 35.194665
 - Longitude: -118.831645
@@ -22,9 +19,7 @@
 - Place 2000: 02924
 - Place 1990: 0139
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1374272
 - Units: 72
 - Low-income units: 71
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 62
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

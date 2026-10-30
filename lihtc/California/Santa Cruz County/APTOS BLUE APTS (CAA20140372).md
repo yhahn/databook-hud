@@ -1,13 +1,10 @@
 # Project: APTOS BLUE APTS (CAA20140372)
 
 - HUD ID: CAA20140372
-- HUD ID before: 
 - Project: APTOS BLUE APTS
 - Address: 3200 APTOS RANCHO RD
 - City: APTOS
-- State: CA
 - ZIP: 95003
-- ZIP extension: 
 - State project ID: CA-12-105
 - Latitude: 36.979529
 - Longitude: -121.906536
@@ -22,9 +19,7 @@
 - Place 2000: 02378
 - Place 1990: 2722
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 785937
 - Units: 40
 - Low-income units: 39
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: BLACKFEET HOMES VI (MTA20190001)
 
 - HUD ID: MTA20190001
-- HUD ID before: 
 - Project: BLACKFEET HOMES VI
 - Address: 1200 SW BOUNDARY
 - City: BROWNING
-- State: MT
 - ZIP: 59417
 - ZIP extension: 0000
 - State project ID: 17030
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30035940200
 - Tract 2010: 30035940200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 69680
 - Place 2010: 69680
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 677500
 - Units: 30
 - Low-income units: 30
@@ -44,11 +36,9 @@
 - Affordability years: 46
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: CITY LIMITS (MNB19959001)
 
 - HUD ID: MNB19959001
-- HUD ID before: 
 - Project: CITY LIMITS
 - Address: 127 E 59TH STREET, SUITE 204
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55419
 - ZIP extension: 2449
 - State project ID: D3688
@@ -16,15 +14,11 @@
 - Tract 2020: 27053012003
 - Tract 2010: 27053012003
 - Tract 2000: 27053012003
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 275426
 - Units: 198
 - Low-income units: 197
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +59,10 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

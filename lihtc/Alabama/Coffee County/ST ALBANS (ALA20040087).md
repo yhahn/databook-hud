@@ -1,13 +1,10 @@
 # Project: ST ALBANS (ALA20040087)
 
 - HUD ID: ALA20040087
-- HUD ID before: 
 - Project: ST ALBANS
 - Address: 100 PAUL ST
 - City: ENTERPRISE
-- State: AL
 - ZIP: 36330
-- ZIP extension: 
 - State project ID: AL-04-0065
 - Latitude: 31.311718
 - Longitude: -85.82478
@@ -22,9 +19,7 @@
 - Place 2000: 24184
 - Place 1990: 0545
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 287742
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1542430
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006110.
 - Record status: Existing, unchanged

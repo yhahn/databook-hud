@@ -1,13 +1,10 @@
 # Project: TRINITY RIDGE APTS (NCA20000250)
 
 - HUD ID: NCA20000250
-- HUD ID before: 
 - Project: TRINITY RIDGE APTS
 - Address: TRINITY ROAD
 - City: RALEIGH
-- State: NC
 - ZIP: 27606
-- ZIP extension: 
 - State project ID: 9002146
 - Latitude: 35.8078
 - Longitude: -78.7227
@@ -19,12 +16,9 @@
 - Tract 1990: 37183052401
 - Place 2020: 55000
 - Place 2010: 55000
-- Place 2000: 
 - Place 1990: 2020
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 252446
 - Units: 48
 - Low-income units: 48
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

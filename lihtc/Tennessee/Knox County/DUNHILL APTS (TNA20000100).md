@@ -1,13 +1,10 @@
 # Project: DUNHILL APTS (TNA20000100)
 
 - HUD ID: TNA20000100
-- HUD ID before: 
 - Project: DUNHILL APTS
 - Address: 1000 DUNHILL WAY
 - City: KNOXVILLE
-- State: TN
 - ZIP: 37919
-- ZIP extension: 
 - State project ID: TN-98-042
 - Latitude: 35.953477
 - Longitude: -83.9759
@@ -22,9 +19,7 @@
 - Place 2000: 40000
 - Place 1990: 0760
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 454252
 - Units: 74
 - Low-income units: 74
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA1999035.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WEST HAVEN APTS (NCA19980155)
 
 - HUD ID: NCA19980155
-- HUD ID before: 
 - Project: WEST HAVEN APTS
 - Address: 100 900 PEACE HAVEN PLACE
 - City: APEX
-- State: NC
 - ZIP: 27502
-- ZIP extension: 
 - State project ID: 9001212
 - Latitude: 35.723
 - Longitude: -78.8732
@@ -19,12 +16,9 @@
 - Tract 1990: 37183053404
 - Place 2020: 01520
 - Place 2010: 01520
-- Place 2000: 
 - Place 1990: 0055
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 358468
 - Units: 72
 - Low-income units: 72
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

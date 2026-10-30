@@ -1,11 +1,9 @@
 # Project: CROWN AT ASH CREEK (UTA20190003)
 
 - HUD ID: UTA20190003
-- HUD ID before: 
 - Project: CROWN AT ASH CREEK
 - Address: SCATTERED SITES
 - City: ST. GEORGE
-- State: UT
 - ZIP: 84774
 - ZIP extension: 0000
 - State project ID: 2018-08
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49053270101
 - Tract 2010: 49053270100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 37170
 - Place 2010: 37170
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 79374
 - Units: 4
 - Low-income units: 4
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

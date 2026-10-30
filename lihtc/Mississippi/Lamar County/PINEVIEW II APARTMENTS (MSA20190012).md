@@ -1,11 +1,9 @@
 # Project: PINEVIEW II APARTMENTS (MSA20190012)
 
 - HUD ID: MSA20190012
-- HUD ID before: 
 - Project: PINEVIEW II APARTMENTS
 - Address: 589 HWY 589 BOX 47
 - City: PURVIS
-- State: MS
 - ZIP: 39475
 - ZIP extension: 0000
 - State project ID: 17-1-020
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28073020402
 - Tract 2010: 28073020400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60480
 - Place 2010: 60480
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 274600
 - Units: 40
 - Low-income units: 39
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

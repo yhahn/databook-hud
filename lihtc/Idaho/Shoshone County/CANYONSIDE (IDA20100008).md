@@ -1,13 +1,10 @@
 # Project: CANYONSIDE (IDA20100008)
 
 - HUD ID: IDA20100008
-- HUD ID before: 
 - Project: CANYONSIDE
 - Address: 1741 BURKE ROAD
 - City: WALLACE
-- State: ID
 - ZIP: 83873
-- ZIP extension: 
 - State project ID: HC0903
 - Latitude: 47.490322
 - Longitude: -115.89292
@@ -19,12 +16,9 @@
 - Tract 1990: 16079960400
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 0710
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 100
 - Units: 24
 - Low-income units: 23
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

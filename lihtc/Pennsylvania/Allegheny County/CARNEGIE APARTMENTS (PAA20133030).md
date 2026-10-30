@@ -1,11 +1,9 @@
 # Project: CARNEGIE APARTMENTS (PAA20133030)
 
 - HUD ID: PAA20133030
-- HUD ID before: 
 - Project: CARNEGIE APARTMENTS
 - Address: 514 LYDIA ST
 - City: CARNEGIE
-- State: PA
 - ZIP: 15106
 - ZIP extension: 2766
 - State project ID: TC20120315
@@ -22,9 +20,7 @@
 - Place 2000: 11336
 - Place 1990: 1575
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 299006
 - Units: 17
 - Low-income units: 17
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

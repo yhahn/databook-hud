@@ -1,13 +1,10 @@
 # Project: VISTA POINTE APARTMENTS (KYA19940547)
 
 - HUD ID: KYA19940547
-- HUD ID before: 
 - Project: VISTA POINTE APARTMENTS
 - Address: VISTA POINTE DR.
 - City: WILDER
-- State: KY
 - ZIP: 41071
-- ZIP extension: 
 - State project ID: KY-92-025
 - Latitude: 39.0698
 - Longitude: -84.4793
@@ -19,12 +16,9 @@
 - Tract 1990: 21037052500
 - Place 2020: 55884
 - Place 2010: 55884
-- Place 2000: 
 - Place 1990: 1445
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 98
 - Low-income units: 98
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

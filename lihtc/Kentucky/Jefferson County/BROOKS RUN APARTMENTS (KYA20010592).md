@@ -1,13 +1,10 @@
 # Project: BROOKS RUN APARTMENTS (KYA20010592)
 
 - HUD ID: KYA20010592
-- HUD ID before: 
 - Project: BROOKS RUN APARTMENTS
 - Address: BLUE LICK RD.
 - City: HILLVIEW
-- State: KY
 - ZIP: 40229
-- ZIP extension: 
 - State project ID: KY-99-035
 - Latitude: 38.0926
 - Longitude: -85.6538
@@ -22,9 +19,7 @@
 - Place 2000: 28785
 - Place 1990: 0933
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 146484
 - Units: 56
 - Low-income units: 56
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA2001008, KYA2000020.;
 - Record status: Updated

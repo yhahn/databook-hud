@@ -1,13 +1,10 @@
 # Project: CANAL VILLAGE (NYA20100011)
 
 - HUD ID: NYA20100011
-- HUD ID before: 
 - Project: CANAL VILLAGE
 - Address: 416 S JAMES ST
 - City: ROME
-- State: NY
 - ZIP: 13440
-- ZIP extension: 
 - State project ID: 20086039
 - Latitude: 43.207342
 - Longitude: -75.46143
@@ -22,9 +19,7 @@
 - Place 2000: 63418
 - Place 1990: 3120
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 562103
 - Units: 33
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 2200000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

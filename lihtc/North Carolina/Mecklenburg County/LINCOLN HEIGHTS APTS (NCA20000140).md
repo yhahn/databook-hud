@@ -1,13 +1,10 @@
 # Project: LINCOLN HEIGHTS APTS (NCA20000140)
 
 - HUD ID: NCA20000140
-- HUD ID before: 
 - Project: LINCOLN HEIGHTS APTS
 - Address: 2120 LASALLE STREET
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28216
-- ZIP extension: 
 - State project ID: 9002115
 - Latitude: 35.262842
 - Longitude: -80.852514
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 408666
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

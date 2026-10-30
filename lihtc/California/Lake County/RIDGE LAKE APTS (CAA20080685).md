@@ -1,13 +1,10 @@
 # Project: RIDGE LAKE APTS (CAA20080685)
 
 - HUD ID: CAA20080685
-- HUD ID before: 
 - Project: RIDGE LAKE APTS
 - Address: 3800 OLD HWY 53
 - City: CLEARLAKE
-- State: CA
 - ZIP: 95422
-- ZIP extension: 
 - State project ID: CA-08-829
 - Latitude: 38.958245
 - Longitude: -122.631102
@@ -22,9 +19,7 @@
 - Place 2000: 13945
 - Place 1990: 0538
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 302669
 - Units: 91
 - Low-income units: 90
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: DEER RIDGE (ALA20040047)
 
 - HUD ID: ALA20040047
-- HUD ID before: 
 - Project: DEER RIDGE
 - Address: 1200 BURT HILL DR SW
 - City: FORT PAYNE
-- State: AL
 - ZIP: 35968
-- ZIP extension: 
 - State project ID: AL-04-0074
 - Latitude: 34.435686
 - Longitude: -85.766914
@@ -22,9 +19,7 @@
 - Place 2000: 27616
 - Place 1990: 0655
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 252210
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1262450
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006040.
 - Record status: Existing, unchanged

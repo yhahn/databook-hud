@@ -1,11 +1,9 @@
 # Project: ASPEN VIEW (UTA19960005)
 
 - HUD ID: UTA19960005
-- HUD ID before: 
 - Project: ASPEN VIEW
 - Address: 1230 E. ELGIN AVENUE
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84106
 - ZIP extension: 0000
 - State project ID: 1995-08
@@ -19,12 +17,9 @@
 - Tract 1990: 49035111800
 - Place 2020: 50150
 - Place 2010: 50150
-- Place 2000: 
 - Place 1990: 0593
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 111009
 - Units: 16
 - Low-income units: 16
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

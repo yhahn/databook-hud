@@ -1,13 +1,10 @@
 # Project: STEWART CIRCLE APARTMENTS (NCA20090090)
 
 - HUD ID: NCA20090090
-- HUD ID before: 
 - Project: STEWART CIRCLE APARTMENTS
 - Address: 700 ATLANTIC STREET
 - City: DURHAM
-- State: NC
 - ZIP: 27707
-- ZIP extension: 
 - State project ID: 9002738
 - Latitude: 35.962137
 - Longitude: -78.910064
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 160000
 - Units: 20
 - Low-income units: 19
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 8
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

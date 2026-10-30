@@ -1,11 +1,9 @@
 # Project: SIMPSON GARDENS II (PAA20202019)
 
 - HUD ID: PAA20202019
-- HUD ID before: 
 - Project: SIMPSON GARDENS II
 - Address: 82 N LANSDOWNE AVE
 - City: LANSDOWNE
-- State: PA
 - ZIP: 19050
 - ZIP extension: 1990
 - State project ID: TC20190405
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42045401900
 - Tract 2010: 42045401900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 41440
 - Place 2010: 41440
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 1088559
 - Units: 41
 - Low-income units: 41
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

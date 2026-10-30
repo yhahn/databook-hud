@@ -1,13 +1,10 @@
 # Project: HILLDALE APTS (MSA19970038)
 
 - HUD ID: MSA19970038
-- HUD ID before: 
 - Project: HILLDALE APTS
 - Address: 320 MONUMENT DR
 - City: TUPELO
-- State: MS
 - ZIP: 38801
-- ZIP extension: 
 - State project ID: MS-96-088
 - Latitude: 34.248672
 - Longitude: -88.737332
@@ -22,9 +19,7 @@
 - Place 2000: 74840
 - Place 1990: 1345
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 1935063
 - Units: 104
 - Low-income units: 104
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 102
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1997574.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: BIRCHWOOD ESTATES (NDA20109018)
 
 - HUD ID: NDA20109018
-- HUD ID before: 
 - Project: BIRCHWOOD ESTATES
 - Address: 1317 EDGEWOOD AVE
 - City: GRAFTON
-- State: ND
 - ZIP: 58237
 - ZIP extension: 0000
 - State project ID: TC-09-14
@@ -22,9 +20,7 @@
 - Place 2000: 31820
 - Place 1990: 0685
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 4912
 - Units: 17
 - Low-income units: 17
@@ -40,15 +36,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

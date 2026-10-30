@@ -1,11 +1,9 @@
 # Project: LAKE STREET STATION (MNB20141002)
 
 - HUD ID: MNB20141002
-- HUD ID before: 
 - Project: LAKE STREET STATION
 - Address: 2220 EAST LAKE STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55407
 - ZIP extension: 4522
 - State project ID: D7685
@@ -16,15 +14,11 @@
 - Tract 2020: 27053125900
 - Tract 2010: 27053125900
 - Tract 2000: 27053007302
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 399843
 - Units: 64
 - Low-income units: 64
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,10 +58,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Single Men, Single Women
 - Scattered site: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WILLOW CREEK MANOR APARTMENTS (KYA20070625)
 
 - HUD ID: KYA20070625
-- HUD ID before: 
 - Project: WILLOW CREEK MANOR APARTMENTS
 - Address: OLD SHEPHERDSVILLE ROAD
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40218
-- ZIP extension: 
 - State project ID: KY-06-090
 - Latitude: 38.1805
 - Longitude: -85.649
@@ -22,9 +19,7 @@
 - Place 2000: 55542
 - Place 1990: 1433
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 96963
 - Units: 24
 - Low-income units: 24
@@ -39,7 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA2007115, KYA2006135. AKA WILLOW CREEK MANOR APTS.;
 - Record status: Updated

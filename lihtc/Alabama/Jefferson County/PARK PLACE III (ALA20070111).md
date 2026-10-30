@@ -1,13 +1,10 @@
 # Project: PARK PLACE III (ALA20070111)
 
 - HUD ID: ALA20070111
-- HUD ID before: 
 - Project: PARK PLACE III
 - Address: 2200 PARK PL
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35203
-- ZIP extension: 
 - State project ID: AL-06-0051
 - Latitude: 33.52087
 - Longitude: -86.807617
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0185
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 837520
 - Units: 76
 - Low-income units: 76
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 76
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008171, ALA2008528.
 - Record status: Existing, unchanged

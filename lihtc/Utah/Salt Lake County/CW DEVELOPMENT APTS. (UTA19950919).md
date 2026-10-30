@@ -1,11 +1,9 @@
 # Project: CW DEVELOPMENT APTS. (UTA19950919)
 
 - HUD ID: UTA19950919
-- HUD ID before: 
 - Project: CW DEVELOPMENT APTS.
 - Address: 307 EAST 600 SOUTH
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84111
 - ZIP extension: 0000
 - State project ID: 1993-10
@@ -16,15 +14,11 @@
 - Tract 2020: 49035102300
 - Tract 2010: 49035102300
 - Tract 2000: 49035102300
-- Tract 1990: 
 - Place 2020: 67000
 - Place 2010: 67000
 - Place 2000: 67000
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 99725
 - Units: 16
 - Low-income units: 16
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,6 @@
 - Other population: Yes
 - Other population named: Persons with HIV/AIDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

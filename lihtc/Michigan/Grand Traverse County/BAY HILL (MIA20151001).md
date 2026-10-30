@@ -1,11 +1,9 @@
 # Project: BAY HILL (MIA20151001)
 
 - HUD ID: MIA20151001
-- HUD ID before: 
 - Project: BAY HILL
 - Address: 600 BAY HILL DRIVE
 - City: TRAVERSE CITY
-- State: MI
 - ZIP: 49684
 - ZIP extension: 0000
 - State project ID: 934
@@ -16,15 +14,11 @@
 - Tract 2020: 26055551301
 - Tract 2010: 26055551300
 - Tract 2000: 26055991300
-- Tract 1990: 
 - Place 2020: 80340
 - Place 2010: 80340
 - Place 2000: 80340
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 290635
 - Units: 150
 - Low-income units: 90
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

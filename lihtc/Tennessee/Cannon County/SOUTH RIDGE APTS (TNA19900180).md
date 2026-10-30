@@ -1,13 +1,9 @@
 # Project: SOUTH RIDGE APTS (TNA19900180)
 
 - HUD ID: TNA19900180
-- HUD ID before: 
 - Project: SOUTH RIDGE APTS
 - Address: 100 S RIDGE DR
 - City: WOODBURY
-- State: TN
-- ZIP: 
-- ZIP extension: 
 - State project ID: TN-90-037
 - Latitude: 35.819862
 - Longitude: -86.081199
@@ -20,11 +16,8 @@
 - Place 2020: 81560
 - Place 2010: 81560
 - Place 2000: 81560
-- Place 1990: 
 - Year placed in service: 1990
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 48681
 - Units: 32
 - Low-income units: 32
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

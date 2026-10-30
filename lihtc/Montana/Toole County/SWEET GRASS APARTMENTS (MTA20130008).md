@@ -1,11 +1,9 @@
 # Project: SWEET GRASS APARTMENTS (MTA20130008)
 
 - HUD ID: MTA20130008
-- HUD ID before: 
 - Project: SWEET GRASS APARTMENTS
 - Address: 720 ST. MARY'S AVE
 - City: SHELBY
-- State: MT
 - ZIP: 59474
 - ZIP extension: 0000
 - State project ID: 12040
@@ -22,9 +20,7 @@
 - Place 2000: 67450
 - Place 1990: 0580
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 200000
 - Units: 12
 - Low-income units: 12
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

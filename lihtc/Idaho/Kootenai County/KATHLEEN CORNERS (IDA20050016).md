@@ -1,13 +1,10 @@
 # Project: KATHLEEN CORNERS (IDA20050016)
 
 - HUD ID: IDA20050016
-- HUD ID before: 
 - Project: KATHLEEN CORNERS
 - Address: 3350 WEST KATHY LOOP
 - City: COEUR DALENE
-- State: ID
 - ZIP: 83815
-- ZIP extension: 
 - State project ID: HC0403
 - Latitude: 47.724062
 - Longitude: -116.828622
@@ -22,9 +19,7 @@
 - Place 2000: 16750
 - Place 1990: 0170
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 418253
 - Units: 60
 - Low-income units: 53
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 53
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

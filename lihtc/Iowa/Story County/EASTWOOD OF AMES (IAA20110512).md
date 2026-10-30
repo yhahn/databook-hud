@@ -1,13 +1,10 @@
 # Project: EASTWOOD OF AMES (IAA20110512)
 
 - HUD ID: IAA20110512
-- HUD ID before: 
 - Project: EASTWOOD OF AMES
 - Address: 420 E SEVENTH ST
 - City: AMES
-- State: IA
 - ZIP: 50010
-- ZIP extension: 
 - State project ID: 09-0903
 - Latitude: 42.028239
 - Longitude: -93.604747
@@ -22,9 +19,7 @@
 - Place 2000: 01855
 - Place 1990: 0115
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 743554
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 3963231
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2011020.
 - Record status: Existing, unchanged

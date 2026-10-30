@@ -1,11 +1,9 @@
 # Project: EQUINOX APARTMENTS (MTA20090010)
 
 - HUD ID: MTA20090010
-- HUD ID before: 
 - Project: EQUINOX APARTMENTS
 - Address: 1515 LIBERTY LANE
 - City: MISSOULA
-- State: MT
 - ZIP: 59802
 - ZIP extension: 0000
 - State project ID: 07040
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 568750
 - Units: 35
 - Low-income units: 35
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

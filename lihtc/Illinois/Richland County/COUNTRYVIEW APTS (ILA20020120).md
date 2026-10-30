@@ -1,13 +1,10 @@
 # Project: COUNTRYVIEW APTS (ILA20020120)
 
 - HUD ID: ILA20020120
-- HUD ID before: 
 - Project: COUNTRYVIEW APTS
 - Address: 802 S LINCOLN AVE
 - City: OLNEY
-- State: IL
 - ZIP: 62450
-- ZIP extension: 
 - State project ID: TC-1294-00
 - Latitude: 38.723281
 - Longitude: -88.071016
@@ -22,9 +19,7 @@
 - Place 2000: 55912
 - Place 1990: 4385
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 335740
 - Units: 41
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILA2002010. AKA COUNTRY VIEW APTS.
 - Record status: Existing, unchanged

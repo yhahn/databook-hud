@@ -1,11 +1,9 @@
 # Project: CROWN AT SPRING MEADOWS (UTA20100909)
 
 - HUD ID: UTA20100909
-- HUD ID before: 
 - Project: CROWN AT SPRING MEADOWS
 - Address: 737 WEST 350 SOUTH
 - City: VERNAL
-- State: UT
 - ZIP: 84078
 - ZIP extension: 0000
 - State project ID: 2010-05
@@ -22,9 +20,7 @@
 - Place 2000: 80090
 - Place 1990: 1025
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 53609
 - Units: 4
 - Low-income units: 4
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

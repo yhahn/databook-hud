@@ -1,11 +1,9 @@
 # Project: DIXON PARK APARTMENTS (OKA20190001)
 
 - HUD ID: OKA20190001
-- HUD ID before: 
 - Project: DIXON PARK APARTMENTS
 - Address: 1224 N 1ST AVE
 - City: DURANT
-- State: OK
 - ZIP: 74701
 - ZIP extension: 0000
 - State project ID: 170642
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 40013796200
 - Tract 2010: 40013796200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22050
 - Place 2010: 22050
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 520000
 - Units: 60
 - Low-income units: 37
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

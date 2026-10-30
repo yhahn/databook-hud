@@ -1,13 +1,10 @@
 # Project: THE HEDGES APARTMENTS (NCA19920495)
 
 - HUD ID: NCA19920495
-- HUD ID before: 
 - Project: THE HEDGES APARTMENTS
 - Address: 500 N RYALS STREET APT 4 B
 - City: BENSON
-- State: NC
 - ZIP: 27504
-- ZIP extension: 
 - State project ID: 9001368
 - Latitude: 35.388039
 - Longitude: -78.549266
@@ -22,9 +19,7 @@
 - Place 2000: 05040
 - Place 1990: 0245
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 57700
 - Units: 50
 - Low-income units: 49
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 5
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

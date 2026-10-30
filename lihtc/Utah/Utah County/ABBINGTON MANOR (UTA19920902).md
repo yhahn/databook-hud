@@ -1,11 +1,9 @@
 # Project: ABBINGTON MANOR (UTA19920902)
 
 - HUD ID: UTA19920902
-- HUD ID before: 
 - Project: ABBINGTON MANOR
 - Address: 215 NORTH CENTER
 - City: LEHI
-- State: UT
 - ZIP: 84043
 - ZIP extension: 0000
 - State project ID: 1990-06
@@ -13,18 +11,14 @@
 - Longitude: -111.849459
 - County FIPS: 49049
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49049000103
 - Tract 2000: 49049000103
 - Tract 1990: 49049000100
-- Place 2020: 
 - Place 2010: 44320
 - Place 2000: 44320
 - Place 1990: 0495
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 32471
 - Units: 35
 - Low-income units: 15
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: Handicapped/ADA
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

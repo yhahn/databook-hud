@@ -1,11 +1,9 @@
 # Project: CENTRAL COURT VILLAGE (MTA20000020)
 
 - HUD ID: MTA20000020
-- HUD ID before: 
 - Project: CENTRAL COURT VILLAGE
 - Address: 78 27TH ST W
 - City: BILLINGS
-- State: MT
 - ZIP: 59102
 - ZIP extension: 0000
 - State project ID: 98110
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 315050
 - Units: 81
 - Low-income units: 81
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: PARK VILLAGE OF LANGDON (NDA20070035)
 
 - HUD ID: NDA20070035
-- HUD ID before: 
 - Project: PARK VILLAGE OF LANGDON
 - Address: 1724 SIXTH ST
 - City: LANGDON
-- State: ND
 - ZIP: 58249
-- ZIP extension: 
 - State project ID: TC0515
 - Latitude: 48.769955
 - Longitude: -98.373769
@@ -22,9 +19,7 @@
 - Place 2000: 44780
 - Place 1990: 0925
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 185166
 - Units: 32
 - Low-income units: 31
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

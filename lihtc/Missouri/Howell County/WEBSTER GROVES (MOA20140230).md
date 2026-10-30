@@ -1,13 +1,10 @@
 # Project: WEBSTER GROVES (MOA20140230)
 
 - HUD ID: MOA20140230
-- HUD ID before: 
 - Project: WEBSTER GROVES
 - Address: 1217 N HOWELL AVE
 - City: WEST PLAINS
-- State: MO
 - ZIP: 65775
-- ZIP extension: 
 - State project ID: 13-038
 - Latitude: 36.738917
 - Longitude: -91.845774
@@ -22,9 +19,7 @@
 - Place 2000: 78928
 - Place 1990: 4560
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 7524000
 - Units: 30
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

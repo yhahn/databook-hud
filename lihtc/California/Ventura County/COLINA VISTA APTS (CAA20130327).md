@@ -1,13 +1,10 @@
 # Project: COLINA VISTA APTS (CAA20130327)
 
 - HUD ID: CAA20130327
-- HUD ID before: 
 - Project: COLINA VISTA APTS
 - Address: 432 N MAIN ST
 - City: PIRU
-- State: CA
 - ZIP: 93040
-- ZIP extension: 
 - State project ID: CA-12-235
 - Latitude: 34.412248
 - Longitude: -118.794382
@@ -22,9 +19,7 @@
 - Place 2000: 57372
 - Place 1990: 2166
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 541300
 - Units: 35
 - Low-income units: 34
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 34
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1995038.
 - Record status: Existing, unchanged

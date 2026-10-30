@@ -1,13 +1,10 @@
 # Project: CORNERSTONE COMMONS (LEGACY) (SCA20110037)
 
 - HUD ID: SCA20110037
-- HUD ID before: 
 - Project: CORNERSTONE COMMONS (LEGACY)
 - Address: 204 LEGACY WAY
 - City: CONWAY
-- State: SC
 - ZIP: 29526
-- ZIP extension: 
 - State project ID: SC-10-059
 - Latitude: 33.778643
 - Longitude: -79.015293
@@ -22,9 +19,7 @@
 - Place 2000: 16405
 - Place 1990: 0478
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 758228
 - Units: 90
 - Low-income units: 90
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1999062, SCA1998055. AKA LEGACY APTS I.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: VILLAGE GREEN APTS/BRUSH CREEK VILLAGE (MOA19999004)
 
 - HUD ID: MOA19999004
-- HUD ID before: 
 - Project: VILLAGE GREEN APTS/BRUSH CREEK VILLAGE
 - Address: 1500 E 46TH ST
 - City: KANSAS CITY
-- State: MO
 - ZIP: 64110
 - ZIP extension: 1903
 - State project ID: 97123
@@ -13,18 +11,12 @@
 - Longitude: -94.566979
 - County FIPS: 29095
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29095006300
 - Tract 2000: 29095006300
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 38000
 - Place 2000: 38000
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 492490
 - Units: 380
 - Low-income units: 380
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

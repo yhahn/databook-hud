@@ -1,13 +1,10 @@
 # Project: GLENWOOD FALLS APTS (SCA20040050)
 
 - HUD ID: SCA20040050
-- HUD ID before: 
 - Project: GLENWOOD FALLS APTS
 - Address: 917 ARCHIE ST
 - City: FORT MILL
-- State: SC
 - ZIP: 29715
-- ZIP extension: 
 - State project ID: SC-04-900
 - Latitude: 34.996607
 - Longitude: -80.944315
@@ -20,11 +17,8 @@
 - Place 2020: 26890
 - Place 2010: 26890
 - Place 2000: 26890
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 356942
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

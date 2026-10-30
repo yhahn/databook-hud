@@ -1,13 +1,10 @@
 # Project: GRACEN'S RIDGE (NCA20080090)
 
 - HUD ID: NCA20080090
-- HUD ID before: 
 - Project: GRACEN'S RIDGE
 - Address: 338 A WEST COLLEGE AVENUE
 - City: BOILING SPRINGS
-- State: NC
 - ZIP: 28017
-- ZIP extension: 
 - State project ID: 9001321
 - Latitude: 35.2497
 - Longitude: -81.69
@@ -16,15 +13,10 @@
 - Tract 2020: 37045951501
 - Tract 2010: 37045951501
 - Tract 2000: 37045951500
-- Tract 1990: 
 - Place 2020: 06800
 - Place 2010: 06800
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 110500
 - Units: 13
 - Low-income units: 13
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 7
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

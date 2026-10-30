@@ -1,13 +1,10 @@
 # Project: SARAH STREET (IDA19930065)
 
 - HUD ID: IDA19930065
-- HUD ID before: 
 - Project: SARAH STREET
 - Address: 9359 NORTH GOVERNMENT WAY
 - City: HAYDEN
-- State: ID
 - ZIP: 83835
-- ZIP extension: 
 - State project ID: HC9220
 - Latitude: 47.756909
 - Longitude: -116.786838
@@ -22,9 +19,7 @@
 - Place 2000: 36370
 - Place 1990: 0385
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 51765
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

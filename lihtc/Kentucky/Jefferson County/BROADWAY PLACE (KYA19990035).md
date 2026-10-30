@@ -1,13 +1,10 @@
 # Project: BROADWAY PLACE (KYA19990035)
 
 - HUD ID: KYA19990035
-- HUD ID before: 
 - Project: BROADWAY PLACE
 - Address: MCKENDREE CT.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40211
-- ZIP extension: 
 - State project ID: KY-98-018
 - Latitude: 38.2386
 - Longitude: -85.8254
@@ -19,12 +16,9 @@
 - Tract 1990: 21111001800
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

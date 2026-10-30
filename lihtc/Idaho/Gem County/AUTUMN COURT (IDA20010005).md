@@ -1,13 +1,10 @@
 # Project: AUTUMN COURT (IDA20010005)
 
 - HUD ID: IDA20010005
-- HUD ID before: 
 - Project: AUTUMN COURT
 - Address: 501 EAST 12TH STREET
 - City: EMMETT
-- State: ID
 - ZIP: 83617
-- ZIP extension: 
 - State project ID: HC0106
 - Latitude: 43.864438
 - Longitude: -116.493837
@@ -20,11 +17,8 @@
 - Place 2020: 25570
 - Place 2010: 25570
 - Place 2000: 25570
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 62996
 - Units: 30
 - Low-income units: 29
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

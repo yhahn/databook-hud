@@ -1,13 +1,10 @@
 # Project: PARKWAY PLACE APTS (ALA20070116)
 
 - HUD ID: ALA20070116
-- HUD ID before: 
 - Project: PARKWAY PLACE APTS
 - Address: 2115 CENTRAL PKWY SW
 - City: DECATUR
-- State: AL
 - ZIP: 35601
-- ZIP extension: 
 - State project ID: AL-06-0056
 - Latitude: 34.571549
 - Longitude: -86.984049
@@ -22,9 +19,7 @@
 - Place 2000: 20104
 - Place 1990: 0480
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 342227
 - Units: 98
 - Low-income units: 98
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 98
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008030, ALA1995105.
 - Record status: Existing, unchanged

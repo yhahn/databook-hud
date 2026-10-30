@@ -1,13 +1,10 @@
 # Project: CALIFORNIA SINGLE FAMILY HOMES (KYA20010015)
 
 - HUD ID: KYA20010015
-- HUD ID before: 
 - Project: CALIFORNIA SINGLE FAMILY HOMES
 - Address: S. 22ND ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40210
-- ZIP extension: 
 - State project ID: KY-00-011
 - Latitude: 38.2271
 - Longitude: -85.7847
@@ -19,12 +16,9 @@
 - Tract 1990: 21111001800
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 5
 - Low-income units: 5
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

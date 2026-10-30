@@ -1,11 +1,9 @@
 # Project: CROWN AT NICHOLS LANDING (UTA20106002)
 
 - HUD ID: UTA20106002
-- HUD ID before: 
 - Project: CROWN AT NICHOLS LANDING
 - Address: 4958 NORTH 2050 E. ABBY WAY
 - City: ENOCH
-- State: UT
 - ZIP: 84721
 - ZIP extension: 0000
 - State project ID: 2010-03
@@ -16,15 +14,10 @@
 - Tract 2020: 49021110704
 - Tract 2010: 49021110701
 - Tract 2000: 49021110700
-- Tract 1990: 
 - Place 2020: 11320
 - Place 2010: 11320
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 60759
 - Units: 5
 - Low-income units: 5
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

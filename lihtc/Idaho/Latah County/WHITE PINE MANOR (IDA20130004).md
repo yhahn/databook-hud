@@ -1,13 +1,10 @@
 # Project: WHITE PINE MANOR (IDA20130004)
 
 - HUD ID: IDA20130004
-- HUD ID before: 
 - Project: WHITE PINE MANOR
 - Address: 400 6TH STREET
 - City: POTLATCH
-- State: ID
 - ZIP: 83358
-- ZIP extension: 
 - State project ID: HC1212
 - Latitude: 46.921761
 - Longitude: -116.897349
@@ -16,15 +13,11 @@
 - Tract 2020: 16057005500
 - Tract 2010: 16057005500
 - Tract 2000: 16057005500
-- Tract 1990: 
 - Place 2020: 64900
 - Place 2010: 64900
 - Place 2000: 64900
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 327457
 - Units: 32
 - Low-income units: 31
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

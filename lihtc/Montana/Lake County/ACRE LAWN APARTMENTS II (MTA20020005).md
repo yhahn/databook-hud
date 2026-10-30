@@ -1,11 +1,9 @@
 # Project: ACRE LAWN APARTMENTS II (MTA20020005)
 
 - HUD ID: MTA20020005
-- HUD ID before: 
 - Project: ACRE LAWN APARTMENTS II
 - Address: 311 11TH AVENUE
 - City: RONAN
-- State: MT
 - ZIP: 59864
 - ZIP extension: 0000
 - State project ID: 01010
@@ -20,11 +18,8 @@
 - Place 2020: 64150
 - Place 2010: 64150
 - Place 2000: 13900
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 68570
 - Units: 6
 - Low-income units: 6
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

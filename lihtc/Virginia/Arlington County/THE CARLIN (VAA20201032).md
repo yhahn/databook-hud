@@ -1,13 +1,10 @@
 # Project: THE CARLIN (VAA20201032)
 
 - HUD ID: VAA20201032
-- HUD ID before: 
 - Project: THE CARLIN
 - Address: 4300 NORTH CARLIN SPRINGS RD
 - City: ARLINGTON
-- State: VA
 - ZIP: 22203
-- ZIP extension: 
 - State project ID: 939
 - Latitude: 38.877491
 - Longitude: -77.111854
@@ -22,9 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0056
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1141782
 - Units: 162
 - Low-income units: 161
@@ -40,15 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 97
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

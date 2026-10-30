@@ -1,13 +1,10 @@
 # Project: PALOMINO APARTMENTS (FKA: BRAWLEY ADAMS II) (CAA20221112)
 
 - HUD ID: CAA20221112
-- HUD ID before: 
 - Project: PALOMINO APARTMENTS (FKA: BRAWLEY ADAMS II)
 - Address: 380 PALOMINO COURT
 - City: BRAWLEY
-- State: CA
 - ZIP: 92227
-- ZIP extension: 
 - State project ID: CA-2020-144
 - Latitude: 32.9916
 - Longitude: -115.5221
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06025010402
 - Tract 2010: 06025010400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 08058
 - Place 2010: 08058
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1310844
 - Units: 60
 - Low-income units: 59
@@ -40,15 +31,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 59
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +56,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Farmworker
 - Scattered site: No
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

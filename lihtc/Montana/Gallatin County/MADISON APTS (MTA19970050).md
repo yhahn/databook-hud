@@ -1,13 +1,10 @@
 # Project: MADISON APTS (MTA19970050)
 
 - HUD ID: MTA19970050
-- HUD ID before: 
 - Project: MADISON APTS
 - Address: 432 ELECTRIC ST
 - City: WEST YELLOWSTONE
-- State: MT
 - ZIP: 59758
-- ZIP extension: 
 - State project ID: MT-96-100
 - Latitude: 44.667036
 - Longitude: -111.103856
@@ -20,11 +17,8 @@
 - Place 2020: 79525
 - Place 2010: 79525
 - Place 2000: 06325
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 178193
 - Units: 39
 - Low-income units: 39
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA1997025.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: HERITAGE PARK 1A (MNB20039004)
 
 - HUD ID: MNB20039004
-- HUD ID before: 
 - Project: HERITAGE PARK 1A
 - Address: 1000 OLSON MEMORIAL HIGHWAY
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55411
 - ZIP extension: 4132
 - State project ID: D2961
@@ -16,15 +14,11 @@
 - Tract 2020: 27053103400
 - Tract 2010: 27053103400
 - Tract 2000: 27053103400
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 716951
 - Units: 120
 - Low-income units: 90
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -68,18 +60,10 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

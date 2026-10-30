@@ -1,13 +1,10 @@
 # Project: CENTURY SQUARE TOWNHOMES (NDA20010010)
 
 - HUD ID: NDA20010010
-- HUD ID before: 
 - Project: CENTURY SQUARE TOWNHOMES
 - Address: 3820 25TH ST S
 - City: FARGO
-- State: ND
 - ZIP: 58104
-- ZIP extension: 
 - State project ID: TC0010
 - Latitude: 46.820501
 - Longitude: -96.819183
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 128770
 - Units: 19
 - Low-income units: 19
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

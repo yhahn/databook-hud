@@ -1,11 +1,9 @@
 # Project: HOLLY HAVEN APTS. (UTA20020055)
 
 - HUD ID: UTA20020055
-- HUD ID before: 
 - Project: HOLLY HAVEN APTS.
 - Address: 1098 SOUTH 1000 EAST
 - City: CLEARFIELD
-- State: UT
 - ZIP: 84015
 - ZIP extension: 0000
 - State project ID: 2002-04
@@ -13,18 +11,14 @@
 - Longitude: -112.007109
 - County FIPS: 49011
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49011125701
 - Tract 2000: 49011125700
 - Tract 1990: 49011125700
-- Place 2020: 
 - Place 2010: 13850
 - Place 2000: 13850
 - Place 1990: 0135
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 105516
 - Units: 84
 - Low-income units: 84
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 84
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: Handicapped/ADA
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

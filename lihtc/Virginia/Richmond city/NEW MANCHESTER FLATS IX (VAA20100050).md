@@ -1,13 +1,10 @@
 # Project: NEW MANCHESTER FLATS IX (VAA20100050)
 
 - HUD ID: VAA20100050
-- HUD ID before: 
 - Project: NEW MANCHESTER FLATS IX
 - Address: 740 E SIXTH ST
 - City: RICHMOND
-- State: VA
 - ZIP: 23224
-- ZIP extension: 
 - State project ID: 9289
 - Latitude: 37.51855
 - Longitude: -77.433553
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 1035
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 477000
 - Units: 41
 - Low-income units: 41
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

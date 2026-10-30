@@ -1,13 +1,10 @@
 # Project: VILLAGES AT BARKLEY LANDING (TNA19990105)
 
 - HUD ID: TNA19990105
-- HUD ID before: 
 - Project: VILLAGES AT BARKLEY LANDING
 - Address: 450 BARKLEY LANDING DR
 - City: MORRISTOWN
-- State: TN
 - ZIP: 37813
-- ZIP extension: 
 - State project ID: TN-97-058
 - Latitude: 36.196341
 - Longitude: -83.284861
@@ -22,9 +19,7 @@
 - Place 2000: 50280
 - Place 1990: 0985
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 406238
 - Units: 64
 - Low-income units: 64
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

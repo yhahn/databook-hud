@@ -1,13 +1,10 @@
 # Project: LANDMARK APTS II (VAA20070015)
 
 - HUD ID: VAA20070015
-- HUD ID before: 
 - Project: LANDMARK APTS II
 - Address: 2900 FIRESIDE RD
 - City: CHESAPEAKE
-- State: VA
 - ZIP: 23324
-- ZIP extension: 
 - State project ID: 4257
 - Latitude: 36.812354
 - Longitude: -76.252297
@@ -22,9 +19,7 @@
 - Place 2000: 16000
 - Place 1990: 0242
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 468089
 - Units: 120
 - Low-income units: 120
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1989085.
 - Record status: Existing, unchanged

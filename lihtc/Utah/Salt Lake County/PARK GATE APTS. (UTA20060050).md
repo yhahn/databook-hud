@@ -1,11 +1,9 @@
 # Project: PARK GATE APTS. (UTA20060050)
 
 - HUD ID: UTA20060050
-- HUD ID before: 
 - Project: PARK GATE APTS.
 - Address: 5491 JACKIE'S WAY
 - City: MURRAY
-- State: UT
 - ZIP: 84107
 - ZIP extension: 0000
 - State project ID: 2006-26
@@ -19,12 +17,9 @@
 - Tract 1990: 49035112301
 - Place 2020: 53230
 - Place 2010: 53230
-- Place 2000: 
 - Place 1990: 0640
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 234230
 - Units: 80
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

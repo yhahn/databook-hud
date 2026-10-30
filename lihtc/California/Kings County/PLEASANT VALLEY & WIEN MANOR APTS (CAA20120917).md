@@ -1,13 +1,10 @@
 # Project: PLEASANT VALLEY & WIEN MANOR APTS (CAA20120917)
 
 - HUD ID: CAA20120917
-- HUD ID before: 
 - Project: PLEASANT VALLEY & WIEN MANOR APTS
 - Address: 505 S CORCORAN AVE
 - City: AVENAL
-- State: CA
 - ZIP: 93204
-- ZIP extension: 
 - State project ID: CA-11-039
 - Latitude: 36.003211
 - Longitude: -120.119652
@@ -22,9 +19,7 @@
 - Place 2000: 03302
 - Place 1990: 0170
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 384113
 - Units: 80
 - Low-income units: 77
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 59
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

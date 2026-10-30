@@ -1,13 +1,10 @@
 # Project: POUGHKEEPSIE COMMONS (NYA20120899)
 
 - HUD ID: NYA20120899
-- HUD ID before: 
 - Project: POUGHKEEPSIE COMMONS
 - Address: 130 HUDSON AVE
 - City: POUGHKEEPSIE
-- State: NY
 - ZIP: 12601
-- ZIP extension: 
 - State project ID: 20116039
 - Latitude: 41.70951
 - Longitude: -73.909145
@@ -22,9 +19,7 @@
 - Place 2000: 59641
 - Place 1990: 2985
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1315969
 - Units: 72
 - Low-income units: 71
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: VETERANS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

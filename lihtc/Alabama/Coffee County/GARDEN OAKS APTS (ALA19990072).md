@@ -1,13 +1,10 @@
 # Project: GARDEN OAKS APTS (ALA19990072)
 
 - HUD ID: ALA19990072
-- HUD ID before: 
 - Project: GARDEN OAKS APTS
 - Address: 507 GLOVER AVE
 - City: ENTERPRISE
-- State: AL
 - ZIP: 36330
-- ZIP extension: 
 - State project ID: AL-99-0060
 - Latitude: 31.319457
 - Longitude: -85.847162
@@ -22,9 +19,7 @@
 - Place 2000: 24184
 - Place 1990: 0545
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 270580
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 945900
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2000075. FKA CROSSROADS APTS
 - Record status: Existing, unchanged

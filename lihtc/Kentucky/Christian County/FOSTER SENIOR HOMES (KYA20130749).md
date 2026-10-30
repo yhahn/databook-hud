@@ -1,13 +1,10 @@
 # Project: FOSTER SENIOR HOMES (KYA20130749)
 
 - HUD ID: KYA20130749
-- HUD ID before: 
 - Project: FOSTER SENIOR HOMES
 - Address: W. 7TH STREET
 - City: HOPKINSVILLE
-- State: KY
 - ZIP: 42240
-- ZIP extension: 
 - State project ID: KY-12-012
 - Latitude: 36.8627
 - Longitude: -87.4913
@@ -19,12 +16,9 @@
 - Tract 1990: 21047200800
 - Place 2020: 37918
 - Place 2010: 37918
-- Place 2000: 
 - Place 1990: 0955
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1206686
 - Units: 32
 - Low-income units: 32
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

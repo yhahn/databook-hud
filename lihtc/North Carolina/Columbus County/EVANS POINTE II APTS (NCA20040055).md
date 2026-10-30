@@ -1,13 +1,10 @@
 # Project: EVANS POINTE II APTS (NCA20040055)
 
 - HUD ID: NCA20040055
-- HUD ID before: 
 - Project: EVANS POINTE II APTS
 - Address: 101 ESSIE MAE COURT
 - City: TABOR CITY
-- State: NC
 - ZIP: 28463
-- ZIP extension: 
 - State project ID: 9001680
 - Latitude: 34.135693
 - Longitude: -78.871212
@@ -20,11 +17,8 @@
 - Place 2020: 66520
 - Place 2010: 66520
 - Place 2000: 66520
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 131553
 - Units: 25
 - Low-income units: 25
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

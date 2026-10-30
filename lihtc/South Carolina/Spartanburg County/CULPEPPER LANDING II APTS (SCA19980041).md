@@ -1,13 +1,10 @@
 # Project: CULPEPPER LANDING II APTS (SCA19980041)
 
 - HUD ID: SCA19980041
-- HUD ID before: 
 - Project: CULPEPPER LANDING II APTS
 - Address: 201 CULPEPPER LANDING DR
 - City: DUNCAN
-- State: SC
 - ZIP: 29334
-- ZIP extension: 
 - State project ID: SC-97-020
 - Latitude: 34.926651
 - Longitude: -82.115278
@@ -22,9 +19,7 @@
 - Place 2000: 21265
 - Place 1990: 0385
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 284065
 - Units: 85
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 59
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

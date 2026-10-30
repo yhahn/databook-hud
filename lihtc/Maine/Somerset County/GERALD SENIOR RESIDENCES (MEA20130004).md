@@ -1,13 +1,10 @@
 # Project: GERALD SENIOR RESIDENCES (MEA20130004)
 
 - HUD ID: MEA20130004
-- HUD ID before: 
 - Project: GERALD SENIOR RESIDENCES
 - Address: 151 MAIN ST
 - City: FAIRFIELD
-- State: ME
 - ZIP: 04937
-- ZIP extension: 
 - State project ID: MSHARLP1578
 - Latitude: 44.586763
 - Longitude: -69.595366
@@ -20,11 +17,8 @@
 - Place 2020: 24285
 - Place 2010: 24285
 - Place 2000: 24285
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 504000
 - Units: 28
 - Low-income units: 28
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

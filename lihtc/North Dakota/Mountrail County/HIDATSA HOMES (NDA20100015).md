@@ -1,13 +1,10 @@
 # Project: HIDATSA HOMES (NDA20100015)
 
 - HUD ID: NDA20100015
-- HUD ID before: 
 - Project: HIDATSA HOMES
 - Address: 430 NINTH ST N
 - City: NEW TOWN
-- State: ND
 - ZIP: 58763
-- ZIP extension: 
 - State project ID: TC0803
 - Latitude: 47.987305
 - Longitude: -102.486441
@@ -22,9 +19,7 @@
 - Place 2000: 56740
 - Place 1990: 1230
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 517866
 - Units: 28
 - Low-income units: 27
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: COTTONWOOD APARTMENTS (NVA19940005)
 
 - HUD ID: NVA19940005
-- HUD ID before: 
 - Project: COTTONWOOD APARTMENTS
 - Address: 350 SURPRISE STREET
 - City: SEARCHLIGHT
-- State: NV
 - ZIP: 89046
 - ZIP extension: 0000
 - State project ID: 92-06
@@ -15,17 +13,10 @@
 - County from: 2020
 - Tract 2020: 32003005703
 - Tract 2010: 32003005703
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 65600
 - Place 2010: 65600
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 23
 - Units reported: 24
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

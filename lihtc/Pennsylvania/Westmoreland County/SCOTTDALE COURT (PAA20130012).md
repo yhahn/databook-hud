@@ -1,11 +1,9 @@
 # Project: SCOTTDALE COURT (PAA20130012)
 
 - HUD ID: PAA20130012
-- HUD ID before: 
 - Project: SCOTTDALE COURT
 - Address: 210, 226-232 S BROADWAY ST
 - City: SCOTTDALE
-- State: PA
 - ZIP: 15683
 - ZIP extension: 2115
 - State project ID: TC20110420
@@ -22,9 +20,7 @@
 - Place 2000: 68432
 - Place 1990: 7696
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 659588
 - Units: 32
 - Low-income units: 32
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

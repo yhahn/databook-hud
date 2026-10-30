@@ -1,13 +1,10 @@
 # Project: RANSOM STREET APTS (NCA19940485)
 
 - HUD ID: NCA19940485
-- HUD ID before: 
 - Project: RANSOM STREET APTS
 - Address: 481 F RANSOM STREET
 - City: BLOWING ROCK
-- State: NC
 - ZIP: 28605
-- ZIP extension: 
 - State project ID: 9001274
 - Latitude: 36.129608
 - Longitude: -81.673779
@@ -22,9 +19,7 @@
 - Place 2000: 06500
 - Place 1990: 0295
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 22613
 - Units: 13
 - Low-income units: 13
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

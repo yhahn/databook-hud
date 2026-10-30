@@ -1,11 +1,9 @@
 # Project: WEST BELDING APARTMENTS (MIA20231010)
 
 - HUD ID: MIA20231010
-- HUD ID before: 
 - Project: WEST BELDING APARTMENTS
 - Address: 1250 KENWOOD
 - City: BELDING
-- State: MI
 - ZIP: 48809
 - ZIP extension: 0000
 - State project ID: 4066
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26067030300
 - Tract 2010: 26067030300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 06900
 - Place 2010: 06900
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 444584
 - Units: 48
 - Low-income units: 48
@@ -44,11 +36,9 @@
 - Affordability years: 45
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

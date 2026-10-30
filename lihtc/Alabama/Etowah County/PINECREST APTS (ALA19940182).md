@@ -1,13 +1,10 @@
 # Project: PINECREST APTS (ALA19940182)
 
 - HUD ID: ALA19940182
-- HUD ID before: 
 - Project: PINECREST APTS
 - Address: 6848 PINECREST ST
 - City: ALTOONA
-- State: AL
 - ZIP: 35952
-- ZIP extension: 
 - State project ID: AL-94-0060
 - Latitude: 34.028505
 - Longitude: -86.329089
@@ -20,11 +17,8 @@
 - Place 2020: 01660
 - Place 2010: 01660
 - Place 2000: 01660
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 44800
 - Units: 32
 - Low-income units: 32
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1995110. AKA PINECREST IN ALTOONA.
 - Record status: Existing, unchanged

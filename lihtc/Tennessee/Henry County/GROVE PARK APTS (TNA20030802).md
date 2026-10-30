@@ -1,13 +1,10 @@
 # Project: GROVE PARK APTS (TNA20030802)
 
 - HUD ID: TNA20030802
-- HUD ID before: 
 - Project: GROVE PARK APTS
 - Address: 345 HARRISON ST
 - City: PARIS
-- State: TN
 - ZIP: 38242
-- ZIP extension: 
 - State project ID: TN-02-032
 - Latitude: 36.291336
 - Longitude: -88.329385
@@ -22,9 +19,7 @@
 - Place 2000: 56720
 - Place 1990: 1110
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 490593
 - Units: 80
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2004030, TNA2003230.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WATERS AT WILLOW RUN APARTMENTS (TXA20163074)
 
 - HUD ID: TXA20163074
-- HUD ID before: 
 - Project: WATERS AT WILLOW RUN APARTMENTS
 - Address: 15433 FM 1325
 - City: AUSTIN
-- State: TX
 - ZIP: 78728
-- ZIP extension: 
 - State project ID: TX4888
 - Latitude: 30.463244
 - Longitude: -97.694136
@@ -22,10 +19,7 @@
 - Place 2000: 63500
 - Place 1990: 3675
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 242
 - Low-income units: 242
 - Units reported: 242
@@ -38,17 +32,12 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

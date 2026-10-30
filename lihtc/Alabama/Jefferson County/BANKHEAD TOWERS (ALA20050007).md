@@ -1,13 +1,10 @@
 # Project: BANKHEAD TOWERS (ALA20050007)
 
 - HUD ID: ALA20050007
-- HUD ID before: 
 - Project: BANKHEAD TOWERS
 - Address: 2300 FIFTH AVE N
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35203
-- ZIP extension: 
 - State project ID: AL-02-0805
 - Latitude: 33.520204
 - Longitude: -86.804094
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0185
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 368081
 - Units: 251
 - Low-income units: 251
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 251
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2004015.
 - Record status: Existing, unchanged

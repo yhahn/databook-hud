@@ -1,13 +1,10 @@
 # Project: CORNERSTONE COMMONS (IAA20130004)
 
 - HUD ID: IAA20130004
-- HUD ID before: 
 - Project: CORNERSTONE COMMONS
 - Address: 6365 MERLE HAY RD
 - City: JOHNSTON
-- State: IA
 - ZIP: 50131
-- ZIP extension: 
 - State project ID: 11-11-22
 - Latitude: 41.675804
 - Longitude: -93.697434
@@ -22,9 +19,7 @@
 - Place 2000: 39765
 - Place 1990: 2089
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1865738
 - Units: 62
 - Low-income units: 55
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

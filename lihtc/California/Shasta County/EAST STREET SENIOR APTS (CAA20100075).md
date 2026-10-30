@@ -1,13 +1,10 @@
 # Project: EAST STREET SENIOR APTS (CAA20100075)
 
 - HUD ID: CAA20100075
-- HUD ID before: 
 - Project: EAST STREET SENIOR APTS
 - Address: 1225 S ST
 - City: REDDING
-- State: CA
 - ZIP: 96001
-- ZIP extension: 
 - State project ID: CA-09-152
 - Latitude: 40.581172
 - Longitude: -122.387193
@@ -22,9 +19,7 @@
 - Place 2000: 59920
 - Place 1990: 2290
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 460886
 - Units: 21
 - Low-income units: 20
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

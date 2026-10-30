@@ -1,13 +1,10 @@
 # Project: HERITAGE VILLAGE (NDA20030010)
 
 - HUD ID: NDA20030010
-- HUD ID before: 
 - Project: HERITAGE VILLAGE
 - Address: 57 GREENFIELD RD
 - City: MILNOR
-- State: ND
 - ZIP: 58060
-- ZIP extension: 
 - State project ID: TC0203
 - Latitude: 46.254787
 - Longitude: -97.447266
@@ -22,9 +19,7 @@
 - Place 2000: 13020
 - Place 1990: 0590
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 38476
 - Units: 6
 - Low-income units: 6
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

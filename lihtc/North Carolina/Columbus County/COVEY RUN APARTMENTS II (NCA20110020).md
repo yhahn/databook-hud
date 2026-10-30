@@ -1,11 +1,9 @@
 # Project: COVEY RUN APARTMENTS II (NCA20110020)
 
 - HUD ID: NCA20110020
-- HUD ID before: 
 - Project: COVEY RUN APARTMENTS II
 - Address: 200 JORDAN LN
 - City: WHITEVILLE
-- State: NC
 - ZIP: 28472
 - ZIP extension: 3820
 - State project ID: 9107162
@@ -19,12 +17,8 @@
 - Tract 1990: 37047990800
 - Place 2020: 73660
 - Place 2010: 73660
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 577267
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

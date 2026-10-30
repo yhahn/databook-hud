@@ -1,13 +1,10 @@
 # Project: HAYDEN COUNTRY RIDGE (IDA20010015)
 
 - HUD ID: IDA20010015
-- HUD ID before: 
 - Project: HAYDEN COUNTRY RIDGE
 - Address: 61 EAST COUNTRY RIDGE DRIVE
 - City: HAYDEN
-- State: ID
 - ZIP: 83835
-- ZIP extension: 
 - State project ID: HC0016
 - Latitude: 47.753486
 - Longitude: -116.78595
@@ -22,9 +19,7 @@
 - Place 2000: 36370
 - Place 1990: 0385
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 274694
 - Units: 45
 - Low-income units: 39
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

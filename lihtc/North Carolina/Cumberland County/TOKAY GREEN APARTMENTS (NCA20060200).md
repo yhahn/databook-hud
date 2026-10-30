@@ -1,13 +1,10 @@
 # Project: TOKAY GREEN APARTMENTS (NCA20060200)
 
 - HUD ID: NCA20060200
-- HUD ID before: 
 - Project: TOKAY GREEN APARTMENTS
 - Address: 1928 FLORIDA DR
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28301
-- ZIP extension: 
 - State project ID: 9002272
 - Latitude: 35.0857
 - Longitude: -78.8762
@@ -16,15 +13,10 @@
 - Tract 2020: 37051001200
 - Tract 2010: 37051001200
 - Tract 2000: 37051001200
-- Tract 1990: 
 - Place 2020: 22920
 - Place 2010: 22920
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 632827
 - Units: 80
 - Low-income units: 80
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

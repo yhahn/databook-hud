@@ -1,13 +1,10 @@
 # Project: NORMANDIE TERRACE (CAA20120965)
 
 - HUD ID: CAA20120965
-- HUD ID before: 
 - Project: NORMANDIE TERRACE
 - Address: 540 S NORMANDIE AVE
 - City: LOS ANGELES
-- State: CA
 - ZIP: 90020
-- ZIP extension: 
 - State project ID: CA-10-035
 - Latitude: 34.064122
 - Longitude: -118.300164
@@ -22,9 +19,7 @@
 - Place 2000: 44000
 - Place 1990: 1630
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1662502
 - Units: 66
 - Low-income units: 65
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 52
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

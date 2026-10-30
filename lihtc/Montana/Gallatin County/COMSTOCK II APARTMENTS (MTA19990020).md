@@ -1,11 +1,9 @@
 # Project: COMSTOCK II APARTMENTS (MTA19990020)
 
 - HUD ID: MTA19990020
-- HUD ID before: 
 - Project: COMSTOCK II APARTMENTS
 - Address: 777 HAGERTY LANE
 - City: BOZEMAN
-- State: MT
 - ZIP: 59715
 - ZIP extension: 0000
 - State project ID: 98050
@@ -20,11 +18,8 @@
 - Place 2020: 08950
 - Place 2010: 08950
 - Place 2000: 08950
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 241118
 - Units: 34
 - Low-income units: 34
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -79,7 +72,5 @@
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA COMSTOCK II.
 - Record status: Updated

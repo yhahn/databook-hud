@@ -1,13 +1,10 @@
 # Project: 12TH AND RIVER STREET HOUSING (IDA20123001)
 
 - HUD ID: IDA20123001
-- HUD ID before: 
 - Project: 12TH AND RIVER STREET HOUSING
 - Address: 514 SOUTH 12TH STREET SUITE 100
 - City: BOISE
-- State: ID
 - ZIP: 83702
-- ZIP extension: 
 - State project ID: HC1101
 - Latitude: 43.614449
 - Longitude: -116.212771
@@ -16,15 +13,11 @@
 - Tract 2020: 16001000101
 - Tract 2010: 16001000100
 - Tract 2000: 16001000100
-- Tract 1990: 
 - Place 2020: 08830
 - Place 2010: 08830
 - Place 2000: 08830
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 806988
 - Units: 53
 - Low-income units: 52
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 52
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -78,8 +69,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

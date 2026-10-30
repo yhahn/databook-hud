@@ -1,11 +1,9 @@
 # Project: PARK TOWER (PAA20151010)
 
 - HUD ID: PAA20151010
-- HUD ID before: 
 - Project: PARK TOWER
 - Address: 4001 CONSHOHOCKEN AVE
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19131
 - ZIP extension: 1711
 - State project ID: TC20130112
@@ -16,15 +14,11 @@
 - Tract 2020: 42101012201
 - Tract 2010: 42101012201
 - Tract 2000: 42101012200
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
 - Place 2000: 60000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 603350
 - Units: 156
 - Low-income units: 156
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 155
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -62,8 +54,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

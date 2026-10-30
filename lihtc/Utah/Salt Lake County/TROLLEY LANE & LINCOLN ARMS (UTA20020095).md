@@ -1,11 +1,9 @@
 # Project: TROLLEY LANE & LINCOLN ARMS (UTA20020095)
 
 - HUD ID: UTA20020095
-- HUD ID before: 
 - Project: TROLLEY LANE & LINCOLN ARMS
 - Address: 518 EAST 600 SOUTH
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84102
 - ZIP extension: 0000
 - State project ID: 2000-08
@@ -16,15 +14,11 @@
 - Tract 2020: 49035102000
 - Tract 2010: 49035102000
 - Tract 2000: 49035102000
-- Tract 1990: 
 - Place 2020: 67000
 - Place 2010: 67000
 - Place 2000: 67000
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 91406
 - Units: 33
 - Low-income units: 33
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +71,4 @@
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BROADWAY TERRACE (WEST MEMPHIS) (ARA20080025)
 
 - HUD ID: ARA20080025
-- HUD ID before: 
 - Project: BROADWAY TERRACE (WEST MEMPHIS)
 - Address: 1401 VILLAGE DR
 - City: WEST MEMPHIS
-- State: AR
 - ZIP: 72301
-- ZIP extension: 
 - State project ID: AR-06-07-001
 - Latitude: 35.127415
 - Longitude: -90.203295
@@ -22,9 +19,7 @@
 - Place 2000: 01457
 - Place 1990: 3005
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 262000
 - Units: 27
 - Low-income units: 21
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 200000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

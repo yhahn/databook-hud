@@ -1,13 +1,10 @@
 # Project: HERITAGE ESTATES (KSA20120039)
 
 - HUD ID: KSA20120039
-- HUD ID before: 
 - Project: HERITAGE ESTATES
 - Address: 103 MCCARTNEY LN
 - City: NEODESHA
-- State: KS
 - ZIP: 66757
-- ZIP extension: 
 - State project ID: KS-12-36
 - Latitude: 37.4281
 - Longitude: -95.6403
@@ -22,9 +19,7 @@
 - Place 2000: 49650
 - Place 1990: 2020
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 263121
 - Units: 12
 - Low-income units: 12
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

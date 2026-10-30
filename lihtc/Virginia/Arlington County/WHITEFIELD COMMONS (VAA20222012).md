@@ -1,13 +1,10 @@
 # Project: WHITEFIELD COMMONS (VAA20222012)
 
 - HUD ID: VAA20222012
-- HUD ID before: 
 - Project: WHITEFIELD COMMONS
 - Address: 204 NORTH THOMAS STREET, #B3
 - City: ARLINGTON
-- State: VA
 - ZIP: 22203
-- ZIP extension: 
 - State project ID: 1148
 - Latitude: 38.871729
 - Longitude: -77.105864
@@ -22,9 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0056
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 772154
 - Units: 68
 - Low-income units: 67
@@ -41,15 +36,12 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 34
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005232.
 - Record status: Updated

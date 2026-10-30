@@ -1,11 +1,9 @@
 # Project: CANYON VIEW APTS. (UTA20030017)
 
 - HUD ID: UTA20030017
-- HUD ID before: 
 - Project: CANYON VIEW APTS.
 - Address: 142 WEST 500 NORTH
 - City: PROVO
-- State: UT
 - ZIP: 84601
 - ZIP extension: 0000
 - State project ID: 2000-04
@@ -22,9 +20,7 @@
 - Place 2000: 62470
 - Place 1990: 0800
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 216076
 - Units: 30
 - Low-income units: 30
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

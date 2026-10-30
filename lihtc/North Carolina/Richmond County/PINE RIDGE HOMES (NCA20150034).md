@@ -1,11 +1,9 @@
 # Project: PINE RIDGE HOMES (NCA20150034)
 
 - HUD ID: NCA20150034
-- HUD ID before: 
 - Project: PINE RIDGE HOMES
 - Address: 1001 PINERIDGE DR
 - City: ROCKINGHAM
-- State: NC
 - ZIP: 28379
 - ZIP extension: 9433
 - State project ID: 9168192
@@ -22,9 +20,7 @@
 - Place 2000: 57260
 - Place 1990: 2105
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 329590
 - Units: 69
 - Low-income units: 69
@@ -39,9 +35,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

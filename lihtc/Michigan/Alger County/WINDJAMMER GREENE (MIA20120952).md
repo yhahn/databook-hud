@@ -1,13 +1,10 @@
 # Project: WINDJAMMER GREENE (MIA20120952)
 
 - HUD ID: MIA20120952
-- HUD ID before: 
 - Project: WINDJAMMER GREENE
 - Address: 1550 CTR ST
 - City: MUNISING
-- State: MI
 - ZIP: 49862
-- ZIP extension: 
 - State project ID: MI-3461
 - Latitude: 46.416886
 - Longitude: -86.62463
@@ -20,11 +17,8 @@
 - Place 2020: 56200
 - Place 2010: 56200
 - Place 2000: 56200
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 231190
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

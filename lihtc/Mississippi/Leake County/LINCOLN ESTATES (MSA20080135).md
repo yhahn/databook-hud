@@ -1,13 +1,10 @@
 # Project: LINCOLN ESTATES (MSA20080135)
 
 - HUD ID: MSA20080135
-- HUD ID before: 
 - Project: LINCOLN ESTATES
 - Address: 113 MADISON ST
 - City: CARTHAGE
-- State: MS
 - ZIP: 39051
-- ZIP extension: 
 - State project ID: MS-07-004
 - Latitude: 32.732164
 - Longitude: -89.550349
@@ -22,9 +19,7 @@
 - Place 2000: 11780
 - Place 1990: 0200
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 760520
 - Units: 55
 - Low-income units: 55
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SUNCREST VILLAGE (IAA20120904)
 
 - HUD ID: IAA20120904
-- HUD ID before: 
 - Project: SUNCREST VILLAGE
 - Address: 101 W FOURTH ST S
 - City: NEWTON
-- State: IA
 - ZIP: 50208
-- ZIP extension: 
 - State project ID: 10-10-228
 - Latitude: 41.699482
 - Longitude: -93.05762
@@ -22,9 +19,7 @@
 - Place 2000: 56505
 - Place 1990: 3070
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 560689
 - Units: 59
 - Low-income units: 58
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

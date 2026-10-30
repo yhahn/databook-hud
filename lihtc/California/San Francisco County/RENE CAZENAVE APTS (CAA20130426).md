@@ -1,13 +1,10 @@
 # Project: RENE CAZENAVE APTS (CAA20130426)
 
 - HUD ID: CAA20130426
-- HUD ID before: 
 - Project: RENE CAZENAVE APTS
 - Address: 25 ESSEX ST
 - City: SAN FRANCISCO
-- State: CA
 - ZIP: 94105
-- ZIP extension: 
 - State project ID: CA-11-056
 - Latitude: 37.786255
 - Longitude: -122.395107
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 2485
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 2065193
 - Units: 120
 - Low-income units: 120
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 93
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: AREYTO APTS (CTA20100005)
 
 - HUD ID: CTA20100005
-- HUD ID before: 
 - Project: AREYTO APTS
 - Address: 665 ARCTIC ST
 - City: BRIDGEPORT
-- State: CT
 - ZIP: 06608
-- ZIP extension: 
 - State project ID: CT-08-025
 - Latitude: 41.189187
 - Longitude: -73.176669
@@ -22,9 +19,7 @@
 - Place 2000: 08000
 - Place 1990: 0200
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 513276
 - Units: 20
 - Low-income units: 20
@@ -40,12 +35,9 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CTA0000025.
 - Record status: Existing, unchanged

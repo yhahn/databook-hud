@@ -1,13 +1,10 @@
 # Project: PASEO VILLAGE FAMILY APTS (CAA20130073)
 
 - HUD ID: CAA20130073
-- HUD ID before: 
 - Project: PASEO VILLAGE FAMILY APTS
 - Address: 1115 N CITRON ST
 - City: ANAHEIM
-- State: CA
 - ZIP: 92801
-- ZIP extension: 
 - State project ID: CA-12-906
 - Latitude: 33.848888
 - Longitude: -117.928937
@@ -22,9 +19,7 @@
 - Place 2000: 02000
 - Place 1990: 0070
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 966349
 - Units: 174
 - Low-income units: 174
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1997445. AKA SOUTH OF ROMNEYA.
 - Record status: Existing, unchanged

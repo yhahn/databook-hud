@@ -1,13 +1,10 @@
 # Project: HILLTOP FAMILY HOUSING (VTA20140291)
 
 - HUD ID: VTA20140291
-- HUD ID before: 
 - Project: HILLTOP FAMILY HOUSING
 - Address: 447 PEARL ST
 - City: ST JOHNSBURY
-- State: VT
 - ZIP: 05819
-- ZIP extension: 
 - State project ID: 0452
 - Latitude: 44.418929
 - Longitude: -72.017054
@@ -22,9 +19,7 @@
 - Place 2000: 62125
 - Place 1990: 2268
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 350000
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VTA2015020.
 - Record status: Existing, unchanged

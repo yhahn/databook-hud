@@ -1,11 +1,9 @@
 # Project: CROWN @ BEAVER III (UTA20090908)
 
 - HUD ID: UTA20090908
-- HUD ID before: 
 - Project: CROWN @ BEAVER III
 - Address: 1321 EAST 160 NORTH
 - City: BEAVER
-- State: UT
 - ZIP: 84713
 - ZIP extension: 0000
 - State project ID: 2009-01
@@ -19,12 +17,9 @@
 - Tract 1990: 49001981100
 - Place 2020: 04060
 - Place 2010: 04060
-- Place 2000: 
 - Place 1990: 0050
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 72169
 - Units: 4
 - Low-income units: 4
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,7 +65,6 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +72,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

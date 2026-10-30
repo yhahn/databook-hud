@@ -1,13 +1,10 @@
 # Project: PEPPER TREE APARTMENTS (TXA20069004)
 
 - HUD ID: TXA20069004
-- HUD ID before: 
 - Project: PEPPER TREE APARTMENTS
 - Address: 5900 ANTOINE DR
 - City: HOUSTON
-- State: TX
 - ZIP: 77091
-- ZIP extension: 
 - State project ID: TX4167
 - Latitude: 29.851512
 - Longitude: -95.473064
@@ -22,10 +19,7 @@
 - Place 2000: 35000
 - Place 1990: 1975
 - Year placed in service: 2006
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 250
 - Low-income units: 250
 - Units reported: 250
@@ -38,17 +32,11 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +51,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

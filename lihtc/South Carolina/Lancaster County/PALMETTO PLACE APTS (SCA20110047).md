@@ -1,13 +1,9 @@
 # Project: PALMETTO PLACE APTS (SCA20110047)
 
 - HUD ID: SCA20110047
-- HUD ID before: 
 - Project: PALMETTO PLACE APTS
 - Address: 2901 PARDUE ST
 - City: LANCASTER
-- State: SC
-- ZIP: 
-- ZIP extension: 
 - State project ID: SC-09-104
 - Latitude: 34.724717
 - Longitude: -80.754652
@@ -22,9 +18,7 @@
 - Place 2000: 39895
 - Place 1990: 0745
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 713324
 - Units: 165
 - Low-income units: 165
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 900000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 6063251
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1988292, SCA1988506, SCA2009060. FKA MAPLE RIDGE/PARDUE ST
 - Record status: Existing, unchanged

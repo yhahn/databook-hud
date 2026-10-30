@@ -1,11 +1,9 @@
 # Project: GALLATIN TRAILS APTS-BELGRADE (MTA19969007)
 
 - HUD ID: MTA19969007
-- HUD ID before: 
 - Project: GALLATIN TRAILS APTS-BELGRADE
 - Address: 101 JACKRABBIT ROAD
 - City: BELGRADE
-- State: MT
 - ZIP: 59714
 - ZIP extension: 0000
 - State project ID: 94014
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30031000104
 - Tract 2010: 30031000103
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 04975
 - Place 2010: 04975
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 133950
 - Units: 32
 - Low-income units: 32
@@ -44,7 +36,6 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -76,10 +67,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

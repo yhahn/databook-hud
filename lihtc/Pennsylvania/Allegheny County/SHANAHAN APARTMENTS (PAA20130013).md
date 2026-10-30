@@ -1,11 +1,9 @@
 # Project: SHANAHAN APARTMENTS (PAA20130013)
 
 - HUD ID: PAA20130013
-- HUD ID before: 
 - Project: SHANAHAN APARTMENTS
 - Address: 1819 FORBES AVE
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15219
 - ZIP extension: 5835
 - State project ID: TC20110803
@@ -22,9 +20,7 @@
 - Place 2000: 61000
 - Place 1990: 7234
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1137168
 - Units: 43
 - Low-income units: 43
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 43
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

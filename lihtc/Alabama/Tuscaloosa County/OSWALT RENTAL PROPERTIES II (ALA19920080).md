@@ -1,13 +1,10 @@
 # Project: OSWALT RENTAL PROPERTIES II (ALA19920080)
 
 - HUD ID: ALA19920080
-- HUD ID before: 
 - Project: OSWALT RENTAL PROPERTIES II
 - Address: 826 CHEROKEE AVE
 - City: TUSCALOOSA
-- State: AL
 - ZIP: 35401
-- ZIP extension: 
 - State project ID: AL-92-0018
 - Latitude: 33.203021
 - Longitude: -87.578403
@@ -22,9 +19,7 @@
 - Place 2000: 77256
 - Place 1990: 1720
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 6504
 - Units: 2
 - Low-income units: 2
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

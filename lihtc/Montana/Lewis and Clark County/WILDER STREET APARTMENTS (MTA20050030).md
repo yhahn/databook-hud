@@ -1,11 +1,9 @@
 # Project: WILDER STREET APARTMENTS (MTA20050030)
 
 - HUD ID: MTA20050030
-- HUD ID before: 
 - Project: WILDER STREET APARTMENTS
 - Address: 1607-1631WILDER STREET
 - City: HELENA
-- State: MT
 - ZIP: 59601
 - ZIP extension: 0000
 - State project ID: 04100
@@ -22,9 +20,7 @@
 - Place 2000: 35600
 - Place 1990: 0325
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 234500
 - Units: 31
 - Low-income units: 31
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

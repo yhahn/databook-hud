@@ -1,13 +1,10 @@
 # Project: WILLISTON SENIOR APT HOMES II (NDA20140030)
 
 - HUD ID: NDA20140030
-- HUD ID before: 
 - Project: WILLISTON SENIOR APT HOMES II
 - Address: 2618 24TH AVE W
 - City: WILLISTON
-- State: ND
 - ZIP: 58801
-- ZIP extension: 
 - State project ID: TC1305
 - Latitude: 48.168972
 - Longitude: -103.656316
@@ -22,9 +19,7 @@
 - Place 2000: 86220
 - Place 1990: 1740
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 409292
 - Units: 21
 - Low-income units: 21
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

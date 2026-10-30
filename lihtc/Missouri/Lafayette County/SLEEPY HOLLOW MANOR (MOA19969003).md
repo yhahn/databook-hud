@@ -1,11 +1,9 @@
 # Project: SLEEPY HOLLOW MANOR (MOA19969003)
 
 - HUD ID: MOA19969003
-- HUD ID before: 
 - Project: SLEEPY HOLLOW MANOR
 - Address: 745 STATE ROUTE 13
 - City: LEXINGTON
-- State: MO
 - ZIP: 64067
 - ZIP extension: 1513
 - State project ID: 94077
@@ -13,18 +11,12 @@
 - Longitude: -93.877235
 - County FIPS: 29107
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29107090100
 - Tract 2000: 29107090100
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 41870
 - Place 2000: 41870
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 97230
 - Units: 24
 - Low-income units: 24
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

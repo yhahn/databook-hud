@@ -1,13 +1,10 @@
 # Project: CHESTERFIELD VILLAS OF LANCASTER, SC (SCA19920120)
 
 - HUD ID: SCA19920120
-- HUD ID before: 
 - Project: CHESTERFIELD VILLAS OF LANCASTER, SC
 - Address: 411 CHESTERFIELD AVE
 - City: LANCASTER
-- State: SC
 - ZIP: 29720
-- ZIP extension: 
 - State project ID: SC-91-049
 - Latitude: 34.717156
 - Longitude: -80.763435
@@ -22,9 +19,7 @@
 - Place 2000: 39895
 - Place 1990: 0745
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 48647
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CHESTERFIELD VILLAS ALP.
 - Record status: Existing, unchanged

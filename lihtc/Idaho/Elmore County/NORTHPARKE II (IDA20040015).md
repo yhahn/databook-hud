@@ -1,13 +1,10 @@
 # Project: NORTHPARKE II (IDA20040015)
 
 - HUD ID: IDA20040015
-- HUD ID before: 
 - Project: NORTHPARKE II
 - Address: 175 EAST 12TH NORTH
 - City: MOUNTAIN HOME
-- State: ID
 - ZIP: 83647
-- ZIP extension: 
 - State project ID: HC0302
 - Latitude: 43.144628
 - Longitude: -115.700738
@@ -22,9 +19,7 @@
 - Place 2000: 54730
 - Place 1990: 0630
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 198869
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

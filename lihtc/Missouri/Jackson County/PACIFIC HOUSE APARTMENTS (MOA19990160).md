@@ -1,11 +1,9 @@
 # Project: PACIFIC HOUSE APARTMENTS (MOA19990160)
 
 - HUD ID: MOA19990160
-- HUD ID before: 
 - Project: PACIFIC HOUSE APARTMENTS
 - Address: 401 DELAWARE ST
 - City: KANSAS CITY
-- State: MO
 - ZIP: 64105
 - ZIP extension: 0000
 - State project ID: 98063
@@ -13,18 +11,14 @@
 - Longitude: -94.584188
 - County FIPS: 29095
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29095015200
 - Tract 2000: 29095000200
 - Tract 1990: 29095000200
-- Place 2020: 
 - Place 2010: 38000
 - Place 2000: 38000
 - Place 1990: 2220
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 254320
 - Units: 32
 - Low-income units: 32
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

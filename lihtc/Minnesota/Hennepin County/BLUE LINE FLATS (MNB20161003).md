@@ -1,11 +1,9 @@
 # Project: BLUE LINE FLATS (MNB20161003)
 
 - HUD ID: MNB20161003
-- HUD ID before: 
 - Project: BLUE LINE FLATS
 - Address: 2340 EAST 32ND STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55406
 - ZIP extension: 6602
 - State project ID: D6349
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 27053108700
 - Tract 2010: 27053108700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 708162
 - Units: 135
 - Low-income units: 135
@@ -41,10 +33,8 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 2
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -68,8 +58,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: LTH persons with HIV/AIDS
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

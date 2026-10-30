@@ -1,11 +1,9 @@
 # Project: RIVER PARK SENIOR HOUSING II (UTA20090902)
 
 - HUD ID: UTA20090902
-- HUD ID before: 
 - Project: RIVER PARK SENIOR HOUSING II
 - Address: 784 RIVERWALK PARKWAY
 - City: LOGAN
-- State: UT
 - ZIP: 84321
 - ZIP extension: 0000
 - State project ID: 2008-11
@@ -22,9 +20,7 @@
 - Place 2000: 45860
 - Place 1990: 0520
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 153589
 - Units: 18
 - Low-income units: 18
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

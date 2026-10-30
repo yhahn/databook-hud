@@ -1,13 +1,10 @@
 # Project: EAST HAVEN APTS (TNA20120025)
 
 - HUD ID: TNA20120025
-- HUD ID before: 
 - Project: EAST HAVEN APTS
 - Address: 1766 WINCHESTER HWY
 - City: FAYETTEVILLE
-- State: TN
 - ZIP: 37334
-- ZIP extension: 
 - State project ID: TN-10-024
 - Latitude: 35.162761
 - Longitude: -86.519746
@@ -22,9 +19,7 @@
 - Place 2000: 25920
 - Place 1990: 0500
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 532320
 - Units: 40
 - Low-income units: 40
@@ -38,11 +33,6 @@
 - Construction: New construction
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 607940
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MCCAY SENIOR GARDENS.
 - Record status: Existing, unchanged

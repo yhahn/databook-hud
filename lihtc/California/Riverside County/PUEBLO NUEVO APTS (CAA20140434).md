@@ -1,13 +1,10 @@
 # Project: PUEBLO NUEVO APTS (CAA20140434)
 
 - HUD ID: CAA20140434
-- HUD ID before: 
 - Project: PUEBLO NUEVO APTS
 - Address: 1492 ORCHARD AVE
 - City: COACHELLA
-- State: CA
 - ZIP: 92236
-- ZIP extension: 
 - State project ID: CA-12-137
 - Latitude: 33.676035
 - Longitude: -116.173083
@@ -22,9 +19,7 @@
 - Place 2000: 14260
 - Place 1990: 0555
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 222030
 - Units: 50
 - Low-income units: 49
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 37
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: FARMWORKERS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: LYDIA HOUSE (MNB20039007)
 
 - HUD ID: MNB20039007
-- HUD ID before: 
 - Project: LYDIA HOUSE
 - Address: 1920 LASALLE AVENUE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55403
 - ZIP extension: 3620
 - State project ID: D3145
@@ -16,15 +14,11 @@
 - Tract 2020: 27053105600
 - Tract 2010: 27053105600
 - Tract 2000: 27053105600
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 411436
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +58,10 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

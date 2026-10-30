@@ -1,13 +1,10 @@
 # Project: RIVERSIDE MANOR (NDA19950080)
 
 - HUD ID: NDA19950080
-- HUD ID before: 
 - Project: RIVERSIDE MANOR
 - Address: 813 LEWIS BLVD
 - City: GRAND FORKS
-- State: ND
 - ZIP: 58203
-- ZIP extension: 
 - State project ID: 94-08
 - Latitude: 47.9284
 - Longitude: -97.0365
@@ -22,9 +19,7 @@
 - Place 2000: 32060
 - Place 1990: 0693
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 115912
 - Units: 38
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA1997035.
 - Record status: Existing, unchanged

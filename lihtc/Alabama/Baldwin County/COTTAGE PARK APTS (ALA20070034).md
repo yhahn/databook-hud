@@ -1,13 +1,10 @@
 # Project: COTTAGE PARK APTS (ALA20070034)
 
 - HUD ID: ALA20070034
-- HUD ID before: 
 - Project: COTTAGE PARK APTS
 - Address: 47247 RABUN RD
 - City: BAY MINETTE
-- State: AL
 - ZIP: 36507
-- ZIP extension: 
 - State project ID: AL-06-0050
 - Latitude: 30.914192
 - Longitude: -87.780506
@@ -20,12 +17,8 @@
 - Place 2020: 04660
 - Place 2010: 99999
 - Place 2000: 04660
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 90
 - Low-income units: 90
 - Units reported: 90
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 90
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008105.
 - Record status: Existing, unchanged

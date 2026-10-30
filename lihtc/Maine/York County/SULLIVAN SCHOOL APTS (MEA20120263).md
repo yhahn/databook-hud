@@ -1,13 +1,10 @@
 # Project: SULLIVAN SCHOOL APTS (MEA20120263)
 
 - HUD ID: MEA20120263
-- HUD ID before: 
 - Project: SULLIVAN SCHOOL APTS
 - Address: 45 SCHOOL ST
 - City: BERWICK
-- State: ME
 - ZIP: 03901
-- ZIP extension: 
 - State project ID: MSHARLP1507
 - Latitude: 43.268631
 - Longitude: -70.861291
@@ -20,11 +17,8 @@
 - Place 2020: 04685
 - Place 2010: 04685
 - Place 2000: 04685
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 394114
 - Units: 34
 - Low-income units: 34
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

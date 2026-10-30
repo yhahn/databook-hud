@@ -1,13 +1,10 @@
 # Project: BENNETTSVILLE GREEN APTS (SCA20100010)
 
 - HUD ID: SCA20100010
-- HUD ID before: 
 - Project: BENNETTSVILLE GREEN APTS
 - Address: 501 CTR ST
 - City: BENNETTSVILLE
-- State: SC
 - ZIP: 29512
-- ZIP extension: 
 - State project ID: SC-09-013
 - Latitude: 34.62605
 - Longitude: -79.696384
@@ -22,9 +19,7 @@
 - Place 2000: 05680
 - Place 1990: 0110
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 422487
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 22
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 1142285
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

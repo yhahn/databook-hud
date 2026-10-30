@@ -1,13 +1,10 @@
 # Project: WESTHAVEN PARK APTS IIA (ILB20040908)
 
 - HUD ID: ILB20040908
-- HUD ID before: 
 - Project: WESTHAVEN PARK APTS IIA
 - Address: 1742 W MAYPOLE AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60612
-- ZIP extension: 
 - State project ID: 17-07-321
 - Latitude: 41.884364
 - Longitude: -87.670831
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 1240668
 - Units: 156
 - Low-income units: 120
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 8500000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: Yes
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2004809.
 - Record status: Existing, unchanged

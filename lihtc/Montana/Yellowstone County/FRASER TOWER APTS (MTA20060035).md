@@ -1,11 +1,9 @@
 # Project: FRASER TOWER APTS (MTA20060035)
 
 - HUD ID: MTA20060035
-- HUD ID before: 
 - Project: FRASER TOWER APTS
 - Address: 715 SOUTH 28TH STREET
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: MT-06-010
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 110540
 - Units: 64
 - Low-income units: 64
@@ -40,8 +36,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

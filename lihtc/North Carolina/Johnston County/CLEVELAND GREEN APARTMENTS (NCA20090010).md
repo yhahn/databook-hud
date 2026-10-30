@@ -1,13 +1,10 @@
 # Project: CLEVELAND GREEN APARTMENTS (NCA20090010)
 
 - HUD ID: NCA20090010
-- HUD ID before: 
 - Project: CLEVELAND GREEN APARTMENTS
 - Address: 401 LAINEY STREET
 - City: GARNER
-- State: NC
 - ZIP: 27529
-- ZIP extension: 
 - State project ID: 9002718
 - Latitude: 35.611663
 - Longitude: -78.557488
@@ -19,12 +16,8 @@
 - Tract 1990: 37101041100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 621086
 - Units: 88
 - Low-income units: 88
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 22
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

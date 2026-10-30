@@ -1,11 +1,9 @@
 # Project: CASA MILAGROS (UTA20202003)
 
 - HUD ID: UTA20202003
-- HUD ID before: 
 - Project: CASA MILAGROS
 - Address: 155 SOUTH 600 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84101
 - ZIP extension: 0000
 - State project ID: 2019-23
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49035102501
 - Tract 2010: 49035102500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 67000
 - Place 2010: 67000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 805000
 - Units: 61
 - Low-income units: 49
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BLUE POINT BAY (NCA20040025)
 
 - HUD ID: NCA20040025
-- HUD ID before: 
 - Project: BLUE POINT BAY
 - Address: 201 OLD MURDOCH ROAD
 - City: NEWPORT
-- State: NC
 - ZIP: 28570
-- ZIP extension: 
 - State project ID: 9001012
 - Latitude: 34.745144
 - Longitude: -76.819148
@@ -20,11 +17,8 @@
 - Place 2020: 44320
 - Place 2010: 44320
 - Place 2000: 44320
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 384796
 - Units: 64
 - Low-income units: 64
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: RENAISSANCE VETERANS APARTMENTS AT FITZSIMONS (COA20200028)
 
 - HUD ID: COA20200028
-- HUD ID before: 
 - Project: RENAISSANCE VETERANS APARTMENTS AT FITZSIMONS
 - Address: 1793 QUENTIN STREET
 - City: AURORA
-- State: CO
 - ZIP: 80045
-- ZIP extension: 
 - State project ID: CO-20-27
 - Latitude: 39.744587
 - Longitude: -104.844907
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 08001008100
 - Tract 2010: 08001008100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 04000
 - Place 2010: 04000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1350000
 - Units: 60
 - Low-income units: 59
@@ -40,15 +31,11 @@
 - Income ceiling: Income average
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Mixed
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

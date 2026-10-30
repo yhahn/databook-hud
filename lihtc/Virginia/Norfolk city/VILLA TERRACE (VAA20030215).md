@@ -1,13 +1,10 @@
 # Project: VILLA TERRACE (VAA20030215)
 
 - HUD ID: VAA20030215
-- HUD ID before: 
 - Project: VILLA TERRACE
 - Address: 2804 WAVERLY WAY
 - City: NORFOLK
-- State: VA
 - ZIP: 23504
-- ZIP extension: 
 - State project ID: 8334
 - Latitude: 36.873267
 - Longitude: -76.275869
@@ -22,9 +19,7 @@
 - Place 2000: 57000
 - Place 1990: 0875
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 332241
 - Units: 81
 - Low-income units: 81
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

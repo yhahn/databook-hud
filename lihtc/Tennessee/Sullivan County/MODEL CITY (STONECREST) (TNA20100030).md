@@ -1,13 +1,10 @@
 # Project: MODEL CITY (STONECREST) (TNA20100030)
 
 - HUD ID: TNA20100030
-- HUD ID before: 
 - Project: MODEL CITY (STONECREST)
 - Address: 1000 STONEGATE RD
 - City: KINGSPORT
-- State: TN
 - ZIP: 37660
-- ZIP extension: 
 - State project ID: TN-09-201
 - Latitude: 36.561518
 - Longitude: -82.581731
@@ -22,9 +19,7 @@
 - Place 2000: 39560
 - Place 1990: 0750
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 651194
 - Units: 256
 - Low-income units: 256
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 2896658
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MODEL CITY II. FKA STONECREST
 - Record status: Existing, unchanged

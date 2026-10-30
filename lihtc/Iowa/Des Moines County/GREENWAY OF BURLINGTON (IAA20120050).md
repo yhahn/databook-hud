@@ -1,13 +1,10 @@
 # Project: GREENWAY OF BURLINGTON (IAA20120050)
 
 - HUD ID: IAA20120050
-- HUD ID before: 
 - Project: GREENWAY OF BURLINGTON
 - Address: 2312 VALLEY ST
 - City: BURLINGTON
-- State: IA
 - ZIP: 52601
-- ZIP extension: 
 - State project ID: 10-10-261
 - Latitude: 40.811781
 - Longitude: -91.132199
@@ -22,9 +19,7 @@
 - Place 2000: 09550
 - Place 1990: 0560
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 2000000
 - Units: 134
 - Low-income units: 133
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

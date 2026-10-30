@@ -1,13 +1,10 @@
 # Project: MOUNTAIN VIEW VILLAGE IV (AKA20110015)
 
 - HUD ID: AKA20110015
-- HUD ID before: 
 - Project: MOUNTAIN VIEW VILLAGE IV
 - Address: 4210 MOUNTAIN VIEW DR
 - City: ANCHORAGE
-- State: AK
 - ZIP: 99508
-- ZIP extension: 
 - State project ID: AK-10-00113
 - Latitude: 61.224068
 - Longitude: -149.802067
@@ -22,9 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0140
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1389222
 - Units: 34
 - Low-income units: 34
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,17 +45,12 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS AKA2011501.
 - Record status: Existing, unchanged

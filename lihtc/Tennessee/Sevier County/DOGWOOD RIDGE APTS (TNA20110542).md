@@ -1,13 +1,10 @@
 # Project: DOGWOOD RIDGE APTS (TNA20110542)
 
 - HUD ID: TNA20110542
-- HUD ID before: 
 - Project: DOGWOOD RIDGE APTS
 - Address: 1263 SMITHWOOD RD
 - City: SEVIERVILLE
-- State: TN
 - ZIP: 37862
-- ZIP extension: 
 - State project ID: TN-08-048
 - Latitude: 35.843211
 - Longitude: -83.584737
@@ -22,9 +19,7 @@
 - Place 2000: 67120
 - Place 1990: 1280
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 631713
 - Units: 54
 - Low-income units: 54
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 5190276
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2011015.
 - Record status: Existing, unchanged

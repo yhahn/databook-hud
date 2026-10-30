@@ -1,13 +1,10 @@
 # Project: HOLLY WOODS AT SUNSET LAKE (NCA20150013)
 
 - HUD ID: NCA20150013
-- HUD ID before: 
 - Project: HOLLY WOODS AT SUNSET LAKE
 - Address: 2000 REEF COURT
 - City: HOLLY SPRINGS
-- State: NC
 - ZIP: 27540
-- ZIP extension: 
 - State project ID: 9134514
 - Latitude: 35.662852
 - Longitude: -78.796687
@@ -19,12 +16,8 @@
 - Tract 1990: 37183053200
 - Place 2020: 32260
 - Place 2010: 32260
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 593021
 - Units: 64
 - Low-income units: 64
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

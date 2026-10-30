@@ -1,13 +1,10 @@
 # Project: OPERA HOUSE APTS (NDA20030020)
 
 - HUD ID: NDA20030020
-- HUD ID before: 
 - Project: OPERA HOUSE APTS
 - Address: 318 FOURTH AVE NE
 - City: DEVILS LAKE
-- State: ND
 - ZIP: 58301
-- ZIP extension: 
 - State project ID: TC0204
 - Latitude: 48.111241
 - Longitude: -98.86012
@@ -22,9 +19,7 @@
 - Place 2000: 19420
 - Place 1990: 0415
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 67380
 - Units: 20
 - Low-income units: 20
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

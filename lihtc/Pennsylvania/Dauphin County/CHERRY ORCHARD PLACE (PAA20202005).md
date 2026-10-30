@@ -1,11 +1,9 @@
 # Project: CHERRY ORCHARD PLACE (PAA20202005)
 
 - HUD ID: PAA20202005
-- HUD ID before: 
 - Project: CHERRY ORCHARD PLACE
 - Address: 400 CHERRY ORCHARD DR
 - City: HARRISBURG
-- State: PA
 - ZIP: 17110
 - ZIP extension: 2823
 - State project ID: TC20180811
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42043021904
 - Tract 2010: 42043021901
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1171507
 - Units: 49
 - Low-income units: 43
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: Yes
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: VETERANS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

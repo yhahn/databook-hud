@@ -1,11 +1,9 @@
 # Project: CROWN AT TUSHAR MOUNTAIN (UTA20130006)
 
 - HUD ID: UTA20130006
-- HUD ID before: 
 - Project: CROWN AT TUSHAR MOUNTAIN
 - Address: 1301 EAST 160 NORTH
 - City: BEAVER
-- State: UT
 - ZIP: 84713
 - ZIP extension: 0000
 - State project ID: 2012-27
@@ -19,12 +17,9 @@
 - Tract 1990: 49001981100
 - Place 2020: 04060
 - Place 2010: 04060
-- Place 2000: 
 - Place 1990: 0050
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 66758
 - Units: 4
 - Low-income units: 4
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

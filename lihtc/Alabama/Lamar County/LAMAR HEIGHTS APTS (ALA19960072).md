@@ -1,13 +1,10 @@
 # Project: LAMAR HEIGHTS APTS (ALA19960072)
 
 - HUD ID: ALA19960072
-- HUD ID before: 
 - Project: LAMAR HEIGHTS APTS
 - Address: 1431 BUCK JACKSON RD
 - City: SULLIGENT
-- State: AL
 - ZIP: 35586
-- ZIP extension: 
 - State project ID: AL-96-0096
 - Latitude: 33.881747
 - Longitude: -88.144359
@@ -20,11 +17,8 @@
 - Place 2020: 73728
 - Place 2010: 73728
 - Place 2000: 04948
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 38027
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997105.
 - Record status: Existing, unchanged

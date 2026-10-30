@@ -1,11 +1,9 @@
 # Project: SNOWCREST APARTMENTS (MTA20050020)
 
 - HUD ID: MTA20050020
-- HUD ID before: 
 - Project: SNOWCREST APARTMENTS
 - Address: 124 SKIHI ST
 - City: DILLON
-- State: MT
 - ZIP: 59725
 - ZIP extension: 0000
 - State project ID: 03070
@@ -20,11 +18,8 @@
 - Place 2020: 20800
 - Place 2010: 20800
 - Place 2000: 20800
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 190535
 - Units: 24
 - Low-income units: 24
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

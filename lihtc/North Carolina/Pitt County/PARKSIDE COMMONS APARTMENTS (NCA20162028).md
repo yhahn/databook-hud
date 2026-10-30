@@ -1,13 +1,10 @@
 # Project: PARKSIDE COMMONS APARTMENTS (NCA20162028)
 
 - HUD ID: NCA20162028
-- HUD ID before: 
 - Project: PARKSIDE COMMONS APARTMENTS
 - Address: 901 JOHN HOPKINS DRIVE
 - City: GREENVILLE
-- State: NC
 - ZIP: 27834
-- ZIP extension: 
 - State project ID: 9168557
 - Latitude: 35.602724
 - Longitude: -77.414268
@@ -22,9 +19,7 @@
 - Place 2000: 28080
 - Place 1990: 1070
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 836065
 - Units: 98
 - Low-income units: 98
@@ -41,14 +36,12 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 25
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

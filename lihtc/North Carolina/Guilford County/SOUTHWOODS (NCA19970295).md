@@ -1,13 +1,10 @@
 # Project: SOUTHWOODS (NCA19970295)
 
 - HUD ID: NCA19970295
-- HUD ID before: 
 - Project: SOUTHWOODS
 - Address: 2305 2307 2309 AND 2311 COLUMBUS STREET
 - City: GREENSBORO
-- State: NC
 - ZIP: 27406
-- ZIP extension: 
 - State project ID: 9000688
 - Latitude: 36.0238
 - Longitude: -79.7897
@@ -22,9 +19,7 @@
 - Place 2000: 28000
 - Place 1990: 1065
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 146767
 - Units: 59
 - Low-income units: 59
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 59
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

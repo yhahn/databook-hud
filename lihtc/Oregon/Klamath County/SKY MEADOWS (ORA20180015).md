@@ -1,13 +1,10 @@
 # Project: SKY MEADOWS (ORA20180015)
 
 - HUD ID: ORA20180015
-- HUD ID before: 
 - Project: SKY MEADOWS
 - Address: 5145 SE HOMEDALE RD; 530 N 8TH ST; 1919 TUNNEL ST
 - City: KLAMATH FALLS
-- State: OR
 - ZIP: 97601
-- ZIP extension: 
 - State project ID: 3246
 - Latitude: 42.179142
 - Longitude: -121.722494
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 41035971400
 - Tract 2010: 41035971400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 39700
 - Place 2010: 39700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 955000
 - Units: 37
 - Low-income units: 36
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 500000
 - CDBG: No
@@ -70,7 +57,6 @@
 - Families: Yes
 - Elderly: Yes
 - Disabled: Yes
-- Homeless: 
 - Other population: Yes
 - Other population named: Workforce
 - Scattered site: Yes
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

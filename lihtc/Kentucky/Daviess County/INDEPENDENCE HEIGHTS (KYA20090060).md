@@ -1,13 +1,10 @@
 # Project: INDEPENDENCE HEIGHTS (KYA20090060)
 
 - HUD ID: KYA20090060
-- HUD ID before: 
 - Project: INDEPENDENCE HEIGHTS
 - Address: STRAWBRIDGE PLACE
 - City: OWENSBORO
-- State: KY
 - ZIP: 42301
-- ZIP extension: 
 - State project ID: KY-07-036
 - Latitude: 37.7701
 - Longitude: -87.0888
@@ -19,12 +16,9 @@
 - Tract 1990: 21059000400
 - Place 2020: 58620
 - Place 2010: 58620
-- Place 2000: 
 - Place 1990: 1495
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 275000
 - Units: 25
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +70,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: REMINGTON PARK RETIREMENT (UTA20000060)
 
 - HUD ID: UTA20000060
-- HUD ID before: 
 - Project: REMINGTON PARK RETIREMENT
 - Address: 495 WEST UTAH AVENUE
 - City: TOOELE
-- State: UT
 - ZIP: 84074
 - ZIP extension: 0000
 - State project ID: 1998-04
@@ -22,9 +20,7 @@
 - Place 2000: 76680
 - Place 1990: 0990
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 242633
 - Units: 48
 - Low-income units: 48
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: GOODWILL AT NORTH (PAA20153035)
 
 - HUD ID: PAA20153035
-- HUD ID before: 
 - Project: GOODWILL AT NORTH
 - Address: 1539 N MAIN AVE
 - City: SCRANTON
-- State: PA
 - ZIP: 18508
 - ZIP extension: 1848
 - State project ID: PA1012-1138
@@ -22,9 +20,7 @@
 - Place 2000: 69000
 - Place 1990: 7698
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1435594
 - Units: 58
 - Low-income units: 58
@@ -40,11 +36,7 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 58
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -62,8 +54,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
 - Record status: Existing, unchanged

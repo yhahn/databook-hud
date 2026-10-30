@@ -1,13 +1,10 @@
 # Project: SLAUSON STATION APTS (CAA20140443)
 
 - HUD ID: CAA20140443
-- HUD ID before: 
 - Project: SLAUSON STATION APTS
 - Address: 1717 E 61ST ST
 - City: LOS ANGELES
-- State: CA
 - ZIP: 90001
-- ZIP extension: 
 - State project ID: CA-11-901
 - Latitude: 33.984909
 - Longitude: -118.242634
@@ -22,9 +19,7 @@
 - Place 2000: 24477
 - Place 1990: 1020
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 545111
 - Units: 30
 - Low-income units: 29
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

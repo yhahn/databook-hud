@@ -1,13 +1,10 @@
 # Project: COUNTY CENTER CROSSING (VAA20060761)
 
 - HUD ID: VAA20060761
-- HUD ID before: 
 - Project: COUNTY CENTER CROSSING
 - Address: 7000 LAKOTA DR
 - City: WOODBRIDGE
-- State: VA
 - ZIP: 22192
-- ZIP extension: 
 - State project ID: 8787
 - Latitude: 38.673885
 - Longitude: -77.35181
@@ -22,9 +19,7 @@
 - Place 2000: 21088
 - Place 1990: 0357
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 619927
 - Units: 224
 - Low-income units: 224
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005062, VAA2004030.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: RESERVE AT SPRINGDALE (TXA20172031)
 
 - HUD ID: TXA20172031
-- HUD ID before: 
 - Project: RESERVE AT SPRINGDALE
 - Address: 5605 SPRINGDALE ROAD
 - City: AUSTIN
-- State: TX
 - ZIP: 78723
-- ZIP extension: 
 - State project ID: TX5082
 - Latitude: 30.298977
 - Longitude: -97.674054
@@ -16,16 +13,11 @@
 - Tract 2020: 48453002108
 - Tract 2010: 48453002108
 - Tract 2000: 48453002108
-- Tract 1990: 
 - Place 2020: 05000
 - Place 2010: 05000
 - Place 2000: 05000
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 292
 - Low-income units: 292
 - Units reported: 292
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

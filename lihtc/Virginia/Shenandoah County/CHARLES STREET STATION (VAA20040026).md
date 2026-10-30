@@ -1,13 +1,10 @@
 # Project: CHARLES STREET STATION (VAA20040026)
 
 - HUD ID: VAA20040026
-- HUD ID before: 
 - Project: CHARLES STREET STATION
 - Address: 135 S CHARLES ST
 - City: STRASBURG
-- State: VA
 - ZIP: 22657
-- ZIP extension: 
 - State project ID: 8330
 - Latitude: 38.985397
 - Longitude: -78.349359
@@ -22,9 +19,7 @@
 - Place 2000: 76000
 - Place 1990: 1190
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 83143
 - Units: 60
 - Low-income units: 60
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2004025, VAA2003025. FKA CHARLES STREET STATION I & II
 - Record status: Existing, unchanged

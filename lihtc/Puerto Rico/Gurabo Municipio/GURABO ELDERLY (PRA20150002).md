@@ -1,11 +1,9 @@
 # Project: GURABO ELDERLY (PRA20150002)
 
 - HUD ID: PRA20150002
-- HUD ID before: 
 - Project: GURABO ELDERLY
 - Address: PR 189 KM. 6.4
 - City: GURABO
-- State: PR
 - ZIP: 00748
 - ZIP extension: 0000
 - State project ID: 12-022
@@ -13,18 +11,10 @@
 - Longitude: -65.974
 - County FIPS: 72063
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 72063210504
-- Tract 2000: 
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 32823
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1396302
 - Units: 86
 - Low-income units: 86
@@ -40,8 +30,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +45,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

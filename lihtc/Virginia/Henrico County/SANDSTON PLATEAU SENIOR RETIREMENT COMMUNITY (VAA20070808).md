@@ -1,13 +1,10 @@
 # Project: SANDSTON PLATEAU SENIOR RETIREMENT COMMUNITY (VAA20070808)
 
 - HUD ID: VAA20070808
-- HUD ID before: 
 - Project: SANDSTON PLATEAU SENIOR RETIREMENT COMMUNITY
 - Address: 600 E WILLIAMSBURG RD
 - City: SANDSTON
-- State: VA
 - ZIP: 23150
-- ZIP extension: 
 - State project ID: 1103
 - Latitude: 37.519474
 - Longitude: -77.29757
@@ -19,12 +16,8 @@
 - Tract 1990: 51087201300
 - Place 2020: 70256
 - Place 2010: 70256
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 492588
 - Units: 100
 - Low-income units: 100
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005233. AKA SANDSTON PLATEAU SENIOR RET.
 - Record status: Existing, unchanged

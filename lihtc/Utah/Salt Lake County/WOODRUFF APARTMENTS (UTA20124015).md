@@ -1,11 +1,9 @@
 # Project: WOODRUFF APARTMENTS (UTA20124015)
 
 - HUD ID: UTA20124015
-- HUD ID before: 
 - Project: WOODRUFF APARTMENTS
 - Address: 235 SOUTH 200 EAST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84111
 - ZIP extension: 0000
 - State project ID: 2012-23
@@ -16,15 +14,11 @@
 - Tract 2020: 49035102100
 - Tract 2010: 49035102100
 - Tract 2000: 49035102100
-- Tract 1990: 
 - Place 2020: 67000
 - Place 2010: 67000
 - Place 2000: 67000
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 462864
 - Units: 48
 - Low-income units: 45
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

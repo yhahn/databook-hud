@@ -1,13 +1,10 @@
 # Project: BOLIVAR ESTATES (MSA20060020)
 
 - HUD ID: MSA20060020
-- HUD ID before: 
 - Project: BOLIVAR ESTATES
 - Address: 118 TURNTABLE PL
 - City: CLEVELAND
-- State: MS
 - ZIP: 38732
-- ZIP extension: 
 - State project ID: MS-05-007
 - Latitude: 33.73275
 - Longitude: -90.723239
@@ -22,9 +19,7 @@
 - Place 2000: 14260
 - Place 1990: 0235
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 435189
 - Units: 38
 - Low-income units: 37
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

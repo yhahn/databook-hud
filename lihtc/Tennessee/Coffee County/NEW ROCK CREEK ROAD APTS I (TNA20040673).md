@@ -1,13 +1,10 @@
 # Project: NEW ROCK CREEK ROAD APTS I (TNA20040673)
 
 - HUD ID: TNA20040673
-- HUD ID before: 
 - Project: NEW ROCK CREEK ROAD APTS I
 - Address: 306 NEW ROCK CREEK RD
 - City: TULLAHOMA
-- State: TN
 - ZIP: 37388
-- ZIP extension: 
 - State project ID: TN-03-011
 - Latitude: 35.343385
 - Longitude: -86.199237
@@ -22,9 +19,7 @@
 - Place 2000: 75320
 - Place 1990: 1465
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 1989
-- Allocation year note: 
 - Allocation amount: 14861
 - Units: 8
 - Low-income units: 8
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2004672, TNA2004670, TNA2004125, TNA2004060, TNA1989365, TNA2002075.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HARVESTING HOPE II (KYA20080077)
 
 - HUD ID: KYA20080077
-- HUD ID before: 
 - Project: HARVESTING HOPE II
 - Address: CELEBRATION WAY
 - City: CRESTWOOD
-- State: KY
 - ZIP: 40014
-- ZIP extension: 
 - State project ID: KY-06-031
 - Latitude: 38.3501
 - Longitude: -85.4492
@@ -16,15 +13,10 @@
 - Tract 2020: 21185030602
 - Tract 2010: 21185030602
 - Tract 2000: 21185030602
-- Tract 1990: 
 - Place 2020: 18496
 - Place 2010: 18496
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 240164
 - Units: 18
 - Low-income units: 18
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
@@ -78,8 +68,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

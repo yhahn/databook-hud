@@ -1,13 +1,10 @@
 # Project: SANDSTONE APTS (MSA19870021)
 
 - HUD ID: MSA19870021
-- HUD ID before: 
 - Project: SANDSTONE APTS
 - Address: 607 WALLACE DR
 - City: EDWARDS
-- State: MS
 - ZIP: 39066
-- ZIP extension: 
 - State project ID: 87-068
 - Latitude: 32.338321
 - Longitude: -90.596788
@@ -20,12 +17,8 @@
 - Place 2020: 21580
 - Place 2010: 21580
 - Place 2000: 07540
-- Place 1990: 
 - Year placed in service: 1987
-- Placed in service note: 
 - Allocation year: 1987
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

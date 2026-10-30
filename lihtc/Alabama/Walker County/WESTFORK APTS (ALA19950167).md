@@ -1,13 +1,10 @@
 # Project: WESTFORK APTS (ALA19950167)
 
 - HUD ID: ALA19950167
-- HUD ID before: 
 - Project: WESTFORK APTS
 - Address: 1406 EIGHTH ST NW
 - City: JASPER
-- State: AL
 - ZIP: 35503
-- ZIP extension: 
 - State project ID: AL-95-0084
 - Latitude: 33.856675
 - Longitude: -87.291663
@@ -22,9 +19,7 @@
 - Place 2000: 38416
 - Place 1990: 0960
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 162000
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 885000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1996170.
 - Record status: Existing, unchanged

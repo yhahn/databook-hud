@@ -1,13 +1,10 @@
 # Project: THE SPRINGS II (IDA20160001)
 
 - HUD ID: IDA20160001
-- HUD ID before: 
 - Project: THE SPRINGS II
 - Address: 225 VALLEY SPRINGS ROAD
 - City: MCCALL
-- State: ID
 - ZIP: 83638
-- ZIP extension: 
 - State project ID: HC1510
 - Latitude: 44.89681
 - Longitude: -116.092911
@@ -16,15 +13,10 @@
 - Tract 2020: 16085970200
 - Tract 2010: 16085970200
 - Tract 2000: 16085970200
-- Tract 1990: 
 - Place 2020: 48790
 - Place 2010: 48790
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 543539
 - Units: 36
 - Low-income units: 32
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: LAMOILLE VIEW REDEVELOPMENT (VTA20130005)
 
 - HUD ID: VTA20130005
-- HUD ID before: 
 - Project: LAMOILLE VIEW REDEVELOPMENT
 - Address: 165 PARK ST
 - City: MORRISVILLE
-- State: VT
 - ZIP: 05661
-- ZIP extension: 
 - State project ID: 0090
 - Latitude: 44.563542
 - Longitude: -72.592535
@@ -20,11 +17,8 @@
 - Place 2020: 46825
 - Place 2010: 46825
 - Place 2000: 46825
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 107000
 - Units: 25
 - Low-income units: 25
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

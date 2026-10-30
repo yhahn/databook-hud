@@ -1,13 +1,10 @@
 # Project: GRANT STREET EXTENSION (VAA20070788)
 
 - HUD ID: VAA20070788
-- HUD ID before: 
 - Project: GRANT STREET EXTENSION
 - Address: 299 GARFIELD ST
 - City: DANVILLE
-- State: VA
 - ZIP: 24541
-- ZIP extension: 
 - State project ID: 1181
 - Latitude: 36.570712
 - Longitude: -79.387304
@@ -22,9 +19,7 @@
 - Place 2000: 21344
 - Place 1990: 0370
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 390259
 - Units: 44
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006110.
 - Record status: Existing, unchanged

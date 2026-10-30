@@ -1,11 +1,9 @@
 # Project: MEADOW VIEW II (UTA19940050)
 
 - HUD ID: UTA19940050
-- HUD ID before: 
 - Project: MEADOW VIEW II
 - Address: 540 SOUTH 70 EAST
 - City: KAMAS
-- State: UT
 - ZIP: 84036
 - ZIP extension: 0000
 - State project ID: 1994-18
@@ -20,11 +18,8 @@
 - Place 2020: 39810
 - Place 2010: 39810
 - Place 2000: 39810
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 13570
 - Units: 16
 - Low-income units: 16
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

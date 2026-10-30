@@ -1,13 +1,10 @@
 # Project: MOSBY HEIGHTS APTS (VAA20060788)
 
 - HUD ID: VAA20060788
-- HUD ID before: 
 - Project: MOSBY HEIGHTS APTS
 - Address: 2552 MOSBY CT
 - City: HARRISONBURG
-- State: VA
 - ZIP: 22801
-- ZIP extension: 
 - State project ID: 4114
 - Latitude: 38.420389
 - Longitude: -78.900174
@@ -22,9 +19,7 @@
 - Place 2000: 35624
 - Place 1990: 0600
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 273455
 - Units: 112
 - Low-income units: 112
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005135.
 - Record status: Existing, unchanged

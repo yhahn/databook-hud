@@ -1,11 +1,9 @@
 # Project: PARK PLACE APARTMENTS (PAA20222091)
 
 - HUD ID: PAA20222091
-- HUD ID before: 
 - Project: PARK PLACE APARTMENTS
 - Address: 155 E PARK ST
 - City: ELIZABETHTOWN
-- State: PA
 - ZIP: 17022
 - ZIP extension: 2343
 - State project ID: TC20200143
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42071010702
 - Tract 2010: 42071010702
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 23016
 - Place 2010: 23016
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 213513
 - Units: 32
 - Low-income units: 32
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: Yes
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +62,9 @@
 - Other population: Yes
 - Other population named: SEC. 8 ELIGIBLE
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: New

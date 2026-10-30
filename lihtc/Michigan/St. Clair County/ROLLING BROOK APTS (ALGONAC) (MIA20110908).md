@@ -1,13 +1,10 @@
 # Project: ROLLING BROOK APTS (ALGONAC) (MIA20110908)
 
 - HUD ID: MIA20110908
-- HUD ID before: 
 - Project: ROLLING BROOK APTS (ALGONAC)
 - Address: 1500 FRUIT ST
 - City: CLAY
-- State: MI
 - ZIP: 48001
-- ZIP extension: 
 - State project ID: MI-3426
 - Latitude: 42.623867
 - Longitude: -82.541513
@@ -22,9 +19,7 @@
 - Place 2000: 01180
 - Place 1990: 0035
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 455033
 - Units: 74
 - Low-income units: 74
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 71
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

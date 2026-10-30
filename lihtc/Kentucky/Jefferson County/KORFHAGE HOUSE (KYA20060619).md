@@ -1,13 +1,10 @@
 # Project: KORFHAGE HOUSE (KYA20060619)
 
 - HUD ID: KYA20060619
-- HUD ID before: 
 - Project: KORFHAGE HOUSE
 - Address: SOUTH SHELBY STREET
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40202
-- ZIP extension: 
 - State project ID: KY-04-029
 - Latitude: 38.2583
 - Longitude: -85.7533
@@ -16,15 +13,10 @@
 - Tract 2020: 21111004900
 - Tract 2010: 21111004900
 - Tract 2000: 21111004900
-- Tract 1990: 
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 39868
 - Units: 2
 - Low-income units: 2
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: MIDDLEBURY SOUTH VILLAGE (VTA20070005)
 
 - HUD ID: VTA20070005
-- HUD ID before: 
 - Project: MIDDLEBURY SOUTH VILLAGE
 - Address: 30 S VILLAGE GRN
 - City: MIDDLEBURY
-- State: VT
 - ZIP: 05753
-- ZIP extension: 
 - State project ID: 0336
 - Latitude: 44.003293
 - Longitude: -73.158309
@@ -22,9 +19,7 @@
 - Place 2000: 44275
 - Place 1990: 1528
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 531000
 - Units: 30
 - Low-income units: 25
@@ -40,15 +35,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 315000
 - CDBG: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA SOUTH VILLAGE HOUSING
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: AUSTIN'S RIDGE (NCA20060020)
 
 - HUD ID: NCA20060020
-- HUD ID before: 
 - Project: AUSTIN'S RIDGE
 - Address: 501 AUSTIN'S RIDGE CIRCLE
 - City: SOUTHERN PINES
-- State: NC
 - ZIP: 28387
-- ZIP extension: 
 - State project ID: 9001319
 - Latitude: 35.160541
 - Longitude: -79.406344
@@ -19,12 +16,9 @@
 - Tract 1990: 37125951100
 - Place 2020: 63120
 - Place 2010: 63120
-- Place 2000: 
 - Place 1990: 0005
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 366080
 - Units: 52
 - Low-income units: 52
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 26
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

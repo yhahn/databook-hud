@@ -1,11 +1,9 @@
 # Project: THE GROVES APARTMENTS (MNB20141009)
 
 - HUD ID: MNB20141009
-- HUD ID before: 
 - Project: THE GROVES APARTMENTS
 - Address: 7752 HEMINGWAY AVENUE SOUTH
 - City: COTTAGE GROVE
-- State: MN
 - ZIP: 55016
 - ZIP extension: 1834
 - State project ID: D2165
@@ -16,15 +14,11 @@
 - Tract 2020: 27163071210
 - Tract 2010: 27163071206
 - Tract 2000: 27163071206
-- Tract 1990: 
 - Place 2020: 13456
 - Place 2010: 13456
 - Place 2000: 13456
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 716101
 - Units: 68
 - Low-income units: 68
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 68
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -68,18 +61,9 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: PARK VISTA APTS (DCB20110127)
 
 - HUD ID: DCB20110127
-- HUD ID before: 
 - Project: PARK VISTA APTS
 - Address: 3400 13TH ST SE
 - City: WASHINGTON
-- State: DC
 - ZIP: 20032
-- ZIP extension: 
 - State project ID: DCB2011005
 - Latitude: 38.841856
 - Longitude: -76.988285
@@ -22,9 +19,7 @@
 - Place 2000: 50000
 - Place 1990: 0005
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 83
 - Low-income units: 83
@@ -35,13 +30,8 @@
 - 2-bedroom units: 72
 - 3-bedroom units: 0
 - 4-bedroom units: 0
-- Construction: 
-- Credit: 
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

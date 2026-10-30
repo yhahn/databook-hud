@@ -1,13 +1,10 @@
 # Project: HORSE CAVE FAMILY APARTMENTS (KYA19960060)
 
 - HUD ID: KYA19960060
-- HUD ID before: 
 - Project: HORSE CAVE FAMILY APARTMENTS
 - Address: 315 HARPER DR.
 - City: HORSE CAVE
-- State: KY
 - ZIP: 42749
-- ZIP extension: 
 - State project ID: KY-95-104
 - Latitude: 37.174671
 - Longitude: -85.885196
@@ -19,12 +16,8 @@
 - Tract 1990: 21099970400
 - Place 2020: 38008
 - Place 2010: 38008
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

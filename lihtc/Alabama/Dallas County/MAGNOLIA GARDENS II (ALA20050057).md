@@ -1,13 +1,10 @@
 # Project: MAGNOLIA GARDENS II (ALA20050057)
 
 - HUD ID: ALA20050057
-- HUD ID before: 
 - Project: MAGNOLIA GARDENS II
 - Address: 1941 MARIE FOSTER ST
 - City: SELMA
-- State: AL
 - ZIP: 36703
-- ZIP extension: 
 - State project ID: AL-05-0016
 - Latitude: 32.436807
 - Longitude: -87.014654
@@ -22,9 +19,7 @@
 - Place 2000: 69120
 - Place 1990: 1555
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 680984
 - Units: 72
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006065.
 - Record status: Existing, unchanged

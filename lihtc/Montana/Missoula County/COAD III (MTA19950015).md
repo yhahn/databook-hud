@@ -1,11 +1,9 @@
 # Project: COAD III (MTA19950015)
 
 - HUD ID: MTA19950015
-- HUD ID before: 
 - Project: COAD III
 - Address: 1250 SOUTH 1ST WEST
 - City: MISSOULA
-- State: MT
 - ZIP: 59801
 - ZIP extension: 0000
 - State project ID: 94150
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 39137
 - Units: 6
 - Low-income units: 6
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

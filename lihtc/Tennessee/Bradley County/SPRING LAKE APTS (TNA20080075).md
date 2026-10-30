@@ -1,13 +1,10 @@
 # Project: SPRING LAKE APTS (TNA20080075)
 
 - HUD ID: TNA20080075
-- HUD ID before: 
 - Project: SPRING LAKE APTS
 - Address: 1525 SPRING PL RD SE
 - City: CLEVELAND
-- State: TN
 - ZIP: 37311
-- ZIP extension: 
 - State project ID: TN-06-031
 - Latitude: 35.137185
 - Longitude: -84.865406
@@ -22,9 +19,7 @@
 - Place 2000: 15400
 - Place 1990: 0255
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 557779
 - Units: 64
 - Low-income units: 64
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

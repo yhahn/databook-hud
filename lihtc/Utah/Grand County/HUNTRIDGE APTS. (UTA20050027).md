@@ -1,11 +1,9 @@
 # Project: HUNTRIDGE APTS. (UTA20050027)
 
 - HUD ID: UTA20050027
-- HUD ID before: 
 - Project: HUNTRIDGE APTS.
 - Address: 622 KANE CREEK BLVD.
 - City: MOAB
-- State: UT
 - ZIP: 84532
 - ZIP extension: 0000
 - State project ID: 2004-30
@@ -20,11 +18,8 @@
 - Place 2020: 50700
 - Place 2010: 50700
 - Place 2000: 50700
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 79831
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

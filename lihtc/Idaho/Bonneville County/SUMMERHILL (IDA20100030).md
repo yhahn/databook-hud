@@ -1,13 +1,10 @@
 # Project: SUMMERHILL (IDA20100030)
 
 - HUD ID: IDA20100030
-- HUD ID before: 
 - Project: SUMMERHILL
 - Address: 965 HOOPES AVENUE
 - City: IDAHO FALLS
-- State: ID
 - ZIP: 83404
-- ZIP extension: 
 - State project ID: HC0912
 - Latitude: 43.487659
 - Longitude: -111.993097
@@ -19,12 +16,9 @@
 - Tract 1990: 16019970500
 - Place 2020: 39700
 - Place 2010: 39700
-- Place 2000: 
 - Place 1990: 0030
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 676122
 - Units: 80
 - Low-income units: 71
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 71
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

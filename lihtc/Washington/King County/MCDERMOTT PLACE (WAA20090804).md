@@ -1,13 +1,10 @@
 # Project: MCDERMOTT PLACE (WAA20090804)
 
 - HUD ID: WAA20090804
-- HUD ID before: 
 - Project: MCDERMOTT PLACE
 - Address: 12740 33RD AVE NE
 - City: SEATTLE
-- State: WA
 - ZIP: 98125
-- ZIP extension: 
 - State project ID: WA-08-00111
 - Latitude: 47.722197
 - Longitude: -122.29189
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 1140
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 920625
 - Units: 75
 - Low-income units: 75
@@ -40,16 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA0000403.
 - Record status: Existing, unchanged

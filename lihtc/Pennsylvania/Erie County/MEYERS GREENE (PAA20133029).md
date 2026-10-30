@@ -1,11 +1,9 @@
 # Project: MEYERS GREENE (PAA20133029)
 
 - HUD ID: PAA20133029
-- HUD ID before: 
 - Project: MEYERS GREENE
 - Address: 303 CHORD RD
 - City: CORRY
-- State: PA
 - ZIP: 16407
 - ZIP extension: 2133
 - State project ID: TC20120307
@@ -16,15 +14,11 @@
 - Tract 2020: 42049011900
 - Tract 2010: 42049011900
 - Tract 2000: 42049011900
-- Tract 1990: 
 - Place 2020: 16296
 - Place 2010: 16296
 - Place 2000: 16296
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 647622
 - Units: 52
 - Low-income units: 52
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 52
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

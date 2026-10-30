@@ -1,13 +1,10 @@
 # Project: CALGORY IAPARTMENTS II (NDA19950015)
 
 - HUD ID: NDA19950015
-- HUD ID before: 
 - Project: CALGORY IAPARTMENTS II
 - Address: 3540 N 19TH ST
 - City: BISMARCK
-- State: ND
 - ZIP: 58503
-- ZIP extension: 
 - State project ID: ND-93-05
 - Latitude: 46.843548
 - Longitude: -100.763522
@@ -20,11 +17,8 @@
 - Place 2020: 07200
 - Place 2010: 07200
 - Place 2000: 07200
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 73455
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

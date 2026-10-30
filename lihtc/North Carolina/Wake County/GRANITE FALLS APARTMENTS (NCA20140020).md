@@ -1,13 +1,10 @@
 # Project: GRANITE FALLS APARTMENTS (NCA20140020)
 
 - HUD ID: NCA20140020
-- HUD ID before: 
 - Project: GRANITE FALLS APARTMENTS
 - Address: 404 HUNTER FALLS LANE
 - City: ROLESVILLE
-- State: NC
 - ZIP: 27571
-- ZIP extension: 
 - State project ID: 9133845
 - Latitude: 35.919744
 - Longitude: -78.468989
@@ -19,12 +16,8 @@
 - Tract 1990: 37183054202
 - Place 2020: 57640
 - Place 2010: 57640
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 700339
 - Units: 72
 - Low-income units: 72
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

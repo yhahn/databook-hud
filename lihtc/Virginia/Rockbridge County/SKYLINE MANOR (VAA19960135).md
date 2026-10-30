@@ -1,13 +1,10 @@
 # Project: SKYLINE MANOR (VAA19960135)
 
 - HUD ID: VAA19960135
-- HUD ID before: 
 - Project: SKYLINE MANOR
 - Address: 800 FITZLEE ST
 - City: GLASGOW
-- State: VA
 - ZIP: 24555
-- ZIP extension: 
 - State project ID: SKYLINEMANOR
 - Latitude: 37.633026
 - Longitude: -79.448893
@@ -20,11 +17,8 @@
 - Place 2020: 31136
 - Place 2010: 31136
 - Place 2000: 31136
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 49598
 - Units: 32
 - Low-income units: 32
@@ -38,10 +32,6 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

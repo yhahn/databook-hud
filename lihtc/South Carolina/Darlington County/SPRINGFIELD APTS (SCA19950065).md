@@ -1,13 +1,10 @@
 # Project: SPRINGFIELD APTS (SCA19950065)
 
 - HUD ID: SCA19950065
-- HUD ID before: 
 - Project: SPRINGFIELD APTS
 - Address: 100 SPRINGFIELD CIR
 - City: DARLINGTON
-- State: SC
 - ZIP: 29532
-- ZIP extension: 
 - State project ID: SC-94-019
 - Latitude: 34.31405
 - Longitude: -79.873713
@@ -20,11 +17,8 @@
 - Place 2020: 18565
 - Place 2010: 18565
 - Place 2000: 18565
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 77824
 - Units: 71
 - Low-income units: 71
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1995518.
 - Record status: Existing, unchanged

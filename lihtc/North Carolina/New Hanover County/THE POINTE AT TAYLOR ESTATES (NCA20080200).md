@@ -1,13 +1,10 @@
 # Project: THE POINTE AT TAYLOR ESTATES (NCA20080200)
 
 - HUD ID: NCA20080200
-- HUD ID before: 
 - Project: THE POINTE AT TAYLOR ESTATES
 - Address: 516 TAYLOR STREET
 - City: WILMINGTON
-- State: NC
 - ZIP: 28401
-- ZIP extension: 
 - State project ID: 9000660
 - Latitude: 34.249997
 - Longitude: -77.943575
@@ -22,9 +19,7 @@
 - Place 2000: 74440
 - Place 1990: 2755
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 460332
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: BAYLEAF PLANTATION (NCA20060030)
 
 - HUD ID: NCA20060030
-- HUD ID before: 
 - Project: BAYLEAF PLANTATION
 - Address: COWELL FARM ROAD
 - City: WASHINGTON
-- State: NC
 - ZIP: 27889
-- ZIP extension: 
 - State project ID: 9001692
 - Latitude: 35.5673
 - Longitude: -77.0413
@@ -19,12 +16,9 @@
 - Tract 1990: 37013990400
 - Place 2020: 71220
 - Place 2010: 71220
-- Place 2000: 
 - Place 1990: 2655
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 279856
 - Units: 36
 - Low-income units: 36
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 15
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

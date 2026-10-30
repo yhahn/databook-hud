@@ -1,11 +1,9 @@
 # Project: FRANKLIN SCHOOL APARTMENTS (MTA20109002)
 
 - HUD ID: MTA20109002
-- HUD ID before: 
 - Project: FRANKLIN SCHOOL APARTMENTS
 - Address: 820 FIRST AVENUE SW
 - City: GREAT FALLS
-- State: MT
 - ZIP: 59404
 - ZIP extension: 0000
 - State project ID: 09050
@@ -22,10 +20,7 @@
 - Place 2000: 32800
 - Place 1990: 0295
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -40,15 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -79,7 +71,5 @@
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA0000040.
 - Record status: Updated

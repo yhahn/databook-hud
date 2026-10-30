@@ -1,13 +1,10 @@
 # Project: VILLA HERMOSA APARTMENTS, PHASE III (CAA20220033)
 
 - HUD ID: CAA20220033
-- HUD ID before: 
 - Project: VILLA HERMOSA APARTMENTS, PHASE III
 - Address: 83801 DR. CARREON BLVD
 - City: INDIO
-- State: CA
 - ZIP: 92201
-- ZIP extension: 
 - State project ID: CA-2020-003
 - Latitude: 33.707573
 - Longitude: -116.203888
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06065049501
 - Tract 2010: 06065049500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 36448
 - Place 2010: 36448
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 2500000
 - Units: 100
 - Low-income units: 99
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 99
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: Yes
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +55,6 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Farmworker
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

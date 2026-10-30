@@ -1,13 +1,10 @@
 # Project: NUNAN STREET APTS (SCA19990080)
 
 - HUD ID: SCA19990080
-- HUD ID before: 
 - Project: NUNAN STREET APTS
 - Address: 19 NUNAN ST
 - City: CHARLESTON
-- State: SC
 - ZIP: 29403
-- ZIP extension: 
 - State project ID: SC-97-003
 - Latitude: 32.792711
 - Longitude: -79.949971
@@ -22,9 +19,7 @@
 - Place 2000: 13330
 - Place 1990: 0245
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 143489
 - Units: 20
 - Low-income units: 20
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 148790
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

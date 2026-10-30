@@ -1,13 +1,10 @@
 # Project: LOW INCOME HOUSING (MSA19880117)
 
 - HUD ID: MSA19880117
-- HUD ID before: 
 - Project: LOW INCOME HOUSING
 - Address: 509 MCCOOL ST
 - City: GREENWOOD
-- State: MS
 - ZIP: 38930
-- ZIP extension: 
 - State project ID: 88-126
 - Latitude: 33.519207
 - Longitude: -90.153625
@@ -22,14 +19,10 @@
 - Place 2000: 29340
 - Place 1990: 0505
 - Year placed in service: 1988
-- Placed in service note: 
 - Allocation year: 1988
-- Allocation year note: 
-- Allocation amount: 
 - Units: 1
 - Low-income units: 1
 - Units reported: 1
-- Low-income reported: 
 - Efficiencies: 0
 - 1-bedroom units: 0
 - 2-bedroom units: 0
@@ -39,9 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA0000455.
 - Record status: Existing, unchanged

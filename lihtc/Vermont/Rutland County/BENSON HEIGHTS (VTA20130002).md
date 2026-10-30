@@ -1,13 +1,10 @@
 # Project: BENSON HEIGHTS (VTA20130002)
 
 - HUD ID: VTA20130002
-- HUD ID before: 
 - Project: BENSON HEIGHTS
 - Address: 2747 STAGE RD
 - City: BENSON
-- State: VT
 - ZIP: 05743
-- ZIP extension: 
 - State project ID: 0022
 - Latitude: 43.71013
 - Longitude: -73.310457
@@ -19,12 +16,8 @@
 - Tract 1990: 50021962300
 - Place 2020: 05125
 - Place 2010: 05125
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 93271
 - Units: 15
 - Low-income units: 15
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

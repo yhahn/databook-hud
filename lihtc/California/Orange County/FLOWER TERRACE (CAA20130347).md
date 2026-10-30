@@ -1,13 +1,10 @@
 # Project: FLOWER TERRACE (CAA20130347)
 
 - HUD ID: CAA20130347
-- HUD ID before: 
 - Project: FLOWER TERRACE
 - Address: 1401 N FLOWER ST
 - City: SANTA ANA
-- State: CA
 - ZIP: 92706
-- ZIP extension: 
 - State project ID: CA-12-893
 - Latitude: 33.75746
 - Longitude: -117.876185
@@ -22,9 +19,7 @@
 - Place 2000: 69000
 - Place 1990: 2570
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1304984
 - Units: 200
 - Low-income units: 198
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA WASHINGTON PLACE
 - Record status: Existing, unchanged

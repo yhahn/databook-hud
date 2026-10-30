@@ -1,13 +1,10 @@
 # Project: WOODS LANDING (VAA20150037)
 
 - HUD ID: VAA20150037
-- HUD ID before: 
 - Project: WOODS LANDING
 - Address: 615 MOCK AVENUE
 - City: DAMASCUS
-- State: VA
 - ZIP: 24236
-- ZIP extension: 
 - State project ID: 1158
 - Latitude: 36.632405
 - Longitude: -81.79279
@@ -20,11 +17,8 @@
 - Place 2020: 21184
 - Place 2010: 21184
 - Place 2000: 21184
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 220000
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1994140.
 - Record status: Existing, unchanged

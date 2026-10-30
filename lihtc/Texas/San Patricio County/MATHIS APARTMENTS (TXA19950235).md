@@ -1,13 +1,10 @@
 # Project: MATHIS APARTMENTS (TXA19950235)
 
 - HUD ID: TXA19950235
-- HUD ID before: 
 - Project: MATHIS APARTMENTS
 - Address: 500 FREEMAN ST
 - City: MATHIS
-- State: TX
 - ZIP: 78368
-- ZIP extension: 
 - State project ID: TX1223
 - Latitude: 28.103441
 - Longitude: -97.825728
@@ -22,10 +19,7 @@
 - Place 2000: 47040
 - Place 1990: 2720
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 32
 - Low-income units: 32
 - Units reported: 32
@@ -40,15 +34,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

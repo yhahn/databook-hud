@@ -1,13 +1,10 @@
 # Project: GREENVILLE ARMS, ALP (SCA20050071)
 
 - HUD ID: SCA20050071
-- HUD ID before: 
 - Project: GREENVILLE ARMS, ALP
 - Address: 200 ASHE DR
 - City: GREENVILLE
-- State: SC
 - ZIP: 29617
-- ZIP extension: 
 - State project ID: SC-50-303
 - Latitude: 34.860607
 - Longitude: -82.455868
@@ -22,9 +19,7 @@
 - Place 2000: 05770
 - Place 1990: 0117
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 190705
 - Units: 100
 - Low-income units: 100
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2007065.
 - Record status: Existing, unchanged

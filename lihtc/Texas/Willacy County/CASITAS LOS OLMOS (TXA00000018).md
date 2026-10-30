@@ -1,13 +1,10 @@
 # Project: CASITAS LOS OLMOS (TXA00000018)
 
 - HUD ID: TXA00000018
-- HUD ID before: 
 - Project: CASITAS LOS OLMOS
 - Address: 380 FM 3168
 - City: RAYMONDVILLE
-- State: TX
 - ZIP: 78580
-- ZIP extension: 
 - State project ID: TX5012
 - Latitude: 26.466824
 - Longitude: -97.779136
@@ -21,11 +18,8 @@
 - Place 2010: 60836
 - Place 2000: 60836
 - Place 1990: 3480
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2014
-- Allocation year note: 
-- Allocation amount: 
 - Units: 80
 - Low-income units: 80
 - Units reported: 80
@@ -48,7 +42,6 @@
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +68,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Non-metro
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: GARDEN PARK (TNA20030080)
 
 - HUD ID: TNA20030080
-- HUD ID before: 
 - Project: GARDEN PARK
 - Address: 1049 GARDEN MEADOWS DR
 - City: PULASKI
-- State: TN
 - ZIP: 38478
-- ZIP extension: 
 - State project ID: TN-01-055
 - Latitude: 35.189371
 - Longitude: -87.047785
@@ -22,9 +19,7 @@
 - Place 2000: 61040
 - Place 1990: 1150
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 161755
 - Units: 53
 - Low-income units: 53
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA TULIP COVE APTS.
 - Record status: Existing, unchanged

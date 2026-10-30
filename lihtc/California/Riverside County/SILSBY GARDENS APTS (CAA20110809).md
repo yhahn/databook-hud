@@ -1,13 +1,10 @@
 # Project: SILSBY GARDENS APTS (CAA20110809)
 
 - HUD ID: CAA20110809
-- HUD ID before: 
 - Project: SILSBY GARDENS APTS
 - Address: 200 N NINTH ST
 - City: BLYTHE
-- State: CA
 - ZIP: 92225
-- ZIP extension: 
 - State project ID: CA-11-810
 - Latitude: 33.61285
 - Longitude: -114.584868
@@ -22,9 +19,7 @@
 - Place 2000: 07218
 - Place 1990: 0290
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 227052
 - Units: 51
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: YUCAIPA SENIOR TERRACE (CAA20120180)
 
 - HUD ID: CAA20120180
-- HUD ID before: 
 - Project: YUCAIPA SENIOR TERRACE
 - Address: 34967 YUCAIPA BLVD
 - City: YUCAIPA
-- State: CA
 - ZIP: 92399
-- ZIP extension: 
 - State project ID: CA-11-808
 - Latitude: 34.033704
 - Longitude: -117.041717
@@ -22,9 +19,7 @@
 - Place 2000: 87042
 - Place 1990: 3186
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 333151
 - Units: 44
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 1462141
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PROVIDENCE PLACE APTS (ALA20110031)
 
 - HUD ID: ALA20110031
-- HUD ID before: 
 - Project: PROVIDENCE PLACE APTS
 - Address: 3503 38TH ST
 - City: NORTHPORT
-- State: AL
 - ZIP: 35473
-- ZIP extension: 
 - State project ID: AL-10-0062
 - Latitude: 33.245098
 - Longitude: -87.590824
@@ -22,9 +19,7 @@
 - Place 2000: 55200
 - Place 1990: 1275
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 826223
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1638930
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA HUNTINGTON APTS OR THE LANDING
 - Record status: Existing, unchanged

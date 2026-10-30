@@ -1,13 +1,10 @@
 # Project: THE VERANDA (TXA20172046)
 
 - HUD ID: TXA20172046
-- HUD ID before: 
 - Project: THE VERANDA
 - Address: 2420 E. MCKINNEY STREET
 - City: DENTON
-- State: TX
 - ZIP: 76209
-- ZIP extension: 
 - State project ID: TX5099
 - Latitude: 33.215296
 - Longitude: -97.103603
@@ -16,16 +13,11 @@
 - Tract 2020: 48121021203
 - Tract 2010: 48121021201
 - Tract 2000: 48121021200
-- Tract 1990: 
 - Place 2020: 19972
 - Place 2010: 19972
 - Place 2000: 19972
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 322
 - Low-income units: 322
 - Units reported: 322
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

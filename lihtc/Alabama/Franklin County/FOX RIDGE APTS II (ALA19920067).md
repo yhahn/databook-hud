@@ -1,13 +1,10 @@
 # Project: FOX RIDGE APTS II (ALA19920067)
 
 - HUD ID: ALA19920067
-- HUD ID before: 
 - Project: FOX RIDGE APTS II
 - Address: 200 FOXRIDGE PLZ
 - City: RUSSELLVILLE
-- State: AL
 - ZIP: 35654
-- ZIP extension: 
 - State project ID: AL-92-0025
 - Latitude: 34.486965
 - Longitude: -87.732429
@@ -20,11 +17,8 @@
 - Place 2020: 67056
 - Place 2010: 67056
 - Place 2000: 67056
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 34403
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1993055.
 - Record status: Existing, unchanged

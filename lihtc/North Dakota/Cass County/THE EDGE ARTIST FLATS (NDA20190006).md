@@ -1,11 +1,9 @@
 # Project: THE EDGE ARTIST FLATS (NDA20190006)
 
 - HUD ID: NDA20190006
-- HUD ID before: 
 - Project: THE EDGE ARTIST FLATS
 - Address: 1321 5TH AVENUE N
 - City: FARGO
-- State: ND
 - ZIP: 58102
 - ZIP extension: 0000
 - State project ID: TC1806
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 38017000602
 - Tract 2010: 38017000600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 25700
 - Place 2010: 25700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 740000
 - Units: 42
 - Low-income units: 42
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

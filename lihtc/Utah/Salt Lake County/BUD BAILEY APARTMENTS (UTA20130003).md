@@ -1,11 +1,9 @@
 # Project: BUD BAILEY APARTMENTS (UTA20130003)
 
 - HUD ID: UTA20130003
-- HUD ID before: 
 - Project: BUD BAILEY APARTMENTS
 - Address: 3983 SOUTH WEST TEMPLE
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84107
 - ZIP extension: 0000
 - State project ID: 2012-06
@@ -22,9 +20,7 @@
 - Place 2000: 50150
 - Place 1990: 0593
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 62
 - Low-income units: 61
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

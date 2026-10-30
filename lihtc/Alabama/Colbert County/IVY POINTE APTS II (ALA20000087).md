@@ -1,13 +1,10 @@
 # Project: IVY POINTE APTS II (ALA20000087)
 
 - HUD ID: ALA20000087
-- HUD ID before: 
 - Project: IVY POINTE APTS II
 - Address: 400 JOHN ALDRIDGE DR
 - City: TUSCUMBIA
-- State: AL
 - ZIP: 35674
-- ZIP extension: 
 - State project ID: AL-00-0038
 - Latitude: 34.725509
 - Longitude: -87.679189
@@ -22,9 +19,7 @@
 - Place 2000: 53016
 - Place 1990: 1725
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 275377
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 872635
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2001085.
 - Record status: Existing, unchanged

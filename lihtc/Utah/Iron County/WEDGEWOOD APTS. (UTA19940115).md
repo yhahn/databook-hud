@@ -1,11 +1,9 @@
 # Project: WEDGEWOOD APTS. (UTA19940115)
 
 - HUD ID: UTA19940115
-- HUD ID before: 
 - Project: WEDGEWOOD APTS.
 - Address: 1888 NO. WEDGEWOOD LANE
 - City: CEDAR CITY
-- State: UT
 - ZIP: 84720
 - ZIP extension: 0000
 - State project ID: 1993-05
@@ -16,15 +14,11 @@
 - Tract 2020: 49021110501
 - Tract 2010: 49021110500
 - Tract 2000: 49021110500
-- Tract 1990: 
 - Place 2020: 11320
 - Place 2010: 11320
 - Place 2000: 11320
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 50181
 - Units: 24
 - Low-income units: 23
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

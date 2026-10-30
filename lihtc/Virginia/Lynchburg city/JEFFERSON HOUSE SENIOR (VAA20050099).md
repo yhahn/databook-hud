@@ -1,13 +1,10 @@
 # Project: JEFFERSON HOUSE SENIOR (VAA20050099)
 
 - HUD ID: VAA20050099
-- HUD ID before: 
 - Project: JEFFERSON HOUSE SENIOR
 - Address: 1818 LANGHORNE SQ
 - City: LYNCHBURG
-- State: VA
 - ZIP: 24501
-- ZIP extension: 
 - State project ID: 8927
 - Latitude: 37.414466
 - Longitude: -79.174676
@@ -22,9 +19,7 @@
 - Place 2000: 47672
 - Place 1990: 0760
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 126671
 - Units: 101
 - Low-income units: 98
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

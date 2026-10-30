@@ -1,13 +1,10 @@
 # Project: KINGMAN VETERAN VILLAS (AZA20200006)
 
 - HUD ID: AZA20200006
-- HUD ID before: 
 - Project: KINGMAN VETERAN VILLAS
 - Address: 2502 VETERAN WAY
 - City: KINGMAN
-- State: AZ
 - ZIP: 86401
-- ZIP extension: 
 - State project ID: TC-0925-19
 - Latitude: 34.8586
 - Longitude: -113.8841
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 04015953603
 - Tract 2010: 04015954800
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 37620
 - Place 2010: 30830
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1153561
 - Units: 49
 - Low-income units: 48
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,11 +52,7 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Veterans
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SARA'S RIDGE APTS (ALA20070161)
 
 - HUD ID: ALA20070161
-- HUD ID before: 
 - Project: SARA'S RIDGE APTS
 - Address: 1633 LEE AVE SW
 - City: CULLMAN
-- State: AL
 - ZIP: 35055
-- ZIP extension: 
 - State project ID: AL-07-0036
 - Latitude: 34.160533
 - Longitude: -86.843576
@@ -22,9 +19,7 @@
 - Place 2000: 18976
 - Place 1990: 0450
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 628444
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1804960
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009050.
 - Record status: Existing, unchanged

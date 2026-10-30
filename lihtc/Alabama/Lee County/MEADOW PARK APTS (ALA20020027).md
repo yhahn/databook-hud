@@ -1,13 +1,10 @@
 # Project: MEADOW PARK APTS (ALA20020027)
 
 - HUD ID: ALA20020027
-- HUD ID before: 
 - Project: MEADOW PARK APTS
 - Address: 2620 FREDERICK RD
 - City: OPELIKA
-- State: AL
 - ZIP: 36801
-- ZIP extension: 
 - State project ID: AL-01-0070
 - Latitude: 32.620323
 - Longitude: -85.418293
@@ -22,9 +19,7 @@
 - Place 2000: 03076
 - Place 1990: 1310
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 334302
 - Units: 56
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1818885
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2003055. AKA COLONIAL PARK ASSOC. FKA COLONIAL PARK APTS
 - Record status: Existing, unchanged

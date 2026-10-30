@@ -1,13 +1,10 @@
 # Project: COVINGTON WAY (NCA20140045)
 
 - HUD ID: NCA20140045
-- HUD ID before: 
 - Project: COVINGTON WAY
 - Address: 1006 GATEWAY AVENUE
 - City: WILKESBORO
-- State: NC
 - ZIP: 28697
-- ZIP extension: 
 - State project ID: 9134227
 - Latitude: 36.151242
 - Longitude: -81.199452
@@ -19,12 +16,9 @@
 - Tract 1990: 37193960700
 - Place 2020: 74020
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 0626
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 489317
 - Units: 64
 - Low-income units: 64
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 26
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

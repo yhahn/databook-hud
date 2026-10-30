@@ -1,11 +1,9 @@
 # Project: ROADRUNNER RESIDENCE (MTA19990035)
 
 - HUD ID: MTA19990035
-- HUD ID before: 
 - Project: ROADRUNNER RESIDENCE
 - Address: 1071 ROADRUNNER DRIVE
 - City: HELENA
-- State: MT
 - ZIP: 59602
 - ZIP extension: 0000
 - State project ID: 98080
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30049000503
 - Tract 2010: 30049000400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 35600
 - Place 2010: 35600
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 89710
 - Units: 16
 - Low-income units: 16
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

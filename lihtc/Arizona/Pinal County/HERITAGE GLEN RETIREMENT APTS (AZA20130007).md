@@ -1,13 +1,10 @@
 # Project: HERITAGE GLEN RETIREMENT APTS (AZA20130007)
 
 - HUD ID: AZA20130007
-- HUD ID before: 
 - Project: HERITAGE GLEN RETIREMENT APTS
 - Address: 1040 N NINTH ST
 - City: COOLIDGE
-- State: AZ
 - ZIP: 85128
-- ZIP extension: 
 - State project ID: TC-0720-12
 - Latitude: 32.987315
 - Longitude: -111.532796
@@ -22,9 +19,7 @@
 - Place 2000: 15500
 - Place 1990: 0070
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 299368
 - Units: 28
 - Low-income units: 28
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 30 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS AZA1996030. AKA HERITAGE GLEN APTS.
 - Record status: Existing, unchanged

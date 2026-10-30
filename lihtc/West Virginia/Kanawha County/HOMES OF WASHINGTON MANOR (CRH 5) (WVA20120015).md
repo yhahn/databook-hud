@@ -1,13 +1,9 @@
 # Project: HOMES OF WASHINGTON MANOR (CRH 5) (WVA20120015)
 
 - HUD ID: WVA20120015
-- HUD ID before: 
 - Project: HOMES OF WASHINGTON MANOR (CRH 5)
 - Address: 600 CLENDENIN ST
 - City: CHARLESTON
-- State: WV
-- ZIP: 
-- ZIP extension: 
 - State project ID: WV-10-026
 - Latitude: 38.357441
 - Longitude: -81.635668
@@ -22,10 +18,7 @@
 - Place 2000: 14600
 - Place 1990: 0280
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
-- Allocation amount: 
 - Units: 74
 - Low-income units: 74
 - Units reported: 74
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 95136
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,9 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CHARLESTON REPLACEMENT HOUSING #5.
 - Record status: Existing, unchanged

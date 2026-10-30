@@ -1,13 +1,10 @@
 # Project: SOUTHWIND ESTATES (MSA20110100)
 
 - HUD ID: MSA20110100
-- HUD ID before: 
 - Project: SOUTHWIND ESTATES
 - Address: 82 SOUTHWINDS LN
 - City: DURANT
-- State: MS
 - ZIP: 39063
-- ZIP extension: 
 - State project ID: MS-09-1-020
 - Latitude: 33.089745
 - Longitude: -89.861506
@@ -22,9 +19,7 @@
 - Place 2000: 20500
 - Place 1990: 0360
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 125592
 - Units: 31
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 502368
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011672, MSA1995140.
 - Record status: Existing, unchanged

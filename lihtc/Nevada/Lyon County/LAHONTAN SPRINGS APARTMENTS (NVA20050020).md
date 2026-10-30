@@ -1,11 +1,9 @@
 # Project: LAHONTAN SPRINGS APARTMENTS (NVA20050020)
 
 - HUD ID: NVA20050020
-- HUD ID before: 
 - Project: LAHONTAN SPRINGS APARTMENTS
 - Address: WILLOW WAY
 - City: FERNLEY
-- State: NV
 - ZIP: 89408
 - ZIP extension: 0000
 - State project ID: 03-03
@@ -22,9 +20,7 @@
 - Place 2000: 24900
 - Place 1990: 0048
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 322286
 - Units: 48
 - Low-income units: 47
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

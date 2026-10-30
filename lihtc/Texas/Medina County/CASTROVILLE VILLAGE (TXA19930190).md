@@ -1,13 +1,10 @@
 # Project: CASTROVILLE VILLAGE (TXA19930190)
 
 - HUD ID: TXA19930190
-- HUD ID before: 
 - Project: CASTROVILLE VILLAGE
 - Address: 1410 NAPLES ST
 - City: CASTROVILLE
-- State: TX
 - ZIP: 78009
-- ZIP extension: 
 - State project ID: TX1068
 - Latitude: 29.355004
 - Longitude: -98.881785
@@ -20,12 +17,8 @@
 - Place 2020: 13312
 - Place 2010: 13312
 - Place 2000: 13312
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -40,11 +33,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

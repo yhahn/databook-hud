@@ -1,13 +1,10 @@
 # Project: SPRING CREEK TOWNHOMES (MNA20130006)
 
 - HUD ID: MNA20130006
-- HUD ID before: 
 - Project: SPRING CREEK TOWNHOMES
 - Address: MULTIPLE BUILDING ADDRESSES.
 - City: NORTHFIELD
-- State: MN
 - ZIP: 55057
-- ZIP extension: 
 - State project ID: D6718
 - Latitude: 44.463
 - Longitude: -93.1671
@@ -22,9 +19,7 @@
 - Place 2000: 17126
 - Place 1990: 2850
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 666325
 - Units: 28
 - Low-income units: 28
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

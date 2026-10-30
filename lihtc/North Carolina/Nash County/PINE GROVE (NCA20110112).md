@@ -1,13 +1,10 @@
 # Project: PINE GROVE (NCA20110112)
 
 - HUD ID: NCA20110112
-- HUD ID before: 
 - Project: PINE GROVE
 - Address: 113 EAST MAIN STREET
 - City: SHARPSBURG
-- State: NC
 - ZIP: 27878
-- ZIP extension: 
 - State project ID: 9108130
 - Latitude: 35.8696
 - Longitude: -77.8919
@@ -16,15 +13,10 @@
 - Tract 2020: 37127011201
 - Tract 2010: 37127011200
 - Tract 2000: 37127011200
-- Tract 1990: 
 - Place 2020: 61060
 - Place 2010: 61060
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 84056
 - Units: 40
 - Low-income units: 40
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

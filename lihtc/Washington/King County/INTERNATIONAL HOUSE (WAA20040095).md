@@ -1,13 +1,10 @@
 # Project: INTERNATIONAL HOUSE (WAA20040095)
 
 - HUD ID: WAA20040095
-- HUD ID before: 
 - Project: INTERNATIONAL HOUSE
 - Address: 607 MAYNARD AVE S
 - City: SEATTLE
-- State: WA
 - ZIP: 98104
-- ZIP extension: 
 - State project ID: WA-03-00415
 - Latitude: 47.597423
 - Longitude: -122.325323
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 1140
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 326754
 - Units: 98
 - Low-income units: 98
@@ -40,16 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CAH-IDA WASHINGTON.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HAMILTON RIDGE (NCA20060120)
 
 - HUD ID: NCA20060120
-- HUD ID before: 
 - Project: HAMILTON RIDGE
 - Address: 1190 HAMILTON RIDGE ROAD
 - City: OAK CITY
-- State: NC
 - ZIP: 27857
-- ZIP extension: 
 - State project ID: 9001689
 - Latitude: 36.0015
 - Longitude: -77.3177
@@ -19,12 +16,8 @@
 - Tract 1990: 37117970400
 - Place 2020: 48060
 - Place 2010: 48060
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 130319
 - Units: 24
 - Low-income units: 24
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

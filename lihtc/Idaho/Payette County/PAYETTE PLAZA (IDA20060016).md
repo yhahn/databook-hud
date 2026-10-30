@@ -1,13 +1,10 @@
 # Project: PAYETTE PLAZA (IDA20060016)
 
 - HUD ID: IDA20060016
-- HUD ID before: 
 - Project: PAYETTE PLAZA
 - Address: 80 NORTH 9TH STREET
 - City: PAYETTE
-- State: ID
 - ZIP: 83661
-- ZIP extension: 
 - State project ID: HC0406
 - Latitude: 44.075681
 - Longitude: -116.933254
@@ -22,9 +19,7 @@
 - Place 2000: 61300
 - Place 1990: 0745
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 71775
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

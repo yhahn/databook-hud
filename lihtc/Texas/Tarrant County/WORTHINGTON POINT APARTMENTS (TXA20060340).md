@@ -1,13 +1,10 @@
 # Project: WORTHINGTON POINT APARTMENTS (TXA20060340)
 
 - HUD ID: TXA20060340
-- HUD ID before: 
 - Project: WORTHINGTON POINT APARTMENTS
 - Address: 12301 HEMPHILL ST
 - City: CROWLEY
-- State: TX
 - ZIP: 76036
-- ZIP extension: 
 - State project ID: TX4181
 - Latitude: 32.579229
 - Longitude: -97.328442
@@ -22,9 +19,7 @@
 - Place 2000: 17960
 - Place 1990: 1045
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 593008
 - Units: 248
 - Low-income units: 248
@@ -39,16 +34,11 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA WORTHINGTON APTS.
 - Record status: Existing, unchanged

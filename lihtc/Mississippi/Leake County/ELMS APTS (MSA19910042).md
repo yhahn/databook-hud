@@ -1,13 +1,10 @@
 # Project: ELMS APTS (MSA19910042)
 
 - HUD ID: MSA19910042
-- HUD ID before: 
 - Project: ELMS APTS
 - Address: 610 OLD CANTON RD
 - City: CARTHAGE
-- State: MS
 - ZIP: 39051
-- ZIP extension: 
 - State project ID: MS-90-025
 - Latitude: 32.736162
 - Longitude: -89.540698
@@ -22,10 +19,7 @@
 - Place 2000: 11780
 - Place 1990: 0200
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1991510.;
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: ARBOR GLEN AT DALTON VILLAGE (NCA20020010)
 
 - HUD ID: NCA20020010
-- HUD ID before: 
 - Project: ARBOR GLEN AT DALTON VILLAGE
 - Address: 2305 FARMER STREET
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28208
-- ZIP extension: 
 - State project ID: 9001034
 - Latitude: 35.209329
 - Longitude: -80.89507
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 867162
 - Units: 144
 - Low-income units: 144
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 72
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

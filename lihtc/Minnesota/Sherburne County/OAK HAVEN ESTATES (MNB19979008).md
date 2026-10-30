@@ -1,11 +1,9 @@
 # Project: OAK HAVEN ESTATES (MNB19979008)
 
 - HUD ID: MNB19979008
-- HUD ID before: 
 - Project: OAK HAVEN ESTATES
 - Address: 1110-1150 7TH STREET SOUTHEAST
 - City: SAINT CLOUD
-- State: MN
 - ZIP: 56304
 - ZIP extension: 1569
 - State project ID: D2995
@@ -16,15 +14,11 @@
 - Tract 2020: 27141031500
 - Tract 2010: 27141031500
 - Tract 2000: 27141031300
-- Tract 1990: 
 - Place 2020: 56896
 - Place 2010: 56896
 - Place 2000: 56896
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 175602
 - Units: 38
 - Low-income units: 38
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

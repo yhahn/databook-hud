@@ -1,13 +1,10 @@
 # Project: HEARTLAND CROSSING (IDA20030020)
 
 - HUD ID: IDA20030020
-- HUD ID before: 
 - Project: HEARTLAND CROSSING
 - Address: 7745 NORTH HEARTLAND DRIVE
 - City: COEUR DALENE
-- State: ID
 - ZIP: 83815
-- ZIP extension: 
 - State project ID: HC0213
 - Latitude: 47.742954
 - Longitude: -116.799633
@@ -20,11 +17,8 @@
 - Place 2020: 16750
 - Place 2010: 16750
 - Place 2000: 16750
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 161665
 - Units: 30
 - Low-income units: 23
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

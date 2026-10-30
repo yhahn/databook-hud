@@ -1,13 +1,10 @@
 # Project: ST GILES MANOR (FLA20110233)
 
 - HUD ID: FLA20110233
-- HUD ID before: 
 - Project: ST GILES MANOR
 - Address: 5041 82ND AVE N
 - City: PINELLAS PARK
-- State: FL
 - ZIP: 33781
-- ZIP extension: 
 - State project ID: 1932
 - Latitude: 27.846685
 - Longitude: -82.702436
@@ -22,10 +19,7 @@
 - Place 2000: 56975
 - Place 1990: 1750
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 106
 - Low-income units: 106
 - Units reported: 106
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,19 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 12838965
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: LINK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

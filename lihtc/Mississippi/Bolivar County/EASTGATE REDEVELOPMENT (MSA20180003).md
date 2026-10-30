@@ -1,11 +1,9 @@
 # Project: EASTGATE REDEVELOPMENT (MSA20180003)
 
 - HUD ID: MSA20180003
-- HUD ID before: 
 - Project: EASTGATE REDEVELOPMENT
 - Address: 1100 CROSS STREET
 - City: CLEVELAND
-- State: MS
 - ZIP: 38732
 - ZIP extension: 0000
 - State project ID: 16-T-001
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28011950701
 - Tract 2010: 28011950701
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 632990
 - Units: 116
 - Low-income units: 116
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

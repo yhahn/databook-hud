@@ -1,13 +1,10 @@
 # Project: VALLEY PARK (IDA20150006)
 
 - HUD ID: IDA20150006
-- HUD ID before: 
 - Project: VALLEY PARK
 - Address: 309 PASHERMA KAY COURT
 - City: RUPERT
-- State: ID
 - ZIP: 83350
-- ZIP extension: 
 - State project ID: HC1303
 - Latitude: 42.629972
 - Longitude: -113.671468
@@ -16,15 +13,11 @@
 - Tract 2020: 16067970400
 - Tract 2010: 16067970400
 - Tract 2000: 16067980400
-- Tract 1990: 
 - Place 2020: 70660
 - Place 2010: 70660
 - Place 2000: 70660
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 178969
 - Units: 24
 - Low-income units: 24
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

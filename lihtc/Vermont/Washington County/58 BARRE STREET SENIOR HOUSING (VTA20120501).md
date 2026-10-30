@@ -1,13 +1,10 @@
 # Project: 58 BARRE STREET SENIOR HOUSING (VTA20120501)
 
 - HUD ID: VTA20120501
-- HUD ID before: 
 - Project: 58 BARRE STREET SENIOR HOUSING
 - Address: 58 BARRE ST
 - City: MONTPELIER
-- State: VT
 - ZIP: 05602
-- ZIP extension: 
 - State project ID: 0435
 - Latitude: 44.257268
 - Longitude: -72.57453
@@ -22,9 +19,7 @@
 - Place 2000: 46000
 - Place 1990: 1610
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 69014
 - Units: 14
 - Low-income units: 12
@@ -39,13 +34,9 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

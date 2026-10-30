@@ -1,13 +1,10 @@
 # Project: THE RADIANT (SDA20230005)
 
 - HUD ID: SDA20230005
-- HUD ID before: 
 - Project: THE RADIANT
 - Address: 28 RACINE STREET
 - City: RAPID CITY
-- State: SD
 - ZIP: 57701
-- ZIP extension: 
 - State project ID: 03597
 - Latitude: 44.082212
 - Longitude: -103.203496
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 46103010500
 - Tract 2010: 46103010500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 52980
 - Place 2010: 52980
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 673000
 - Units: 42
 - Low-income units: 30
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -49,7 +38,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,21 +53,11 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

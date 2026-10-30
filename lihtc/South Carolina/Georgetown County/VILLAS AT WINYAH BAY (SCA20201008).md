@@ -1,11 +1,9 @@
 # Project: VILLAS AT WINYAH BAY (SCA20201008)
 
 - HUD ID: SCA20201008
-- HUD ID before: 
 - Project: VILLAS AT WINYAH BAY
 - Address: 2105 LINCOLN STREET
 - City: GEORGETOWN
-- State: SC
 - ZIP: 29440
 - ZIP extension: 0000
 - State project ID: SC-19017
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 45043920601
 - Tract 2010: 45043920600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 28870
 - Place 2010: 28870
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 782176
 - Units: 42
 - Low-income units: 42
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

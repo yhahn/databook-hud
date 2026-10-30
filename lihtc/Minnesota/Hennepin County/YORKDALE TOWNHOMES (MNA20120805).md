@@ -1,13 +1,10 @@
 # Project: YORKDALE TOWNHOMES (MNA20120805)
 
 - HUD ID: MNA20120805
-- HUD ID before: 
 - Project: YORKDALE TOWNHOMES
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: EDINA
-- State: MN
 - ZIP: 55435
-- ZIP extension: 
 - State project ID: D0489
 - Latitude: 44.8704
 - Longitude: -93.3396
@@ -22,9 +19,7 @@
 - Place 2000: 18188
 - Place 1990: 1105
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 415697
 - Units: 90
 - Low-income units: 86
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 90
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 2895000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

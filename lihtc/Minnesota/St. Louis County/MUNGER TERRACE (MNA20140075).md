@@ -1,13 +1,10 @@
 # Project: MUNGER TERRACE (MNA20140075)
 
 - HUD ID: MNA20140075
-- HUD ID before: 
 - Project: MUNGER TERRACE
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: DULUTH
-- State: MN
 - ZIP: 55806
-- ZIP extension: 
 - State project ID: D0442
 - Latitude: 46.761
 - Longitude: -92.114
@@ -22,9 +19,7 @@
 - Place 2000: 17000
 - Place 1990: 1040
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 634401
 - Units: 45
 - Low-income units: 45
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +43,9 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +55,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

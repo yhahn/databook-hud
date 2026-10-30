@@ -1,13 +1,10 @@
 # Project: GREYLIN RIDGE APARTMENTS (NCA20100125)
 
 - HUD ID: NCA20100125
-- HUD ID before: 
 - Project: GREYLIN RIDGE APARTMENTS
 - Address: 118 GREYLIN LOOP
 - City: STATESVILLE
-- State: NC
 - ZIP: 28625
-- ZIP extension: 
 - State project ID: 9102481
 - Latitude: 35.818007
 - Longitude: -80.881248
@@ -19,12 +16,8 @@
 - Tract 1990: 37097061000
 - Place 2020: 64740
 - Place 2010: 64740
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 719638
 - Units: 80
 - Low-income units: 80
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

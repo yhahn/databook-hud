@@ -1,13 +1,10 @@
 # Project: DEERCREEK VILLAGE (ALA19930034)
 
 - HUD ID: ALA19930034
-- HUD ID before: 
 - Project: DEERCREEK VILLAGE
 - Address: 1015 WHISKEY RUN RD
 - City: CAMDEN
-- State: AL
 - ZIP: 36726
-- ZIP extension: 
 - State project ID: AL-93-0051
 - Latitude: 32.002056
 - Longitude: -87.317611
@@ -20,11 +17,8 @@
 - Place 2020: 11512
 - Place 2010: 11512
 - Place 2000: 11512
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 33483
 - Units: 19
 - Low-income units: 19
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1994085. AKA WILCAM HOUSING.
 - Record status: Existing, unchanged

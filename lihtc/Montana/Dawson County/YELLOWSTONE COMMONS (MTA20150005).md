@@ -1,11 +1,9 @@
 # Project: YELLOWSTONE COMMONS (MTA20150005)
 
 - HUD ID: MTA20150005
-- HUD ID before: 
 - Project: YELLOWSTONE COMMONS
 - Address: 1917A NORTH MERRILL AVENUE
 - City: GLENDIVE
-- State: MT
 - ZIP: 59330
 - ZIP extension: 0000
 - State project ID: 14020
@@ -16,15 +14,10 @@
 - Tract 2020: 30021000300
 - Tract 2010: 30021000300
 - Tract 2000: 30021000200
-- Tract 1990: 
 - Place 2020: 31450
 - Place 2010: 31450
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 4500000
 - Units: 27
 - Low-income units: 27
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

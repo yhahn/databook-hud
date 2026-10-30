@@ -1,13 +1,10 @@
 # Project: ROBIN CREST PARTNERS (KYA20020085)
 
 - HUD ID: KYA20020085
-- HUD ID before: 
 - Project: ROBIN CREST PARTNERS
 - Address: DEERFIELD CT.
 - City: SHEPHERDSVILLE
-- State: KY
 - ZIP: 40165
-- ZIP extension: 
 - State project ID: KY-01-032
 - Latitude: 37.977521
 - Longitude: -85.728281
@@ -16,15 +13,11 @@
 - Tract 2020: 21029021104
 - Tract 2010: 21029021101
 - Tract 2000: 21029021100
-- Tract 1990: 
 - Place 2020: 70086
 - Place 2010: 70086
 - Place 2000: 70086
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 9
 - Low-income units: 9
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

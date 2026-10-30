@@ -1,13 +1,10 @@
 # Project: RADCLIFFE MANOR (SCA20040125)
 
 - HUD ID: SCA20040125
-- HUD ID before: 
 - Project: RADCLIFFE MANOR
 - Address: 200 COMING ST
 - City: CHARLESTON
-- State: SC
 - ZIP: 29403
-- ZIP extension: 
 - State project ID: SC-02-001
 - Latitude: 32.790452
 - Longitude: -79.942655
@@ -22,9 +19,7 @@
 - Place 2000: 13330
 - Place 1990: 0245
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 606088
 - Units: 63
 - Low-income units: 63
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 600000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

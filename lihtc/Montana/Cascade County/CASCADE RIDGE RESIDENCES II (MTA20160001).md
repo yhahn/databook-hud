@@ -1,11 +1,9 @@
 # Project: CASCADE RIDGE RESIDENCES II (MTA20160001)
 
 - HUD ID: MTA20160001
-- HUD ID before: 
 - Project: CASCADE RIDGE RESIDENCES II
 - Address: 3001 15TH AVENUE SOUTH
 - City: GREAT FALLS
-- State: MT
 - ZIP: 59405
 - ZIP extension: 0000
 - State project ID: 15020
@@ -16,15 +14,10 @@
 - Tract 2020: 30013002100
 - Tract 2010: 30013002100
 - Tract 2000: 30013002100
-- Tract 1990: 
 - Place 2020: 32800
 - Place 2010: 32800
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 245183
 - Units: 16
 - Low-income units: 16
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

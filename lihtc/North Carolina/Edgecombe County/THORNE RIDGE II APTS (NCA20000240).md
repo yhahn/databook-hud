@@ -1,13 +1,10 @@
 # Project: THORNE RIDGE II APTS (NCA20000240)
 
 - HUD ID: NCA20000240
-- HUD ID before: 
 - Project: THORNE RIDGE II APTS
 - Address: 1310 DREAVER STREET
 - City: ROCKY MOUNT
-- State: NC
 - ZIP: 27801
-- ZIP extension: 
 - State project ID: 9000972
 - Latitude: 35.943091
 - Longitude: -77.762884
@@ -22,9 +19,7 @@
 - Place 2000: 57500
 - Place 1990: 2115
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 217943
 - Units: 41
 - Low-income units: 36
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 17
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

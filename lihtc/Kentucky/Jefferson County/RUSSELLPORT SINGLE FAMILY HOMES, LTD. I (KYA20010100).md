@@ -1,13 +1,10 @@
 # Project: RUSSELLPORT SINGLE FAMILY HOMES, LTD. I (KYA20010100)
 
 - HUD ID: KYA20010100
-- HUD ID before: 
 - Project: RUSSELLPORT SINGLE FAMILY HOMES, LTD. I
 - Address: CEDAR ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40212
-- ZIP extension: 
 - State project ID: KY-00-028
 - Latitude: 38.2663
 - Longitude: -85.8044
@@ -19,12 +16,9 @@
 - Tract 1990: 21111002400
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 175436
 - Units: 1
 - Low-income units: 1
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

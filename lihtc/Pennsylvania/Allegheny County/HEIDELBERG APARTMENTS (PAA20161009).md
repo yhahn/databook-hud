@@ -1,11 +1,9 @@
 # Project: HEIDELBERG APARTMENTS (PAA20161009)
 
 - HUD ID: PAA20161009
-- HUD ID before: 
 - Project: HEIDELBERG APARTMENTS
 - Address: 1842 WASHINGTON ST
 - City: HEIDELBERG
-- State: PA
 - ZIP: 15106
 - ZIP extension: 4048
 - State project ID: TC20140808
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42003471000
 - Tract 2010: 42003471000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 33592
 - Place 2010: 33592
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 952271
 - Units: 42
 - Low-income units: 42
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -62,8 +51,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: OAKSHIRE GARDENS (COA20080090)
 
 - HUD ID: COA20080090
-- HUD ID before: 
 - Project: OAKSHIRE GARDENS
 - Address: 2400 OAKSHIRE LN
 - City: PUEBLO
-- State: CO
 - ZIP: 81001
-- ZIP extension: 
 - State project ID: 2007005
 - Latitude: 38.285149
 - Longitude: -104.567968
@@ -22,9 +19,7 @@
 - Place 2000: 62000
 - Place 1990: 1085
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 90236
 - Units: 19
 - Low-income units: 17
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,7 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +55,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

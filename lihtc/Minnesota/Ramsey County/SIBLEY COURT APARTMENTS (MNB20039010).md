@@ -1,11 +1,9 @@
 # Project: SIBLEY COURT APARTMENTS (MNB20039010)
 
 - HUD ID: MNB20039010
-- HUD ID before: 
 - Project: SIBLEY COURT APARTMENTS
 - Address: 484 TEMPERANCE STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55101
 - ZIP extension: 3391
 - State project ID: D3055
@@ -16,15 +14,11 @@
 - Tract 2020: 27123034203
 - Tract 2010: 27123034202
 - Tract 2000: 27123034200
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 567660
 - Units: 122
 - Low-income units: 51
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -68,18 +60,10 @@
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Section 8
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

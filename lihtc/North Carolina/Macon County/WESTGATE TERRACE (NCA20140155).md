@@ -1,13 +1,10 @@
 # Project: WESTGATE TERRACE (NCA20140155)
 
 - HUD ID: NCA20140155
-- HUD ID before: 
 - Project: WESTGATE TERRACE
 - Address: 47 HARPER LANE
 - City: FRANKLIN
-- State: NC
 - ZIP: 28734
-- ZIP extension: 
 - State project ID: 9134712
 - Latitude: 35.1562
 - Longitude: -83.4264
@@ -22,9 +19,7 @@
 - Place 2000: 24640
 - Place 1990: 0945
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 513114
 - Units: 60
 - Low-income units: 60
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

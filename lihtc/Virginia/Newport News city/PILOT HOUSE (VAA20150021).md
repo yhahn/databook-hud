@@ -1,11 +1,9 @@
 # Project: PILOT HOUSE (VAA20150021)
 
 - HUD ID: VAA20150021
-- HUD ID before: 
 - Project: PILOT HOUSE
 - Address: 701 BRIDGSTOCK CIRCLE
 - City: NEWPORT NEWS
-- State: VA
 - ZIP: 23606
 - ZIP extension: 3606
 - State project ID: 4305
@@ -22,9 +20,7 @@
 - Place 2000: 56000
 - Place 1990: 0860
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 373228
 - Units: 132
 - Low-income units: 132
@@ -39,9 +35,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1992115.
 - Record status: Existing, unchanged

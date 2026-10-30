@@ -1,13 +1,10 @@
 # Project: WEST WINDS NORTH (NDA20020045)
 
 - HUD ID: NDA20020045
-- HUD ID before: 
 - Project: WEST WINDS NORTH
 - Address: 3420 42ND ST S
 - City: FARGO
-- State: ND
 - ZIP: 58104
-- ZIP extension: 
 - State project ID: TC0011
 - Latitude: 46.828187
 - Longitude: -96.851114
@@ -20,11 +17,8 @@
 - Place 2020: 25700
 - Place 2010: 25700
 - Place 2000: 09320
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 353256
 - Units: 52
 - Low-income units: 52
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

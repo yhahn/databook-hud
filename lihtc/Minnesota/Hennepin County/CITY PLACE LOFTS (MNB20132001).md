@@ -1,11 +1,9 @@
 # Project: CITY PLACE LOFTS (MNB20132001)
 
 - HUD ID: MNB20132001
-- HUD ID before: 
 - Project: CITY PLACE LOFTS
 - Address: 730 HENNEPIN AVENUE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55403
 - ZIP extension: 1812
 - State project ID: D6711
@@ -16,15 +14,11 @@
 - Tract 2020: 27053104400
 - Tract 2010: 27053104400
 - Tract 2000: 27053104400
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 491199
 - Units: 55
 - Low-income units: 55
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,10 +59,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Single HH with Children, individual families of color, Single Men, Single Women
 - Scattered site: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

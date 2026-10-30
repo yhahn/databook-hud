@@ -1,13 +1,10 @@
 # Project: PAOLA SENIORS (KSA20130053)
 
 - HUD ID: KSA20130053
-- HUD ID before: 
 - Project: PAOLA SENIORS
 - Address: 451 S HOSPITAL DR
 - City: PAOLA
-- State: KS
 - ZIP: 66071
-- ZIP extension: 
 - State project ID: KS-13-90
 - Latitude: 38.567322
 - Longitude: -94.863553
@@ -22,9 +19,7 @@
 - Place 2000: 54250
 - Place 1990: 2215
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 523036
 - Units: 30
 - Low-income units: 30
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

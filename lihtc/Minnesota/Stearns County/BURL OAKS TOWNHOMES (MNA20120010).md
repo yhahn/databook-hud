@@ -1,13 +1,10 @@
 # Project: BURL OAKS TOWNHOMES (MNA20120010)
 
 - HUD ID: MNA20120010
-- HUD ID before: 
 - Project: BURL OAKS TOWNHOMES
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: SARTELL
-- State: MN
 - ZIP: 56377
-- ZIP extension: 
 - State project ID: D6714
 - Latitude: 45.6113
 - Longitude: -94.2309
@@ -22,9 +19,7 @@
 - Place 2000: 58612
 - Place 1990: 3470
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 754958
 - Units: 38
 - Low-income units: 37
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

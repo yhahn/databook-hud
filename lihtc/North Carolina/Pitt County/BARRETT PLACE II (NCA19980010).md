@@ -1,13 +1,10 @@
 # Project: BARRETT PLACE II (NCA19980010)
 
 - HUD ID: NCA19980010
-- HUD ID before: 
 - Project: BARRETT PLACE II
 - Address: 2613 WHITAKER DR
 - City: GREENVILLE
-- State: NC
 - ZIP: 27835
-- ZIP extension: 
 - State project ID: 9001194
 - Latitude: 35.591821
 - Longitude: -77.400683
@@ -22,9 +19,7 @@
 - Place 2000: 28080
 - Place 1990: 1070
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 220656
 - Units: 48
 - Low-income units: 48
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

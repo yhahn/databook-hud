@@ -1,13 +1,10 @@
 # Project: FRONTIER RIDGE (VAA20070786)
 
 - HUD ID: VAA20070786
-- HUD ID before: 
 - Project: FRONTIER RIDGE
 - Address: 20 FRONTIER RIDGE CT
 - City: STAUNTON
-- State: VA
 - ZIP: 24401
-- ZIP extension: 
 - State project ID: 9028
 - Latitude: 38.131205
 - Longitude: -79.048285
@@ -22,9 +19,7 @@
 - Place 2000: 75216
 - Place 1990: 1165
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 734318
 - Units: 100
 - Low-income units: 100
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006109.
 - Record status: Existing, unchanged

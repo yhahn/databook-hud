@@ -1,11 +1,9 @@
 # Project: SILVER BOW APARTMENTS (MTA20120025)
 
 - HUD ID: MTA20120025
-- HUD ID before: 
 - Project: SILVER BOW APARTMENTS
 - Address: 910 EVANS AVE
 - City: BUTTE
-- State: MT
 - ZIP: 59701
 - ZIP extension: 0000
 - State project ID: 12020
@@ -22,9 +20,7 @@
 - Place 2000: 11397
 - Place 1990: 0110
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 162570
 - Units: 60
 - Low-income units: 60
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

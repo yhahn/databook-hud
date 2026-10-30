@@ -1,13 +1,10 @@
 # Project: HILLCREST APTS (ALA19940127)
 
 - HUD ID: ALA19940127
-- HUD ID before: 
 - Project: HILLCREST APTS
 - Address: 71 HILLCREST DR
 - City: CASTLEBERRY
-- State: AL
 - ZIP: 36432
-- ZIP extension: 
 - State project ID: AL-94-0031
 - Latitude: 31.291347
 - Longitude: -87.028732
@@ -20,11 +17,8 @@
 - Place 2020: 12496
 - Place 2010: 12496
 - Place 2000: 12496
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 33600
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1995060. AKA HILLCREST IN CASTLEBERRY.
 - Record status: Existing, unchanged

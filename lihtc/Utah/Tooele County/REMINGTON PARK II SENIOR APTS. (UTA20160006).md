@@ -1,11 +1,9 @@
 # Project: REMINGTON PARK II SENIOR APTS. (UTA20160006)
 
 - HUD ID: UTA20160006
-- HUD ID before: 
 - Project: REMINGTON PARK II SENIOR APTS.
 - Address: 475 W. UTAH AVENUE
 - City: TOOELE
-- State: UT
 - ZIP: 84074
 - ZIP extension: 0000
 - State project ID: 2016-19
@@ -16,15 +14,11 @@
 - Tract 2020: 49045131102
 - Tract 2010: 49045131100
 - Tract 2000: 49045131100
-- Tract 1990: 
 - Place 2020: 76680
 - Place 2010: 76680
 - Place 2000: 76680
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 170736
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

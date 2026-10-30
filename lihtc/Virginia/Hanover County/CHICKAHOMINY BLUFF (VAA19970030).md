@@ -1,11 +1,9 @@
 # Project: CHICKAHOMINY BLUFF (VAA19970030)
 
 - HUD ID: VAA19970030
-- HUD ID before: 
 - Project: CHICKAHOMINY BLUFF
 - Address: 7800 SPORTING LANE
 - City: MECHANICSVILLE
-- State: VA
 - ZIP: 23111
 - ZIP extension: 3111
 - State project ID: 4553
@@ -22,9 +20,7 @@
 - Place 2000: 50856
 - Place 1990: 0798
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 381684
 - Units: 120
 - Low-income units: 120
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA0000026.
 - Record status: Existing, unchanged

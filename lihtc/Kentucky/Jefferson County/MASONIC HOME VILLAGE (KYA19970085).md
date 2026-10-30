@@ -1,13 +1,10 @@
 # Project: MASONIC HOME VILLAGE (KYA19970085)
 
 - HUD ID: KYA19970085
-- HUD ID before: 
 - Project: MASONIC HOME VILLAGE
 - Address: FRANKFORT AVE.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40202
-- ZIP extension: 
 - State project ID: KY-95-015
 - Latitude: 38.2583
 - Longitude: -85.7533
@@ -16,15 +13,10 @@
 - Tract 2020: 21111004900
 - Tract 2010: 21111004900
 - Tract 2000: 21111004900
-- Tract 1990: 
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 76
 - Low-income units: 46
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

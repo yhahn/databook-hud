@@ -1,11 +1,9 @@
 # Project: SUNDANCE VILLAGE APTS (NVA20059009)
 
 - HUD ID: NVA20059009
-- HUD ID before: 
 - Project: SUNDANCE VILLAGE APTS
 - Address: 6500 W CHARLESTON BLVD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89146
 - ZIP extension: 0000
 - State project ID: 04-40
@@ -16,15 +14,11 @@
 - Tract 2020: 32003000103
 - Tract 2010: 32003000103
 - Tract 2000: 32003000103
-- Tract 1990: 
 - Place 2020: 40000
 - Place 2010: 40000
 - Place 2000: 40000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 1312132
 - Units: 528
 - Low-income units: 528
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA2004070.
 - Record status: Existing, unchanged

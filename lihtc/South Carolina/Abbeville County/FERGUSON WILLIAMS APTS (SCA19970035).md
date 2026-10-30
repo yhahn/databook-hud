@@ -1,13 +1,10 @@
 # Project: FERGUSON WILLIAMS APTS (SCA19970035)
 
 - HUD ID: SCA19970035
-- HUD ID before: 
 - Project: FERGUSON WILLIAMS APTS
 - Address: 200 ELLIS AVE
 - City: ABBEVILLE
-- State: SC
 - ZIP: 29620
-- ZIP extension: 
 - State project ID: SC-95-032
 - Latitude: 34.17888
 - Longitude: -82.383832
@@ -20,11 +17,8 @@
 - Place 2020: 00100
 - Place 2010: 00100
 - Place 2000: 00100
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 95311
 - Units: 20
 - Low-income units: 20
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

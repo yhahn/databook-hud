@@ -1,13 +1,10 @@
 # Project: AUBURN APTS (MSA19910010)
 
 - HUD ID: MSA19910010
-- HUD ID before: 
 - Project: AUBURN APTS
 - Address: 206 IVY AVE
 - City: LOUISVILLE
-- State: MS
 - ZIP: 39339
-- ZIP extension: 
 - State project ID: MS-91-003
 - Latitude: 33.135518
 - Longitude: -89.05294
@@ -22,10 +19,7 @@
 - Place 2000: 42280
 - Place 1990: 0705
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
-- Allocation amount: 
 - Units: 16
 - Low-income units: 16
 - Units reported: 16
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

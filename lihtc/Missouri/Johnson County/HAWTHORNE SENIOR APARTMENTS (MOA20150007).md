@@ -1,11 +1,9 @@
 # Project: HAWTHORNE SENIOR APARTMENTS (MOA20150007)
 
 - HUD ID: MOA20150007
-- HUD ID before: 
 - Project: HAWTHORNE SENIOR APARTMENTS
 - Address: LOT 2, HAWTHORNE DEVELOPMENT
 - City: WARRENSBURG
-- State: MO
 - ZIP: 64093
 - ZIP extension: 0000
 - State project ID: 14-105
@@ -16,15 +14,10 @@
 - Tract 2020: 29101960502
 - Tract 2010: 29101960500
 - Tract 2000: 29101960500
-- Tract 1990: 
 - Place 2020: 77092
 - Place 2010: 77092
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 351000
 - Units: 36
 - Low-income units: 33
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,7 +40,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

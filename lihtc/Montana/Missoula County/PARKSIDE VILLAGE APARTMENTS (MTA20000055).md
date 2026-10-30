@@ -1,11 +1,9 @@
 # Project: PARKSIDE VILLAGE APARTMENTS (MTA20000055)
 
 - HUD ID: MTA20000055
-- HUD ID before: 
 - Project: PARKSIDE VILLAGE APARTMENTS
 - Address: 3602 STEPHENS AVENUE
 - City: MISSOULA
-- State: MT
 - ZIP: 59801
 - ZIP extension: 0000
 - State project ID: 99170
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 138169
 - Units: 104
 - Low-income units: 104
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

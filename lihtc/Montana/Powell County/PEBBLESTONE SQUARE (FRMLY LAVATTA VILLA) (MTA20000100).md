@@ -1,11 +1,9 @@
 # Project: PEBBLESTONE SQUARE (FRMLY LAVATTA VILLA) (MTA20000100)
 
 - HUD ID: MTA20000100
-- HUD ID before: 
 - Project: PEBBLESTONE SQUARE (FRMLY LAVATTA VILLA)
 - Address: 714 MILWAUKEE AVENUE
 - City: DEER LODGE
-- State: MT
 - ZIP: 59722
 - ZIP extension: 0000
 - State project ID: 99160
@@ -20,11 +18,8 @@
 - Place 2020: 19825
 - Place 2010: 19825
 - Place 2000: 19825
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 18451
 - Units: 24
 - Low-income units: 22
@@ -72,14 +67,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA2000040. FKA LAVATTA VILLA
 - Record status: Updated

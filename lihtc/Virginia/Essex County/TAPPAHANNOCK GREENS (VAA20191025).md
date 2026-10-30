@@ -1,13 +1,10 @@
 # Project: TAPPAHANNOCK GREENS (VAA20191025)
 
 - HUD ID: VAA20191025
-- HUD ID before: 
 - Project: TAPPAHANNOCK GREENS
 - Address: 990 WINSTON ROAD
 - City: TAPPAHANNOCK
-- State: VA
 - ZIP: 22560
-- ZIP extension: 
 - State project ID: 1126
 - Latitude: 37.907979
 - Longitude: -76.85921
@@ -22,9 +19,7 @@
 - Place 2000: 77568
 - Place 1990: 1215
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 191194
 - Units: 40
 - Low-income units: 40
@@ -40,15 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
-- RHS 515 loan: 
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 700000
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

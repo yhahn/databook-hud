@@ -1,13 +1,10 @@
 # Project: SANDPIPER SQUARE APTS (NCA19930345)
 
 - HUD ID: NCA19930345
-- HUD ID before: 
 - Project: SANDPIPER SQUARE APTS
 - Address: MAIN STREET
 - City: AULANDER
-- State: NC
 - ZIP: 27805
-- ZIP extension: 
 - State project ID: 9002195
 - Latitude: 36.234625
 - Longitude: -77.107615
@@ -20,11 +17,8 @@
 - Place 2020: 02580
 - Place 2010: 02580
 - Place 2000: 02580
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 43336
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

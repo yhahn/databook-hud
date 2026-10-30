@@ -1,11 +1,9 @@
 # Project: DELTA CROSSING (LAA20070040)
 
 - HUD ID: LAA20070040
-- HUD ID before: 
 - Project: DELTA CROSSING
 - Address: 1906 S. DELTA CROSSING
 - City: VINTON
-- State: LA
 - ZIP: 70668
 - ZIP extension: 0000
 - State project ID: LA-06-220
@@ -19,12 +17,9 @@
 - Tract 1990: 22019003500
 - Place 2020: 78820
 - Place 2010: 78820
-- Place 2000: 
 - Place 1990: 1380
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 21708
 - Units: 54
 - Low-income units: 54
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: Family/Special Needs
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

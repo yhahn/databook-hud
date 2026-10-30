@@ -1,13 +1,10 @@
 # Project: WOODLAND CROSSING (IDA20049010)
 
 - HUD ID: IDA20049010
-- HUD ID before: 
 - Project: WOODLAND CROSSING
 - Address: 839 KOOTENAI CUT OFF ROAD
 - City: PONDERAY
-- State: ID
 - ZIP: 83852
-- ZIP extension: 
 - State project ID: HC0305
 - Latitude: 48.309115
 - Longitude: -116.533764
@@ -16,15 +13,11 @@
 - Tract 2020: 16017950203
 - Tract 2010: 16017950200
 - Tract 2000: 16017950200
-- Tract 1990: 
 - Place 2020: 64450
 - Place 2010: 64450
 - Place 2000: 64450
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 203462
 - Units: 40
 - Low-income units: 31
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

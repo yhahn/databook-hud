@@ -1,13 +1,10 @@
 # Project: WATER CREST VILLAS (MOA20120135)
 
 - HUD ID: MOA20120135
-- HUD ID before: 
 - Project: WATER CREST VILLAS
 - Address: 1803 BIG BILL RD
 - City: ARNOLD
-- State: MO
 - ZIP: 63010
-- ZIP extension: 
 - State project ID: 11-015
 - Latitude: 38.433358
 - Longitude: -90.389777
@@ -22,9 +19,7 @@
 - Place 2000: 01972
 - Place 1990: 0157
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 768500
 - Units: 50
 - Low-income units: 50
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA WATERCOLOR VILLAS.
 - Record status: Existing, unchanged

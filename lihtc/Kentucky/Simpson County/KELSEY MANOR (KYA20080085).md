@@ -1,13 +1,10 @@
 # Project: KELSEY MANOR (KYA20080085)
 
 - HUD ID: KYA20080085
-- HUD ID before: 
 - Project: KELSEY MANOR
 - Address: 103 CRESTMORE DRIVE
 - City: FRANKLIN
-- State: KY
 - ZIP: 42134
-- ZIP extension: 
 - State project ID: KY-06-027
 - Latitude: 36.711359
 - Longitude: -86.565123
@@ -19,12 +16,9 @@
 - Tract 1990: 21213970400
 - Place 2020: 28918
 - Place 2010: 28918
-- Place 2000: 
 - Place 1990: 0740
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 686400
 - Units: 32
 - Low-income units: 32
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

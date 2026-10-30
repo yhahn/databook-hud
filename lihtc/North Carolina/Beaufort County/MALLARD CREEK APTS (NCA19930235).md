@@ -1,13 +1,10 @@
 # Project: MALLARD CREEK APTS (NCA19930235)
 
 - HUD ID: NCA19930235
-- HUD ID before: 
 - Project: MALLARD CREEK APTS
 - Address: 245 S FIFTH STREET APT 700
 - City: AURORA
-- State: NC
 - ZIP: 27806
-- ZIP extension: 
 - State project ID: 9001377
 - Latitude: 35.299657
 - Longitude: -76.788377
@@ -20,11 +17,8 @@
 - Place 2020: 02620
 - Place 2010: 02620
 - Place 2000: 02620
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 37439
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

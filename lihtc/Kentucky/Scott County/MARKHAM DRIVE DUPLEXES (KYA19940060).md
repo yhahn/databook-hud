@@ -1,13 +1,10 @@
 # Project: MARKHAM DRIVE DUPLEXES (KYA19940060)
 
 - HUD ID: KYA19940060
-- HUD ID before: 
 - Project: MARKHAM DRIVE DUPLEXES
 - Address: MARKHAM DR.
 - City: GEORGETOWN
-- State: KY
 - ZIP: 40324
-- ZIP extension: 
 - State project ID: KY-93-016
 - Latitude: 38.2153
 - Longitude: -84.5537
@@ -19,12 +16,9 @@
 - Tract 1990: 21209040200
 - Place 2020: 30700
 - Place 2010: 30700
-- Place 2000: 
 - Place 1990: 0775
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 4
 - Low-income units: 4
@@ -36,12 +30,8 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: Both new construction and acquisition and rehab
-- Credit: 
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +55,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +68,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

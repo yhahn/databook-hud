@@ -1,13 +1,10 @@
 # Project: GATEWAY APTS AT GOODMAN ROAD (MSA19950045)
 
 - HUD ID: MSA19950045
-- HUD ID before: 
 - Project: GATEWAY APTS AT GOODMAN ROAD
 - Address: 7101 TULANE RD N
 - City: HORN LAKE
-- State: MS
 - ZIP: 38637
-- ZIP extension: 
 - State project ID: MS-94-031
 - Latitude: 34.965526
 - Longitude: -90.046802
@@ -22,10 +19,7 @@
 - Place 2000: 33700
 - Place 1990: 0578
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
-- Allocation amount: 
 - Units: 168
 - Low-income units: 165
 - Units reported: 168
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

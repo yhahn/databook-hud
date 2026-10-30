@@ -1,11 +1,9 @@
 # Project: CHEYENNE POINTE (NVA19990010)
 
 - HUD ID: NVA19990010
-- HUD ID before: 
 - Project: CHEYENNE POINTE
 - Address: 3240 NO LAS VEGAS BLVD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89115
 - ZIP extension: 0000
 - State project ID: 99-41
@@ -13,18 +11,14 @@
 - Longitude: -115.094925
 - County FIPS: 32003
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 32003004713
 - Tract 2000: 32003004713
 - Tract 1990: 32003004705
-- Place 2020: 
 - Place 2010: 71400
 - Place 2000: 71400
 - Place 1990: 0110
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 274446
 - Units: 204
 - Low-income units: 203
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

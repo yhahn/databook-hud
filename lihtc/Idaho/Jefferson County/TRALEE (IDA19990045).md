@@ -1,13 +1,10 @@
 # Project: TRALEE (IDA19990045)
 
 - HUD ID: IDA19990045
-- HUD ID before: 
 - Project: TRALEE
 - Address: 270 SOUTH 3RD WEST
 - City: RIGBY
-- State: ID
 - ZIP: 83549
-- ZIP extension: 
 - State project ID: HC9804
 - Latitude: 43.669508
 - Longitude: -111.923702
@@ -22,9 +19,7 @@
 - Place 2000: 67780
 - Place 1990: 0830
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 168418
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

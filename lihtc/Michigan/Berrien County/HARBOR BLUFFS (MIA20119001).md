@@ -1,11 +1,9 @@
 # Project: HARBOR BLUFFS (MIA20119001)
 
 - HUD ID: MIA20119001
-- HUD ID before: 
 - Project: HARBOR BLUFFS
 - Address: 38 WALL STREET
 - City: BENTON HARBOR
-- State: MI
 - ZIP: 49022
 - ZIP extension: 0000
 - State project ID: 3267
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26021000400
 - Tract 2010: 26021000400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 07520
 - Place 2010: 07520
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 52
 - Low-income units: 52
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

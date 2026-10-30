@@ -1,13 +1,10 @@
 # Project: FRENCH QUARTERS, PHASE I (KYA19940544)
 
 - HUD ID: KYA19940544
-- HUD ID before: 
 - Project: FRENCH QUARTERS, PHASE I
 - Address: ST. XAVIER ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40203
-- ZIP extension: 
 - State project ID: KY-94-031
 - Latitude: 38.2416
 - Longitude: -85.7603
@@ -19,12 +16,9 @@
 - Tract 1990: 21111002100
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 28
 - Low-income units: 28
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

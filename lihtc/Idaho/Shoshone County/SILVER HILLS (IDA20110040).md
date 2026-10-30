@@ -1,13 +1,10 @@
 # Project: SILVER HILLS (IDA20110040)
 
 - HUD ID: IDA20110040
-- HUD ID before: 
 - Project: SILVER HILLS
 - Address: 20 BANK STREET
 - City: WALLACE
-- State: ID
 - ZIP: 83873
-- ZIP extension: 
 - State project ID: HC0923
 - Latitude: 47.471469
 - Longitude: -115.931975
@@ -22,9 +19,7 @@
 - Place 2000: 84790
 - Place 1990: 0710
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 100
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

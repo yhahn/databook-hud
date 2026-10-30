@@ -1,11 +1,9 @@
 # Project: LEGACY VILLAGE APTS. (UTA20040035)
 
 - HUD ID: UTA20040035
-- HUD ID before: 
 - Project: LEGACY VILLAGE APTS.
 - Address: 6256 S GOLD MEDAL DRIVE
 - City: TAYLORSVILLE
-- State: UT
 - ZIP: 84084
 - ZIP extension: 0000
 - State project ID: 2003-04
@@ -22,9 +20,7 @@
 - Place 2000: 75360
 - Place 1990: 1075
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 481612
 - Units: 144
 - Low-income units: 101
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 101
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +63,6 @@
 - Other population: Yes
 - Other population named: Handicapped/ADA
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

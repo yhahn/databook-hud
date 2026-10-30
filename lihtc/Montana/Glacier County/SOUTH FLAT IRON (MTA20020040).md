@@ -1,11 +1,9 @@
 # Project: SOUTH FLAT IRON (MTA20020040)
 
 - HUD ID: MTA20020040
-- HUD ID before: 
 - Project: SOUTH FLAT IRON
 - Address: NORTH BROWNING SOUTH FLAT IRON
 - City: BROWNING
-- State: MT
 - ZIP: 59417
 - ZIP extension: 0000
 - State project ID: 01020
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30035940200
 - Tract 2010: 30035940200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 10375
 - Place 2010: 10375
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 275000
 - Units: 20
 - Low-income units: 20
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -76,10 +66,5 @@
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

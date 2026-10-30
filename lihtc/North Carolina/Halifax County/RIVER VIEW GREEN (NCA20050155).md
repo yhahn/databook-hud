@@ -1,13 +1,10 @@
 # Project: RIVER VIEW GREEN (NCA20050155)
 
 - HUD ID: NCA20050155
-- HUD ID before: 
 - Project: RIVER VIEW GREEN
 - Address: 507 RIVERVIEW COURT
 - City: ROANOKE RAPIDS
-- State: NC
 - ZIP: 27870
-- ZIP extension: 
 - State project ID: 9002268
 - Latitude: 36.44171
 - Longitude: -77.630575
@@ -22,9 +19,7 @@
 - Place 2000: 56900
 - Place 1990: 2080
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 241740
 - Units: 44
 - Low-income units: 44
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

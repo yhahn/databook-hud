@@ -1,13 +1,10 @@
 # Project: FORESTER SQUARE (CAA20130032)
 
 - HUD ID: CAA20130032
-- HUD ID before: 
 - Project: FORESTER SQUARE
 - Address: 9570 VIA ZAPADOR
 - City: SANTEE
-- State: CA
 - ZIP: 92071
-- ZIP extension: 
 - State project ID: CA-11-887
 - Latitude: 32.835482
 - Longitude: -116.988486
@@ -22,9 +19,7 @@
 - Place 2000: 21712
 - Place 1990: 2623
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 477553
 - Units: 44
 - Low-income units: 43
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 490000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

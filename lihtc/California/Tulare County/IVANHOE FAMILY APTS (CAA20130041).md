@@ -1,13 +1,10 @@
 # Project: IVANHOE FAMILY APTS (CAA20130041)
 
 - HUD ID: CAA20130041
-- HUD ID before: 
 - Project: IVANHOE FAMILY APTS
 - Address: 15999 AVE 327
 - City: IVANHOE
-- State: CA
 - ZIP: 93235
-- ZIP extension: 
 - State project ID: CA-11-844
 - Latitude: 36.38309
 - Longitude: -119.215631
@@ -20,11 +17,8 @@
 - Place 2020: 36910
 - Place 2010: 36910
 - Place 2000: 36910
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 443867
 - Units: 72
 - Low-income units: 71
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 71
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,9 @@
 - HOME amount: 5000000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

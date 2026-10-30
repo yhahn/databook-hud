@@ -1,13 +1,10 @@
 # Project: KINGS SQUARE APTS (SCA20040070)
 
 - HUD ID: SCA20040070
-- HUD ID before: 
 - Project: KINGS SQUARE APTS
 - Address: 630 E MAIN ST
 - City: KINGSTREE
-- State: SC
 - ZIP: 29556
-- ZIP extension: 
 - State project ID: SC-02-027
 - Latitude: 33.66605
 - Longitude: -79.820499
@@ -20,11 +17,8 @@
 - Place 2020: 38590
 - Place 2010: 38590
 - Place 2000: 38590
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 124108
 - Units: 28
 - Low-income units: 28
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: AMES PRIVILEDGE UNIT 2 (MAB20140002)
 
 - HUD ID: MAB20140002
-- HUD ID before: 
 - Project: AMES PRIVILEDGE UNIT 2
 - Address: 1 SPRINGFIELD ST
 - City: CHICOPEE
-- State: MA
 - ZIP: 01013
-- ZIP extension: 
 - State project ID: MA-14-24
 - Latitude: 42.150836
 - Longitude: -72.607561
@@ -22,9 +19,7 @@
 - Place 2000: 13660
 - Place 1990: 0760
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 362488
 - Units: 40
 - Low-income units: 20
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

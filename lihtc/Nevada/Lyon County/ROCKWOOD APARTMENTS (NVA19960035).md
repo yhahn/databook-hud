@@ -1,11 +1,9 @@
 # Project: ROCKWOOD APARTMENTS (NVA19960035)
 
 - HUD ID: NVA19960035
-- HUD ID before: 
 - Project: ROCKWOOD APARTMENTS
 - Address: 645 SILVERLACE BLVD
 - City: FERNLEY
-- State: NV
 - ZIP: 89408
 - ZIP extension: 0000
 - State project ID: 95-1
@@ -22,9 +20,7 @@
 - Place 2000: 24900
 - Place 1990: 0048
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 181838
 - Units: 32
 - Low-income units: 32
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +63,6 @@
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

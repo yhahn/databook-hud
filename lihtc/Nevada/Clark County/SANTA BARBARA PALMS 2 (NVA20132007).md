@@ -1,11 +1,9 @@
 # Project: SANTA BARBARA PALMS 2 (NVA20132007)
 
 - HUD ID: NVA20132007
-- HUD ID before: 
 - Project: SANTA BARBARA PALMS 2
 - Address: 4880 SANTA BARBARA ST
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89121
 - ZIP extension: 0000
 - State project ID: 12-15
@@ -16,15 +14,11 @@
 - Tract 2020: 32003001713
 - Tract 2010: 32003001713
 - Tract 2000: 32003001713
-- Tract 1990: 
 - Place 2020: 54600
 - Place 2010: 54600
 - Place 2000: 54600
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 654784
 - Units: 42
 - Low-income units: 35
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

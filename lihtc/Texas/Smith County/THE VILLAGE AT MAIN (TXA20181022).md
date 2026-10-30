@@ -1,13 +1,10 @@
 # Project: THE VILLAGE AT MAIN (TXA20181022)
 
 - HUD ID: TXA20181022
-- HUD ID before: 
 - Project: THE VILLAGE AT MAIN
 - Address: 417 E MAIN ST
 - City: BULLARD
-- State: TX
 - ZIP: 75757
-- ZIP extension: 
 - State project ID: TX1243
 - Latitude: 32.142292
 - Longitude: -95.317939
@@ -16,16 +13,11 @@
 - Tract 2020: 48423001915
 - Tract 2010: 48423001908
 - Tract 2000: 48423001904
-- Tract 1990: 
 - Place 2020: 11212
 - Place 2010: 11212
 - Place 2000: 11212
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: TIDEWATER TOWN HOMES (NCA20040082)
 
 - HUD ID: NCA20040082
-- HUD ID before: 
 - Project: TIDEWATER TOWN HOMES
 - Address: 314 GREENDALE DRIVE
 - City: WILMINGTON
-- State: NC
 - ZIP: 28405
-- ZIP extension: 
 - State project ID: 9001437
 - Latitude: 34.245508
 - Longitude: -77.897951
@@ -22,9 +19,7 @@
 - Place 2000: 74440
 - Place 1990: 2755
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 498791
 - Units: 104
 - Low-income units: 104
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CEDAR CREST APTS. (UTA19930005)
 
 - HUD ID: UTA19930005
-- HUD ID before: 
 - Project: CEDAR CREST APTS.
 - Address: 1926 SOUTH WEST TEMPLE
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84111
 - ZIP extension: 0000
 - State project ID: 1992-27
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 19650
 - Units: 12
 - Low-income units: 12
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +73,4 @@
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

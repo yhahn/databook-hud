@@ -1,11 +1,9 @@
 # Project: SELLERSVILLE SENIOR RESIDENCES (PAA20221005)
 
 - HUD ID: PAA20221005
-- HUD ID before: 
 - Project: SELLERSVILLE SENIOR RESIDENCES
 - Address: 801 E CLYMER AVE
 - City: SELLERSVILLE
-- State: PA
 - ZIP: 18960
 - ZIP extension: 1615
 - State project ID: TC20210802
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42017102500
 - Tract 2010: 42017102500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 69248
 - Place 2010: 69248
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1230000
 - Units: 50
 - Low-income units: 49
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: SUP HSG BEHAV HLTH
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

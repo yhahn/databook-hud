@@ -1,13 +1,10 @@
 # Project: CUMBERLAND HOPE COMMUNITY, LLC (KYA20080630)
 
 - HUD ID: KYA20080630
-- HUD ID before: 
 - Project: CUMBERLAND HOPE COMMUNITY, LLC
 - Address: HWY 38
 - City: EVARTS
-- State: KY
 - ZIP: 40828
-- ZIP extension: 
 - State project ID: KY-07-061
 - Latitude: 36.8623
 - Longitude: -83.1824
@@ -16,15 +13,10 @@
 - Tract 2020: 21095971000
 - Tract 2010: 21095971000
 - Tract 2000: 21095971000
-- Tract 1990: 
 - Place 2020: 25606
 - Place 2010: 25606
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 429000
 - Units: 38
 - Low-income units: 38
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +68,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

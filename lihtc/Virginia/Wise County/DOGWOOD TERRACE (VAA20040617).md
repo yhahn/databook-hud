@@ -1,13 +1,10 @@
 # Project: DOGWOOD TERRACE (VAA20040617)
 
 - HUD ID: VAA20040617
-- HUD ID before: 
 - Project: DOGWOOD TERRACE
 - Address: 170 DOGWOOD TER
 - City: BIG STONE GAP
-- State: VA
 - ZIP: 24219
-- ZIP extension: 
 - State project ID: 4131
 - Latitude: 36.848946
 - Longitude: -82.777475
@@ -22,9 +19,7 @@
 - Place 2000: 07480
 - Place 1990: 0095
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 422916
 - Units: 97
 - Low-income units: 97
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 97
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003050. AKA MOUNTAIN VIEW TOWNHOUSES.
 - Record status: Existing, unchanged

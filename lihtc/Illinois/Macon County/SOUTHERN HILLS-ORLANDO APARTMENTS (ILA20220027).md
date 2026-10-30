@@ -1,13 +1,10 @@
 # Project: SOUTHERN HILLS-ORLANDO APARTMENTS (ILA20220027)
 
 - HUD ID: ILA20220027
-- HUD ID before: 
 - Project: SOUTHERN HILLS-ORLANDO APARTMENTS
 - Address: SCATTERED SITES
 - City: DECATUR
-- State: IL
 - ZIP: 62526
-- ZIP extension: 
 - State project ID: 006103
 - Latitude: 39.8852
 - Longitude: -88.9824
@@ -22,9 +19,7 @@
 - Place 2000: 18823
 - Place 1990: 1410
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 555259
 - Units: 212
 - Low-income units: 211
@@ -40,15 +35,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -59,8 +50,6 @@
 - TCEP amount: 0
 - HTF: No
 - HTF amount: 0
-- FHA: 
-- HOPE VI: 
 - HOPE VI amount: 0
 - RAD: Yes
 - QOZF: Yes
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

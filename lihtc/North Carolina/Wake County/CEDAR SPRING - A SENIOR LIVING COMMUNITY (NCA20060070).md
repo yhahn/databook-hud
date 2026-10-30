@@ -1,13 +1,10 @@
 # Project: CEDAR SPRING - A SENIOR LIVING COMMUNITY (NCA20060070)
 
 - HUD ID: NCA20060070
-- HUD ID before: 
 - Project: CEDAR SPRING - A SENIOR LIVING COMMUNITY
 - Address: 110 S HOLLYBROOK ROAD
 - City: WENDELL
-- State: NC
 - ZIP: 27591
-- ZIP extension: 
 - State project ID: 9001146
 - Latitude: 35.779562
 - Longitude: -78.366588
@@ -19,12 +16,8 @@
 - Tract 1990: 37183054402
 - Place 2020: 71860
 - Place 2010: 71860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 137135
 - Units: 20
 - Low-income units: 20
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 8
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

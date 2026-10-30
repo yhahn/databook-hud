@@ -1,13 +1,10 @@
 # Project: MCLEMORE APTS (TNA19930115)
 
 - HUD ID: TNA19930115
-- HUD ID before: 
 - Project: MCLEMORE APTS
 - Address: 804 N MCLEMORE AVE
 - City: BROWNSVILLE
-- State: TN
 - ZIP: 38012
-- ZIP extension: 
 - State project ID: TN-91-038
 - Latitude: 35.601321
 - Longitude: -89.268017
@@ -22,9 +19,7 @@
 - Place 2000: 08920
 - Place 1990: 0175
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 9666
 - Units: 6
 - Low-income units: 6
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

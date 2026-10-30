@@ -1,13 +1,10 @@
 # Project: RIDGEBROOK APTS (TNA20070130)
 
 - HUD ID: TNA20070130
-- HUD ID before: 
 - Project: RIDGEBROOK APTS
 - Address: 2100 RIDGEBROOK LN
 - City: KNOXVILLE
-- State: TN
 - ZIP: 37921
-- ZIP extension: 
 - State project ID: TN-07-207
 - Latitude: 35.970891
 - Longitude: -83.950419
@@ -22,9 +19,7 @@
 - Place 2000: 40000
 - Place 1990: 0760
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 298430
 - Units: 144
 - Low-income units: 144
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA RIDGEBROOK II.
 - Record status: Existing, unchanged

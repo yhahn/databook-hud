@@ -1,13 +1,10 @@
 # Project: RIVERSIDE APTS (NCA19940495)
 
 - HUD ID: NCA19940495
-- HUD ID before: 
 - Project: RIVERSIDE APTS
 - Address: 113 HILLSIDE DRIVE
 - City: LINCOLNTON
-- State: NC
 - ZIP: 28092
-- ZIP extension: 
 - State project ID: 9001365
 - Latitude: 35.466061
 - Longitude: -81.264034
@@ -22,9 +19,7 @@
 - Place 2000: 38320
 - Place 1990: 1470
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 58849
 - Units: 34
 - Low-income units: 34
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

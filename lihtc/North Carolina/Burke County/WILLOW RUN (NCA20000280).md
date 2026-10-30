@@ -1,13 +1,10 @@
 # Project: WILLOW RUN (NCA20000280)
 
 - HUD ID: NCA20000280
-- HUD ID before: 
 - Project: WILLOW RUN
 - Address: 115 WILLOW RUN DRIVE
 - City: MORGANTON
-- State: NC
 - ZIP: 28655
-- ZIP extension: 
 - State project ID: 9001277
 - Latitude: 35.723577
 - Longitude: -81.671821
@@ -22,9 +19,7 @@
 - Place 2000: 44400
 - Place 1990: 1710
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 132138
 - Units: 24
 - Low-income units: 24
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

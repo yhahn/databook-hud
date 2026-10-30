@@ -1,11 +1,9 @@
 # Project: BRICKGATE APARTMENTS (UTA20130002)
 
 - HUD ID: UTA20130002
-- HUD ID before: 
 - Project: BRICKGATE APARTMENTS
 - Address: 129 WEST FIRECLAY AVENUE
 - City: MURRAY
-- State: UT
 - ZIP: 84107
 - ZIP extension: 0000
 - State project ID: 2014-22
@@ -22,9 +20,7 @@
 - Place 2000: 53230
 - Place 1990: 0640
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 885279
 - Units: 268
 - Low-income units: 267
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

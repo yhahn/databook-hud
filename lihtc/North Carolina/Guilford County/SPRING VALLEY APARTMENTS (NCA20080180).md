@@ -1,13 +1,10 @@
 # Project: SPRING VALLEY APARTMENTS (NCA20080180)
 
 - HUD ID: NCA20080180
-- HUD ID before: 
 - Project: SPRING VALLEY APARTMENTS
 - Address: 509 EAST COMMERCE AVENUE
 - City: HIGH POINT
-- State: NC
 - ZIP: 27260
-- ZIP extension: 
 - State project ID: 9002274
 - Latitude: 35.956585
 - Longitude: -79.999124
@@ -22,9 +19,7 @@
 - Place 2000: 31400
 - Place 1990: 1195
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 620546
 - Units: 79
 - Low-income units: 79
@@ -39,9 +34,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

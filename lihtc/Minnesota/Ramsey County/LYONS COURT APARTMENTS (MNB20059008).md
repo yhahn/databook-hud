@@ -1,11 +1,9 @@
 # Project: LYONS COURT APARTMENTS (MNB20059008)
 
 - HUD ID: MNB20059008
-- HUD ID before: 
 - Project: LYONS COURT APARTMENTS
 - Address: 510 SIBLEY STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55101
 - ZIP extension: 2363
 - State project ID: D5303
@@ -16,15 +14,11 @@
 - Tract 2020: 27123034203
 - Tract 2010: 27123034202
 - Tract 2000: 27123034200
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 255283
 - Units: 60
 - Low-income units: 60
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 3
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +60,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

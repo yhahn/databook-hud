@@ -1,13 +1,10 @@
 # Project: BRIDGE MEADOWS (ORA20110015)
 
 - HUD ID: ORA20110015
-- HUD ID before: 
 - Project: BRIDGE MEADOWS
 - Address: 4203 N WILLIAMS AVE
 - City: PORTLAND
-- State: OR
 - ZIP: 97217
-- ZIP extension: 
 - State project ID: 2915
 - Latitude: 45.554044
 - Longitude: -122.66699
@@ -22,9 +19,7 @@
 - Place 2000: 59000
 - Place 1990: 0905
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 825000
 - Units: 27
 - Low-income units: 27
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: FOSTER CHILDREN
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ORA2011509. AKA BRIDGE MEADOWS SENIOR APTS.
 - Record status: Existing, unchanged

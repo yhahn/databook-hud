@@ -1,13 +1,10 @@
 # Project: PARKDALE VILLAS (TXA0000X061)
 
 - HUD ID: TXA0000X061
-- HUD ID before: 
 - Project: PARKDALE VILLAS
 - Address: 4100 PARKDALE LN
 - City: DENISON
-- State: TX
 - ZIP: 75020
-- ZIP extension: 
 - State project ID: TX5211
 - Latitude: 33.760185
 - Longitude: -96.593169
@@ -16,16 +13,11 @@
 - Tract 2020: 48181000302
 - Tract 2010: 48181000302
 - Tract 2000: 48181000302
-- Tract 1990: 
 - Place 2020: 19900
 - Place 2010: 99999
 - Place 2000: 19900
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 144
 - Low-income units: 128
 - Units reported: 144
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +67,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

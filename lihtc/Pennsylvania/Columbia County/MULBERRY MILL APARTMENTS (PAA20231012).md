@@ -1,11 +1,9 @@
 # Project: MULBERRY MILL APARTMENTS (PAA20231012)
 
 - HUD ID: PAA20231012
-- HUD ID before: 
 - Project: MULBERRY MILL APARTMENTS
 - Address: 160 W 6TH ST
 - City: BLOOMSBURG
-- State: PA
 - ZIP: 17815
 - ZIP extension: 2210
 - State project ID: TC20210622
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42037051200
 - Tract 2010: 42037051200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 07128
 - Place 2010: 07128
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1212026
 - Units: 44
 - Low-income units: 44
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 5360000
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

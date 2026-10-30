@@ -1,13 +1,10 @@
 # Project: STEPHENS CREEK SOUTH (ORA20140025)
 
 - HUD ID: ORA20140025
-- HUD ID before: 
 - Project: STEPHENS CREEK SOUTH
 - Address: 6851 SW 26TH AVE
 - City: PORTLAND
-- State: OR
 - ZIP: 97219
-- ZIP extension: 
 - State project ID: 2997
 - Latitude: 45.474087
 - Longitude: -122.704081
@@ -22,9 +19,7 @@
 - Place 2000: 59000
 - Place 1990: 0905
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 870000
 - Units: 47
 - Low-income units: 47
@@ -36,12 +31,9 @@
 - 3-bedroom units: 28
 - 4-bedroom units: 3
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: Yes
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

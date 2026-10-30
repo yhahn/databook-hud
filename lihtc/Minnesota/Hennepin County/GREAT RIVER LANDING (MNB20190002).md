@@ -1,11 +1,9 @@
 # Project: GREAT RIVER LANDING (MNB20190002)
 
 - HUD ID: MNB20190002
-- HUD ID before: 
 - Project: GREAT RIVER LANDING
 - Address: 813 FIFTH STREET NORTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55401
 - ZIP extension: 1113
 - State project ID: D7866
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 27053126201
 - Tract 2010: 27053126200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 1474192
 - Units: 72
 - Low-income units: 72
@@ -44,11 +36,9 @@
 - Affordability years: 15
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 5400000
 - CDBG: No
@@ -67,7 +57,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
 - Disabled: Yes
 - Homeless: Yes
@@ -78,8 +67,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

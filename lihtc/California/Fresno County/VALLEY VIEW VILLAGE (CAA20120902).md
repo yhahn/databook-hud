@@ -1,13 +1,10 @@
 # Project: VALLEY VIEW VILLAGE (CAA20120902)
 
 - HUD ID: CAA20120902
-- HUD ID before: 
 - Project: VALLEY VIEW VILLAGE
 - Address: 2446 MAGNOLIA ST
 - City: SELMA
-- State: CA
 - ZIP: 93662
-- ZIP extension: 
 - State project ID: CA-11-089
 - Latitude: 36.556573
 - Longitude: -119.619436
@@ -22,9 +19,7 @@
 - Place 2000: 70882
 - Place 1990: 2670
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 848352
 - Units: 66
 - Low-income units: 65
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: PINE HAVEN ESTATES (MSA20160006)
 
 - HUD ID: MSA20160006
-- HUD ID before: 
 - Project: PINE HAVEN ESTATES
 - Address: 557 WILLIAM CAREY PKWY
 - City: HATTIESBURG
-- State: MS
 - ZIP: 39401
 - ZIP extension: 0000
 - State project ID: 15-1-019
@@ -16,15 +14,11 @@
 - Tract 2020: 28035000602
 - Tract 2010: 28035000600
 - Tract 2000: 28035000600
-- Tract 1990: 
 - Place 2020: 31020
 - Place 2010: 31020
 - Place 2000: 31020
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 226290
 - Units: 32
 - Low-income units: 31
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

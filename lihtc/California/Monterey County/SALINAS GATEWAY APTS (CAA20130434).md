@@ -1,13 +1,10 @@
 # Project: SALINAS GATEWAY APTS (CAA20130434)
 
 - HUD ID: CAA20130434
-- HUD ID before: 
 - Project: SALINAS GATEWAY APTS
 - Address: 25 LINCOLN AVE
 - City: SALINAS
-- State: CA
 - ZIP: 93901
-- ZIP extension: 
 - State project ID: CA-11-116
 - Latitude: 36.677853
 - Longitude: -121.657507
@@ -22,9 +19,7 @@
 - Place 2000: 64224
 - Place 1990: 2435
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1200107
 - Units: 52
 - Low-income units: 51
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

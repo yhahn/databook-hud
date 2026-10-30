@@ -1,13 +1,10 @@
 # Project: WHITE'S MILL POINT (VAA20070812)
 
 - HUD ID: VAA20070812
-- HUD ID before: 
 - Project: WHITE'S MILL POINT
 - Address: 15379 WHITES MILL RD
 - City: ABINGDON
-- State: VA
 - ZIP: 24210
-- ZIP extension: 
 - State project ID: 9070
 - Latitude: 36.727256
 - Longitude: -81.973396
@@ -22,9 +19,7 @@
 - Place 2000: 00148
 - Place 1990: 0005
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 281000
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006124.
 - Record status: Existing, unchanged

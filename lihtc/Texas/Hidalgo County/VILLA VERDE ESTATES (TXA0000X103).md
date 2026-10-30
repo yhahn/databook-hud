@@ -1,13 +1,10 @@
 # Project: VILLA VERDE ESTATES (TXA0000X103)
 
 - HUD ID: TXA0000X103
-- HUD ID before: 
 - Project: VILLA VERDE ESTATES
 - Address: 2601 S. BORDER AVE.
 - City: WESLACO
-- State: TX
 - ZIP: 78596
-- ZIP extension: 
 - State project ID: TX5213
 - Latitude: 26.130207
 - Longitude: -97.998354
@@ -16,16 +13,10 @@
 - Tract 2020: 48215022302
 - Tract 2010: 48215022300
 - Tract 2000: 48215022600
-- Tract 1990: 
 - Place 2020: 75626
 - Place 2010: 75626
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 132
 - Low-income units: 112
 - Units reported: 132
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

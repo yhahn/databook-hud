@@ -1,11 +1,9 @@
 # Project: THE VILLAGE AT HERITAGE COURT (UTA20130010)
 
 - HUD ID: UTA20130010
-- HUD ID before: 
 - Project: THE VILLAGE AT HERITAGE COURT
 - Address: 919 SOUTH 400 EAST
 - City: ST. GEORGE
-- State: UT
 - ZIP: 84770
 - ZIP extension: 0000
 - State project ID: 2012-08
@@ -22,9 +20,7 @@
 - Place 2000: 65330
 - Place 1990: 0855
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 770251
 - Units: 55
 - Low-income units: 55
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

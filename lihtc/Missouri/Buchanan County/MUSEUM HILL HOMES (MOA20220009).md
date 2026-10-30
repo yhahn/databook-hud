@@ -1,11 +1,9 @@
 # Project: MUSEUM HILL HOMES (MOA20220009)
 
 - HUD ID: MOA20220009
-- HUD ID before: 
 - Project: MUSEUM HILL HOMES
 - Address: 1205 ANGELIQUE STREET
 - City: SAINT JOSEPH
-- State: MO
 - ZIP: 64501
 - ZIP extension: 0000
 - State project ID: 19-405
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29021001000
 - Tract 2010: 29021001000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 64550
 - Place 2010: 64550
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1
 - Units: 98
 - Low-income units: 98
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,7 +52,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +64,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: Previously listed as MOA20020205
 - Record status: Existing, unchanged

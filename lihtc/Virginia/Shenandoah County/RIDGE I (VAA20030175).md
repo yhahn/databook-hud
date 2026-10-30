@@ -1,13 +1,10 @@
 # Project: RIDGE I (VAA20030175)
 
 - HUD ID: VAA20030175
-- HUD ID before: 
 - Project: RIDGE I
 - Address: 186 E RESERVOIR RD
 - City: WOODSTOCK
-- State: VA
 - ZIP: 22664
-- ZIP extension: 
 - State project ID: 8797
 - Latitude: 38.866318
 - Longitude: -78.513597
@@ -22,9 +19,7 @@
 - Place 2000: 87712
 - Place 1990: 1360
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 204380
 - Units: 38
 - Low-income units: 38
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA0000075.
 - Record status: Existing, unchanged

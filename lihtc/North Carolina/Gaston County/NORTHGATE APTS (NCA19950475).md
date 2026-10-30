@@ -1,13 +1,10 @@
 # Project: NORTHGATE APTS (NCA19950475)
 
 - HUD ID: NCA19950475
-- HUD ID before: 
 - Project: NORTHGATE APTS
 - Address: 101 NORTHGATE LANE
 - City: BESSEMER CITY
-- State: NC
 - ZIP: 28016
-- ZIP extension: 
 - State project ID: 9001284
 - Latitude: 35.299464
 - Longitude: -81.281409
@@ -22,9 +19,7 @@
 - Place 2000: 05220
 - Place 1990: 0255
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 133904
 - Units: 34
 - Low-income units: 34
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 34
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

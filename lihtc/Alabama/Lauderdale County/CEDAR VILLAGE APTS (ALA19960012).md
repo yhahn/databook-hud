@@ -1,13 +1,10 @@
 # Project: CEDAR VILLAGE APTS (ALA19960012)
 
 - HUD ID: ALA19960012
-- HUD ID before: 
 - Project: CEDAR VILLAGE APTS
 - Address: 1172 CNTY RD 165
 - City: ROGERSVILLE
-- State: AL
 - ZIP: 35652
-- ZIP extension: 
 - State project ID: AL-96-0032
 - Latitude: 34.818102
 - Longitude: -87.265831
@@ -20,11 +17,8 @@
 - Place 2020: 66216
 - Place 2010: 66216
 - Place 2000: 01756
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 147581
 - Units: 28
 - Low-income units: 28
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 741000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997030.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: APARTMENTS OF LUMBERTON (NCA19950245)
 
 - HUD ID: NCA19950245
-- HUD ID before: 
 - Project: APARTMENTS OF LUMBERTON
 - Address: 2124 EAST 7TH STREET
 - City: LUMBERTON
-- State: NC
 - ZIP: 28358
-- ZIP extension: 
 - State project ID: 9002136
 - Latitude: 34.620839
 - Longitude: -78.98159
@@ -22,9 +19,7 @@
 - Place 2000: 39700
 - Place 1990: 1530
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 46351
 - Units: 48
 - Low-income units: 48
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

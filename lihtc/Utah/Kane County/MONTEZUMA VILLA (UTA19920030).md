@@ -1,11 +1,9 @@
 # Project: MONTEZUMA VILLA (UTA19920030)
 
 - HUD ID: UTA19920030
-- HUD ID before: 
 - Project: MONTEZUMA VILLA
 - Address: 175 EAST 555 SOUTH
 - City: KANAB
-- State: UT
 - ZIP: 84741
 - ZIP extension: 0000
 - State project ID: 1991-12
@@ -13,18 +11,11 @@
 - Longitude: -112.4672
 - County FIPS: 49025
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49025130200
 - Tract 2000: 49025130200
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 39920
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 25298
 - Units: 16
 - Low-income units: 15
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: Handicapped/ADA
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

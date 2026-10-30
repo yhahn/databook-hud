@@ -1,11 +1,9 @@
 # Project: LIVINGSTON VILLAGE (MTA19960050)
 
 - HUD ID: MTA19960050
-- HUD ID before: 
 - Project: LIVINGSTON VILLAGE
 - Address: 603 ROBIN LANE
 - City: LIVINGSTON
-- State: MT
 - ZIP: 59047
 - ZIP extension: 0000
 - State project ID: 94110
@@ -20,11 +18,8 @@
 - Place 2020: 43975
 - Place 2010: 43975
 - Place 2000: 43975
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 43011
 - Units: 24
 - Low-income units: 24
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

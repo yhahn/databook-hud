@@ -1,11 +1,9 @@
 # Project: SKYLINE APARTMENTS (NVA19940030)
 
 - HUD ID: NVA19940030
-- HUD ID before: 
 - Project: SKYLINE APARTMENTS
 - Address: 1570 SKY VALLEY DRIVE
 - City: RENO
-- State: NV
 - ZIP: 89503
 - ZIP extension: 0000
 - State project ID: 94-1
@@ -22,9 +20,7 @@
 - Place 2000: 60600
 - Place 1990: 0090
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 330906
 - Units: 100
 - Low-income units: 80
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA0000150.
 - Record status: Existing, unchanged

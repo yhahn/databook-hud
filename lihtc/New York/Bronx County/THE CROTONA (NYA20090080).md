@@ -1,13 +1,10 @@
 # Project: THE CROTONA (NYA20090080)
 
 - HUD ID: NYA20090080
-- HUD ID before: 
 - Project: THE CROTONA
 - Address: 1510 SOUTHERN BLVD
 - City: BRONX
-- State: NY
 - ZIP: 10460
-- ZIP extension: 
 - State project ID: 20070146
 - Latitude: 40.833799
 - Longitude: -73.889754
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 2505
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 571402
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA 1510 SOUTHERN BOULEVARD.
 - Record status: Existing, unchanged

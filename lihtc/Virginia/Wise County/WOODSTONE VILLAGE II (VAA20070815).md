@@ -1,13 +1,10 @@
 # Project: WOODSTONE VILLAGE II (VAA20070815)
 
 - HUD ID: VAA20070815
-- HUD ID before: 
 - Project: WOODSTONE VILLAGE II
 - Address: 273 WOODSTONE DR E
 - City: BIG STONE GAP
-- State: VA
 - ZIP: 24219
-- ZIP extension: 
 - State project ID: 1159
 - Latitude: 36.846065
 - Longitude: -82.780779
@@ -22,9 +19,7 @@
 - Place 2000: 07480
 - Place 1990: 0095
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 92033
 - Units: 18
 - Low-income units: 18
@@ -40,13 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: Yes
 - RHS 538 loan: No
 - HOME: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005235.
 - Record status: Existing, unchanged

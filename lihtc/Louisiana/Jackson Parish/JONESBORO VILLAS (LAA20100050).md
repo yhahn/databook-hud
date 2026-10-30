@@ -1,11 +1,9 @@
 # Project: JONESBORO VILLAS (LAA20100050)
 
 - HUD ID: LAA20100050
-- HUD ID before: 
 - Project: JONESBORO VILLAS
 - Address: 300 LEON DRIVE
 - City: JONESBORO
-- State: LA
 - ZIP: 71251
 - ZIP extension: 0000
 - State project ID: LA-10-009
@@ -22,9 +20,7 @@
 - Place 2000: 38670
 - Place 1990: 0650
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 2582
 - Units: 32
 - Low-income units: 32
@@ -40,12 +36,9 @@
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Acquisition/Rehab
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

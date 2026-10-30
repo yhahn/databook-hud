@@ -1,11 +1,9 @@
 # Project: CROWN AT POCO ACRES (UTA20100910)
 
 - HUD ID: UTA20100910
-- HUD ID before: 
 - Project: CROWN AT POCO ACRES
 - Address: 168 E 1800 S
 - City: ROOSEVELT
-- State: UT
 - ZIP: 84066
 - ZIP extension: 0000
 - State project ID: 2010-04
@@ -19,12 +17,9 @@
 - Tract 1990: 49013991400
 - Place 2020: 64670
 - Place 2010: 64670
-- Place 2000: 
 - Place 1990: 0840
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 66108
 - Units: 4
 - Low-income units: 4
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

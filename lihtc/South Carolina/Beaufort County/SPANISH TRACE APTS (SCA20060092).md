@@ -1,13 +1,10 @@
 # Project: SPANISH TRACE APTS (SCA20060092)
 
 - HUD ID: SCA20060092
-- HUD ID before: 
 - Project: SPANISH TRACE APTS
 - Address: 2400 SOUTHSIDE BLVD
 - City: BEAUFORT
-- State: SC
 - ZIP: 29902
-- ZIP extension: 
 - State project ID: SC-50-503
 - Latitude: 32.396982
 - Longitude: -80.69205
@@ -22,9 +19,7 @@
 - Place 2000: 04690
 - Place 1990: 1135
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 166111
 - Units: 87
 - Low-income units: 87
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2007140.
 - Record status: Existing, unchanged

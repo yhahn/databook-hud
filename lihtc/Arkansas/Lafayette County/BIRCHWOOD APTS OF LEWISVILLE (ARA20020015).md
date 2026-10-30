@@ -1,13 +1,10 @@
 # Project: BIRCHWOOD APTS OF LEWISVILLE (ARA20020015)
 
 - HUD ID: ARA20020015
-- HUD ID before: 
 - Project: BIRCHWOOD APTS OF LEWISVILLE
 - Address: 2518 SPRUCE ST
 - City: LEWISVILLE
-- State: AR
 - ZIP: 71845
-- ZIP extension: 
 - State project ID: AR-01-02
 - Latitude: 33.379134
 - Longitude: -93.576118
@@ -22,9 +19,7 @@
 - Place 2000: 09550
 - Place 1990: 1885
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 114894
 - Units: 24
 - Low-income units: 24
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 300000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

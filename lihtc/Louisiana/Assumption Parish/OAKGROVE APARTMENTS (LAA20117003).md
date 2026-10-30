@@ -1,11 +1,9 @@
 # Project: OAKGROVE APARTMENTS (LAA20117003)
 
 - HUD ID: LAA20117003
-- HUD ID before: 
 - Project: OAKGROVE APARTMENTS
 - Address: 119 BANKERS COURT
 - City: PIERRE PART
-- State: LA
 - ZIP: 70339
 - ZIP extension: 0000
 - State project ID: LA-11-111
@@ -22,9 +20,7 @@
 - Place 2000: 60075
 - Place 1990: 1048
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 245137
 - Units: 32
 - Low-income units: 32
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Acquisition/Rehab
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

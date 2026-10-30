@@ -1,13 +1,10 @@
 # Project: HARNETT TRAINING SCHOOL APARTMENTS (NCA20151929)
 
 - HUD ID: NCA20151929
-- HUD ID before: 
 - Project: HARNETT TRAINING SCHOOL APARTMENTS
 - Address: 630 EAST JOHNSON STREET
 - City: DUNN
-- State: NC
 - ZIP: 28334
-- ZIP extension: 
 - State project ID: 9151134
 - Latitude: 35.311173
 - Longitude: -78.600479
@@ -22,9 +19,7 @@
 - Place 2000: 18320
 - Place 1990: 0745
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 559024
 - Units: 37
 - Low-income units: 37
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

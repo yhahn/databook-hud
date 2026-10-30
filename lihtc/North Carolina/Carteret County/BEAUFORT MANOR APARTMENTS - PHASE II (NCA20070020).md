@@ -1,13 +1,10 @@
 # Project: BEAUFORT MANOR APARTMENTS - PHASE II (NCA20070020)
 
 - HUD ID: NCA20070020
-- HUD ID before: 
 - Project: BEAUFORT MANOR APARTMENTS - PHASE II
 - Address: 1300 PROFESSIONAL PARK DRIVE
 - City: BEAUFORT
-- State: NC
 - ZIP: 28557
-- ZIP extension: 
 - State project ID: 9001150
 - Latitude: 34.8184
 - Longitude: -76.659
@@ -19,12 +16,9 @@
 - Tract 1990: 37031970300
 - Place 2020: 04260
 - Place 2010: 04260
-- Place 2000: 
 - Place 1990: 0215
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 185505
 - Units: 25
 - Low-income units: 25
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 3
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

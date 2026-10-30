@@ -1,11 +1,9 @@
 # Project: BOWIN PLACE (MIA20230001)
 
 - HUD ID: MIA20230001
-- HUD ID before: 
 - Project: BOWIN PLACE
 - Address: 15400 W SEVEN MILE ROAD
 - City: DETROIT
-- State: MI
 - ZIP: 48235
 - ZIP extension: 0000
 - State project ID: 551
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26163539700
 - Tract 2010: 26163539700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 893339
 - Units: 193
 - Low-income units: 192
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

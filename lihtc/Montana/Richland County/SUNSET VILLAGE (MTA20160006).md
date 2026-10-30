@@ -1,13 +1,9 @@
 # Project: SUNSET VILLAGE (MTA20160006)
 
 - HUD ID: MTA20160006
-- HUD ID before: 
 - Project: SUNSET VILLAGE
 - Address: 1023 6TH ST SW
 - City: SIDNEY
-- State: MT
-- ZIP: 
-- ZIP extension: 
 - State project ID: 14030
 - Latitude: 47.712244
 - Longitude: -104.16953
@@ -16,15 +12,11 @@
 - Tract 2020: 30083070302
 - Tract 2010: 30083070300
 - Tract 2000: 30083070300
-- Tract 1990: 
 - Place 2020: 67900
 - Place 2010: 67900
 - Place 2000: 67900
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 540471
 - Units: 36
 - Low-income units: 36
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

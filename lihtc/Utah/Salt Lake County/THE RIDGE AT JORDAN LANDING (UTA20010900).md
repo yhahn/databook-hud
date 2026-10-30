@@ -1,11 +1,9 @@
 # Project: THE RIDGE AT JORDAN LANDING (UTA20010900)
 
 - HUD ID: UTA20010900
-- HUD ID before: 
 - Project: THE RIDGE AT JORDAN LANDING
 - Address: 3818 W. CASTLE PINES WAY
 - City: WEST JORDAN
-- State: UT
 - ZIP: 84084
 - ZIP extension: 0000
 - State project ID: 2000-15
@@ -22,9 +20,7 @@
 - Place 2000: 82950
 - Place 1990: 0707
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 576018
 - Units: 264
 - Low-income units: 264
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: LORIS GARDENS (SCA20050090)
 
 - HUD ID: SCA20050090
-- HUD ID before: 
 - Project: LORIS GARDENS
 - Address: 4265 SUGGS ST
 - City: LORIS
-- State: SC
 - ZIP: 29569
-- ZIP extension: 
 - State project ID: SC-03-016
 - Latitude: 34.047545
 - Longitude: -78.893931
@@ -20,11 +17,8 @@
 - Place 2020: 42730
 - Place 2010: 42730
 - Place 2000: 42730
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 203910
 - Units: 36
 - Low-income units: 36
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 22
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

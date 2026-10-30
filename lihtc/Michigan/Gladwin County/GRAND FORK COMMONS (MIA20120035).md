@@ -1,13 +1,10 @@
 # Project: GRAND FORK COMMONS (MIA20120035)
 
 - HUD ID: MIA20120035
-- HUD ID before: 
 - Project: GRAND FORK COMMONS
 - Address: 2755 W KNOX RD
 - City: BEAVERTON
-- State: MI
 - ZIP: 48612
-- ZIP extension: 
 - State project ID: MI-1869
 - Latitude: 43.886737
 - Longitude: -84.476618
@@ -20,11 +17,8 @@
 - Place 2020: 06660
 - Place 2010: 06660
 - Place 2000: 06660
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 147951
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1992145.
 - Record status: Existing, unchanged

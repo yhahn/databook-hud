@@ -1,13 +1,10 @@
 # Project: UNIVERSITY AVENUE HOMES (CAA20130466)
 
 - HUD ID: CAA20130466
-- HUD ID before: 
 - Project: UNIVERSITY AVENUE HOMES
 - Address: 1040 UNIVERSITY AVE
 - City: BERKELEY
-- State: CA
 - ZIP: 94710
-- ZIP extension: 
 - State project ID: CA-12-014
 - Latitude: 37.868632
 - Longitude: -122.293377
@@ -22,9 +19,7 @@
 - Place 2000: 06000
 - Place 1990: 0245
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 751055
 - Units: 74
 - Low-income units: 74
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 74
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -74,12 +62,8 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA UA HOMES.
 - Record status: Existing, unchanged

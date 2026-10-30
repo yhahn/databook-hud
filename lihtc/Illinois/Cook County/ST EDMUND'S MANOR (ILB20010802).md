@@ -1,13 +1,10 @@
 # Project: ST EDMUND'S MANOR (ILB20010802)
 
 - HUD ID: ILB20010802
-- HUD ID before: 
 - Project: ST EDMUND'S MANOR
 - Address: 5947 S INDIANA AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60637
-- ZIP extension: 
 - State project ID: 20-15-303
 - Latitude: 41.786107
 - Longitude: -87.620399
@@ -22,10 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
-- Allocation amount: 
 - Units: 31
 - Low-income units: 29
 - Units reported: 31
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2001050.
 - Record status: Existing, unchanged

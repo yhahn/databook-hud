@@ -1,11 +1,9 @@
 # Project: ASHTON CREEK APARTMENTS (GAA20030160)
 
 - HUD ID: GAA20030160
-- HUD ID before: 
 - Project: ASHTON CREEK APARTMENTS
 - Address: 239 NEW HOPE RD
 - City: LAWRENCEVILLE
-- State: GA
 - ZIP: 30046
 - ZIP extension: 2513
 - State project ID: GA-01-535
@@ -22,9 +20,7 @@
 - Place 2000: 45488
 - Place 1990: 1570
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 376880
 - Units: 140
 - Low-income units: 139
@@ -36,12 +32,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +63,8 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS GAA2006020.
 - Record status: Existing, unchanged

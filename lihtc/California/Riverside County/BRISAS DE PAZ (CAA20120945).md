@@ -1,13 +1,10 @@
 # Project: BRISAS DE PAZ (CAA20120945)
 
 - HUD ID: CAA20120945
-- HUD ID before: 
 - Project: BRISAS DE PAZ
 - Address: 65921 FLORA AVE
 - City: DESERT HOT SPRINGS
-- State: CA
 - ZIP: 92240
-- ZIP extension: 
 - State project ID: CA-10-247
 - Latitude: 33.95583
 - Longitude: -116.511262
@@ -22,9 +19,7 @@
 - Place 2000: 18996
 - Place 1990: 0765
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 939998
 - Units: 62
 - Low-income units: 61
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 1950000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

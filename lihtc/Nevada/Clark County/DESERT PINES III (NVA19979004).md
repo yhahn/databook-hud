@@ -1,11 +1,9 @@
 # Project: DESERT PINES III (NVA19979004)
 
 - HUD ID: NVA19979004
-- HUD ID before: 
 - Project: DESERT PINES III
 - Address: 3750 E BONANZA
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89110
 - ZIP extension: 0000
 - State project ID: 95-15
@@ -16,15 +14,11 @@
 - Tract 2020: 32003000514
 - Tract 2010: 32003000514
 - Tract 2000: 32003000514
-- Tract 1990: 
 - Place 2020: 40000
 - Place 2010: 40000
 - Place 2000: 40000
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 307609
 - Units: 60
 - Low-income units: 60
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,6 @@
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

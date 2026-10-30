@@ -1,13 +1,10 @@
 # Project: OVERLOOK APTS (NCA19980120)
 
 - HUD ID: NCA19980120
-- HUD ID before: 
 - Project: OVERLOOK APTS
 - Address: 127 BARTLETT STREET
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28801
-- ZIP extension: 
 - State project ID: 9001444
 - Latitude: 35.582594
 - Longitude: -82.561899
@@ -22,9 +19,7 @@
 - Place 2000: 02140
 - Place 1990: 0095
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 266743
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

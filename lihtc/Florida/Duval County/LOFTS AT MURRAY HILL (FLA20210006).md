@@ -1,13 +1,10 @@
 # Project: LOFTS AT MURRAY HILL (FLA20210006)
 
 - HUD ID: FLA20210006
-- HUD ID before: 
 - Project: LOFTS AT MURRAY HILL
 - Address: 840 EDGEWOOD AVENUE SOUTH
 - City: JACKSONVILLE
-- State: FL
 - ZIP: 32205
-- ZIP extension: 
 - State project ID: FL-20-3228
 - Latitude: 30.314053
 - Longitude: -81.720404
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 12031002502
 - Tract 2010: 12031002502
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1868000
 - Units: 117
 - Low-income units: 107
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

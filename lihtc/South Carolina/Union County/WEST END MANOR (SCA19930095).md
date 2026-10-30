@@ -1,13 +1,10 @@
 # Project: WEST END MANOR (SCA19930095)
 
 - HUD ID: SCA19930095
-- HUD ID before: 
 - Project: WEST END MANOR
 - Address: 629 RICE AVE EXT
 - City: UNION
-- State: SC
 - ZIP: 29379
-- ZIP extension: 
 - State project ID: SC-92-013
 - Latitude: 34.719063
 - Longitude: -81.646122
@@ -22,9 +19,7 @@
 - Place 2000: 73105
 - Place 1990: 1455
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 44920
 - Units: 28
 - Low-income units: 28
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: GATEWAY CROSSING (IDA19999005)
 
 - HUD ID: IDA19999005
-- HUD ID before: 
 - Project: GATEWAY CROSSING
 - Address: 211 NORTH GATEWAY STREET
 - City: NAMPA
-- State: ID
 - ZIP: 83687
-- ZIP extension: 
 - State project ID: HC9622
 - Latitude: 43.592409
 - Longitude: -116.570869
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 16027020200
 - Tract 2010: 16027020200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 56260
 - Place 2010: 56260
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 357788
 - Units: 73
 - Low-income units: 72
@@ -40,11 +31,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

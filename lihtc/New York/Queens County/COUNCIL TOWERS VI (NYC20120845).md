@@ -1,13 +1,10 @@
 # Project: COUNCIL TOWERS VI (NYC20120845)
 
 - HUD ID: NYC20120845
-- HUD ID before: 
 - Project: COUNCIL TOWERS VI
 - Address: 155-25 71ST AVE
 - City: FLUSHING
-- State: NY
 - ZIP: 11367
-- ZIP extension: 
 - State project ID: 27-1111603
 - Latitude: 40.730381
 - Longitude: -73.81325
@@ -16,15 +13,11 @@
 - Tract 2020: 36081122702
 - Tract 2010: 36081122702
 - Tract 2000: 36081122702
-- Tract 1990: 
 - Place 2020: 51000
 - Place 2010: 51000
 - Place 2000: 51000
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 765613
 - Units: 78
 - Low-income units: 77
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,13 +47,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

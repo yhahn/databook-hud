@@ -1,11 +1,9 @@
 # Project: MILLERSBURG PLACE (KYA20171021)
 
 - HUD ID: KYA20171021
-- HUD ID before: 
 - Project: MILLERSBURG PLACE
 - Address: MAIN STREET
 - City: MILLERSBURG
-- State: KY
 - ZIP: 40348
 - ZIP extension: 9998
 - State project ID: KY-16-019
@@ -16,15 +14,10 @@
 - Tract 2020: 21017030500
 - Tract 2010: 21017030500
 - Tract 2000: 21017030500
-- Tract 1990: 
 - Place 2020: 52302
 - Place 2010: 52302
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 581636
 - Units: 50
 - Low-income units: 50
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

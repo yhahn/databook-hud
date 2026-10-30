@@ -1,13 +1,10 @@
 # Project: AVALON PARK APTS (MSA20080015)
 
 - HUD ID: MSA20080015
-- HUD ID before: 
 - Project: AVALON PARK APTS
 - Address: 791 W CNTY LINE RD
 - City: JACKSON
-- State: MS
 - ZIP: 39213
-- ZIP extension: 
 - State project ID: MS-06-078
 - Latitude: 32.400051
 - Longitude: -90.169243
@@ -22,9 +19,7 @@
 - Place 2000: 36000
 - Place 1990: 0615
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 1251683
 - Units: 128
 - Low-income units: 127
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

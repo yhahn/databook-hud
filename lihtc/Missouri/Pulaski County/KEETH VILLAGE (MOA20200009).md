@@ -1,11 +1,9 @@
 # Project: KEETH VILLAGE (MOA20200009)
 
 - HUD ID: MOA20200009
-- HUD ID before: 
 - Project: KEETH VILLAGE
 - Address: 309 KEETH STREET
 - City: CROCKER
-- State: MO
 - ZIP: 65452
 - ZIP extension: 0000
 - State project ID: 18-048
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29169470102
 - Tract 2010: 29169470102
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 17344
 - Place 2010: 17344
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 185000
 - Units: 16
 - Low-income units: 16
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

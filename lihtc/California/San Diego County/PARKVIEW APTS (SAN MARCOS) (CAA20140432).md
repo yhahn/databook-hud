@@ -1,13 +1,10 @@
 # Project: PARKVIEW APTS (SAN MARCOS) (CAA20140432)
 
 - HUD ID: CAA20140432
-- HUD ID before: 
 - Project: PARKVIEW APTS (SAN MARCOS)
 - Address: 363 AUTUMN DR
 - City: SAN MARCOS
-- State: CA
 - ZIP: 92069
-- ZIP extension: 
 - State project ID: CA-12-216
 - Latitude: 33.143558
 - Longitude: -117.169148
@@ -22,9 +19,7 @@
 - Place 2000: 68196
 - Place 1990: 2537
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1768748
 - Units: 84
 - Low-income units: 82
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 59
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

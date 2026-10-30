@@ -1,11 +1,9 @@
 # Project: MAGNOLIA CROSSING (MSA20150017)
 
 - HUD ID: MSA20150017
-- HUD ID before: 
 - Project: MAGNOLIA CROSSING
 - Address: 280 MAGNOLIA DRIVE
 - City: YAZOO CITY
-- State: MS
 - ZIP: 39194
 - ZIP extension: 0000
 - State project ID: 12-1-017
@@ -16,15 +14,11 @@
 - Tract 2020: 28163950300
 - Tract 2010: 28163950300
 - Tract 2000: 28163950500
-- Tract 1990: 
 - Place 2020: 81520
 - Place 2010: 81520
 - Place 2000: 81520
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 721735
 - Units: 86
 - Low-income units: 86
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PROPERTY RECORD ADDED FROM HUD STUDY DATA FILE.
 - Record status: Existing, unchanged

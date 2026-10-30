@@ -1,11 +1,9 @@
 # Project: ASPEN PLACE (MTA20140005)
 
 - HUD ID: MTA20140005
-- HUD ID before: 
 - Project: ASPEN PLACE
 - Address: 2550 GREAT NORTHEN AVE
 - City: MISSOULA
-- State: MT
 - ZIP: 59808
 - ZIP extension: 0000
 - State project ID: 13080
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 15525000
 - Units: 36
 - Low-income units: 36
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

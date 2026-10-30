@@ -1,13 +1,10 @@
 # Project: JEFFERSON VILLAGE APARTMENTS (SDA20220001)
 
 - HUD ID: SDA20220001
-- HUD ID before: 
 - Project: JEFFERSON VILLAGE APARTMENTS
 - Address: 4107 WEST INNOVATION STREET
 - City: SIOUX FALLS
-- State: SD
 - ZIP: 57107
-- ZIP extension: 
 - State project ID: 03549
 - Latitude: 43.5763
 - Longitude: -96.780133
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 46099010405
 - Tract 2010: 46099010405
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 59020
 - Place 2010: 59020
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 413815
 - Units: 29
 - Low-income units: 29
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,7 +38,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,21 +53,10 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

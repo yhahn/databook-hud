@@ -1,13 +1,10 @@
 # Project: WOODRIDGE APTS (NCA19980185)
 
 - HUD ID: NCA19980185
-- HUD ID before: 
 - Project: WOODRIDGE APTS
 - Address: 61 BINGHAM ROAD
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28806
-- ZIP extension: 
 - State project ID: 9001396
 - Latitude: 35.600797
 - Longitude: -82.584233
@@ -20,11 +17,8 @@
 - Place 2020: 02140
 - Place 2010: 02140
 - Place 2000: 02140
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 120092
 - Units: 110
 - Low-income units: 96
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: RIVER TURN WOODS (NHA20231004)
 
 - HUD ID: NHA20231004
-- HUD ID before: 
 - Project: RIVER TURN WOODS
 - Address: 36 COUNCIL ROAD
 - City: CONWAY
-- State: NH
 - ZIP: 03813
-- ZIP extension: 
 - State project ID: NH-99-99
 - Latitude: 44.132
 - Longitude: -71.0506
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 33003955302
 - Tract 2010: 33003955300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 14580
 - Place 2010: 53860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 800000
 - Units: 40
 - Low-income units: 30
@@ -44,11 +35,9 @@
 - Affordability years: 60
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 2972000
 - CDBG: Yes
@@ -67,10 +56,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: No
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

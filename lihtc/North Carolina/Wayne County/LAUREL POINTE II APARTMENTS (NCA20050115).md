@@ -1,11 +1,9 @@
 # Project: LAUREL POINTE II APARTMENTS (NCA20050115)
 
 - HUD ID: NCA20050115
-- HUD ID before: 
 - Project: LAUREL POINTE II APARTMENTS
 - Address: 660 E NEW HOPE RD
 - City: GOLDSBORO
-- State: NC
 - ZIP: 27534
 - ZIP extension: 7060
 - State project ID: 9001687
@@ -19,12 +17,8 @@
 - Tract 1990: 37191000300
 - Place 2020: 26880
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 178409
 - Units: 32
 - Low-income units: 32
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 13
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: DUNCAN VILLAGE (SCA20050057)
 
 - HUD ID: SCA20050057
-- HUD ID before: 
 - Project: DUNCAN VILLAGE
 - Address: 100 DUNCAN ST
 - City: DUNCAN
-- State: SC
 - ZIP: 29334
-- ZIP extension: 
 - State project ID: SC-05-066
 - Latitude: 34.934595
 - Longitude: -82.134551
@@ -22,9 +19,7 @@
 - Place 2000: 21265
 - Place 1990: 0385
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 218947
 - Units: 50
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

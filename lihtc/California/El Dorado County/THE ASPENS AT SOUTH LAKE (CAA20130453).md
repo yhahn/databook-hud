@@ -1,13 +1,10 @@
 # Project: THE ASPENS AT SOUTH LAKE (CAA20130453)
 
 - HUD ID: CAA20130453
-- HUD ID before: 
 - Project: THE ASPENS AT SOUTH LAKE
 - Address: 3521 PIONEER TRAIL
 - City: SOUTH LAKE TAHOE
-- State: CA
 - ZIP: 96150
-- ZIP extension: 
 - State project ID: CA-12-172
 - Latitude: 38.939801
 - Longitude: -119.953109
@@ -22,9 +19,7 @@
 - Place 2000: 73108
 - Place 1990: 2737
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 876618
 - Units: 48
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

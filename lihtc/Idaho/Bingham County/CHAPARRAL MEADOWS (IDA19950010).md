@@ -1,13 +1,10 @@
 # Project: CHAPARRAL MEADOWS (IDA19950010)
 
 - HUD ID: IDA19950010
-- HUD ID before: 
 - Project: CHAPARRAL MEADOWS
 - Address: 1417 CHUCKWAGON PLACE
 - City: BLACKFOOT
-- State: ID
 - ZIP: 83221
-- ZIP extension: 
 - State project ID: HC9419
 - Latitude: 43.180413
 - Longitude: -112.364196
@@ -22,9 +19,7 @@
 - Place 2000: 07840
 - Place 1990: 0075
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 101807
 - Units: 28
 - Low-income units: 21
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

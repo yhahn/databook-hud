@@ -1,13 +1,10 @@
 # Project: THE HILLS AT SPRING BRANCH (KYA20070628)
 
 - HUD ID: KYA20070628
-- HUD ID before: 
 - Project: THE HILLS AT SPRING BRANCH
 - Address: SPRINGS BRANCH ROAD
 - City: BURKESVILLE
-- State: KY
 - ZIP: 42717
-- ZIP extension: 
 - State project ID: KY-06-070
 - Latitude: 36.8298
 - Longitude: -85.4716
@@ -19,12 +16,8 @@
 - Tract 1990: 21057950100
 - Place 2020: 11098
 - Place 2010: 11098
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 151442
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

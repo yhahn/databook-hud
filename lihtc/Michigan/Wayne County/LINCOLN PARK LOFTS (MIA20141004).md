@@ -1,11 +1,9 @@
 # Project: LINCOLN PARK LOFTS (MIA20141004)
 
 - HUD ID: MIA20141004
-- HUD ID before: 
 - Project: LINCOLN PARK LOFTS
 - Address: 1583 EAST FORT STREET
 - City: LINCOLN PARK
-- State: MI
 - ZIP: 48146
 - ZIP extension: 0000
 - State project ID: 3468
@@ -16,15 +14,11 @@
 - Tract 2020: 26163577100
 - Tract 2010: 26163577100
 - Tract 2000: 26163577100
-- Tract 1990: 
 - Place 2020: 47800
 - Place 2010: 47800
 - Place 2000: 47800
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1222133
 - Units: 38
 - Low-income units: 38
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SCHWEITZER RANCH SENIOR (IDA20123007)
 
 - HUD ID: IDA20123007
-- HUD ID before: 
 - Project: SCHWEITZER RANCH SENIOR
 - Address: 4207 SAMUELSON AVENUE
 - City: SANDPOINT
-- State: ID
 - ZIP: 83864
-- ZIP extension: 
 - State project ID: HC1114
 - Latitude: 48.309139
 - Longitude: -116.56298
@@ -16,15 +13,10 @@
 - Tract 2020: 16017950203
 - Tract 2010: 16017950200
 - Tract 2000: 16017950200
-- Tract 1990: 
 - Place 2020: 72100
 - Place 2010: 72100
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 571808
 - Units: 51
 - Low-income units: 40
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

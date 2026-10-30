@@ -1,13 +1,10 @@
 # Project: OAK RIDGE APARTMENTS (KYA20130002)
 
 - HUD ID: KYA20130002
-- HUD ID before: 
 - Project: OAK RIDGE APARTMENTS
 - Address: E OAK RIDGE STREET
 - City: WILLIAMSBURG
-- State: KY
 - ZIP: 40769
-- ZIP extension: 
 - State project ID: KY-12-006
 - Latitude: 36.6899
 - Longitude: -84.2617
@@ -19,12 +16,8 @@
 - Tract 1990: 21235980500
 - Place 2020: 83334
 - Place 2010: 83334
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 707968
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

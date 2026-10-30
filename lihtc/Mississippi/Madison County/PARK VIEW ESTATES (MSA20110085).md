@@ -1,13 +1,10 @@
 # Project: PARK VIEW ESTATES (MSA20110085)
 
 - HUD ID: MSA20110085
-- HUD ID before: 
 - Project: PARK VIEW ESTATES
 - Address: 116 DOGWOOD DR
 - City: CANTON
-- State: MS
 - ZIP: 39046
-- ZIP extension: 
 - State project ID: MS-09-1-012
 - Latitude: 32.622608
 - Longitude: -90.055641
@@ -22,9 +19,7 @@
 - Place 2000: 11100
 - Place 1990: 0190
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 45
 - Low-income units: 45
@@ -39,9 +34,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1080346
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011678.
 - Record status: Existing, unchanged

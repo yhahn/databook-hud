@@ -1,13 +1,9 @@
 # Project: MONARCH PLACE APTS (SCA19990075)
 
 - HUD ID: SCA19990075
-- HUD ID before: 
 - Project: MONARCH PLACE APTS
 - Address: 1 MONARCH PL
 - City: WELLFORD
-- State: SC
-- ZIP: 
-- ZIP extension: 
 - State project ID: SC-97-033
 - Latitude: 34.9402
 - Longitude: -82.0983
@@ -15,16 +11,10 @@
 - County from: 2020
 - Tract 2020: 45083023103
 - Tract 2010: 45083023102
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 43315
 - Place 2010: 21265
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 295798
 - Units: 64
 - Low-income units: 64
@@ -40,8 +30,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +45,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

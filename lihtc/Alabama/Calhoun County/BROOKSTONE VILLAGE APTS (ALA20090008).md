@@ -1,13 +1,10 @@
 # Project: BROOKSTONE VILLAGE APTS (ALA20090008)
 
 - HUD ID: ALA20090008
-- HUD ID before: 
 - Project: BROOKSTONE VILLAGE APTS
 - Address: 705 GARDNER DR SE
 - City: JACKSONVILLE
-- State: AL
 - ZIP: 36265
-- ZIP extension: 
 - State project ID: AL-08-0015
 - Latitude: 33.807643
 - Longitude: -85.752434
@@ -22,9 +19,7 @@
 - Place 2000: 38272
 - Place 1990: 0955
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 595182
 - Units: 46
 - Low-income units: 46
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 46
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1527020
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009549.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: SPAULDING WOODS APARTMENTS (NCA20020170)
 
 - HUD ID: NCA20020170
-- HUD ID before: 
 - Project: SPAULDING WOODS APARTMENTS
 - Address: 838 SPAULDING RD
 - City: MARION
-- State: NC
 - ZIP: 28752
 - ZIP extension: 5499
 - State project ID: 9002293
@@ -22,9 +20,7 @@
 - Place 2000: 41420
 - Place 1990: 1595
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 244647
 - Units: 44
 - Low-income units: 44
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +66,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

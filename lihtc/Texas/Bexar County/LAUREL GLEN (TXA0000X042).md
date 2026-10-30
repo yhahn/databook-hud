@@ -1,13 +1,10 @@
 # Project: LAUREL GLEN (TXA0000X042)
 
 - HUD ID: TXA0000X042
-- HUD ID before: 
 - Project: LAUREL GLEN
 - Address: 11043 N. LOOP 1604
 - City: SAN ANTONIO
-- State: TX
 - ZIP: 78254
-- ZIP extension: 
 - State project ID: TX5240
 - Latitude: 29.5292
 - Longitude: -98.7016
@@ -16,16 +13,10 @@
 - Tract 2020: 48029182106
 - Tract 2010: 48029181726
 - Tract 2000: 48029181718
-- Tract 1990: 
 - Place 2020: 33146
 - Place 2010: 65000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 81
 - Low-income units: 71
 - Units reported: 81
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

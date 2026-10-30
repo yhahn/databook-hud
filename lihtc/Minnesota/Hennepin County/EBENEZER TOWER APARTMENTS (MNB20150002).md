@@ -1,11 +1,9 @@
 # Project: EBENEZER TOWER APARTMENTS (MNB20150002)
 
 - HUD ID: MNB20150002
-- HUD ID before: 
 - Project: EBENEZER TOWER APARTMENTS
 - Address: 2523 PORTLAND AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 4438
 - State project ID: D3370
@@ -16,15 +14,11 @@
 - Tract 2020: 27053126000
 - Tract 2010: 27053126000
 - Tract 2000: 27053107100
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1170022
 - Units: 192
 - Low-income units: 192
@@ -67,19 +61,12 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

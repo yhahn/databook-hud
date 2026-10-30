@@ -1,13 +1,10 @@
 # Project: KNOLL AT TIGARD (ORA20110030)
 
 - HUD ID: ORA20110030
-- HUD ID before: 
 - Project: KNOLL AT TIGARD
 - Address: 12291 SW KNOLL DR
 - City: TIGARD
-- State: OR
 - ZIP: 97223
-- ZIP extension: 
 - State project ID: 2908
 - Latitude: 45.430927
 - Longitude: -122.764199
@@ -22,9 +19,7 @@
 - Place 2000: 73650
 - Place 1990: 1132
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 825000
 - Units: 48
 - Low-income units: 48
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +49,9 @@
 - TCAP amount: 1604917
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ORA2011506.
 - Record status: Existing, unchanged

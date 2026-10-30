@@ -1,13 +1,10 @@
 # Project: COPPER RIDGE APARTMENTS (WAA20137011)
 
 - HUD ID: WAA20137011
-- HUD ID before: 
 - Project: COPPER RIDGE APARTMENTS
 - Address: 5501 W HILDEBRAND BLVD.
 - City: KENNEWICK
-- State: WA
 - ZIP: 99338
-- ZIP extension: 
 - State project ID: 11-85A
 - Latitude: 46.181429
 - Longitude: -119.191726
@@ -22,9 +19,7 @@
 - Place 2000: 35275
 - Place 1990: 0610
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 644547
 - Units: 232
 - Low-income units: 230
@@ -39,17 +34,13 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 31
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -73,13 +60,8 @@
 - Homeless: No
 - Other population: Yes
 - Other population named: LARGE FAMILY
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA0000187.
 - Record status: Updated

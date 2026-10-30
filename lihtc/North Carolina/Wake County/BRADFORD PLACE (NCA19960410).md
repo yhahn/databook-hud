@@ -1,13 +1,10 @@
 # Project: BRADFORD PLACE (NCA19960410)
 
 - HUD ID: NCA19960410
-- HUD ID before: 
 - Project: BRADFORD PLACE
 - Address: 200 LOWMAN CIRCLE
 - City: FUQUAY VARINA
-- State: NC
 - ZIP: 27526
-- ZIP extension: 
 - State project ID: 9002124
 - Latitude: 35.574217
 - Longitude: -78.802366
@@ -22,9 +19,7 @@
 - Place 2000: 25300
 - Place 1990: 0965
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 282200
 - Units: 64
 - Low-income units: 64
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

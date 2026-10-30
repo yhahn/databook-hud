@@ -1,13 +1,10 @@
 # Project: HERITAGE COMMONS (CAA20130037)
 
 - HUD ID: CAA20130037
-- HUD ID before: 
 - Project: HERITAGE COMMONS
 - Address: 191 HERITAGE LN
 - City: DIXON
-- State: CA
 - ZIP: 95620
-- ZIP extension: 
 - State project ID: CA-11-879
 - Latitude: 38.434554
 - Longitude: -121.821632
@@ -20,11 +17,8 @@
 - Place 2020: 19402
 - Place 2010: 19402
 - Place 2000: 19402
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 411060
 - Units: 59
 - Low-income units: 59
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 59
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,9 @@
 - HOME amount: 6000000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

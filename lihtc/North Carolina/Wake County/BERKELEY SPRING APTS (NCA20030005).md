@@ -1,13 +1,10 @@
 # Project: BERKELEY SPRING APTS (NCA20030005)
 
 - HUD ID: NCA20030005
-- HUD ID before: 
 - Project: BERKELEY SPRING APTS
 - Address: 5521 DIXON DRIVE
 - City: RALEIGH
-- State: NC
 - ZIP: 27609
-- ZIP extension: 
 - State project ID: 9001136
 - Latitude: 35.859493
 - Longitude: -78.648697
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 205815
 - Units: 36
 - Low-income units: 36
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

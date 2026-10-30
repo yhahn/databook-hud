@@ -1,13 +1,10 @@
 # Project: NEW CASTLE ELDERLY APARTMENTS (KYA19940091)
 
 - HUD ID: KYA19940091
-- HUD ID before: 
 - Project: NEW CASTLE ELDERLY APARTMENTS
 - Address: GEORGE MASON DR.
 - City: NEW CASTLE
-- State: KY
 - ZIP: 40336
-- ZIP extension: 
 - State project ID: KY-93-005
 - Latitude: 38.4524
 - Longitude: -85.1625
@@ -19,12 +16,8 @@
 - Tract 1990: 21103090200
 - Place 2020: 55596
 - Place 2010: 55596
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +55,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +68,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

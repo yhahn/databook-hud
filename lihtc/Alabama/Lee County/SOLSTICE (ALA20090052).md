@@ -1,13 +1,10 @@
 # Project: SOLSTICE (ALA20090052)
 
 - HUD ID: ALA20090052
-- HUD ID before: 
 - Project: SOLSTICE
 - Address: 1960 SOLSTICE CIR
 - City: OPELIKA
-- State: AL
 - ZIP: 36801
-- ZIP extension: 
 - State project ID: AL-09-0005
 - Latitude: 32.629987
 - Longitude: -85.397824
@@ -22,9 +19,7 @@
 - Place 2000: 03076
 - Place 1990: 1310
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 399999
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 3745000
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +62,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2011080, ALA2011570.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BANDON RIVER (IDA20140010)
 
 - HUD ID: IDA20140010
-- HUD ID before: 
 - Project: BANDON RIVER
 - Address: 1755 WHITE SAND CREEK WAY
 - City: IDAHO FALLS
-- State: ID
 - ZIP: 83402
-- ZIP extension: 
 - State project ID: HC1305
 - Latitude: 43.481835
 - Longitude: -112.060434
@@ -16,15 +13,10 @@
 - Tract 2020: 16019971401
 - Tract 2010: 16019971400
 - Tract 2000: 16019971302
-- Tract 1990: 
 - Place 2020: 39700
 - Place 2010: 39700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 604579
 - Units: 48
 - Low-income units: 47
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

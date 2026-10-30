@@ -1,13 +1,10 @@
 # Project: LAFAYETTE APTS (VAA20040634)
 
 - HUD ID: VAA20040634
-- HUD ID before: 
 - Project: LAFAYETTE APTS
 - Address: 7136 GROVETON GARDENS RD
 - City: ALEXANDRIA
-- State: VA
 - ZIP: 22306
-- ZIP extension: 
 - State project ID: 8227
 - Latitude: 38.761886
 - Longitude: -77.092213
@@ -22,9 +19,7 @@
 - Place 2000: 33584
 - Place 1990: 0567
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 1171132
 - Units: 340
 - Low-income units: 340
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003125. AKA GROVETON GARDENS.
 - Record status: Existing, unchanged

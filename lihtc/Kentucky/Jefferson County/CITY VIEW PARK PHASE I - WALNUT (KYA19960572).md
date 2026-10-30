@@ -1,13 +1,10 @@
 # Project: CITY VIEW PARK PHASE I - WALNUT (KYA19960572)
 
 - HUD ID: KYA19960572
-- HUD ID before: 
 - Project: CITY VIEW PARK PHASE I - WALNUT
 - Address: VILLAGE WEST DR.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40203
-- ZIP extension: 
 - State project ID: KY-87-087
 - Latitude: 38.2416
 - Longitude: -85.7603
@@ -19,12 +16,9 @@
 - Tract 1990: 21111003000
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1987
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 184
 - Low-income units: 143
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: BIRKHILL APARTMENT HOMES (UTA20130001)
 
 - HUD ID: UTA20130001
-- HUD ID before: 
 - Project: BIRKHILL APARTMENT HOMES
 - Address: 27 EAST GILBRIDE
 - City: MURRAY
-- State: UT
 - ZIP: 84107
 - ZIP extension: 0000
 - State project ID: 2011-21
@@ -19,12 +17,9 @@
 - Tract 1990: 49035112100
 - Place 2020: 53230
 - Place 2010: 50150
-- Place 2000: 
 - Place 1990: 0640
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 137
 - Low-income units: 96
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

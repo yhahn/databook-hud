@@ -1,13 +1,10 @@
 # Project: FARMHOUSE APTS III (MTA20000095)
 
 - HUD ID: MTA20000095
-- HUD ID before: 
 - Project: FARMHOUSE APTS III
 - Address: 101 JACKRABBIT RD
 - City: BELGRADE
-- State: MT
 - ZIP: 59714
-- ZIP extension: 
 - State project ID: 00010
 - Latitude: 45.782104
 - Longitude: -111.185162
@@ -20,11 +17,8 @@
 - Place 2020: 04975
 - Place 2010: 04975
 - Place 2000: 04975
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 69927
 - Units: 12
 - Low-income units: 12
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA FARMHOUSE PARTNERS-BELGRADE III.
 - Record status: Existing, unchanged

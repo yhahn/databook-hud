@@ -1,13 +1,10 @@
 # Project: MAGNOLIA TOWERS (MSA20080664)
 
 - HUD ID: MSA20080664
-- HUD ID before: 
 - Project: MAGNOLIA TOWERS
 - Address: 809 N STATE ST
 - City: JACKSON
-- State: MS
 - ZIP: 39202
-- ZIP extension: 
 - State project ID: MS-06-017
 - Latitude: 32.30879
 - Longitude: -90.178737
@@ -22,9 +19,7 @@
 - Place 2000: 36000
 - Place 1990: 0615
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 790000
 - Units: 157
 - Low-income units: 156
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2008077. AKA 809 STATE STREET.
 - Record status: Existing, unchanged

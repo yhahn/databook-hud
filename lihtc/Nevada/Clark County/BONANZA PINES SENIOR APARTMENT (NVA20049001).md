@@ -1,11 +1,9 @@
 # Project: BONANZA PINES SENIOR APARTMENT (NVA20049001)
 
 - HUD ID: NVA20049001
-- HUD ID before: 
 - Project: BONANZA PINES SENIOR APARTMENT
 - Address: 4170 E BONANZA RD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89110
 - ZIP extension: 0000
 - State project ID: 02-06
@@ -16,15 +14,11 @@
 - Tract 2020: 32003000514
 - Tract 2010: 32003000514
 - Tract 2000: 32003000514
-- Tract 1990: 
 - Place 2020: 40000
 - Place 2010: 40000
 - Place 2000: 40000
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 500000
 - Units: 96
 - Low-income units: 95
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 95
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

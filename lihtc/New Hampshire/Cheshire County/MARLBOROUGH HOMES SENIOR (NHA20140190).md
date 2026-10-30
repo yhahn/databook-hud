@@ -1,13 +1,10 @@
 # Project: MARLBOROUGH HOMES SENIOR (NHA20140190)
 
 - HUD ID: NHA20140190
-- HUD ID before: 
 - Project: MARLBOROUGH HOMES SENIOR
 - Address: 23 SCHOOL ST
 - City: MARLBOROUGH
-- State: NH
 - ZIP: 03455
-- ZIP extension: 
 - State project ID: 1019
 - Latitude: 42.904336
 - Longitude: -72.211254
@@ -20,11 +17,8 @@
 - Place 2020: 45380
 - Place 2010: 45380
 - Place 2000: 45380
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 409495
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MARLBOROUGH HOMES.
 - Record status: Existing, unchanged

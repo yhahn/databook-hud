@@ -1,11 +1,9 @@
 # Project: MARKET SQUARE APARTMENTS (PAA20156016)
 
 - HUD ID: PAA20156016
-- HUD ID before: 
 - Project: MARKET SQUARE APARTMENTS
 - Address: 801 PENN ST
 - City: READING
-- State: PA
 - ZIP: 19601
 - ZIP extension: 3673
 - State project ID: TC20140309
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42011000100
 - Tract 2010: 42011000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 63624
 - Place 2010: 63624
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 359479
 - Units: 38
 - Low-income units: 38
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: Yes
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +58,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: Updated

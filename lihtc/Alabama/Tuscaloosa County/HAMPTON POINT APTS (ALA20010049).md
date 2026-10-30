@@ -1,13 +1,10 @@
 # Project: HAMPTON POINT APTS (ALA20010049)
 
 - HUD ID: ALA20010049
-- HUD ID before: 
 - Project: HAMPTON POINT APTS
 - Address: 1900 SNOWS MILL AVE
 - City: NORTHPORT
-- State: AL
 - ZIP: 35476
-- ZIP extension: 
 - State project ID: AL-01-0063
 - Latitude: 33.229353
 - Longitude: -87.560555
@@ -22,9 +19,7 @@
 - Place 2000: 55200
 - Place 1990: 1720
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 547881
 - Units: 60
 - Low-income units: 51
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2003030.
 - Record status: Existing, unchanged

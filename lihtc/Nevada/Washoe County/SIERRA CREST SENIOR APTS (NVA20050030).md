@@ -1,11 +1,9 @@
 # Project: SIERRA CREST SENIOR APTS (NVA20050030)
 
 - HUD ID: NVA20050030
-- HUD ID before: 
 - Project: SIERRA CREST SENIOR APTS
 - Address: 795 PRATER WAY
 - City: SPARKS
-- State: NV
 - ZIP: 89431
 - ZIP extension: 0000
 - State project ID: 03-04
@@ -22,9 +20,7 @@
 - Place 2000: 68400
 - Place 1990: 0100
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 553802
 - Units: 72
 - Low-income units: 72
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA2004065.
 - Record status: Existing, unchanged

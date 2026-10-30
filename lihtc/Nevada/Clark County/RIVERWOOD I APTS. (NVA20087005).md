@@ -1,11 +1,9 @@
 # Project: RIVERWOOD I APTS. (NVA20087005)
 
 - HUD ID: NVA20087005
-- HUD ID before: 
 - Project: RIVERWOOD I APTS.
 - Address: 1705 CAL EDISON DRIVE
 - City: LAUGHLIN
-- State: NV
 - ZIP: 89029
 - ZIP extension: 0000
 - State project ID: 08-59
@@ -16,15 +14,11 @@
 - Tract 2020: 32003005702
 - Tract 2010: 32003005702
 - Tract 2000: 32003005702
-- Tract 1990: 
 - Place 2020: 41000
 - Place 2010: 41000
 - Place 2000: 41000
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 363873
 - Units: 108
 - Low-income units: 108
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

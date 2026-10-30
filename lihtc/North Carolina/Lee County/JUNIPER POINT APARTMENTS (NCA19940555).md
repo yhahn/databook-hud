@@ -1,13 +1,10 @@
 # Project: JUNIPER POINT APARTMENTS (NCA19940555)
 
 - HUD ID: NCA19940555
-- HUD ID before: 
 - Project: JUNIPER POINT APARTMENTS
 - Address: 1112 JUNIPER ST
 - City: SANFORD
-- State: NC
 - ZIP: 27330
-- ZIP extension: 
 - State project ID: 9000705
 - Latitude: 35.463501
 - Longitude: -79.174776
@@ -22,9 +19,7 @@
 - Place 2000: 59280
 - Place 1990: 2210
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 230568
 - Units: 56
 - Low-income units: 56
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

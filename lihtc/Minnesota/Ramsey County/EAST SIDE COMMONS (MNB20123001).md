@@ -1,11 +1,9 @@
 # Project: EAST SIDE COMMONS (MNB20123001)
 
 - HUD ID: MNB20123001
-- HUD ID before: 
 - Project: EAST SIDE COMMONS
 - Address: 868 BRADLEY STREET NORTH
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55130
 - ZIP extension: 4193
 - State project ID: D6257
@@ -16,15 +14,11 @@
 - Tract 2020: 27123031500
 - Tract 2010: 27123031500
 - Tract 2000: 27123031500
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 867468
 - Units: 51
 - Low-income units: 51
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 11
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -68,18 +61,11 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
 - Other population named: N/A
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

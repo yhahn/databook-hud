@@ -1,13 +1,10 @@
 # Project: PHOENIX PARK (NCA20020120)
 
 - HUD ID: NCA20020120
-- HUD ID before: 
 - Project: PHOENIX PARK
 - Address: 100 PHOENIX PARK DRIVE
 - City: JACKSONVILLE
-- State: NC
 - ZIP: 28546
-- ZIP extension: 
 - State project ID: 9000999
 - Latitude: 34.792638
 - Longitude: -77.431451
@@ -19,12 +16,9 @@
 - Tract 1990: 37133001300
 - Place 2020: 34200
 - Place 2010: 34200
-- Place 2000: 
 - Place 1990: 1280
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 289509
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

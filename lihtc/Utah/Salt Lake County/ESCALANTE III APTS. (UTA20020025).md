@@ -1,11 +1,9 @@
 # Project: ESCALANTE III APTS. (UTA20020025)
 
 - HUD ID: UTA20020025
-- HUD ID before: 
 - Project: ESCALANTE III APTS.
 - Address: -1000 1010 N. REDWOOD RD
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84116
 - ZIP extension: 0000
 - State project ID: 2001-07
@@ -13,18 +11,13 @@
 - Longitude: -111.9389
 - County FIPS: 49035
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49035100308
 - Tract 2000: 49035100306
 - Tract 1990: 49035100304
-- Place 2020: 
 - Place 2010: 67000
-- Place 2000: 
 - Place 1990: 0870
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 59732
 - Units: 80
 - Low-income units: 80
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +65,8 @@
 - Other population: Yes
 - Other population named: Handicapped/ADA
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

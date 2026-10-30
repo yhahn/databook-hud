@@ -1,13 +1,10 @@
 # Project: PARKVIEW TOWER (MIA20130016)
 
 - HUD ID: MIA20130016
-- HUD ID before: 
 - Project: PARKVIEW TOWER
 - Address: 1601 BRADBY DR
 - City: DETROIT
-- State: MI
 - ZIP: 48207
-- ZIP extension: 
 - State project ID: MI-525
 - Latitude: 42.346146
 - Longitude: -83.0226
@@ -22,9 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1500000
 - Units: 350
 - Low-income units: 350
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PARKVIEW SQUARE.
 - Record status: Existing, unchanged

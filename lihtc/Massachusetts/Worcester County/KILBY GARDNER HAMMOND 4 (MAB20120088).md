@@ -1,13 +1,10 @@
 # Project: KILBY GARDNER HAMMOND 4 (MAB20120088)
 
 - HUD ID: MAB20120088
-- HUD ID before: 
 - Project: KILBY GARDNER HAMMOND 4
 - Address: 22 KILBY ST
 - City: WORCESTER
-- State: MA
 - ZIP: 01610
-- ZIP extension: 
 - State project ID: MA-14-05
 - Latitude: 42.250998
 - Longitude: -71.816062
@@ -22,9 +19,7 @@
 - Place 2000: 82000
 - Place 1990: 5030
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 397926
 - Units: 22
 - Low-income units: 22
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

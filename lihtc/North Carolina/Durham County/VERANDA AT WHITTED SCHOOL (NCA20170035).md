@@ -1,13 +1,10 @@
 # Project: VERANDA AT WHITTED SCHOOL (NCA20170035)
 
 - HUD ID: NCA20170035
-- HUD ID before: 
 - Project: VERANDA AT WHITTED SCHOOL
 - Address: 200 EAST UMSTEAD STREET
 - City: DURHAM
-- State: NC
 - ZIP: 27707
-- ZIP extension: 
 - State project ID: 9168028
 - Latitude: 35.982572
 - Longitude: -78.902687
@@ -22,9 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 631210
 - Units: 79
 - Low-income units: 79
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

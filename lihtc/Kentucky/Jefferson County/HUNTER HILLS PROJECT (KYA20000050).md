@@ -1,13 +1,10 @@
 # Project: HUNTER HILLS PROJECT (KYA20000050)
 
 - HUD ID: KYA20000050
-- HUD ID before: 
 - Project: HUNTER HILLS PROJECT
 - Address: LOWER HUNTERS TRACE
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40258
-- ZIP extension: 
 - State project ID: KY-99-044
 - Latitude: 38.1506
 - Longitude: -85.8606
@@ -19,12 +16,8 @@
 - Tract 1990: 21111012703
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 13
 - Low-income units: 13
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

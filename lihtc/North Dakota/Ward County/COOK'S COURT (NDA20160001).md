@@ -1,11 +1,9 @@
 # Project: COOK'S COURT (NDA20160001)
 
 - HUD ID: NDA20160001
-- HUD ID before: 
 - Project: COOK'S COURT
 - Address: 1810 2ND ST SE
 - City: MINOT
-- State: ND
 - ZIP: 58701
 - ZIP extension: 0000
 - State project ID: TC1403
@@ -16,15 +14,11 @@
 - Tract 2020: 38101010701
 - Tract 2010: 38101010700
 - Tract 2000: 38101010700
-- Tract 1990: 
 - Place 2020: 53380
 - Place 2010: 53380
 - Place 2000: 53380
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 646712
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

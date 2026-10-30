@@ -1,11 +1,9 @@
 # Project: ELMS (THE) (PAA20181003)
 
 - HUD ID: PAA20181003
-- HUD ID before: 
 - Project: ELMS (THE)
 - Address: ELMWOOD AVE
 - City: LANDISVILLE
-- State: PA
 - ZIP: 17538
 - ZIP extension: 1306
 - State project ID: TC20160816
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42071011706
 - Tract 2010: 42071011703
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 41304
 - Place 2010: 41304
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1196677
 - Units: 60
 - Low-income units: 51
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 51
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: SECTION 811
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

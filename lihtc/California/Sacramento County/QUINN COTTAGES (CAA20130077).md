@@ -1,13 +1,10 @@
 # Project: QUINN COTTAGES (CAA20130077)
 
 - HUD ID: CAA20130077
-- HUD ID before: 
 - Project: QUINN COTTAGES
 - Address: 1500 A ST
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95811
-- ZIP extension: 
 - State project ID: CA-12-028
 - Latitude: 38.588177
 - Longitude: -121.482241
@@ -22,9 +19,7 @@
 - Place 2000: 64000
 - Place 1990: 2420
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 508068
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1997380.
 - Record status: Existing, unchanged

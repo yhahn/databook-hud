@@ -1,13 +1,10 @@
 # Project: MANTACHIE SUNSET APTS (MSA19930060)
 
 - HUD ID: MSA19930060
-- HUD ID before: 
 - Project: MANTACHIE SUNSET APTS
 - Address: 100 SUNSET DR
 - City: MANTACHIE
-- State: MS
 - ZIP: 38855
-- ZIP extension: 
 - State project ID: MS-92-009
 - Latitude: 34.319127
 - Longitude: -88.48925
@@ -20,12 +17,8 @@
 - Place 2020: 44920
 - Place 2010: 44920
 - Place 2000: 44920
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 20
 - Low-income units: 20
 - Units reported: 20
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

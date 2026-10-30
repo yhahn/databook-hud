@@ -1,13 +1,10 @@
 # Project: CHARLESTON PLACE (SCA20070020)
 
 - HUD ID: SCA20070020
-- HUD ID before: 
 - Project: CHARLESTON PLACE
 - Address: 335 GREENACRE RD
 - City: GREENVILLE
-- State: SC
 - ZIP: 29607
-- ZIP extension: 
 - State project ID: SC-05-007
 - Latitude: 34.836743
 - Longitude: -82.371305
@@ -22,9 +19,7 @@
 - Place 2000: 30850
 - Place 1990: 0565
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 402913
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: Yes
 - HOPE VI amount: 441998
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

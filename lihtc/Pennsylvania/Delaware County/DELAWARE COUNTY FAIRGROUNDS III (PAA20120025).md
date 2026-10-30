@@ -1,13 +1,10 @@
 # Project: DELAWARE COUNTY FAIRGROUNDS III (PAA20120025)
 
 - HUD ID: PAA20120025
-- HUD ID before: 
 - Project: DELAWARE COUNTY FAIRGROUNDS III
 - Address: 1301 PETERSON ST
 - City: CHESTER TOWNSHIP
-- State: PA
 - ZIP: 19013
-- ZIP extension: 
 - State project ID: TC20100631
 - Latitude: 39.84414
 - Longitude: -75.390695
@@ -22,9 +19,7 @@
 - Place 2000: 13272
 - Place 1990: 1874
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1008442
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

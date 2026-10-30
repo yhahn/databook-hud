@@ -1,13 +1,10 @@
 # Project: PERRIS STATION (CAA20130416)
 
 - HUD ID: CAA20130416
-- HUD ID before: 
 - Project: PERRIS STATION
 - Address: 24 S D ST
 - City: PERRIS
-- State: CA
 - ZIP: 92570
-- ZIP extension: 
 - State project ID: CA-11-161
 - Latitude: 33.785819
 - Longitude: -117.228461
@@ -22,9 +19,7 @@
 - Place 2000: 56700
 - Place 1990: 2138
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1506281
 - Units: 84
 - Low-income units: 83
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

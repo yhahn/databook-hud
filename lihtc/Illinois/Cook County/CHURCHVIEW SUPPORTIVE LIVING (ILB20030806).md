@@ -1,13 +1,10 @@
 # Project: CHURCHVIEW SUPPORTIVE LIVING (ILB20030806)
 
 - HUD ID: ILB20030806
-- HUD ID before: 
 - Project: CHURCHVIEW SUPPORTIVE LIVING
 - Address: 2626 W. 63RD ST.
 - City: CHICAGO
-- State: IL
 - ZIP: 60629
-- ZIP extension: 
 - State project ID: TC-03-021
 - Latitude: 41.779343
 - Longitude: -87.689556
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 439577
 - Units: 86
 - Low-income units: 86
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2003805,,, ILB2004005.;PREVIOUSLY LISTED AS ILB2003806
 - Record status: Existing, unchanged

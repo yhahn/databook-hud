@@ -1,11 +1,9 @@
 # Project: SOUTH SIDE LOFTS (PAA20142019)
 
 - HUD ID: PAA20142019
-- HUD ID before: 
 - Project: SOUTH SIDE LOFTS
 - Address: 419-429 HAYES ST
 - City: BETHLEHEM
-- State: PA
 - ZIP: 18015
 - ZIP extension: 1907
 - State project ID: TC20140403
@@ -16,15 +14,11 @@
 - Tract 2020: 42095011200
 - Tract 2010: 42095011200
 - Tract 2000: 42095011200
-- Tract 1990: 
 - Place 2020: 06088
 - Place 2010: 06088
 - Place 2000: 06088
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 826410
 - Units: 46
 - Low-income units: 46
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 46
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,13 +49,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

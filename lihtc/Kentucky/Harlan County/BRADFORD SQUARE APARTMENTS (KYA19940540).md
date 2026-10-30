@@ -1,13 +1,10 @@
 # Project: BRADFORD SQUARE APARTMENTS (KYA19940540)
 
 - HUD ID: KYA19940540
-- HUD ID before: 
 - Project: BRADFORD SQUARE APARTMENTS
 - Address: E. MAIN ST.
 - City: CUMBERLAND
-- State: KY
 - ZIP: 40823
-- ZIP extension: 
 - State project ID: KY-93-024
 - Latitude: 36.957
 - Longitude: -83.0339
@@ -19,12 +16,9 @@
 - Tract 1990: 21095970100
 - Place 2020: 19108
 - Place 2010: 19108
-- Place 2000: 
 - Place 1990: 1244
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +56,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +69,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

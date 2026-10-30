@@ -1,13 +1,10 @@
 # Project: VIEWMONT SQUARE COURT (NCA20150049)
 
 - HUD ID: NCA20150049
-- HUD ID before: 
 - Project: VIEWMONT SQUARE COURT
 - Address: 1420 4TH ST DR NW
 - City: HICKORY
-- State: NC
 - ZIP: 28601
-- ZIP extension: 
 - State project ID: 9150948
 - Latitude: 35.751513
 - Longitude: -81.339416
@@ -22,9 +19,7 @@
 - Place 2000: 31060
 - Place 1990: 1175
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 448000
 - Units: 50
 - Low-income units: 50
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

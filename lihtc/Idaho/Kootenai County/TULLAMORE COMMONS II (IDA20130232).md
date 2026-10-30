@@ -1,13 +1,10 @@
 # Project: TULLAMORE COMMONS II (IDA20130232)
 
 - HUD ID: IDA20130232
-- HUD ID before: 
 - Project: TULLAMORE COMMONS II
 - Address: 3677 DONEGAL LANE
 - City: POST FALLS
-- State: ID
 - ZIP: 83854
-- ZIP extension: 
 - State project ID: HC1214
 - Latitude: 47.733189
 - Longitude: -116.897745
@@ -19,12 +16,8 @@
 - Tract 1990: 16055000400
 - Place 2020: 64810
 - Place 2010: 64810
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 474106
 - Units: 51
 - Low-income units: 40
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

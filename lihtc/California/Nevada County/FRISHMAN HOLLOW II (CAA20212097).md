@@ -1,13 +1,10 @@
 # Project: FRISHMAN HOLLOW II (CAA20212097)
 
 - HUD ID: CAA20212097
-- HUD ID before: 
 - Project: FRISHMAN HOLLOW II
 - Address: 11200 RUE IVY WAY
 - City: TRUCKEE
-- State: CA
 - ZIP: 96161
-- ZIP extension: 
 - State project ID: CA-2020-548
 - Latitude: 39.346
 - Longitude: -120.1661
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06057001209
 - Tract 2010: 06057001206
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 80588
 - Place 2010: 80588
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1169987
 - Units: 68
 - Low-income units: 67
@@ -39,16 +30,12 @@
 - Credit: 30 percent present value
 - Income ceiling: Income average
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +55,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Rural area consistent with TCAC methodology
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

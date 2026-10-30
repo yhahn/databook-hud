@@ -1,13 +1,10 @@
 # Project: MALDEN MILLS PHASE I (MAB20120094)
 
 - HUD ID: MAB20120094
-- HUD ID before: 
 - Project: MALDEN MILLS PHASE I
 - Address: 550 BROADWAY
 - City: LAWRENCE
-- State: MA
 - ZIP: 01841
-- ZIP extension: 
 - State project ID: MA-14-04
 - Latitude: 42.715787
 - Longitude: -71.177385
@@ -22,9 +19,7 @@
 - Place 2000: 34550
 - Place 1990: 2030
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1296000
 - Units: 75
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: STEWART PINES APTS. II (NVA20039014)
 
 - HUD ID: NVA20039014
-- HUD ID before: 
 - Project: STEWART PINES APTS. II
 - Address: 1391 E. STEWART AVE.
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89101
 - ZIP extension: 0000
 - State project ID: 01-06
@@ -16,15 +14,11 @@
 - Tract 2020: 32003000403
 - Tract 2010: 32003000403
 - Tract 2000: 32003000400
-- Tract 1990: 
 - Place 2020: 40000
 - Place 2010: 40000
 - Place 2000: 40000
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 379570
 - Units: 49
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: MCKEAN STREET HOUSING (PAA20222017)
 
 - HUD ID: PAA20222017
-- HUD ID before: 
 - Project: MCKEAN STREET HOUSING
 - Address: 240 N MCKEAN ST
 - City: KITTANNING
-- State: PA
 - ZIP: 16201
 - ZIP extension: 1361
 - State project ID: TC20210405
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42005951100
 - Tract 2010: 42005951100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 40040
 - Place 2010: 40040
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1103869
 - Units: 36
 - Low-income units: 33
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

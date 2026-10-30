@@ -1,13 +1,10 @@
 # Project: WATERBROOK APARTMENTS (NCA20070180)
 
 - HUD ID: NCA20070180
-- HUD ID before: 
 - Project: WATERBROOK APARTMENTS
 - Address: 311 STONEY MOSS DRIVE
 - City: RALEIGH
-- State: NC
 - ZIP: 27609
-- ZIP extension: 
 - State project ID: 9001620
 - Latitude: 35.776273
 - Longitude: -78.580937
@@ -19,12 +16,9 @@
 - Tract 1990: 37183054101
 - Place 2020: 55000
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 1773
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 441909
 - Units: 64
 - Low-income units: 64
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 26
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

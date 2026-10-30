@@ -1,11 +1,9 @@
 # Project: HILLSDALE HOMES 2015 (MOA20160012)
 
 - HUD ID: MOA20160012
-- HUD ID before: 
 - Project: HILLSDALE HOMES 2015
 - Address: 2174 ENGLEWOOD TERRACE
 - City: CHESTERFIELD
-- State: MO
 - ZIP: 63017
 - ZIP extension: 0000
 - State project ID: 15-009
@@ -16,15 +14,11 @@
 - Tract 2020: 29189217852
 - Tract 2010: 29189217852
 - Tract 2000: 29189217852
-- Tract 1990: 
 - Place 2020: 13600
 - Place 2010: 13600
 - Place 2000: 13600
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 450000
 - Units: 30
 - Low-income units: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

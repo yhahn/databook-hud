@@ -1,11 +1,9 @@
 # Project: ROLLA APARTMENTS (MOA20170026)
 
 - HUD ID: MOA20170026
-- HUD ID before: 
 - Project: ROLLA APARTMENTS
 - Address: 1101 MCCUTCHEN STREET
 - City: ROLLA
-- State: MO
 - ZIP: 65401
 - ZIP extension: 0000
 - State project ID: 16-408
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29161890302
 - Tract 2010: 29161890300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 62912
 - Place 2010: 62912
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 329173
 - Units: 150
 - Low-income units: 149
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

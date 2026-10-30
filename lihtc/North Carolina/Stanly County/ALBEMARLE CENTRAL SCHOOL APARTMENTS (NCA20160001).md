@@ -1,13 +1,10 @@
 # Project: ALBEMARLE CENTRAL SCHOOL APARTMENTS (NCA20160001)
 
 - HUD ID: NCA20160001
-- HUD ID before: 
 - Project: ALBEMARLE CENTRAL SCHOOL APARTMENTS
 - Address: 219 E NORTH STREET
 - City: ALBEMARLE
-- State: NC
 - ZIP: 28001
-- ZIP extension: 
 - State project ID: 9167524
 - Latitude: 35.352038
 - Longitude: -80.19579
@@ -22,9 +19,7 @@
 - Place 2000: 00680
 - Place 1990: 0030
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 400500
 - Units: 53
 - Low-income units: 53
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 14
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

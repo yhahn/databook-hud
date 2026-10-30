@@ -1,13 +1,10 @@
 # Project: COMPASS POINTE APARTMENTS (TXA20172012)
 
 - HUD ID: TXA20172012
-- HUD ID before: 
 - Project: COMPASS POINTE APARTMENTS
 - Address: 1509 WAYSIDE DR
 - City: MIDLAND
-- State: TX
 - ZIP: 79701
-- ZIP extension: 
 - State project ID: TX5076
 - Latitude: 31.984018
 - Longitude: -102.058586
@@ -16,16 +13,10 @@
 - Tract 2020: 48329001500
 - Tract 2010: 48329001500
 - Tract 2000: 48329001100
-- Tract 1990: 
 - Place 2020: 48072
 - Place 2010: 48072
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 206
 - Low-income units: 206
 - Units reported: 206
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

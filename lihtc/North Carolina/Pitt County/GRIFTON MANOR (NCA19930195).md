@@ -1,13 +1,10 @@
 # Project: GRIFTON MANOR (NCA19930195)
 
 - HUD ID: NCA19930195
-- HUD ID before: 
 - Project: GRIFTON MANOR
 - Address: 723 GRIFTON MANOR DRIVE
 - City: GRIFTON
-- State: NC
 - ZIP: 28530
-- ZIP extension: 
 - State project ID: 9001265
 - Latitude: 35.371449
 - Longitude: -77.42482
@@ -19,12 +16,9 @@
 - Tract 1990: 37147001500
 - Place 2020: 28200
 - Place 2010: 28200
-- Place 2000: 
 - Place 1990: 1075
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 52862
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

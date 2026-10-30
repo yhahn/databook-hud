@@ -1,11 +1,9 @@
 # Project: RIVERTOWN COMMONS (MNB20019014)
 
 - HUD ID: MNB20019014
-- HUD ID before: 
 - Project: RIVERTOWN COMMONS
 - Address: 175 CHARLES AVENUE
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55103
 - ZIP extension: 2051
 - State project ID: D1549
@@ -16,15 +14,11 @@
 - Tract 2020: 27123032700
 - Tract 2010: 27123032700
 - Tract 2000: 27123032700
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 148266
 - Units: 139
 - Low-income units: 139
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +58,9 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: General Occupancy
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

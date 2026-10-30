@@ -1,13 +1,10 @@
 # Project: TANGLEWOOD APARTMENTS (NCA20080190)
 
 - HUD ID: NCA20080190
-- HUD ID before: 
 - Project: TANGLEWOOD APARTMENTS
 - Address: 101 MATTHEWS STREET
 - City: WARSAW
-- State: NC
 - ZIP: 28398
-- ZIP extension: 
 - State project ID: 9002756
 - Latitude: 35.00546
 - Longitude: -78.098206
@@ -22,9 +19,7 @@
 - Place 2000: 71160
 - Place 1990: 2650
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 416500
 - Units: 50
 - Low-income units: 49
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

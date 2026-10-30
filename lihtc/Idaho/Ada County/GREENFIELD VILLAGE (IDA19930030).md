@@ -1,13 +1,10 @@
 # Project: GREENFIELD VILLAGE (IDA19930030)
 
 - HUD ID: IDA19930030
-- HUD ID before: 
 - Project: GREENFIELD VILLAGE
 - Address: 4923 ALBION STREET
 - City: BOISE
-- State: ID
 - ZIP: 83705
-- ZIP extension: 
 - State project ID: HC9118
 - Latitude: 43.598645
 - Longitude: -116.242602
@@ -22,9 +19,7 @@
 - Place 2000: 08830
 - Place 1990: 0090
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 358012
 - Units: 75
 - Low-income units: 75
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

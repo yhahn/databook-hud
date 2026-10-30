@@ -1,11 +1,9 @@
 # Project: LAKE APARTMENTS (MTA19910025)
 
 - HUD ID: MTA19910025
-- HUD ID before: 
 - Project: LAKE APARTMENTS
 - Address: 116 MAIN STREET
 - City: MEDICINE LAKE
-- State: MT
 - ZIP: 59247
 - ZIP extension: 0000
 - State project ID: 91050
@@ -20,11 +18,8 @@
 - Place 2020: 48775
 - Place 2010: 48775
 - Place 2000: 48775
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 37230
 - Units: 4
 - Low-income units: 4
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -76,10 +64,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA0000070.
 - Record status: Existing, unchanged

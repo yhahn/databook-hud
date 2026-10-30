@@ -1,13 +1,10 @@
 # Project: ANGELWOOD AT CAROLINE (VAA20150003)
 
 - HUD ID: VAA20150003
-- HUD ID before: 
 - Project: ANGELWOOD AT CAROLINE
 - Address: 16385 HERITAGE PINES CIRCLE
 - City: BOWLING GREEN
-- State: VA
 - ZIP: 22427
-- ZIP extension: 
 - State project ID: 9529
 - Latitude: 38.046082
 - Longitude: -77.35717
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 51033030300
 - Tract 2010: 51033030300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 08888
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 275000
 - Units: 26
 - Low-income units: 26
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

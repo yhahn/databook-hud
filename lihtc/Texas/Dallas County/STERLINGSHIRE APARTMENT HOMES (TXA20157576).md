@@ -1,13 +1,10 @@
 # Project: STERLINGSHIRE APARTMENT HOMES (TXA20157576)
 
 - HUD ID: TXA20157576
-- HUD ID before: 
 - Project: STERLINGSHIRE APARTMENT HOMES
 - Address: 9415 BRUTON RD
 - City: DALLAS
-- State: TX
 - ZIP: 75217
-- ZIP extension: 
 - State project ID: TX4985
 - Latitude: 32.748913
 - Longitude: -96.658856
@@ -15,17 +12,10 @@
 - County from: 2020
 - Tract 2020: 48113012000
 - Tract 2010: 48113012000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 19000
 - Place 2010: 19000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
-- Allocation amount: 
 - Units: 264
 - Low-income units: 264
 - Units reported: 264
@@ -40,15 +30,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +49,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

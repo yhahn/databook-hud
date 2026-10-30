@@ -1,13 +1,10 @@
 # Project: DEER LAKE APTS (PAA20030055)
 
 - HUD ID: PAA20030055
-- HUD ID before: 
 - Project: DEER LAKE APTS
 - Address: 2075 WATER ST
 - City: LEBANON
-- State: PA
 - ZIP: 17046
-- ZIP extension: 
 - State project ID: TC20010602
 - Latitude: 40.360339
 - Longitude: -76.456317
@@ -22,9 +19,7 @@
 - Place 2000: 61312
 - Place 1990: 5714
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 251146
 - Units: 26
 - Low-income units: 26
@@ -38,17 +33,12 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1454194
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

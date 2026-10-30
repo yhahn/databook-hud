@@ -1,13 +1,10 @@
 # Project: EAST OAK APARTMENTS - SECOND ST. (KYA19950055)
 
 - HUD ID: KYA19950055
-- HUD ID before: 
 - Project: EAST OAK APARTMENTS - SECOND ST.
 - Address: S. SECOND ST.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40203
-- ZIP extension: 
 - State project ID: KY-94-147
 - Latitude: 38.2416
 - Longitude: -85.7603
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 1230
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 42820
 - Units: 6
 - Low-income units: 6
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +57,17 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA1994543.;
 - Record status: Existing, unchanged

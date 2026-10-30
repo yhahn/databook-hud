@@ -1,13 +1,10 @@
 # Project: MONARCH ESTATES (MOA20120080)
 
 - HUD ID: MOA20120080
-- HUD ID before: 
 - Project: MONARCH ESTATES
 - Address: 930 E WALNUT ST
 - City: BOLIVAR
-- State: MO
 - ZIP: 65613
-- ZIP extension: 
 - State project ID: 11-024
 - Latitude: 37.611715
 - Longitude: -93.402236
@@ -22,9 +19,7 @@
 - Place 2000: 06976
 - Place 1990: 0445
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 422761
 - Units: 19
 - Low-income units: 19
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

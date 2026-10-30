@@ -1,13 +1,10 @@
 # Project: THE VERANDA TOWNHOMES (TXA0000X097)
 
 - HUD ID: TXA0000X097
-- HUD ID before: 
 - Project: THE VERANDA TOWNHOMES
 - Address: 3932 MICHIGAN DRIVE
 - City: PLANO
-- State: TX
 - ZIP: 75025
-- ZIP extension: 
 - State project ID: TX5215
 - Latitude: 33.102342
 - Longitude: -96.770972
@@ -16,16 +13,10 @@
 - Tract 2020: 48085031639
 - Tract 2010: 48085031639
 - Tract 2000: 48085031641
-- Tract 1990: 
 - Place 2020: 58016
 - Place 2010: 58016
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2018
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 20
 - Units reported: 40
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +62,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

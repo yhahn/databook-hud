@@ -1,13 +1,10 @@
 # Project: CHAMBROOKE HOMES OF ARDMORE (OKA20140030)
 
 - HUD ID: OKA20140030
-- HUD ID before: 
 - Project: CHAMBROOKE HOMES OF ARDMORE
 - Address: 600 S WASHINGTON ST
 - City: ARDMORE
-- State: OK
 - ZIP: 73401
-- ZIP extension: 
 - State project ID: 120770
 - Latitude: 34.163864
 - Longitude: -97.132382
@@ -22,9 +19,7 @@
 - Place 2000: 02600
 - Place 1990: 0100
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 22039140
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

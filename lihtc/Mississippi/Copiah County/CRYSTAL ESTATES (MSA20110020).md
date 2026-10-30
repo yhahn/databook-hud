@@ -1,13 +1,10 @@
 # Project: CRYSTAL ESTATES (MSA20110020)
 
 - HUD ID: MSA20110020
-- HUD ID before: 
 - Project: CRYSTAL ESTATES
 - Address: 105 BUIE DR
 - City: CRYSTAL SPRINGS
-- State: MS
 - ZIP: 39059
-- ZIP extension: 
 - State project ID: MS-07-2-064
 - Latitude: 31.9856
 - Longitude: -90.3295
@@ -22,9 +19,7 @@
 - Place 2000: 17060
 - Place 1990: 0310
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 908772
 - Units: 50
 - Low-income units: 48
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2011687.
 - Record status: Existing, unchanged

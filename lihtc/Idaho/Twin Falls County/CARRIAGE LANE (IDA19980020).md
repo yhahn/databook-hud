@@ -1,13 +1,10 @@
 # Project: CARRIAGE LANE (IDA19980020)
 
 - HUD ID: IDA19980020
-- HUD ID before: 
 - Project: CARRIAGE LANE
 - Address: 2510 WHISPERING PINE DRIVE
 - City: TWIN FALLS
-- State: ID
 - ZIP: 83301
-- ZIP extension: 
 - State project ID: HC9628
 - Latitude: 42.565476
 - Longitude: -114.432895
@@ -22,9 +19,7 @@
 - Place 2000: 82810
 - Place 1990: 0970
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 173767
 - Units: 42
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

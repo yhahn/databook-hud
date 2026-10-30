@@ -1,13 +1,10 @@
 # Project: DAKOTAH PIONEER CENTER (NDA20000010)
 
 - HUD ID: NDA20000010
-- HUD ID before: 
 - Project: DAKOTAH PIONEER CENTER
 - Address: 633 FIRST AVE N
 - City: FARGO
-- State: ND
 - ZIP: 58102
-- ZIP extension: 
 - State project ID: TC9906
 - Latitude: 46.877092
 - Longitude: -96.789472
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 98474
 - Units: 31
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,6 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

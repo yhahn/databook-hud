@@ -1,11 +1,9 @@
 # Project: GRAHAM PARK ESTATES (NEA20150005)
 
 - HUD ID: NEA20150005
-- HUD ID before: 
 - Project: GRAHAM PARK ESTATES
 - Address: 568-692 GRAHAM PARK DRIVE
 - City: SEWARD
-- State: NE
 - ZIP: 68434
 - ZIP extension: 0000
 - State project ID: 7-0787
@@ -16,15 +14,11 @@
 - Tract 2020: 31159960300
 - Tract 2010: 31159960300
 - Tract 2000: 31159990300
-- Tract 1990: 
 - Place 2020: 44420
 - Place 2010: 44420
 - Place 2000: 44420
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 151479
 - Units: 11
 - Low-income units: 9
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CHARLES PLACE (NCA19940320)
 
 - HUD ID: NCA19940320
-- HUD ID before: 
 - Project: CHARLES PLACE
 - Address: 715 DELLINGER RD
 - City: SHELBY
-- State: NC
 - ZIP: 28152
 - ZIP extension: 7051
 - State project ID: 9000765
@@ -13,18 +11,13 @@
 - Longitude: -81.564744
 - County FIPS: 37045
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 37045951200
 - Tract 2000: 37045951200
 - Tract 1990: 37045951200
-- Place 2020: 
 - Place 2010: 61200
 - Place 2000: 61200
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 152373
 - Units: 40
 - Low-income units: 40
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

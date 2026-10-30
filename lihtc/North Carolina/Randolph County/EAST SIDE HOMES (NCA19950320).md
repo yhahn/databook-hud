@@ -1,13 +1,10 @@
 # Project: EAST SIDE HOMES (NCA19950320)
 
 - HUD ID: NCA19950320
-- HUD ID before: 
 - Project: EAST SIDE HOMES
 - Address: 414 WATKINS STREET
 - City: ASHEBORO
-- State: NC
 - ZIP: 27203
-- ZIP extension: 
 - State project ID: 9001105
 - Latitude: 35.71106
 - Longitude: -79.804005
@@ -22,9 +19,7 @@
 - Place 2000: 02080
 - Place 1990: 0075
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 97792
 - Units: 18
 - Low-income units: 18
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 1
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

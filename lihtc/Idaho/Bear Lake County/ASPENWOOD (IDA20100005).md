@@ -1,13 +1,10 @@
 # Project: ASPENWOOD (IDA20100005)
 
 - HUD ID: IDA20100005
-- HUD ID before: 
 - Project: ASPENWOOD
 - Address: 235 SOUTH 4TH STREET
 - City: MONTPELIER
-- State: ID
 - ZIP: 83254
-- ZIP extension: 
 - State project ID: HC0904
 - Latitude: 42.314795
 - Longitude: -111.298106
@@ -22,9 +19,7 @@
 - Place 2000: 53920
 - Place 1990: 0615
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1938101
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

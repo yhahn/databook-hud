@@ -1,11 +1,9 @@
 # Project: LONG LAKE VILLAS (MNB20019005)
 
 - HUD ID: MNB20019005
-- HUD ID before: 
 - Project: LONG LAKE VILLAS
 - Address: 2725 SADDLE COURT
 - City: STILLWATER
-- State: MN
 - ZIP: 55082
 - ZIP extension: 4582
 - State project ID: D3727
@@ -16,15 +14,11 @@
 - Tract 2020: 27163070604
 - Tract 2010: 27163070601
 - Tract 2000: 27163070601
-- Tract 1990: 
 - Place 2020: 62824
 - Place 2010: 62824
 - Place 2000: 62824
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 250000
 - Units: 50
 - Low-income units: 29
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,12 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
 - Elderly: Yes
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: CRANE ARTISTS LOFTS (IAA20120900)
 
 - HUD ID: IAA20120900
-- HUD ID before: 
 - Project: CRANE ARTISTS LOFTS
 - Address: 1440 WALNUT ST
 - City: DES MOINES
-- State: IA
 - ZIP: 50309
-- ZIP extension: 
 - State project ID: 11-11-57
 - Latitude: 41.583429
 - Longitude: -93.635481
@@ -22,9 +19,7 @@
 - Place 2000: 21000
 - Place 1990: 1130
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1004762
 - Units: 36
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

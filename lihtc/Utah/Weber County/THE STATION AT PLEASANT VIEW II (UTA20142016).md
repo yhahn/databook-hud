@@ -1,11 +1,9 @@
 # Project: THE STATION AT PLEASANT VIEW II (UTA20142016)
 
 - HUD ID: UTA20142016
-- HUD ID before: 
 - Project: THE STATION AT PLEASANT VIEW II
 - Address: 1148 WEST SPRING VALLEY DRIVE
 - City: PLEASANT VIEW
-- State: UT
 - ZIP: 84414
 - ZIP extension: 0000
 - State project ID: 2014-18
@@ -19,12 +17,9 @@
 - Tract 1990: 49057200300
 - Place 2020: 61150
 - Place 2010: 61150
-- Place 2000: 
 - Place 1990: 0695
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 72
 - Low-income units: 64
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

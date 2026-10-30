@@ -1,13 +1,10 @@
 # Project: PINECREST MANOR APTS (NCA20030145)
 
 - HUD ID: NCA20030145
-- HUD ID before: 
 - Project: PINECREST MANOR APTS
 - Address: 3713 MARVIN ROAD
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28211
-- ZIP extension: 
 - State project ID: 9001221
 - Latitude: 35.191918
 - Longitude: -80.798913
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 316901
 - Units: 44
 - Low-income units: 44
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: MELTON CENTER APARTMENTS (PAA20222019)
 
 - HUD ID: PAA20222019
-- HUD ID before: 
 - Project: MELTON CENTER APARTMENTS
 - Address: 500 E MARKET ST
 - City: WEST CHESTER
-- State: PA
 - ZIP: 19382
 - ZIP extension: 2704
 - State project ID: TC20210468
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42029302600
 - Tract 2010: 42029302600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 82704
 - Place 2010: 82704
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1225463
 - Units: 51
 - Low-income units: 51
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: SEC811 ELIGIBLE UNIT
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

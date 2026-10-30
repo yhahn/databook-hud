@@ -1,13 +1,10 @@
 # Project: MARKETPLACE LOFTS (IAA20070035)
 
 - HUD ID: IAA20070035
-- HUD ID before: 
 - Project: MARKETPLACE LOFTS
 - Address: 312 CT AVE
 - City: DES MOINES
-- State: IA
 - ZIP: 50309
-- ZIP extension: 
 - State project ID: 05-30
 - Latitude: 41.585064
 - Longitude: -93.620728
@@ -22,9 +19,7 @@
 - Place 2000: 21000
 - Place 1990: 1130
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 277117
 - Units: 52
 - Low-income units: 27
@@ -39,13 +34,9 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +46,7 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +54,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

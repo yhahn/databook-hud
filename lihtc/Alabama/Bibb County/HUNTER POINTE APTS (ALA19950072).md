@@ -1,13 +1,10 @@
 # Project: HUNTER POINTE APTS (ALA19950072)
 
 - HUD ID: ALA19950072
-- HUD ID before: 
 - Project: HUNTER POINTE APTS
 - Address: 463 ALEXANDER AVE
 - City: CENTREVILLE
-- State: AL
 - ZIP: 35042
-- ZIP extension: 
 - State project ID: AL-95-0038
 - Latitude: 32.947853
 - Longitude: -87.151951
@@ -22,9 +19,7 @@
 - Place 2000: 09136
 - Place 1990: 0240
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 114999
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 619000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1996055.
 - Record status: Existing, unchanged

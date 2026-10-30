@@ -1,11 +1,9 @@
 # Project: WILLOW CREEK APTS. IV (UTA19900900)
 
 - HUD ID: UTA19900900
-- HUD ID before: 
 - Project: WILLOW CREEK APTS. IV
 - Address: 236 WEST PLUM STREET
 - City: GRANTSVILLE
-- State: UT
 - ZIP: 84029
 - ZIP extension: 0000
 - State project ID: 1990-08
@@ -13,18 +11,12 @@
 - Longitude: -112.471897
 - County FIPS: 49045
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49045130800
 - Tract 2000: 49045130800
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 31120
 - Place 2000: 31120
-- Place 1990: 
 - Year placed in service: 1990
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 20405
 - Units: 13
 - Low-income units: 13
@@ -40,8 +32,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: Handicapped/ADA
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

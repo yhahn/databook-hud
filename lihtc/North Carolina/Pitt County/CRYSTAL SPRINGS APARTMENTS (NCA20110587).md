@@ -1,13 +1,10 @@
 # Project: CRYSTAL SPRINGS APARTMENTS (NCA20110587)
 
 - HUD ID: NCA20110587
-- HUD ID before: 
 - Project: CRYSTAL SPRINGS APARTMENTS
 - Address: 575 LAKE ROAD
 - City: GREENVILLE
-- State: NC
 - ZIP: 27834
-- ZIP extension: 
 - State project ID: 9102495
 - Latitude: 35.596663
 - Longitude: -77.413922
@@ -22,9 +19,7 @@
 - Place 2000: 28080
 - Place 1990: 1070
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 64
 - Low-income units: 64
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

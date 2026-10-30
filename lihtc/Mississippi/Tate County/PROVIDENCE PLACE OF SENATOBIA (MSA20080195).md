@@ -1,13 +1,10 @@
 # Project: PROVIDENCE PLACE OF SENATOBIA (MSA20080195)
 
 - HUD ID: MSA20080195
-- HUD ID before: 
 - Project: PROVIDENCE PLACE OF SENATOBIA
 - Address: 800 MOORES XING
 - City: SENATOBIA
-- State: MS
 - ZIP: 38668
-- ZIP extension: 
 - State project ID: MS-07-043
 - Latitude: 34.63469
 - Longitude: -89.970555
@@ -20,11 +17,8 @@
 - Place 2020: 66440
 - Place 2010: 66440
 - Place 2000: 14900
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 224367
 - Units: 80
 - Low-income units: 80
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CHERRY TREE APTS I (TNA19910075)
 
 - HUD ID: TNA19910075
-- HUD ID before: 
 - Project: CHERRY TREE APTS I
 - Address: 100 WESTMORELAND DR
 - City: CELINA
-- State: TN
 - ZIP: 38551
-- ZIP extension: 
 - State project ID: TN-91-001
 - Latitude: 36.542694
 - Longitude: -85.508462
@@ -20,11 +17,8 @@
 - Place 2020: 12100
 - Place 2010: 12100
 - Place 2000: 12100
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 46190
 - Units: 32
 - Low-income units: 32
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

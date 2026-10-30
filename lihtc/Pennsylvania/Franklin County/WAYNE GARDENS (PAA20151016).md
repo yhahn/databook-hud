@@ -1,11 +1,9 @@
 # Project: WAYNE GARDENS (PAA20151016)
 
 - HUD ID: PAA20151016
-- HUD ID before: 
 - Project: WAYNE GARDENS
 - Address: 900 & 901 WAYNE GARDENS CT
 - City: WAYNESBORO
-- State: PA
 - ZIP: 17268
 - ZIP extension: 2124
 - State project ID: TC20140601
@@ -16,15 +14,11 @@
 - Tract 2020: 42055012200
 - Tract 2010: 42055012200
 - Tract 2000: 42055012200
-- Tract 1990: 
 - Place 2020: 81824
 - Place 2010: 81824
 - Place 2000: 81824
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 710513
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -62,8 +54,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

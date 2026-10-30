@@ -1,13 +1,10 @@
 # Project: VALLEY OAK HOMES (CAA20130468)
 
 - HUD ID: CAA20130468
-- HUD ID before: 
 - Project: VALLEY OAK HOMES
 - Address: 875 LYON ST
 - City: SONOMA
-- State: CA
 - ZIP: 95476
-- ZIP extension: 
 - State project ID: CA-11-005
 - Latitude: 38.296579
 - Longitude: -122.474431
@@ -22,9 +19,7 @@
 - Place 2000: 72646
 - Place 1990: 2715
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 986254
 - Units: 43
 - Low-income units: 42
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 34
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

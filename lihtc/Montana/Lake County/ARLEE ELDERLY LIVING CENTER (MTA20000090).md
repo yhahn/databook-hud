@@ -1,11 +1,9 @@
 # Project: ARLEE ELDERLY LIVING CENTER (MTA20000090)
 
 - HUD ID: MTA20000090
-- HUD ID before: 
 - Project: ARLEE ELDERLY LIVING CENTER
 - Address: 107 LUMPRY ROAD
 - City: ARLEE
-- State: MT
 - ZIP: 59821
 - ZIP extension: 0000
 - State project ID: 99020
@@ -20,11 +18,8 @@
 - Place 2020: 02425
 - Place 2010: 02425
 - Place 2000: 02425
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 49999
 - Units: 10
 - Low-income units: 10
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

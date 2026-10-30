@@ -1,13 +1,9 @@
 # Project: ROBINSONVILLE APT HOME/BOWDRE (MSA19970075)
 
 - HUD ID: MSA19970075
-- HUD ID before: 
 - Project: ROBINSONVILLE APT HOME/BOWDRE
 - Address: 1375 HAMBRICK RD
 - City: ROBINSONVILLE
-- State: MS
-- ZIP: 
-- ZIP extension: 
 - State project ID: MS-95-118
 - Latitude: 34.787319
 - Longitude: -90.329439
@@ -19,13 +15,8 @@
 - Tract 1990: 28143950100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
-- Allocation amount: 
 - Units: 12
 - Low-income units: 12
 - Units reported: 12
@@ -39,9 +30,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +41,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +55,6 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

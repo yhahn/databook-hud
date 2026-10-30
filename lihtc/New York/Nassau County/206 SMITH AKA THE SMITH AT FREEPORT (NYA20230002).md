@@ -1,13 +1,10 @@
 # Project: 206 SMITH AKA THE SMITH AT FREEPORT (NYA20230002)
 
 - HUD ID: NYA20230002
-- HUD ID before: 
 - Project: 206 SMITH AKA THE SMITH AT FREEPORT
 - Address: 206 SMITH STREET
 - City: FREEPORT
-- State: NY
 - ZIP: 11520
-- ZIP extension: 
 - State project ID: 20210477
 - Latitude: 40.651195
 - Longitude: -73.587675
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36059414303
 - Tract 2010: 36059414303
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 27485
 - Place 2010: 27485
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 768748
 - Units: 31
 - Low-income units: 31
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1971237
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: ESSHI-SPMI
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

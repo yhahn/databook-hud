@@ -1,11 +1,9 @@
 # Project: WINNIPEG APARTMENTS (MNB20088008)
 
 - HUD ID: MNB20088008
-- HUD ID before: 
 - Project: WINNIPEG APARTMENTS
 - Address: 850 RICE STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55117
 - ZIP extension: 5480
 - State project ID: D4081
@@ -16,15 +14,11 @@
 - Tract 2020: 27123031400
 - Tract 2010: 27123031400
 - Tract 2000: 27123031400
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 483020
 - Units: 56
 - Low-income units: 56
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -68,18 +61,10 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: NEZ PERCE HOUSING I (IDA20030030)
 
 - HUD ID: IDA20030030
-- HUD ID before: 
 - Project: NEZ PERCE HOUSING I
 - Address: 101 NEZ PERCE DRIVE
 - City: LAPWAI
-- State: ID
 - ZIP: 83540
-- ZIP extension: 
 - State project ID: HC0114
 - Latitude: 46.369
 - Longitude: -116.6129
@@ -16,15 +13,10 @@
 - Tract 2020: 16069940000
 - Tract 2010: 16069940000
 - Tract 2000: 16069990100
-- Tract 1990: 
 - Place 2020: 45370
 - Place 2010: 45370
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 161218
 - Units: 30
 - Low-income units: 30
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

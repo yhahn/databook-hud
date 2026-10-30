@@ -1,13 +1,10 @@
 # Project: THE CURRENT (NDA20080035)
 
 - HUD ID: NDA20080035
-- HUD ID before: 
 - Project: THE CURRENT
 - Address: 215 FIRST AVE N
 - City: GRAND FORKS
-- State: ND
 - ZIP: 58203
-- ZIP extension: 
 - State project ID: TC0610
 - Latitude: 47.925796
 - Longitude: -97.03158
@@ -22,9 +19,7 @@
 - Place 2000: 32060
 - Place 1990: 0693
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 407618
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA RIVER VIEW APTS
 - Record status: Existing, unchanged

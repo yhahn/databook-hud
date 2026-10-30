@@ -1,13 +1,10 @@
 # Project: HOLLY HAVEN (NCA20040100)
 
 - HUD ID: NCA20040100
-- HUD ID before: 
 - Project: HOLLY HAVEN
 - Address: 55 WHITE PINE CIRCLE
 - City: FRANKLIN
-- State: NC
 - ZIP: 28734
-- ZIP extension: 
 - State project ID: 9001229
 - Latitude: 35.18978
 - Longitude: -83.355135
@@ -19,12 +16,8 @@
 - Tract 1990: 37113970400
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 289812
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

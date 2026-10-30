@@ -1,11 +1,9 @@
 # Project: FRONTIER TRANSITIONAL HOUSING (UTA20039009)
 
 - HUD ID: UTA20039009
-- HUD ID before: 
 - Project: FRONTIER TRANSITIONAL HOUSING
 - Address: 3579 S. STATE STREET
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84115
 - ZIP extension: 0000
 - State project ID: 2001-11
@@ -16,15 +14,11 @@
 - Tract 2020: 49035111701
 - Tract 2010: 49035111701
 - Tract 2000: 49035111700
-- Tract 1990: 
 - Place 2020: 71070
 - Place 2010: 71070
 - Place 2000: 71070
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 40405
 - Units: 14
 - Low-income units: 14
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

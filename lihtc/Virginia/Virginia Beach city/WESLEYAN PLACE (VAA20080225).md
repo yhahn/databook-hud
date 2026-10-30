@@ -1,13 +1,10 @@
 # Project: WESLEYAN PLACE (VAA20080225)
 
 - HUD ID: VAA20080225
-- HUD ID before: 
 - Project: WESLEYAN PLACE
 - Address: 5445 WESLEYAN DR
 - City: VIRGINIA BEACH
-- State: VA
 - ZIP: 23455
-- ZIP extension: 
 - State project ID: 9170
 - Latitude: 36.870249
 - Longitude: -76.168667
@@ -22,9 +19,7 @@
 - Place 2000: 82000
 - Place 1990: 1280
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1163863
 - Units: 91
 - Low-income units: 91
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 46
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

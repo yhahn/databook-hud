@@ -1,13 +1,10 @@
 # Project: SHANNON BAY APTS (CAA20100243)
 
 - HUD ID: CAA20100243
-- HUD ID before: 
 - Project: SHANNON BAY APTS
 - Address: 5757 SHANNON BAY DR
 - City: ROCKLIN
-- State: CA
 - ZIP: 95677
-- ZIP extension: 
 - State project ID: CA-09-582
 - Latitude: 38.783846
 - Longitude: -121.251729
@@ -22,10 +19,7 @@
 - Place 2000: 62364
 - Place 1990: 2405
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 50
 - Low-income units: 49
 - Units reported: 50
@@ -40,12 +34,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 2405474
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2010523.
 - Record status: Existing, unchanged

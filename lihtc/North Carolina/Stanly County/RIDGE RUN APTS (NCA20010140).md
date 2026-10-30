@@ -1,13 +1,10 @@
 # Project: RIDGE RUN APTS (NCA20010140)
 
 - HUD ID: NCA20010140
-- HUD ID before: 
 - Project: RIDGE RUN APTS
 - Address: 900 FOXRUN DRIVE 701
 - City: ALBEMARLE
-- State: NC
 - ZIP: 28001
-- ZIP extension: 
 - State project ID: 9001201
 - Latitude: 35.364177
 - Longitude: -80.17752
@@ -22,9 +19,7 @@
 - Place 2000: 00680
 - Place 1990: 0030
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 284506
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

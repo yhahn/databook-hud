@@ -1,13 +1,10 @@
 # Project: NORTH POINT APTS (CAA20130064)
 
 - HUD ID: CAA20130064
-- HUD ID before: 
 - Project: NORTH POINT APTS
 - Address: 3432 ESPLANADE
 - City: CHICO
-- State: CA
 - ZIP: 95973
-- ZIP extension: 
 - State project ID: CA-12-815
 - Latitude: 39.777753
 - Longitude: -121.882163
@@ -20,11 +17,8 @@
 - Place 2020: 13014
 - Place 2010: 13014
 - Place 2000: 13014
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 309734
 - Units: 49
 - Low-income units: 49
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,9 @@
 - HOME amount: 450000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

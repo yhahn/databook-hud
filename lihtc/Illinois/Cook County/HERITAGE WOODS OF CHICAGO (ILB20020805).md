@@ -1,13 +1,10 @@
 # Project: HERITAGE WOODS OF CHICAGO (ILB20020805)
 
 - HUD ID: ILB20020805
-- HUD ID before: 
 - Project: HERITAGE WOODS OF CHICAGO
 - Address: 2800 W FULTON ST
 - City: CHICAGO
-- State: IL
 - ZIP: 60612
-- ZIP extension: 
 - State project ID: TC-99-028
 - Latitude: 41.8867
 - Longitude: -87.696427
@@ -22,10 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
-- Allocation amount: 
 - Units: 110
 - Low-income units: 110
 - Units reported: 110
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 1207218
 - CDBG: Yes
 - CDBG amount: 1300000
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2002801. AKA RENAISSANCE CENTER.
 - Record status: Existing, unchanged

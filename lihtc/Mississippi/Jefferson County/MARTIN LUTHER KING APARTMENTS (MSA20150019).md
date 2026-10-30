@@ -1,11 +1,9 @@
 # Project: MARTIN LUTHER KING APARTMENTS (MSA20150019)
 
 - HUD ID: MSA20150019
-- HUD ID before: 
 - Project: MARTIN LUTHER KING APARTMENTS
 - Address: 205 MLK APARTMENT ROAD
 - City: FAYETTE
-- State: MS
 - ZIP: 39069
 - ZIP extension: 0000
 - State project ID: 14-T-002
@@ -16,15 +14,10 @@
 - Tract 2020: 28063950101
 - Tract 2010: 28063950100
 - Tract 2000: 28063950100
-- Tract 1990: 
 - Place 2020: 24500
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 259782
 - Units: 80
 - Low-income units: 80
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

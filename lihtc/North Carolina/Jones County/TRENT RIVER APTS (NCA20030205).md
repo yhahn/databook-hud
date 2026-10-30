@@ -1,13 +1,10 @@
 # Project: TRENT RIVER APTS (NCA20030205)
 
 - HUD ID: NCA20030205
-- HUD ID before: 
 - Project: TRENT RIVER APTS
 - Address: 600 IRIS LANE
 - City: TRENTON
-- State: NC
 - ZIP: 28585
-- ZIP extension: 
 - State project ID: 9001618
 - Latitude: 35.066425
 - Longitude: -77.364856
@@ -19,12 +16,8 @@
 - Tract 1990: 37103980200
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 129198
 - Units: 25
 - Low-income units: 24
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

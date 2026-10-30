@@ -1,13 +1,10 @@
 # Project: HOPE HARBOR (SCA20020045)
 
 - HUD ID: SCA20020045
-- HUD ID before: 
 - Project: HOPE HARBOR
 - Address: 9 HOPE HARBOR DR
 - City: GREELEYVILLE
-- State: SC
 - ZIP: 29056
-- ZIP extension: 
 - State project ID: SC-01-001
 - Latitude: 33.575129
 - Longitude: -79.992141
@@ -20,11 +17,8 @@
 - Place 2020: 30535
 - Place 2010: 30535
 - Place 2000: 30535
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 83665
 - Units: 40
 - Low-income units: 20
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

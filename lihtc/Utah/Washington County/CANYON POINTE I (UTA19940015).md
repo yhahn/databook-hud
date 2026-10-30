@@ -1,11 +1,9 @@
 # Project: CANYON POINTE I (UTA19940015)
 
 - HUD ID: UTA19940015
-- HUD ID before: 
 - Project: CANYON POINTE I
 - Address: 1737 WEST 360 NORTH
 - City: ST. GEORGE
-- State: UT
 - ZIP: 84770
 - ZIP extension: 0000
 - State project ID: 1992-23
@@ -22,9 +20,7 @@
 - Place 2000: 65330
 - Place 1990: 0855
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 341318
 - Units: 50
 - Low-income units: 50
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

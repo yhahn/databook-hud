@@ -1,13 +1,10 @@
 # Project: SKYVIEW APTS (MSA20140120)
 
 - HUD ID: MSA20140120
-- HUD ID before: 
 - Project: SKYVIEW APTS
 - Address: 201 LESTER ST
 - City: BATESVILLE
-- State: MS
 - ZIP: 38606
-- ZIP extension: 
 - State project ID: MS-12-1-009
 - Latitude: 34.317309
 - Longitude: -89.954694
@@ -22,9 +19,7 @@
 - Place 2000: 03620
 - Place 1990: 0055
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 102
 - Low-income units: 102
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CAMPBELL COURT (UTA20010902)
 
 - HUD ID: UTA20010902
-- HUD ID before: 
 - Project: CAMPBELL COURT
 - Address: 1596 WEST 3395 SOUTH
 - City: WEST VALLEY CITY
-- State: UT
 - ZIP: 84119
 - ZIP extension: 0000
 - State project ID: 1999-13
@@ -22,9 +20,7 @@
 - Place 2000: 83470
 - Place 1990: 1082
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 185395
 - Units: 26
 - Low-income units: 26
@@ -40,11 +36,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

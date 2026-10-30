@@ -1,13 +1,10 @@
 # Project: GROVE SENIOR LIVING (ILA20220016)
 
 - HUD ID: ILA20220016
-- HUD ID before: 
 - Project: GROVE SENIOR LIVING
 - Address: 3737 HIGHLAND AVENUE
 - City: DOWNERS GROVE
-- State: IL
 - ZIP: 60515
-- ZIP extension: 
 - State project ID: 231105
 - Latitude: 41.819993
 - Longitude: -88.010031
@@ -22,9 +19,7 @@
 - Place 2000: 20591
 - Place 1990: 1540
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 338700
 - Units: 269
 - Low-income units: 269
@@ -40,15 +35,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -59,8 +50,6 @@
 - TCEP amount: 0
 - HTF: No
 - HTF amount: 0
-- FHA: 
-- HOPE VI: 
 - HOPE VI amount: 0
 - RAD: Yes
 - QOZF: Yes
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

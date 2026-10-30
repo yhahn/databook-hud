@@ -1,13 +1,10 @@
 # Project: COUNTRY EDGE APTS (NDA19970005)
 
 - HUD ID: NDA19970005
-- HUD ID before: 
 - Project: COUNTRY EDGE APTS
 - Address: 3363 31ST AVE SW
 - City: FARGO
-- State: ND
 - ZIP: 58103
-- ZIP extension: 
 - State project ID: 95-16
 - Latitude: 46.83513
 - Longitude: -96.835059
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 188910
 - Units: 48
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,6 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

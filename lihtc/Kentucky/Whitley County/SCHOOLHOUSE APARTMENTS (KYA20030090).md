@@ -1,13 +1,10 @@
 # Project: SCHOOLHOUSE APARTMENTS (KYA20030090)
 
 - HUD ID: KYA20030090
-- HUD ID before: 
 - Project: SCHOOLHOUSE APARTMENTS
 - Address: DAMON CIRCLE
 - City: CORBIN
-- State: KY
 - ZIP: 40740
-- ZIP extension: 
 - State project ID: KY-01-015
 - Latitude: 36.95
 - Longitude: -84.1067
@@ -19,12 +16,8 @@
 - Tract 1990: 21121990400
 - Place 2020: 17362
 - Place 2010: 17362
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 328068
 - Units: 40
 - Low-income units: 40
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

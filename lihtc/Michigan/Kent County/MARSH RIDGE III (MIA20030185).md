@@ -1,13 +1,10 @@
 # Project: MARSH RIDGE III (MIA20030185)
 
 - HUD ID: MIA20030185
-- HUD ID before: 
 - Project: MARSH RIDGE III
 - Address: 470 MARSH RIDGE DR NW
 - City: GRAND RAPIDS
-- State: MI
 - ZIP: 49504
-- ZIP extension: 
 - State project ID: MI-1045
 - Latitude: 42.972885
 - Longitude: -85.739907
@@ -22,10 +19,7 @@
 - Place 2000: 34000
 - Place 1990: 1085
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
-- Allocation amount: 
 - Units: 131
 - Low-income units: 130
 - Units reported: 131
@@ -37,18 +31,12 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 30 percent present value
-- Income ceiling: 
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 990000
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -74,12 +61,6 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

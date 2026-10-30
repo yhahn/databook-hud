@@ -1,13 +1,10 @@
 # Project: KACY MEADOWS (IDA20010025)
 
 - HUD ID: IDA20010025
-- HUD ID before: 
 - Project: KACY MEADOWS
 - Address: 37 KACY MEADOWS LANE
 - City: BUHL
-- State: ID
 - ZIP: 83316
-- ZIP extension: 
 - State project ID: HC0023
 - Latitude: 42.591734
 - Longitude: -114.750087
@@ -20,11 +17,8 @@
 - Place 2020: 10810
 - Place 2010: 10810
 - Place 2000: 10810
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 196624
 - Units: 36
 - Low-income units: 35
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

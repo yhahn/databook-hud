@@ -1,13 +1,10 @@
 # Project: MILLTOWN (IDA20132002)
 
 - HUD ID: IDA20132002
-- HUD ID before: 
 - Project: MILLTOWN
 - Address: 1102 SIXTH AVENUE
 - City: SANDPOINT
-- State: ID
 - ZIP: 83864
-- ZIP extension: 
 - State project ID: HC1202
 - Latitude: 48.28425
 - Longitude: -116.555288
@@ -19,12 +16,8 @@
 - Tract 1990: 16017950400
 - Place 2020: 72100
 - Place 2010: 72100
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 720870
 - Units: 51
 - Low-income units: 40
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: SOUTH POINTE APARTMENTS (MOA20160032)
 
 - HUD ID: MOA20160032
-- HUD ID before: 
 - Project: SOUTH POINTE APARTMENTS
 - Address: 3101 WARRIOR LANE
 - City: POPLAR BLUFF
-- State: MO
 - ZIP: 63901
 - ZIP extension: 0000
 - State project ID: 15-035
@@ -16,15 +14,11 @@
 - Tract 2020: 29023950900
 - Tract 2010: 29023950900
 - Tract 2000: 29023950300
-- Tract 1990: 
 - Place 2020: 59096
 - Place 2010: 99999
 - Place 2000: 59096
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 523000
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,7 +41,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

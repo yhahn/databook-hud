@@ -1,13 +1,10 @@
 # Project: CEDAR MANOR APTS II (IAA20090015)
 
 - HUD ID: IAA20090015
-- HUD ID before: 
 - Project: CEDAR MANOR APTS II
 - Address: 2003 CEDAR ST
 - City: BOONE
-- State: IA
 - ZIP: 50036
-- ZIP extension: 
 - State project ID: 07-12
 - Latitude: 42.076712
 - Longitude: -93.871259
@@ -22,9 +19,7 @@
 - Place 2000: 07480
 - Place 1990: 0465
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 93336
 - Units: 24
 - Low-income units: 24
@@ -40,12 +35,9 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
@@ -55,16 +47,9 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA1997025.
 - Record status: Existing, unchanged

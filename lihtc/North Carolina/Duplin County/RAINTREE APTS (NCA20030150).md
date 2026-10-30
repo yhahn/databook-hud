@@ -1,13 +1,10 @@
 # Project: RAINTREE APTS (NCA20030150)
 
 - HUD ID: NCA20030150
-- HUD ID before: 
 - Project: RAINTREE APTS
 - Address: 104 RAINTREE COURT
 - City: ROSE HILL
-- State: NC
 - ZIP: 28458
-- ZIP extension: 
 - State project ID: 9001617
 - Latitude: 34.835932
 - Longitude: -78.02887
@@ -19,12 +16,8 @@
 - Tract 1990: 37061990800
 - Place 2020: 57860
 - Place 2010: 57860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 110230
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

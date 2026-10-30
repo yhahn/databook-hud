@@ -1,11 +1,9 @@
 # Project: PARK TERRACE APARTMENTS PHASE II (NCA20110581)
 
 - HUD ID: NCA20110581
-- HUD ID before: 
 - Project: PARK TERRACE APARTMENTS PHASE II
 - Address: 885 SHARON STREET
 - City: HIGH POINT
-- State: NC
 - ZIP: 27260
 - ZIP extension: 7699
 - State project ID: 9104472
@@ -19,12 +17,9 @@
 - Tract 1990: 37081014200
 - Place 2020: 31400
 - Place 2010: 31400
-- Place 2000: 
 - Place 1990: 1195
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1164713
 - Units: 92
 - Low-income units: 92
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

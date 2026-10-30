@@ -1,13 +1,10 @@
 # Project: ALMONDWOOD APTS (CAA20110005)
 
 - HUD ID: CAA20110005
-- HUD ID before: 
 - Project: ALMONDWOOD APTS
 - Address: 801 DUTTON ST
 - City: WINTERS
-- State: CA
 - ZIP: 95694
-- ZIP extension: 
 - State project ID: CA-09-601
 - Latitude: 38.528325
 - Longitude: -121.968946
@@ -22,10 +19,7 @@
 - Place 2000: 86034
 - Place 1990: 3135
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 39
 - Low-income units: 38
 - Units reported: 39
@@ -40,12 +34,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
@@ -53,18 +44,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: No
@@ -74,12 +56,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2011634.
 - Record status: Existing, unchanged

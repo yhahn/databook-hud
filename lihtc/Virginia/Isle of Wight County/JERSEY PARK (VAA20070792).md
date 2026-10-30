@@ -1,13 +1,10 @@
 # Project: JERSEY PARK (VAA20070792)
 
 - HUD ID: VAA20070792
-- HUD ID before: 
 - Project: JERSEY PARK
 - Address: 775 WRENN RD
 - City: SMITHFIELD
-- State: VA
 - ZIP: 23430
-- ZIP extension: 
 - State project ID: 9000
 - Latitude: 36.975077
 - Longitude: -76.645979
@@ -20,11 +17,8 @@
 - Place 2020: 73200
 - Place 2010: 73200
 - Place 2000: 73200
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 144363
 - Units: 80
 - Low-income units: 80
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006112.
 - Record status: Existing, unchanged

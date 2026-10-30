@@ -1,11 +1,9 @@
 # Project: GLACIER MANOR (MTA20090020)
 
 - HUD ID: MTA20090020
-- HUD ID before: 
 - Project: GLACIER MANOR
 - Address: 506 1ST AVENUE WEST
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 08070
@@ -22,9 +20,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 183000
 - Units: 61
 - Low-income units: 61
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

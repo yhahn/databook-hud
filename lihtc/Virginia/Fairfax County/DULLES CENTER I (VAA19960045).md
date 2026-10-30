@@ -1,13 +1,10 @@
 # Project: DULLES CENTER I (VAA19960045)
 
 - HUD ID: VAA19960045
-- HUD ID before: 
 - Project: DULLES CENTER I
 - Address: 2410 LITTLE CURRENT DR
 - City: HERNDON
-- State: VA
 - ZIP: 20171
-- ZIP extension: 
 - State project ID: VA9574001
 - Latitude: 38.956508
 - Longitude: -77.421125
@@ -20,11 +17,8 @@
 - Place 2020: 48450
 - Place 2010: 48450
 - Place 2000: 14744
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 983691
 - Units: 144
 - Low-income units: 144
@@ -38,10 +32,6 @@
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA DULLES CENTER.
 - Record status: Updated

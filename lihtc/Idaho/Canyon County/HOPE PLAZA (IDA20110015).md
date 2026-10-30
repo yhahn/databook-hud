@@ -1,13 +1,10 @@
 # Project: HOPE PLAZA (IDA20110015)
 
 - HUD ID: IDA20110015
-- HUD ID before: 
 - Project: HOPE PLAZA
 - Address: 1508 HOPE LANE
 - City: CALDWELL
-- State: ID
 - ZIP: 83607
-- ZIP extension: 
 - State project ID: HC0901
 - Latitude: 43.66546
 - Longitude: -116.675717
@@ -19,12 +16,9 @@
 - Tract 1990: 16027021300
 - Place 2020: 12250
 - Place 2010: 12250
-- Place 2000: 
 - Place 1990: 0120
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 48
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PATHWAYS AT NORTH LOOP (TXA0000X065)
 
 - HUD ID: TXA0000X065
-- HUD ID before: 
 - Project: PATHWAYS AT NORTH LOOP
 - Address: 2300 W. NORTH LOOP BLVD.
 - City: AUSTIN
-- State: TX
 - ZIP: 78756
-- ZIP extension: 
 - State project ID: TX5192
 - Latitude: 30.325414
 - Longitude: -97.743003
@@ -16,16 +13,11 @@
 - Tract 2020: 48453000206
 - Tract 2010: 48453000206
 - Tract 2000: 48453000201
-- Tract 1990: 
 - Place 2020: 05000
 - Place 2010: 05000
 - Place 2000: 05000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 130
 - Low-income units: 130
 - Units reported: 130
@@ -38,10 +30,7 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: Yes
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: LINCOLNVILLE ELDERLY APTS (SCA19990070)
 
 - HUD ID: SCA19990070
-- HUD ID before: 
 - Project: LINCOLNVILLE ELDERLY APTS
 - Address: 501 SLIDEL ST
 - City: LINCOLNVILLE
-- State: SC
 - ZIP: 29484
-- ZIP extension: 
 - State project ID: SC-97-007
 - Latitude: 33.005252
 - Longitude: -80.158395
@@ -22,9 +19,7 @@
 - Place 2000: 39220
 - Place 1990: 0724
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 181962
 - Units: 39
 - Low-income units: 39
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

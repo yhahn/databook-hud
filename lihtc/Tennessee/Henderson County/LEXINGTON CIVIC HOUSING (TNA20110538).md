@@ -1,13 +1,10 @@
 # Project: LEXINGTON CIVIC HOUSING (TNA20110538)
 
 - HUD ID: TNA20110538
-- HUD ID before: 
 - Project: LEXINGTON CIVIC HOUSING
 - Address: 6 ROTARY DR
 - City: LEXINGTON
-- State: TN
 - ZIP: 38351
-- ZIP extension: 
 - State project ID: TN-09-028
 - Latitude: 35.660194
 - Longitude: -88.39207
@@ -22,9 +19,7 @@
 - Place 2000: 41980
 - Place 1990: 0805
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 113478
 - Units: 25
 - Low-income units: 25
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 339714
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2011055, TNA1989355.
 - Record status: Existing, unchanged

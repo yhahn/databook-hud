@@ -1,13 +1,10 @@
 # Project: BRANDON HEIGHTS VILLAGE II (NDA20040005)
 
 - HUD ID: NDA20040005
-- HUD ID before: 
 - Project: BRANDON HEIGHTS VILLAGE II
 - Address: 623 E CALGARY AVE
 - City: BISMARCK
-- State: ND
 - ZIP: 58503
-- ZIP extension: 
 - State project ID: TC0215
 - Latitude: 46.844385
 - Longitude: -100.783808
@@ -22,9 +19,7 @@
 - Place 2000: 07200
 - Place 1990: 0195
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 242723
 - Units: 36
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CHERRY LANE APARTMENTS (PAA20220001)
 
 - HUD ID: PAA20220001
-- HUD ID before: 
 - Project: CHERRY LANE APARTMENTS
 - Address: 102 W CHERRY LN
 - City: STATE COLLEGE
-- State: PA
 - ZIP: 16803
 - ZIP extension: 2950
 - State project ID: TC20210624
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42027011503
 - Tract 2010: 42027011502
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 605475
 - Units: 18
 - Low-income units: 18
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 6008769
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

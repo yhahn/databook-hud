@@ -1,13 +1,10 @@
 # Project: ELM GREEN (NCA19990050)
 
 - HUD ID: NCA19990050
-- HUD ID before: 
 - Project: ELM GREEN
 - Address: 100 ELM GREEN LOOP DRIVE
 - City: NEWPORT
-- State: NC
 - ZIP: 28570
-- ZIP extension: 
 - State project ID: 9000978
 - Latitude: 34.801553
 - Longitude: -76.859293
@@ -20,11 +17,8 @@
 - Place 2020: 46860
 - Place 2010: 46860
 - Place 2000: 46860
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 258111
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

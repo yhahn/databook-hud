@@ -1,11 +1,9 @@
 # Project: THE LONOKE (MNB20141010)
 
 - HUD ID: MNB20141010
-- HUD ID before: 
 - Project: THE LONOKE
 - Address: 1926 3RD AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 2772
 - State project ID: D0837
@@ -16,15 +14,11 @@
 - Tract 2020: 27053105700
 - Tract 2010: 27053105700
 - Tract 2000: 27053105700
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 146913
 - Units: 19
 - Low-income units: 19
@@ -67,19 +61,11 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

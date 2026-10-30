@@ -1,13 +1,10 @@
 # Project: TURNBERRY AT VILLAGE GREEN (IDA19980060)
 
 - HUD ID: IDA19980060
-- HUD ID before: 
 - Project: TURNBERRY AT VILLAGE GREEN
 - Address: 831 TAMARACK DRIVE
 - City: LEWISTON
-- State: ID
 - ZIP: 83501
-- ZIP extension: 
 - State project ID: HC9527
 - Latitude: 46.394532
 - Longitude: -116.987286
@@ -22,9 +19,7 @@
 - Place 2000: 46540
 - Place 1990: 0530
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 367274
 - Units: 78
 - Low-income units: 77
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 43
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

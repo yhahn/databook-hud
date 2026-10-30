@@ -1,11 +1,9 @@
 # Project: MONROE VILLAGE SENIOR APARTMENTS (KYA19940066)
 
 - HUD ID: KYA19940066
-- HUD ID before: 
 - Project: MONROE VILLAGE SENIOR APARTMENTS
 - Address: CAP HARLAN RD.
 - City: TOMPKINSVILLE
-- State: KY
 - ZIP: 42167
 - ZIP extension: 0000
 - State project ID: KY-93-003
@@ -20,12 +18,8 @@
 - Place 2020: 77160
 - Place 2010: 77160
 - Place 2000: 77160
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -36,12 +30,8 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +55,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +68,5 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA1994557.
 - Record status: Existing, unchanged

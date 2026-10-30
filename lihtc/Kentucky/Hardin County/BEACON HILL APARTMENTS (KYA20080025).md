@@ -1,13 +1,10 @@
 # Project: BEACON HILL APARTMENTS (KYA20080025)
 
 - HUD ID: KYA20080025
-- HUD ID before: 
 - Project: BEACON HILL APARTMENTS
 - Address: INNOVATION WAY
 - City: RADCLIFF
-- State: KY
 - ZIP: 40160
-- ZIP extension: 
 - State project ID: KY-06-058
 - Latitude: 37.8113
 - Longitude: -85.9302
@@ -19,12 +16,9 @@
 - Tract 1990: 21093000400
 - Place 2020: 63912
 - Place 2010: 63912
-- Place 2000: 
 - Place 1990: 1630
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 312800
 - Units: 34
 - Low-income units: 34
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

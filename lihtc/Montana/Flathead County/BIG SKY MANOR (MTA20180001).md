@@ -1,11 +1,9 @@
 # Project: BIG SKY MANOR (MTA20180001)
 
 - HUD ID: MTA20180001
-- HUD ID before: 
 - Project: BIG SKY MANOR
 - Address: 110 2ND AVENUE WEST
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 16090
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30029001000
 - Tract 2010: 30029001000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 40075
 - Place 2010: 40075
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 244387
 - Units: 60
 - Low-income units: 60
@@ -44,11 +36,9 @@
 - Affordability years: 46
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

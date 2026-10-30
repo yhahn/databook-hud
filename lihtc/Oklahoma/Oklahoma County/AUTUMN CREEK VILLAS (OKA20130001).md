@@ -1,13 +1,10 @@
 # Project: AUTUMN CREEK VILLAS (OKA20130001)
 
 - HUD ID: OKA20130001
-- HUD ID before: 
 - Project: AUTUMN CREEK VILLAS
 - Address: 9201 NE 16TH ST
 - City: MIDWEST CITY
-- State: OK
 - ZIP: 73130
-- ZIP extension: 
 - State project ID: 120101
 - Latitude: 35.486005
 - Longitude: -97.367014
@@ -22,9 +19,7 @@
 - Place 2000: 48350
 - Place 1990: 1630
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 5648080
 - Units: 30
 - Low-income units: 30
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

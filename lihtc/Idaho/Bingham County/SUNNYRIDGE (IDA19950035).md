@@ -1,13 +1,10 @@
 # Project: SUNNYRIDGE (IDA19950035)
 
 - HUD ID: IDA19950035
-- HUD ID before: 
 - Project: SUNNYRIDGE
 - Address: 1615 CAMAS STREET
 - City: BLACKFOOT
-- State: ID
 - ZIP: 83321
-- ZIP extension: 
 - State project ID: HC9516
 - Latitude: 43.178735
 - Longitude: -112.359112
@@ -22,9 +19,7 @@
 - Place 2000: 07840
 - Place 1990: 0075
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 21976
 - Units: 26
 - Low-income units: 25
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

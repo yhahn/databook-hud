@@ -1,11 +1,9 @@
 # Project: COPPERTREE APTS. (UTA20030035)
 
 - HUD ID: UTA20030035
-- HUD ID before: 
 - Project: COPPERTREE APTS.
 - Address: 8722 8732 W COPPERTREE LANE
 - City: MAGNA
-- State: UT
 - ZIP: 84044
 - ZIP extension: 0000
 - State project ID: 2002-19
@@ -19,12 +17,9 @@
 - Tract 1990: 49035113901
 - Place 2020: 47290
 - Place 2010: 47290
-- Place 2000: 
 - Place 1990: 0535
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 535180
 - Units: 88
 - Low-income units: 88
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: TOWNES AT RIVER SOUTH (VAA20010235)
 
 - HUD ID: VAA20010235
-- HUD ID before: 
 - Project: TOWNES AT RIVER SOUTH
 - Address: 304 E 12TH ST
 - City: RICHMOND
-- State: VA
 - ZIP: 23224
-- ZIP extension: 
 - State project ID: 1130
 - Latitude: 37.518476
 - Longitude: -77.441312
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 1035
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 450000
 - Units: 99
 - Low-income units: 99
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BLACKWELL COMMUNITY.
 - Record status: Existing, unchanged

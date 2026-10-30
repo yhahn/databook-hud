@@ -1,13 +1,10 @@
 # Project: COURTYARDS AT RIDGECREST (THE) (IDA20020035)
 
 - HUD ID: IDA20020035
-- HUD ID before: 
 - Project: COURTYARDS AT RIDGECREST (THE)
 - Address: 6341 BIRCH LANE
 - City: NAMPA
-- State: ID
 - ZIP: 83687
-- ZIP extension: 
 - State project ID: HC0109
 - Latitude: 43.612141
 - Longitude: -116.519976
@@ -20,11 +17,8 @@
 - Place 2020: 56260
 - Place 2010: 56260
 - Place 2000: 12250
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 299440
 - Units: 60
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

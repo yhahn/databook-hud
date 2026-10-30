@@ -1,11 +1,9 @@
 # Project: UNION PLACE (MTA20050025)
 
 - HUD ID: MTA20050025
-- HUD ID before: 
 - Project: UNION PLACE
 - Address: 2500 GREAT NORTHERN AVE
 - City: MISSOULA
-- State: MT
 - ZIP: 59802
 - ZIP extension: 0000
 - State project ID: 04090
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 418000
 - Units: 30
 - Low-income units: 30
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +73,4 @@
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

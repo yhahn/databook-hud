@@ -1,13 +1,10 @@
 # Project: OLD COLONY PHASE 2B (MAB20140011)
 
 - HUD ID: MAB20140011
-- HUD ID before: 
 - Project: OLD COLONY PHASE 2B
 - Address: 20 PATTERSON WAY
 - City: BOSTON
-- State: MA
 - ZIP: 02127
-- ZIP extension: 
 - State project ID: MA-14-15
 - Latitude: 42.331053
 - Longitude: -71.05196
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0440
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1585997
 - Units: 84
 - Low-income units: 84
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,7 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

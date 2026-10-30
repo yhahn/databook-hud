@@ -1,13 +1,10 @@
 # Project: CRESCENT CITY SENIOR APTS (CAA20140394)
 
 - HUD ID: CAA20140394
-- HUD ID before: 
 - Project: CRESCENT CITY SENIOR APTS
 - Address: 1125 OREGON ST
 - City: CRESCENT CITY
-- State: CA
 - ZIP: 95531
-- ZIP extension: 
 - State project ID: CA-13-073
 - Latitude: 41.766092
 - Longitude: -124.201241
@@ -20,11 +17,8 @@
 - Place 2020: 17022
 - Place 2010: 17022
 - Place 2000: 06150
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 389861
 - Units: 38
 - Low-income units: 37
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1991015.
 - Record status: Existing, unchanged

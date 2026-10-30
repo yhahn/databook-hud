@@ -1,13 +1,10 @@
 # Project: COTTAGES OF WHITE BEAR TOWNSHIP (MNA20130860)
 
 - HUD ID: MNA20130860
-- HUD ID before: 
 - Project: COTTAGES OF WHITE BEAR TOWNSHIP
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: WHITE BEAR LAKE
-- State: MN
 - ZIP: 55110
-- ZIP extension: 
 - State project ID: D1754
 - Latitude: 45.0875
 - Longitude: -93.0169
@@ -22,9 +19,7 @@
 - Place 2000: 69970
 - Place 1990: 4090
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 269559
 - Units: 60
 - Low-income units: 60
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MNA2012816, MNA2012806, MNA1995045. AKA COTTAGES OF WHITE BEAR LAKE.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WESTGATE APTS II (CHATOM) (ALA20080230)
 
 - HUD ID: ALA20080230
-- HUD ID before: 
 - Project: WESTGATE APTS II (CHATOM)
 - Address: 82 E CENTRAL AVE
 - City: CHATOM
-- State: AL
 - ZIP: 36518
-- ZIP extension: 
 - State project ID: AL-92-0028
 - Latitude: 31.464819
 - Longitude: -88.253126
@@ -20,12 +17,8 @@
 - Place 2020: 14008
 - Place 2010: 14008
 - Place 2000: 14008
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,11 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007210, ALA1993135, ALA1992114. AKA WESTGATE APTS.
 - Record status: Existing, unchanged

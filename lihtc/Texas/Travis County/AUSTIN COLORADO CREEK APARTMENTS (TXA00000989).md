@@ -1,13 +1,10 @@
 # Project: AUSTIN COLORADO CREEK APARTMENTS (TXA00000989)
 
 - HUD ID: TXA00000989
-- HUD ID before: 
 - Project: AUSTIN COLORADO CREEK APARTMENTS
 - Address: 11700 DIONDA LANE
 - City: DEL VALLE
-- State: TX
 - ZIP: 78617
-- ZIP extension: 
 - State project ID: TX5154
 - Latitude: 30.2028
 - Longitude: -97.5832
@@ -16,16 +13,10 @@
 - Tract 2020: 48453002452
 - Tract 2010: 48453002433
 - Tract 2000: 48453001821
-- Tract 1990: 
 - Place 2020: 05000
 - Place 2010: 05000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 240
 - Low-income units: 240
 - Units reported: 240
@@ -41,7 +32,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 48
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

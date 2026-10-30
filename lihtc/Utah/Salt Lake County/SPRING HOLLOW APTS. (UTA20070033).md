@@ -1,11 +1,9 @@
 # Project: SPRING HOLLOW APTS. (UTA20070033)
 
 - HUD ID: UTA20070033
-- HUD ID before: 
 - Project: SPRING HOLLOW APTS.
 - Address: 1300 WEST 7011 SOUTH
 - City: WEST JORDAN
-- State: UT
 - ZIP: 84084
 - ZIP extension: 0000
 - State project ID: 2002-29
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49035112905
 - Tract 2010: 49035112913
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 75360
 - Place 2010: 82950
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 271989
 - Units: 44
 - Low-income units: 44
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +55,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +67,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

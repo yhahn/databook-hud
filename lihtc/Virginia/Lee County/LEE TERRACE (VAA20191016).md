@@ -1,13 +1,10 @@
 # Project: LEE TERRACE (VAA20191016)
 
 - HUD ID: VAA20191016
-- HUD ID before: 
 - Project: LEE TERRACE
 - Address: 1750 COMBS ROAD
 - City: PENNINGTON GAP
-- State: VA
 - ZIP: 24277
-- ZIP extension: 
 - State project ID: 1031
 - Latitude: 36.749174
 - Longitude: -83.047806
@@ -22,9 +19,7 @@
 - Place 2000: 61560
 - Place 1990: 0955
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 235701
 - Units: 40
 - Low-income units: 40
@@ -39,16 +34,10 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 700000
 - CDBG: No
@@ -72,14 +61,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003593.
 - Record status: Existing, unchanged

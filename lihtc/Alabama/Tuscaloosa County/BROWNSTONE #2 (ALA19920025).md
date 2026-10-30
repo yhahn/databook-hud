@@ -1,13 +1,10 @@
 # Project: BROWNSTONE #2 (ALA19920025)
 
 - HUD ID: ALA19920025
-- HUD ID before: 
 - Project: BROWNSTONE #2
 - Address: 4 JUANITA DR
 - City: TUSCALOOSA
-- State: AL
 - ZIP: 35404
-- ZIP extension: 
 - State project ID: AL-92-0022
 - Latitude: 33.207149
 - Longitude: -87.500059
@@ -22,9 +19,7 @@
 - Place 2000: 77256
 - Place 1990: 1720
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 14110
 - Units: 7
 - Low-income units: 7
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

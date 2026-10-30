@@ -1,11 +1,9 @@
 # Project: PALACE APARTMENTS (MTA20130004)
 
 - HUD ID: MTA20130004
-- HUD ID before: 
 - Project: PALACE APARTMENTS
 - Address: 149 WEST BROADWAY
 - City: MISSOULA
-- State: MT
 - ZIP: 59802
 - ZIP extension: 0000
 - State project ID: 11030
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 616250
 - Units: 60
 - Low-income units: 60
@@ -78,8 +74,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA1995040.
 - Record status: Updated

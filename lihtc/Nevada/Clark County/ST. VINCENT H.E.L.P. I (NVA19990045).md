@@ -1,11 +1,9 @@
 # Project: ST. VINCENT H.E.L.P. I (NVA19990045)
 
 - HUD ID: NVA19990045
-- HUD ID before: 
 - Project: ST. VINCENT H.E.L.P. I
 - Address: 1521 N LAS VEGAS BLVD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89101
 - ZIP extension: 0000
 - State project ID: 97-04
@@ -22,9 +20,7 @@
 - Place 2000: 40000
 - Place 1990: 0065
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 2562869
 - Units: 66
 - Low-income units: 66
@@ -40,8 +36,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 66
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +63,7 @@
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA1999040.
 - Record status: Existing, unchanged

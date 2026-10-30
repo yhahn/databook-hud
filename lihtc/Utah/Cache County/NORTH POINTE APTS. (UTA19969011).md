@@ -1,11 +1,9 @@
 # Project: NORTH POINTE APTS. (UTA19969011)
 
 - HUD ID: UTA19969011
-- HUD ID before: 
 - Project: NORTH POINTE APTS.
 - Address: 1580 NORTH 200 EAST
 - City: LOGAN
-- State: UT
 - ZIP: 84321
 - ZIP extension: 0000
 - State project ID: 1994-15
@@ -16,15 +14,11 @@
 - Tract 2020: 49005000401
 - Tract 2010: 49005000401
 - Tract 2000: 49005000401
-- Tract 1990: 
 - Place 2020: 54990
 - Place 2010: 54990
 - Place 2000: 54990
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 302687
 - Units: 80
 - Low-income units: 80
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WILLOW POINT (MSA19960105)
 
 - HUD ID: MSA19960105
-- HUD ID before: 
 - Project: WILLOW POINT
 - Address: 6314 QUAIL LAKE DR
 - City: JACKSON
-- State: MS
 - ZIP: 39206
-- ZIP extension: 
 - State project ID: MS-94-042
 - Latitude: 32.393381
 - Longitude: -90.162972
@@ -22,10 +19,7 @@
 - Place 2000: 36000
 - Place 1990: 0615
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
-- Allocation amount: 
 - Units: 5
 - Low-income units: 5
 - Units reported: 5
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA COVE TOWNHOMES I, NORTHFIELD HOUSES.
 - Record status: Existing, unchanged

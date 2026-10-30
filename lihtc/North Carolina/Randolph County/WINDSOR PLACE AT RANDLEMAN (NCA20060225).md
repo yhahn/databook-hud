@@ -1,11 +1,9 @@
 # Project: WINDSOR PLACE AT RANDLEMAN (NCA20060225)
 
 - HUD ID: NCA20060225
-- HUD ID before: 
 - Project: WINDSOR PLACE AT RANDLEMAN
 - Address: 201 WINDSOR PLACE CIR
 - City: RANDLEMAN
-- State: NC
 - ZIP: 27317
 - ZIP extension: 2111
 - State project ID: 9001100
@@ -22,9 +20,7 @@
 - Place 2000: 55080
 - Place 1990: 2030
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 302449
 - Units: 56
 - Low-income units: 51
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 28
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +66,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

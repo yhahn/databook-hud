@@ -1,13 +1,10 @@
 # Project: SKYLAND APTS (NCA19930365)
 
 - HUD ID: NCA19930365
-- HUD ID before: 
 - Project: SKYLAND APTS
 - Address: 406 506 LOWER CREEK ROAD
 - City: LENOIR
-- State: NC
 - ZIP: 28645
-- ZIP extension: 
 - State project ID: 9001366
 - Latitude: 35.9175
 - Longitude: -81.5389
@@ -19,12 +16,9 @@
 - Tract 1990: 37027030500
 - Place 2020: 25380
 - Place 2010: 37760
-- Place 2000: 
 - Place 1990: 1435
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 39950
 - Units: 34
 - Low-income units: 34
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

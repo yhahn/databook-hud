@@ -1,13 +1,10 @@
 # Project: RICHARDSON HOSPITAL (NCA20020135)
 
 - HUD ID: NCA20020135
-- HUD ID before: 
 - Project: RICHARDSON HOSPITAL
 - Address: 603 BENBOW RD
 - City: GREENSBORO
-- State: NC
 - ZIP: 27401
-- ZIP extension: 
 - State project ID: 9000714
 - Latitude: 36.068854
 - Longitude: -79.770456
@@ -22,9 +19,7 @@
 - Place 2000: 28000
 - Place 1990: 1065
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 277712
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WATER GARDEN PARK (NCA20130023)
 
 - HUD ID: NCA20130023
-- HUD ID before: 
 - Project: WATER GARDEN PARK
 - Address: 8109 MARVINO LANE
 - City: RALEIGH
-- State: NC
 - ZIP: 27612
-- ZIP extension: 
 - State project ID: 9110050
 - Latitude: 35.881443
 - Longitude: -78.735756
@@ -20,11 +17,8 @@
 - Place 2020: 55000
 - Place 2010: 55000
 - Place 2000: 55000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1106344
 - Units: 88
 - Low-income units: 88
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 22
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

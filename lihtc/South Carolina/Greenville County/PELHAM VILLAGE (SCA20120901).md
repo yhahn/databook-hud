@@ -1,13 +1,10 @@
 # Project: PELHAM VILLAGE (SCA20120901)
 
 - HUD ID: SCA20120901
-- HUD ID before: 
 - Project: PELHAM VILLAGE
 - Address: 1001 TOSCANO CT
 - City: GREENVILLE
-- State: SC
 - ZIP: 29615
-- ZIP extension: 
 - State project ID: SC-11-047
 - Latitude: 34.86209
 - Longitude: -82.277212
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 30850
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 830132
 - Units: 60
 - Low-income units: 60
@@ -40,10 +34,7 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
-- Increased basis: 
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PELHAM VILLAGE M11-SG450938.
 - Record status: Existing, unchanged

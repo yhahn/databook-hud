@@ -1,11 +1,9 @@
 # Project: PINE RIDGE APTS (NCA19920420)
 
 - HUD ID: NCA19920420
-- HUD ID before: 
 - Project: PINE RIDGE APTS
 - Address: 209 PINE RIDGE CIR
 - City: WALNUT COVE
-- State: NC
 - ZIP: 27052
 - ZIP extension: 7669
 - State project ID: 9001262
@@ -13,18 +11,13 @@
 - Longitude: -80.144582
 - County FIPS: 37169
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 37169070700
 - Tract 2000: 37169070700
 - Tract 1990: 37169070700
-- Place 2020: 
 - Place 2010: 70780
 - Place 2000: 70780
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 44746
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +61,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

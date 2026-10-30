@@ -1,11 +1,9 @@
 # Project: LITTLE VILLAGE APARTMENTS (MOA19940180)
 
 - HUD ID: MOA19940180
-- HUD ID before: 
 - Project: LITTLE VILLAGE APARTMENTS
 - Address: 103 N LEE ST
 - City: BUCKNER
-- State: MO
 - ZIP: 64016
 - ZIP extension: 9720
 - State project ID: 92087
@@ -13,18 +11,13 @@
 - Longitude: -94.190381
 - County FIPS: 29095
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29095015000
 - Tract 2000: 29095015000
 - Tract 1990: 29095015000
-- Place 2020: 
 - Place 2010: 09424
 - Place 2000: 09424
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 6403
 - Units: 34
 - Low-income units: 34
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

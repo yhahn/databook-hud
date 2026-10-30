@@ -1,13 +1,10 @@
 # Project: TIMBERLAKE VILLAGE (IDA20090045)
 
 - HUD ID: IDA20090045
-- HUD ID before: 
 - Project: TIMBERLAKE VILLAGE
 - Address: 176 MEADOWVIEW LANE
 - City: TWIN FALLS
-- State: ID
 - ZIP: 83301
-- ZIP extension: 
 - State project ID: HC0827
 - Latitude: 42.550104
 - Longitude: -114.425159
@@ -22,9 +19,7 @@
 - Place 2000: 82810
 - Place 1990: 0970
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 778238
 - Units: 67
 - Low-income units: 66
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 66
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

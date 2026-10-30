@@ -1,13 +1,10 @@
 # Project: SHADOW MOUNTAIN (IDA20060018)
 
 - HUD ID: IDA20060018
-- HUD ID before: 
 - Project: SHADOW MOUNTAIN
 - Address: 205 WEST WALL STREET
 - City: IDAHO CITY
-- State: ID
 - ZIP: 83631
-- ZIP extension: 
 - State project ID: HC0416
 - Latitude: 43.828352
 - Longitude: -115.835347
@@ -19,12 +16,8 @@
 - Tract 1990: 16015950200
 - Place 2020: 39610
 - Place 2010: 39610
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 56323
 - Units: 14
 - Low-income units: 14
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

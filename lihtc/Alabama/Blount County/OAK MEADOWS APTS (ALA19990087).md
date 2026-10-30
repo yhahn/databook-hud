@@ -1,13 +1,10 @@
 # Project: OAK MEADOWS APTS (ALA19990087)
 
 - HUD ID: ALA19990087
-- HUD ID before: 
 - Project: OAK MEADOWS APTS
 - Address: 53 VALLEY CT
 - City: ONEONTA
-- State: AL
 - ZIP: 35121
-- ZIP extension: 
 - State project ID: AL-99-0062
 - Latitude: 33.949705
 - Longitude: -86.468696
@@ -22,9 +19,7 @@
 - Place 2000: 01396
 - Place 1990: 1305
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 265182
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 533100
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2000085. FKA THE OAKS APTS
 - Record status: Existing, unchanged

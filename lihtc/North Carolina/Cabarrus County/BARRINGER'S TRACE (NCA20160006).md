@@ -1,13 +1,10 @@
 # Project: BARRINGER'S TRACE (NCA20160006)
 
 - HUD ID: NCA20160006
-- HUD ID before: 
 - Project: BARRINGER'S TRACE
 - Address: 901 ROSS CIRCLE
 - City: MT PLEASANT
-- State: NC
 - ZIP: 28124
-- ZIP extension: 
 - State project ID: 9168333
 - Latitude: 35.3696
 - Longitude: -80.4144
@@ -19,12 +16,8 @@
 - Tract 1990: 37025041700
 - Place 2020: 45140
 - Place 2010: 45140
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 462585
 - Units: 64
 - Low-income units: 64
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +62,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

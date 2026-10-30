@@ -1,11 +1,9 @@
 # Project: GOLDFINCH GROVE (IAA20160003)
 
 - HUD ID: IAA20160003
-- HUD ID before: 
 - Project: GOLDFINCH GROVE
 - Address: 1612 3RD ST
 - City: HULL
-- State: IA
 - ZIP: 51239
 - ZIP extension: 0000
 - State project ID: 15-15-4
@@ -16,15 +14,11 @@
 - Tract 2020: 19167070200
 - Tract 2010: 19167070200
 - Tract 2000: 19167970200
-- Tract 1990: 
 - Place 2020: 37515
 - Place 2010: 37515
 - Place 2000: 37515
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 203886
 - Units: 12
 - Low-income units: 12
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,7 +41,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

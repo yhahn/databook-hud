@@ -1,13 +1,10 @@
 # Project: WHISPERING OAK APTS (NDA19960025)
 
 - HUD ID: NDA19960025
-- HUD ID before: 
 - Project: WHISPERING OAK APTS
 - Address: 351 LINDEN ST
 - City: KINDRED
-- State: ND
 - ZIP: 58051
-- ZIP extension: 
 - State project ID: 95-14
 - Latitude: 46.647714
 - Longitude: -97.01649
@@ -22,9 +19,7 @@
 - Place 2000: 18180
 - Place 1990: 0890
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 30301
 - Units: 8
 - Low-income units: 8
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

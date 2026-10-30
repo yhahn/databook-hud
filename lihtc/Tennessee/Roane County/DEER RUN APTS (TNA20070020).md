@@ -1,13 +1,10 @@
 # Project: DEER RUN APTS (TNA20070020)
 
 - HUD ID: TNA20070020
-- HUD ID before: 
 - Project: DEER RUN APTS
 - Address: 5336 ROANE STATE HWY
 - City: ROCKWOOD
-- State: TN
 - ZIP: 37854
-- ZIP extension: 
 - State project ID: TN-05-032
 - Latitude: 35.874773
 - Longitude: -84.658444
@@ -22,9 +19,7 @@
 - Place 2000: 32520
 - Place 1990: 1210
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 645840
 - Units: 72
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

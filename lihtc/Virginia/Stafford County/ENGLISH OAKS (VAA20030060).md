@@ -1,13 +1,10 @@
 # Project: ENGLISH OAKS (VAA20030060)
 
 - HUD ID: VAA20030060
-- HUD ID before: 
 - Project: ENGLISH OAKS
 - Address: 11 DARLINGTON WAY
 - City: FREDERICKSBURG
-- State: VA
 - ZIP: 22406
-- ZIP extension: 
 - State project ID: 8125
 - Latitude: 38.368158
 - Longitude: -77.489719
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 27264
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 394197
 - Units: 119
 - Low-income units: 119
@@ -38,10 +32,6 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA ENGLAND RUN NORTH SENIORS.
 - Record status: Existing, unchanged

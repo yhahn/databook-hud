@@ -1,13 +1,10 @@
 # Project: BETHLEHEM TOWER AFFORDABLE (CAA20130006)
 
 - HUD ID: CAA20130006
-- HUD ID before: 
 - Project: BETHLEHEM TOWER AFFORDABLE
 - Address: 801 TUPPER ST
 - City: SANTA ROSA
-- State: CA
 - ZIP: 95404
-- ZIP extension: 
 - State project ID: CA-13-801
 - Latitude: 38.437001
 - Longitude: -122.708292
@@ -22,9 +19,7 @@
 - Place 2000: 70098
 - Place 1990: 2615
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 721944
 - Units: 159
 - Low-income units: 158
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BROOKSIDE VILLAGE (FARMINGTON) (MEA20140271)
 
 - HUD ID: MEA20140271
-- HUD ID before: 
 - Project: BROOKSIDE VILLAGE (FARMINGTON)
 - Address: 112 WILLOW SPRINGS DR
 - City: FARMINGTON
-- State: ME
 - ZIP: 04938
-- ZIP extension: 
 - State project ID: MSHARLP1542
 - Latitude: 44.682895
 - Longitude: -70.156504
@@ -22,9 +19,7 @@
 - Place 2000: 24740
 - Place 1990: 1580
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 191840
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

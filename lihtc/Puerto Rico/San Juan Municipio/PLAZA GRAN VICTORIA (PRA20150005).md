@@ -1,11 +1,9 @@
 # Project: PLAZA GRAN VICTORIA (PRA20150005)
 
 - HUD ID: PRA20150005
-- HUD ID before: 
 - Project: PLAZA GRAN VICTORIA
 - Address: 1312 PONCE DE LEON AVENUE
 - City: SAN JUAN
-- State: PR
 - ZIP: 00920
 - ZIP extension: 0000
 - State project ID: 12-010
@@ -16,15 +14,11 @@
 - Tract 2020: 72127002100
 - Tract 2010: 72127002100
 - Tract 2000: 72127002100
-- Tract 1990: 
 - Place 2020: 76770
 - Place 2010: 76770
 - Place 2000: 76770
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1435386
 - Units: 98
 - Low-income units: 98
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

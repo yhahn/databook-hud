@@ -1,13 +1,10 @@
 # Project: RULEVILLE VILLAS (MSA19870020)
 
 - HUD ID: MSA19870020
-- HUD ID before: 
 - Project: RULEVILLE VILLAS
 - Address: 649 CONNELL AVE
 - City: RULEVILLE
-- State: MS
 - ZIP: 38771
-- ZIP extension: 
 - State project ID: 87-051
 - Latitude: 33.715923
 - Longitude: -90.545963
@@ -22,10 +19,7 @@
 - Place 2000: 19420
 - Place 1990: 1135
 - Year placed in service: 1987
-- Placed in service note: 
 - Allocation year: 1987
-- Allocation year note: 
-- Allocation amount: 
 - Units: 32
 - Low-income units: 31
 - Units reported: 32
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

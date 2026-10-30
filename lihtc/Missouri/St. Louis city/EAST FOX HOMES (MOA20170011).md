@@ -1,11 +1,9 @@
 # Project: EAST FOX HOMES (MOA20170011)
 
 - HUD ID: MOA20170011
-- HUD ID before: 
 - Project: EAST FOX HOMES
 - Address: 2801-2803 MAGNOLIA AVENUE
 - City: SAINT LOUIS
-- State: MO
 - ZIP: 63118
 - ZIP extension: 0000
 - State project ID: 15-402
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29510123100
 - Tract 2010: 29510123100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 65000
 - Place 2010: 65000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 262814
 - Units: 47
 - Low-income units: 47
@@ -40,16 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,14 +45,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

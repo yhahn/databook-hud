@@ -1,13 +1,10 @@
 # Project: LONE OAK APARTMENTS, LTD. (KYA19950110)
 
 - HUD ID: KYA19950110
-- HUD ID before: 
 - Project: LONE OAK APARTMENTS, LTD.
 - Address: OLD EKRON RD.
 - City: BRANDENBURG
-- State: KY
 - ZIP: 40108
-- ZIP extension: 
 - State project ID: KY-94-008
 - Latitude: 37.9852
 - Longitude: -86.1259
@@ -19,12 +16,8 @@
 - Tract 1990: 21163970400
 - Place 2020: 09226
 - Place 2010: 09226
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 20
 - Low-income units: 20
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +55,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

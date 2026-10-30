@@ -1,13 +1,10 @@
 # Project: SHEYENNE COMMONS (NDA20080020)
 
 - HUD ID: NDA20080020
-- HUD ID before: 
 - Project: SHEYENNE COMMONS
 - Address: 205 14TH AVE E
 - City: WEST FARGO
-- State: ND
 - ZIP: 58078
-- ZIP extension: 
 - State project ID: TC0710
 - Latitude: 46.86091
 - Longitude: -96.897421
@@ -22,9 +19,7 @@
 - Place 2000: 84780
 - Place 1990: 1715
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 284934
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

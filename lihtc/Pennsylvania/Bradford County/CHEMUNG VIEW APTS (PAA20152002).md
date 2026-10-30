@@ -1,11 +1,9 @@
 # Project: CHEMUNG VIEW APTS (PAA20152002)
 
 - HUD ID: PAA20152002
-- HUD ID before: 
 - Project: CHEMUNG VIEW APTS
 - Address: 222 CHESTNUT ST
 - City: ATHENS
-- State: PA
 - ZIP: 18810
 - ZIP extension: 1139
 - State project ID: TC20130109
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42015950400
 - Tract 2010: 42015950400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 03392
 - Place 2010: 03392
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 253151
 - Units: 100
 - Low-income units: 93
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 94
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -62,8 +51,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

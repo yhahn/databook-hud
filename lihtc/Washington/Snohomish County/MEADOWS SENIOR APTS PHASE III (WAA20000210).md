@@ -1,13 +1,10 @@
 # Project: MEADOWS SENIOR APTS PHASE III (WAA20000210)
 
 - HUD ID: WAA20000210
-- HUD ID before: 
 - Project: MEADOWS SENIOR APTS PHASE III
 - Address: 1131 RAINIER AVE
 - City: EVERETT
-- State: WA
 - ZIP: 98201
-- ZIP extension: 
 - State project ID: 98-28V
 - Latitude: 48.00206
 - Longitude: -122.198202
@@ -22,9 +19,7 @@
 - Place 2000: 22640
 - Place 1990: 0420
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 470132
 - Units: 50
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA1999235.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: TAYLOR COUNTY COMMUNITY HOPE (KYA20100045)
 
 - HUD ID: KYA20100045
-- HUD ID before: 
 - Project: TAYLOR COUNTY COMMUNITY HOPE
 - Address: HIESTAND FARM ROAD
 - City: CAMPBELLSVILLE
-- State: KY
 - ZIP: 42718
-- ZIP extension: 
 - State project ID: KY-08-087
 - Latitude: 37.3695
 - Longitude: -85.3321
@@ -16,15 +13,10 @@
 - Tract 2020: 21217920300
 - Tract 2010: 21217920300
 - Tract 2000: 21217980300
-- Tract 1990: 
 - Place 2020: 12160
 - Place 2010: 12160
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 364000
 - Units: 38
 - Low-income units: 38
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +68,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: RIVERWOOD (GAA19930145)
 
 - HUD ID: GAA19930145
-- HUD ID before: 
 - Project: RIVERWOOD
 - Address: 336 W. DOGWOOD LANE #141 (OFFICE)
 - City: BLUE RIDGE
-- State: GA
 - ZIP: 30513
-- ZIP extension: 
 - State project ID: GA-92-027
 - Latitude: 34.843704
 - Longitude: -84.339452
@@ -20,12 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 08928
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -36,12 +29,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +60,7 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

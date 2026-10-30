@@ -1,13 +1,10 @@
 # Project: PEMBROKE SQUARE (NCA20050235)
 
 - HUD ID: NCA20050235
-- HUD ID before: 
 - Project: PEMBROKE SQUARE
 - Address: 8393 DEEP BRANCH ROAD
 - City: PEMBROKE
-- State: NC
 - ZIP: 28372
-- ZIP extension: 
 - State project ID: 9001693
 - Latitude: 34.674717
 - Longitude: -79.213759
@@ -19,12 +16,8 @@
 - Tract 1990: 37155960500
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 277265
 - Units: 48
 - Low-income units: 48
@@ -39,9 +32,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

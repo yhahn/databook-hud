@@ -1,13 +1,10 @@
 # Project: WINDING CREEK APTS (ALA19980165)
 
 - HUD ID: ALA19980165
-- HUD ID before: 
 - Project: WINDING CREEK APTS
 - Address: 6802 OLD GREENSBORO RD
 - City: TUSCALOOSA
-- State: AL
 - ZIP: 35405
-- ZIP extension: 
 - State project ID: AL-99-0065
 - Latitude: 33.145977
 - Longitude: -87.547472
@@ -22,9 +19,7 @@
 - Place 2000: 77256
 - Place 1990: 1720
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 377913
 - Units: 80
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1999170. FKA SPRING CREEK APTS
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SERENITY APTS (NDA20050010)
 
 - HUD ID: NDA20050010
-- HUD ID before: 
 - Project: SERENITY APTS
 - Address: 212 EIGHTH AVE W
 - City: WEST FARGO
-- State: ND
 - ZIP: 58078
-- ZIP extension: 
 - State project ID: TC0411
 - Latitude: 46.868929
 - Longitude: -96.901755
@@ -22,9 +19,7 @@
 - Place 2000: 84780
 - Place 1990: 1715
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 107652
 - Units: 18
 - Low-income units: 18
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: INDIAN RIDGE APARTMENTS (KYA20150007)
 
 - HUD ID: KYA20150007
-- HUD ID before: 
 - Project: INDIAN RIDGE APARTMENTS
 - Address: INDIAN RIDGE RD.
 - City: SHELBYVILLE
-- State: KY
 - ZIP: 40065
 - ZIP extension: 1838
 - State project ID: KY-14-012
@@ -16,15 +14,10 @@
 - Tract 2020: 21211040302
 - Tract 2010: 21211040302
 - Tract 2000: 21211040300
-- Tract 1990: 
 - Place 2020: 70050
 - Place 2010: 70050
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1550000
 - Units: 97
 - Low-income units: 97
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

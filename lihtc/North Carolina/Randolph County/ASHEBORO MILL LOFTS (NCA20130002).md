@@ -1,11 +1,9 @@
 # Project: ASHEBORO MILL LOFTS (NCA20130002)
 
 - HUD ID: NCA20130002
-- HUD ID before: 
 - Project: ASHEBORO MILL LOFTS
 - Address: 161 S CHURCH ST
 - City: ASHEBORO
-- State: NC
 - ZIP: 27203
 - ZIP extension: 5681
 - State project ID: 9109663
@@ -22,9 +20,7 @@
 - Place 2000: 02080
 - Place 1990: 0075
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 648500
 - Units: 70
 - Low-income units: 70
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +66,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

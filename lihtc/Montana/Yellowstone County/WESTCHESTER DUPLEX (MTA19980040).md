@@ -1,11 +1,9 @@
 # Project: WESTCHESTER DUPLEX (MTA19980040)
 
 - HUD ID: MTA19980040
-- HUD ID before: 
 - Project: WESTCHESTER DUPLEX
 - Address: 1454-1456 WESTCHESTER SQ WEST
 - City: BILLINGS
-- State: MT
 - ZIP: 59105
 - ZIP extension: 0000
 - State project ID: 98030
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 13472
 - Units: 2
 - Low-income units: 2
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

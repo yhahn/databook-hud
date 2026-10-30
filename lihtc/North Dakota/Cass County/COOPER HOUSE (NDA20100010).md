@@ -1,13 +1,10 @@
 # Project: COOPER HOUSE (NDA20100010)
 
 - HUD ID: NDA20100010
-- HUD ID before: 
 - Project: COOPER HOUSE
 - Address: 414 11TH ST N
 - City: FARGO
-- State: ND
 - ZIP: 58102
-- ZIP extension: 
 - State project ID: TC0807
 - Latitude: 46.880925
 - Longitude: -96.795721
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 375828
 - Units: 43
 - Low-income units: 42
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 22
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

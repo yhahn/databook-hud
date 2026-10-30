@@ -1,13 +1,10 @@
 # Project: LUMBERTON SENIOR VILLAGE (TXA0000X045)
 
 - HUD ID: TXA0000X045
-- HUD ID before: 
 - Project: LUMBERTON SENIOR VILLAGE
 - Address: 8261 MITCHELL ROAD
 - City: LUMBERTON
-- State: TX
 - ZIP: 77657
-- ZIP extension: 
 - State project ID: TX5225
 - Latitude: 30.219912
 - Longitude: -94.188792
@@ -16,16 +13,10 @@
 - Tract 2020: 48199030600
 - Tract 2010: 48199030600
 - Tract 2000: 48199030502
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 56
 - Low-income units: 55
 - Units reported: 56
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

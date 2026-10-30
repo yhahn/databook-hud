@@ -1,13 +1,10 @@
 # Project: HARMONY RIDGE APTS (SCA20010047)
 
 - HUD ID: SCA20010047
-- HUD ID before: 
 - Project: HARMONY RIDGE APTS
 - Address: 49 BROOKSIDE DR
 - City: TRAVELERS REST
-- State: SC
 - ZIP: 29690
-- ZIP extension: 
 - State project ID: SC-00-047
 - Latitude: 34.967423
 - Longitude: -82.437014
@@ -22,9 +19,7 @@
 - Place 2000: 72430
 - Place 1990: 1430
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 237378
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

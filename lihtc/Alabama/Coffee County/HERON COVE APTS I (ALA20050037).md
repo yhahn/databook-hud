@@ -1,13 +1,10 @@
 # Project: HERON COVE APTS I (ALA20050037)
 
 - HUD ID: ALA20050037
-- HUD ID before: 
 - Project: HERON COVE APTS I
 - Address: 550 GLOVER AVE
 - City: ENTERPRISE
-- State: AL
 - ZIP: 36330
-- ZIP extension: 
 - State project ID: AL-05-0033
 - Latitude: 31.320232
 - Longitude: -85.842182
@@ -22,9 +19,7 @@
 - Place 2000: 24184
 - Place 1990: 0545
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 372941
 - Units: 112
 - Low-income units: 112
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 112
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007075. AKA CAHABA VALLEY DEVELOPMENT.
 - Record status: Existing, unchanged

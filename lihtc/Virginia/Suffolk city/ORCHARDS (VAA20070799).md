@@ -1,13 +1,10 @@
 # Project: ORCHARDS (VAA20070799)
 
 - HUD ID: VAA20070799
-- HUD ID before: 
 - Project: ORCHARDS
 - Address: 1050 BELLE ORCHARD LN
 - City: SUFFOLK
-- State: VA
 - ZIP: 23435
-- ZIP extension: 
 - State project ID: 9123
 - Latitude: 36.860151
 - Longitude: -76.445097
@@ -22,9 +19,7 @@
 - Place 2000: 76432
 - Place 1990: 1200
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 712018
 - Units: 136
 - Low-income units: 112
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006116.
 - Record status: Existing, unchanged

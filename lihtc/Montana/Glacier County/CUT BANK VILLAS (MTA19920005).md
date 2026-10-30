@@ -1,11 +1,9 @@
 # Project: CUT BANK VILLAS (MTA19920005)
 
 - HUD ID: MTA19920005
-- HUD ID before: 
 - Project: CUT BANK VILLAS
 - Address: 33 FIRST AVENUE SE
 - City: CUT BANK
-- State: MT
 - ZIP: 59427
 - ZIP extension: 0000
 - State project ID: 91020
@@ -22,9 +20,7 @@
 - Place 2000: 18775
 - Place 1990: 0170
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 33680
 - Units: 19
 - Low-income units: 19
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CUT BANK VILLAS A MT.
 - Record status: Existing, unchanged

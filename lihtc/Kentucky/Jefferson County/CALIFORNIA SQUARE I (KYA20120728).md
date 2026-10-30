@@ -1,13 +1,10 @@
 # Project: CALIFORNIA SQUARE I (KYA20120728)
 
 - HUD ID: KYA20120728
-- HUD ID before: 
 - Project: CALIFORNIA SQUARE I
 - Address: GARLAND AVENUE
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40210
-- ZIP extension: 
 - State project ID: KY-11-010
 - Latitude: 38.2271
 - Longitude: -85.7847
@@ -19,12 +16,9 @@
 - Tract 1990: 21111002700
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 991537
 - Units: 101
 - Low-income units: 101
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

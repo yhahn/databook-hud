@@ -1,11 +1,9 @@
 # Project: CUSTER VILLAS (MTA19990025)
 
 - HUD ID: MTA19990025
-- HUD ID before: 
 - Project: CUSTER VILLAS
 - Address: 210 ARROWHEAD LANE
 - City: MILES CITY
-- State: MT
 - ZIP: 59301
 - ZIP extension: 0000
 - State project ID: 99130
@@ -22,9 +20,7 @@
 - Place 2000: 49525
 - Place 1990: 0445
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 61215
 - Units: 32
 - Low-income units: 32
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

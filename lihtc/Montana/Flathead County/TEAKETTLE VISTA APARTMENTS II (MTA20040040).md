@@ -1,11 +1,9 @@
 # Project: TEAKETTLE VISTA APARTMENTS II (MTA20040040)
 
 - HUD ID: MTA20040040
-- HUD ID before: 
 - Project: TEAKETTLE VISTA APARTMENTS II
 - Address: 1160 12TH AVE W
 - City: COLUMBIA FALLS
-- State: MT
 - ZIP: 59912
 - ZIP extension: 0000
 - State project ID: 02120
@@ -20,11 +18,8 @@
 - Place 2020: 16600
 - Place 2010: 16600
 - Place 2000: 16600
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 62479
 - Units: 24
 - Low-income units: 24
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

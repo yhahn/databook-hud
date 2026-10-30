@@ -1,13 +1,10 @@
 # Project: WILLIAMS PLACE APARTMENTS (KYA20070110)
 
 - HUD ID: KYA20070110
-- HUD ID before: 
 - Project: WILLIAMS PLACE APARTMENTS
 - Address: MATILDA STREET
 - City: BUTLER
-- State: KY
 - ZIP: 41006
-- ZIP extension: 
 - State project ID: KY-05-010
 - Latitude: 38.7686
 - Longitude: -84.3777
@@ -19,12 +16,8 @@
 - Tract 1990: 21191990100
 - Place 2020: 99999
 - Place 2010: 11530
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 266800
 - Units: 29
 - Low-income units: 29
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

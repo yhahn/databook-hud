@@ -1,13 +1,10 @@
 # Project: RUBY DUMONT LP (NYC20020803)
 
 - HUD ID: NYC20020803
-- HUD ID before: 
 - Project: RUBY DUMONT LP
 - Address: 458 RUBY STREET
 - City: BROOKLYN
-- State: NY
 - ZIP: 11208
-- ZIP extension: 
 - State project ID: 11-3555088
 - Latitude: 40.671192
 - Longitude: -73.860589
@@ -19,12 +16,9 @@
 - Tract 1990: 36047120800
 - Place 2020: 51000
 - Place 2010: 51000
-- Place 2000: 
 - Place 1990: 2505
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 251589
 - Units: 36
 - Low-income units: 35
@@ -38,11 +32,6 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
@@ -57,13 +46,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

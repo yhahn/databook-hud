@@ -1,13 +1,10 @@
 # Project: PRAIRIE PARK APTS I (NDA19940025)
 
 - HUD ID: NDA19940025
-- HUD ID before: 
 - Project: PRAIRIE PARK APTS I
 - Address: 1318 SIXTH ST E
 - City: WEST FARGO
-- State: ND
 - ZIP: 58078
-- ZIP extension: 
 - State project ID: 92-22
 - Latitude: 46.86217
 - Longitude: -96.891915
@@ -22,9 +19,7 @@
 - Place 2000: 84780
 - Place 1990: 1715
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 74679
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PRAIRIE CITY PARK APTS.
 - Record status: Existing, unchanged

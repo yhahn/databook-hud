@@ -1,11 +1,9 @@
 # Project: LSS PARK AVENUE APARTMENTS (MNB20087004)
 
 - HUD ID: MNB20087004
-- HUD ID before: 
 - Project: LSS PARK AVENUE APARTMENTS
 - Address: 2418 PARK AVENUE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 0000
 - State project ID: D5215
@@ -16,15 +14,11 @@
 - Tract 2020: 27053126000
 - Tract 2010: 27053126000
 - Tract 2000: 27053107100
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 780000
 - Units: 38
 - Low-income units: 38
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 1
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,9 +60,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: GRH HIMR LTH
@@ -78,8 +68,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

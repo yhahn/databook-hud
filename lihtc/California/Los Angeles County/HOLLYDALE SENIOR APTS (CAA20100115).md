@@ -1,13 +1,10 @@
 # Project: HOLLYDALE SENIOR APTS (CAA20100115)
 
 - HUD ID: CAA20100115
-- HUD ID before: 
 - Project: HOLLYDALE SENIOR APTS
 - Address: 12222 GARFIELD AVE
 - City: SOUTH GATE
-- State: CA
 - ZIP: 90280
-- ZIP extension: 
 - State project ID: CA-08-144
 - Latitude: 33.915621
 - Longitude: -118.168673
@@ -22,9 +19,7 @@
 - Place 2000: 73080
 - Place 1990: 2730
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1998601
 - Units: 101
 - Low-income units: 100
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 70
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

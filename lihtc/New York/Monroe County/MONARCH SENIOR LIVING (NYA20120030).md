@@ -1,13 +1,10 @@
 # Project: MONARCH SENIOR LIVING (NYA20120030)
 
 - HUD ID: NYA20120030
-- HUD ID before: 
 - Project: MONARCH SENIOR LIVING
 - Address: 840 HOLT RD
 - City: WEBSTER
-- State: NY
 - ZIP: 14580
-- ZIP extension: 
 - State project ID: 20106111
 - Latitude: 43.21858
 - Longitude: -77.446417
@@ -22,9 +19,7 @@
 - Place 2000: 78960
 - Place 1990: 3865
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 593650
 - Units: 45
 - Low-income units: 45
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

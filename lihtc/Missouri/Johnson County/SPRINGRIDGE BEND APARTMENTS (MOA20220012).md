@@ -1,11 +1,9 @@
 # Project: SPRINGRIDGE BEND APARTMENTS (MOA20220012)
 
 - HUD ID: MOA20220012
-- HUD ID before: 
 - Project: SPRINGRIDGE BEND APARTMENTS
 - Address: 631 W. CLARK STREET
 - City: WARRENSBURG
-- State: MO
 - ZIP: 64093
 - ZIP extension: 0000
 - State project ID: 19-039
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29101960402
 - Tract 2010: 29101960400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 77092
 - Place 2010: 77092
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 596000
 - Units: 56
 - Low-income units: 56
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

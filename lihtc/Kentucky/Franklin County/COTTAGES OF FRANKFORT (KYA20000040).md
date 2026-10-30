@@ -1,13 +1,10 @@
 # Project: COTTAGES OF FRANKFORT (KYA20000040)
 
 - HUD ID: KYA20000040
-- HUD ID before: 
 - Project: COTTAGES OF FRANKFORT
 - Address: CARDWELL LANE
 - City: FRANKFORT
-- State: KY
 - ZIP: 40601
-- ZIP extension: 
 - State project ID: KY-00-034
 - Latitude: 38.1911
 - Longitude: -84.8746
@@ -19,12 +16,8 @@
 - Tract 1990: 21073071100
 - Place 2020: 28900
 - Place 2010: 28900
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 96
 - Low-income units: 96
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

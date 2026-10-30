@@ -1,13 +1,10 @@
 # Project: GATEWAY PARK (NCA20050085)
 
 - HUD ID: NCA20050085
-- HUD ID before: 
 - Project: GATEWAY PARK
 - Address: 710 GATEWAY PARK DRIVE
 - City: RALEIGH
-- State: NC
 - ZIP: 27601
-- ZIP extension: 
 - State project ID: 9002230
 - Latitude: 35.769616
 - Longitude: -78.647594
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 418755
 - Units: 84
 - Low-income units: 84
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 9
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: SOUTHSIDE GARDENS (VAA20120200)
 
 - HUD ID: VAA20120200
-- HUD ID before: 
 - Project: SOUTHSIDE GARDENS
 - Address: 607 JEFFERSON ST
 - City: PORTSMOUTH
-- State: VA
 - ZIP: 23704
-- ZIP extension: 
 - State project ID: 4065
 - Latitude: 36.822572
 - Longitude: -76.301227
@@ -22,9 +19,7 @@
 - Place 2000: 64000
 - Place 1990: 0990
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 617360
 - Units: 134
 - Low-income units: 134
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 4321092
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

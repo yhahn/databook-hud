@@ -1,13 +1,10 @@
 # Project: TRAILSIDE TERRACE APTS (CAA20130463)
 
 - HUD ID: CAA20130463
-- HUD ID before: 
 - Project: TRAILSIDE TERRACE APTS
 - Address: 4050 SUNSET LN
 - City: SHINGLE SPRINGS
-- State: CA
 - ZIP: 95682
-- ZIP extension: 
 - State project ID: CA-11-124
 - Latitude: 38.660798
 - Longitude: -120.933743
@@ -20,11 +17,8 @@
 - Place 2020: 71554
 - Place 2010: 71554
 - Place 2000: 10256
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 630000
 - Units: 40
 - Low-income units: 39
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

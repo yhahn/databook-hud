@@ -1,13 +1,10 @@
 # Project: ARBORS APTS (RICHMOND) (CAA20090460)
 
 - HUD ID: CAA20090460
-- HUD ID before: 
 - Project: ARBORS APTS (RICHMOND)
 - Address: 5127 CREELY AVE
 - City: RICHMOND
-- State: CA
 - ZIP: 94804
-- ZIP extension: 
 - State project ID: CA-08-059
 - Latitude: 37.918848
 - Longitude: -122.321096
@@ -22,9 +19,7 @@
 - Place 2000: 21796
 - Place 1990: 2330
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 651282
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 151030
 - CDBG: Yes
 - CDBG amount: 75000
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

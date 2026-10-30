@@ -1,13 +1,10 @@
 # Project: SPRING GROVE APTS/OAKVIEW (SCA20040147)
 
 - HUD ID: SCA20040147
-- HUD ID before: 
 - Project: SPRING GROVE APTS/OAKVIEW
 - Address: 1900 BOLING RD EXT
 - City: TAYLORS
-- State: SC
 - ZIP: 29687
-- ZIP extension: 
 - State project ID: SC-50-202
 - Latitude: 34.916601
 - Longitude: -82.283762
@@ -22,9 +19,7 @@
 - Place 2000: 71395
 - Place 1990: 1420
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 312671
 - Units: 200
 - Low-income units: 200
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2005105.
 - Record status: Existing, unchanged

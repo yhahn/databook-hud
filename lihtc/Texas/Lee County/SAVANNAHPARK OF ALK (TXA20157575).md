@@ -1,13 +1,10 @@
 # Project: SAVANNAHPARK OF ALK (TXA20157575)
 
 - HUD ID: TXA20157575
-- HUD ID before: 
 - Project: SAVANNAHPARK OF ALK
 - Address: 121 5TH STREET
 - City: LEXINGTON
-- State: TX
 - ZIP: 78947
-- ZIP extension: 
 - State project ID: TX5055
 - Latitude: 30.417446
 - Longitude: -97.006728
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 48287000100
 - Tract 2010: 48287000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 42532
 - Place 2010: 42532
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 2893
 - Units: 72
 - Low-income units: 72
@@ -44,11 +35,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

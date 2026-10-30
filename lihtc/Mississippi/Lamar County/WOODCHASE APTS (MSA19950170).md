@@ -1,13 +1,10 @@
 # Project: WOODCHASE APTS (MSA19950170)
 
 - HUD ID: MSA19950170
-- HUD ID before: 
 - Project: WOODCHASE APTS
 - Address: 203 N TENTH ST
 - City: LUMBERTON
-- State: MS
 - ZIP: 39455
-- ZIP extension: 
 - State project ID: MS-94-022
 - Latitude: 31.007196
 - Longitude: -89.464659
@@ -22,10 +19,7 @@
 - Place 2000: 42640
 - Place 1990: 0720
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
-- Allocation amount: 
 - Units: 28
 - Low-income units: 27
 - Units reported: 28
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

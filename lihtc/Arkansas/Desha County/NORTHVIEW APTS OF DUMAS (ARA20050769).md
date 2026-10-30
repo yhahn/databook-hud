@@ -1,13 +1,10 @@
 # Project: NORTHVIEW APTS OF DUMAS (ARA20050769)
 
 - HUD ID: ARA20050769
-- HUD ID before: 
 - Project: NORTHVIEW APTS OF DUMAS
 - Address: 141 CLAYTON DR
 - City: DUMAS
-- State: AR
 - ZIP: 71639
-- ZIP extension: 
 - State project ID: AR-04-17
 - Latitude: 33.896158
 - Longitude: -91.493075
@@ -22,9 +19,7 @@
 - Place 2000: 19990
 - Place 1990: 0585
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 100411
 - Units: 24
 - Low-income units: 23
@@ -37,11 +32,8 @@
 - 4-bedroom units: 1
 - Construction: Acquisition and rehab
 - Credit: Both
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 339000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ARA2005075, ARA2005072.
 - Record status: Existing, unchanged

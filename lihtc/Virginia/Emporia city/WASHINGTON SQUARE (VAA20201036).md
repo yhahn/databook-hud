@@ -1,13 +1,10 @@
 # Project: WASHINGTON SQUARE (VAA20201036)
 
 - HUD ID: VAA20201036
-- HUD ID before: 
 - Project: WASHINGTON SQUARE
 - Address: 501 WASHINGTON STREET
 - City: EMPORIA
-- State: VA
 - ZIP: 23847
-- ZIP extension: 
 - State project ID: 7812
 - Latitude: 36.697755
 - Longitude: -77.545817
@@ -22,9 +19,7 @@
 - Place 2000: 25808
 - Place 1990: 0445
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 209432
 - Units: 24
 - Low-income units: 24
@@ -40,15 +35,12 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2001250.
 - Record status: Existing, unchanged

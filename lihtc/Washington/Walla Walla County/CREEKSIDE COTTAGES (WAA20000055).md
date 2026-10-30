@@ -1,13 +1,10 @@
 # Project: CREEKSIDE COTTAGES (WAA20000055)
 
 - HUD ID: WAA20000055
-- HUD ID before: 
 - Project: CREEKSIDE COTTAGES
 - Address: 1297 CREEKSIDE
 - City: COLLEGE PLACE
-- State: WA
 - ZIP: 99324
-- ZIP extension: 
 - State project ID: 98-30O
 - Latitude: 46.044183
 - Longitude: -118.367907
@@ -22,9 +19,7 @@
 - Place 2000: 13855
 - Place 1990: 0235
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 149934
 - Units: 25
 - Low-income units: 25
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,8 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

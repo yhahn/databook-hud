@@ -1,13 +1,10 @@
 # Project: SOME-GRIFFIN HOUSE (DCB20120138)
 
 - HUD ID: DCB20120138
-- HUD ID before: 
 - Project: SOME-GRIFFIN HOUSE
 - Address: 2765 NAYLOR RD SE
 - City: WASHINGTON
-- State: DC
 - ZIP: 20020
-- ZIP extension: 
 - State project ID: DCB2013050
 - Latitude: 38.857867
 - Longitude: -76.968125
@@ -22,8 +19,6 @@
 - Place 2000: 50000
 - Place 1990: 0005
 - Year placed in service: 2012
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 99357
 - Units: 36
@@ -35,13 +30,8 @@
 - 2-bedroom units: 6
 - 3-bedroom units: 16
 - 4-bedroom units: 0
-- Construction: 
-- Credit: 
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

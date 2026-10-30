@@ -1,13 +1,10 @@
 # Project: LOMA LINDA TERRACE (CAA20130047)
 
 - HUD ID: CAA20130047
-- HUD ID before: 
 - Project: LOMA LINDA TERRACE
 - Address: 10846 POPLAR ST
 - City: LOMA LINDA
-- State: CA
 - ZIP: 92354
-- ZIP extension: 
 - State project ID: CA-12-841
 - Latitude: 34.056779
 - Longitude: -117.254803
@@ -22,9 +19,7 @@
 - Place 2000: 14890
 - Place 1990: 0580
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 532715
 - Units: 50
 - Low-income units: 49
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 3500000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

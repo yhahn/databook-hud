@@ -1,13 +1,10 @@
 # Project: COUNTRYSIDE VILLAS (ALA19980037)
 
 - HUD ID: ALA19980037
-- HUD ID before: 
 - Project: COUNTRYSIDE VILLAS
 - Address: 101 KNOWLES ST
 - City: HEADLAND
-- State: AL
 - ZIP: 36345
-- ZIP extension: 
 - State project ID: AL-99-0029
 - Latitude: 31.350043
 - Longitude: -85.330801
@@ -22,9 +19,7 @@
 - Place 2000: 21184
 - Place 1990: 0870
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 125777
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 239500
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1999035. AKA HEADLAND AFFORDABLE HOUSING PARTNERS.
 - Record status: Existing, unchanged

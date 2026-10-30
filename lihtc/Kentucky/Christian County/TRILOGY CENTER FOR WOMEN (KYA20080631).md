@@ -1,13 +1,10 @@
 # Project: TRILOGY CENTER FOR WOMEN (KYA20080631)
 
 - HUD ID: KYA20080631
-- HUD ID before: 
 - Project: TRILOGY CENTER FOR WOMEN
 - Address: TRILOGY AVENUE
 - City: HOPKINSVILLE
-- State: KY
 - ZIP: 42240
-- ZIP extension: 
 - State project ID: KY-07-003
 - Latitude: 36.86335
 - Longitude: -87.447548
@@ -19,12 +16,9 @@
 - Tract 1990: 21047200300
 - Place 2020: 37918
 - Place 2010: 37918
-- Place 2000: 
 - Place 1990: 0955
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 858000
 - Units: 38
 - Low-income units: 38
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +70,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

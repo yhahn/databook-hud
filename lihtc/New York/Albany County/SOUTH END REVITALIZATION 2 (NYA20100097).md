@@ -1,13 +1,10 @@
 # Project: SOUTH END REVITALIZATION 2 (NYA20100097)
 
 - HUD ID: NYA20100097
-- HUD ID before: 
 - Project: SOUTH END REVITALIZATION 2
 - Address: 35 CATHERINE ST
 - City: ALBANY
-- State: NY
 - ZIP: 12202
-- ZIP extension: 
 - State project ID: 20096045
 - Latitude: 42.642029
 - Longitude: -73.75998
@@ -22,9 +19,7 @@
 - Place 2000: 01000
 - Place 1990: 0030
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 946000
 - Units: 43
 - Low-income units: 43
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +49,9 @@
 - TCAP amount: 803832
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

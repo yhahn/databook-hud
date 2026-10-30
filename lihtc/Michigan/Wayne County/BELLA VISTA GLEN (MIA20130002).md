@@ -1,13 +1,10 @@
 # Project: BELLA VISTA GLEN (MIA20130002)
 
 - HUD ID: MIA20130002
-- HUD ID before: 
 - Project: BELLA VISTA GLEN
 - Address: 369 GLENDALE ST
 - City: HIGHLAND PARK
-- State: MI
 - ZIP: 48203
-- ZIP extension: 
 - State project ID: MI-3604
 - Latitude: 42.395082
 - Longitude: -83.105958
@@ -22,9 +19,7 @@
 - Place 2000: 38180
 - Place 1990: 1225
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 976007
 - Units: 138
 - Low-income units: 138
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: REALLOCATION BUT NO INFO ON EARLIER RECORD.
 - Record status: Existing, unchanged

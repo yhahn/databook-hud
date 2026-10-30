@@ -1,13 +1,10 @@
 # Project: TOWERS EAST APTS (SCA20060093)
 
 - HUD ID: SCA20060093
-- HUD ID before: 
 - Project: TOWERS EAST APTS
 - Address: 415 N MAIN ST
 - City: GREENVILLE
-- State: SC
 - ZIP: 29601
-- ZIP extension: 
 - State project ID: SC-50-502
 - Latitude: 34.855751
 - Longitude: -82.396975
@@ -22,9 +19,7 @@
 - Place 2000: 30850
 - Place 1990: 0565
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 584322
 - Units: 269
 - Low-income units: 269
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2007150. NONPROG PROPERTY IDENTIFIED IN 2014 LIHTC TENANT DATA SUBMISSION; AGENCY SAID PROJECT WAS WITHDRAWN FROM PROGRAM.
 - Record status: Existing, unchanged

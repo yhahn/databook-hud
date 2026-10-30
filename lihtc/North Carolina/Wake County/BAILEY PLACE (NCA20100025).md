@@ -1,13 +1,10 @@
 # Project: BAILEY PLACE (NCA20100025)
 
 - HUD ID: NCA20100025
-- HUD ID before: 
 - Project: BAILEY PLACE
 - Address: 609 A HILLSIDE COURT
 - City: FUQUAY VARINA
-- State: NC
 - ZIP: 27526
-- ZIP extension: 
 - State project ID: 9102513
 - Latitude: 35.578852
 - Longitude: -78.795554
@@ -22,9 +19,7 @@
 - Place 2000: 25300
 - Place 1990: 0965
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

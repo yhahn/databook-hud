@@ -1,13 +1,10 @@
 # Project: SHIRLEY CHISHOLM VILLAGE (CAA20240107)
 
 - HUD ID: CAA20240107
-- HUD ID before: 
 - Project: SHIRLEY CHISHOLM VILLAGE
 - Address: 1360 43RD AVENUE
 - City: SAN FRANCISCO
-- State: CA
 - ZIP: 94122
-- ZIP extension: 
 - State project ID: CA-2022-014
 - Latitude: 37.761354
 - Longitude: -122.502561
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06075035101
 - Tract 2010: 06075035100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 67000
 - Place 2010: 67000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 2500000
 - Units: 35
 - Low-income units: 34
@@ -34,7 +25,6 @@
 - 1-bedroom units: 6
 - 2-bedroom units: 14
 - 3-bedroom units: 9
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
@@ -44,11 +34,9 @@
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,18 +56,10 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Educators at San Francisco Unified School District
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: GLENCREST (EASTGATE FAMILY RENTAL) (DCB20080092)
 
 - HUD ID: DCB20080092
-- HUD ID before: 
 - Project: GLENCREST (EASTGATE FAMILY RENTAL)
 - Address: 5071 KIMI GRAY CT SE
 - City: WASHINGTON
-- State: DC
 - ZIP: 20019
-- ZIP extension: 
 - State project ID: DCB2008015
 - Latitude: 38.882214
 - Longitude: -76.930766
@@ -22,8 +19,6 @@
 - Place 2000: 50000
 - Place 1990: 0005
 - Year placed in service: 2008
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 786564
 - Units: 61
@@ -35,13 +30,8 @@
 - 2-bedroom units: 1
 - 3-bedroom units: 46
 - 4-bedroom units: 0
-- Construction: 
-- Credit: 
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS DCB0000006.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: THE PARK AT ROCKY RIDGE (ALA20060160)
 
 - HUD ID: ALA20060160
-- HUD ID before: 
 - Project: THE PARK AT ROCKY RIDGE
 - Address: 3400 CHESTNUT RIDGE LN
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35216
-- ZIP extension: 
 - State project ID: AL-03-0807
 - Latitude: 33.394676
 - Longitude: -86.770884
@@ -22,9 +19,7 @@
 - Place 2000: 35896
 - Place 1990: 0927
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 556537
 - Units: 168
 - Low-income units: 168
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 168
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2005065. FKA THE VIEW AT ROCKY RIDGE
 - Record status: Existing, unchanged

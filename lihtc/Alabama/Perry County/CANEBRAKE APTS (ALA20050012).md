@@ -1,13 +1,10 @@
 # Project: CANEBRAKE APTS (ALA20050012)
 
 - HUD ID: ALA20050012
-- HUD ID before: 
 - Project: CANEBRAKE APTS
 - Address: 408 CAHABA RD
 - City: UNIONTOWN
-- State: AL
 - ZIP: 36786
-- ZIP extension: 
 - State project ID: AL-05-0013
 - Latitude: 32.443693
 - Longitude: -87.505888
@@ -20,11 +17,8 @@
 - Place 2020: 77904
 - Place 2010: 77904
 - Place 2000: 77904
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 252936
 - Units: 36
 - Low-income units: 36
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1172500
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006035.
 - Record status: Existing, unchanged

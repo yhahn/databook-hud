@@ -1,13 +1,10 @@
 # Project: COLLEGE HILL HOMES (VAA20040611)
 
 - HUD ID: VAA20040611
-- HUD ID before: 
 - Project: COLLEGE HILL HOMES
 - Address: 517 MADISON ST
 - City: LYNCHBURG
-- State: VA
 - ZIP: 24504
-- ZIP extension: 
 - State project ID: 949
 - Latitude: 37.415851
 - Longitude: -79.148926
@@ -22,9 +19,7 @@
 - Place 2000: 47672
 - Place 1990: 0760
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 257568
 - Units: 28
 - Low-income units: 28
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003030.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: GUILFORD GREENE (NCA19930200)
 
 - HUD ID: NCA19930200
-- HUD ID before: 
 - Project: GUILFORD GREENE
 - Address: SLADE STREET
 - City: GIBSONVILLE
-- State: NC
 - ZIP: 27249
-- ZIP extension: 
 - State project ID: 9000773
 - Latitude: 36.1235
 - Longitude: -79.566
@@ -16,15 +13,10 @@
 - Tract 2020: 37081015201
 - Tract 2010: 37081015200
 - Tract 2000: 37081015200
-- Tract 1990: 
 - Place 2020: 09060
 - Place 2010: 09060
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 21067
 - Units: 16
 - Low-income units: 16
@@ -39,9 +31,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +61,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

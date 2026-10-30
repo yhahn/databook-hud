@@ -1,13 +1,10 @@
 # Project: SHAKER POND COMMONS (MEA20090900)
 
 - HUD ID: MEA20090900
-- HUD ID before: 
 - Project: SHAKER POND COMMONS
 - Address: 199 WATERBORO RD
 - City: ALFRED
-- State: ME
 - ZIP: 04002
-- ZIP extension: 
 - State project ID: MSHARLP1370
 - Latitude: 43.490758
 - Longitude: -70.720073
@@ -19,12 +16,8 @@
 - Tract 1990: 23031029000
 - Place 2020: 00695
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 156815
 - Units: 21
 - Low-income units: 20
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

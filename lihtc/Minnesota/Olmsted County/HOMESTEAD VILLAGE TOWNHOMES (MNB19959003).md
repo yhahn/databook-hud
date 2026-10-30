@@ -1,11 +1,9 @@
 # Project: HOMESTEAD VILLAGE TOWNHOMES (MNB19959003)
 
 - HUD ID: MNB19959003
-- HUD ID before: 
 - Project: HOMESTEAD VILLAGE TOWNHOMES
 - Address: 862 HOMESTEAD VILLAGE LANE SE
 - City: ROCHESTER
-- State: MN
 - ZIP: 55904
 - ZIP extension: 5393
 - State project ID: D2988
@@ -16,15 +14,11 @@
 - Tract 2020: 27109000200
 - Tract 2010: 27109000200
 - Tract 2000: 27109000200
-- Tract 1990: 
 - Place 2020: 54880
 - Place 2010: 54880
 - Place 2000: 54880
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 385519
 - Units: 102
 - Low-income units: 102
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -68,18 +60,9 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
 - Other population named: No
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

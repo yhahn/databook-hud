@@ -1,13 +1,10 @@
 # Project: ASHBURTON SENIOR APTS (NYA20110010)
 
 - HUD ID: NYA20110010
-- HUD ID before: 
 - Project: ASHBURTON SENIOR APTS
 - Address: 110 ASHBURTON AVE
 - City: YONKERS
-- State: NY
 - ZIP: 10701
-- ZIP extension: 
 - State project ID: 20096103
 - Latitude: 40.939338
 - Longitude: -73.892254
@@ -22,9 +19,7 @@
 - Place 2000: 84000
 - Place 1990: 4075
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1078000
 - Units: 49
 - Low-income units: 49
@@ -39,13 +34,9 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +48,9 @@
 - TCAP amount: 2755116
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA2011525.
 - Record status: Existing, unchanged

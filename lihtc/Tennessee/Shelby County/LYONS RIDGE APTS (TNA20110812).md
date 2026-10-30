@@ -1,13 +1,10 @@
 # Project: LYONS RIDGE APTS (TNA20110812)
 
 - HUD ID: TNA20110812
-- HUD ID before: 
 - Project: LYONS RIDGE APTS
 - Address: 1633 PENNSYLVANIA ST
 - City: MEMPHIS
-- State: TN
 - ZIP: 38109
-- ZIP extension: 
 - State project ID: TN-09-119
 - Latitude: 35.103056
 - Longitude: -90.067788
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 7971176
 - Units: 102
 - Low-income units: 102
@@ -37,11 +32,6 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: TCEP only
-- Income ceiling: 
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 7971176
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

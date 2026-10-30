@@ -1,13 +1,10 @@
 # Project: CENTRAL PARK PLACE (VANCOUVER) (WAA19990050)
 
 - HUD ID: WAA19990050
-- HUD ID before: 
 - Project: CENTRAL PARK PLACE (VANCOUVER)
 - Address: 1900 FT VANCOUVER WAY
 - City: VANCOUVER
-- State: WA
 - ZIP: 98663
-- ZIP extension: 
 - State project ID: WA-97-00395
 - Latitude: 45.635514
 - Longitude: -122.654872
@@ -22,9 +19,7 @@
 - Place 2000: 74060
 - Place 1990: 1350
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 186461
 - Units: 124
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 123
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

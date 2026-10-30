@@ -1,11 +1,9 @@
 # Project: PENNYRILE SENIOR APARTMENTS (KYA20050617)
 
 - HUD ID: KYA20050617
-- HUD ID before: 
 - Project: PENNYRILE SENIOR APARTMENTS
 - Address: EAST 4TH STREET
 - City: HOPKINSVILLE
-- State: KY
 - ZIP: 42240
 - ZIP extension: 3324
 - State project ID: KY-04-055
@@ -22,9 +20,7 @@
 - Place 2000: 37918
 - Place 1990: 0955
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 239290
 - Units: 35
 - Low-income units: 35
@@ -39,7 +35,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +60,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

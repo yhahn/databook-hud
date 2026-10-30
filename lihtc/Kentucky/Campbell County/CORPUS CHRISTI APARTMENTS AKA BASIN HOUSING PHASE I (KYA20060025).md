@@ -1,13 +1,10 @@
 # Project: CORPUS CHRISTI APARTMENTS AKA BASIN HOUSING PHASE I (KYA20060025)
 
 - HUD ID: KYA20060025
-- HUD ID before: 
 - Project: CORPUS CHRISTI APARTMENTS AKA BASIN HOUSING PHASE I
 - Address: ISABELLA ST.
 - City: NEWPORT
-- State: KY
 - ZIP: 41071
-- ZIP extension: 
 - State project ID: KY-04-016
 - Latitude: 39.0698
 - Longitude: -84.4793
@@ -19,12 +16,9 @@
 - Tract 1990: 21037050600
 - Place 2020: 55884
 - Place 2010: 55884
-- Place 2000: 
 - Place 1990: 1445
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 208000
 - Units: 20
 - Low-income units: 20
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

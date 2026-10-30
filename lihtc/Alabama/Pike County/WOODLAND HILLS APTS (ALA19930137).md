@@ -1,13 +1,10 @@
 # Project: WOODLAND HILLS APTS (ALA19930137)
 
 - HUD ID: ALA19930137
-- HUD ID before: 
 - Project: WOODLAND HILLS APTS
 - Address: 100 WOODLAND HILLS DR
 - City: TROY
-- State: AL
 - ZIP: 36081
-- ZIP extension: 
 - State project ID: AL-93-0066
 - Latitude: 31.815613
 - Longitude: -85.960954
@@ -22,9 +19,7 @@
 - Place 2000: 76920
 - Place 1990: 1710
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 166533
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1132177
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,11 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1994295. AKA TROY HOUSING.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PORTSTEWART (IDA20000020)
 
 - HUD ID: IDA20000020
-- HUD ID before: 
 - Project: PORTSTEWART
 - Address: 4321 SOUTH 10TH AVENUE
 - City: CALDWELL
-- State: ID
 - ZIP: 83607
-- ZIP extension: 
 - State project ID: HC0012
 - Latitude: 43.630936
 - Longitude: -116.692772
@@ -19,12 +16,8 @@
 - Tract 1990: 16027021000
 - Place 2020: 12250
 - Place 2010: 12250
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 114738
 - Units: 30
 - Low-income units: 23
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

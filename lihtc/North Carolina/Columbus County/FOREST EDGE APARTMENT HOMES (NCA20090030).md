@@ -1,13 +1,10 @@
 # Project: FOREST EDGE APARTMENT HOMES (NCA20090030)
 
 - HUD ID: NCA20090030
-- HUD ID before: 
 - Project: FOREST EDGE APARTMENT HOMES
 - Address: 125 FOREST EDGE CIRCLE
 - City: TABOR CITY
-- State: NC
 - ZIP: 28463
-- ZIP extension: 
 - State project ID: 9002693
 - Latitude: 34.1104
 - Longitude: -78.7738
@@ -19,12 +16,8 @@
 - Tract 1990: 37047991200
 - Place 2020: 66520
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 412800
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

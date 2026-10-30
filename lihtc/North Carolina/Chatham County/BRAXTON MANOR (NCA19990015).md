@@ -1,13 +1,10 @@
 # Project: BRAXTON MANOR (NCA19990015)
 
 - HUD ID: NCA19990015
-- HUD ID before: 
 - Project: BRAXTON MANOR
 - Address: 101 S THIRD AVENUE
 - City: SILER CITY
-- State: NC
 - ZIP: 27344
-- ZIP extension: 
 - State project ID: 9002344
 - Latitude: 35.723647
 - Longitude: -79.46027
@@ -22,9 +19,7 @@
 - Place 2000: 61860
 - Place 1990: 2275
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 163041
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

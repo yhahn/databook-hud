@@ -1,13 +1,10 @@
 # Project: HUNTER RIDGE APTS PHASE II (ALA20060112)
 
 - HUD ID: ALA20060112
-- HUD ID before: 
 - Project: HUNTER RIDGE APTS PHASE II
 - Address: 2901 HUNTER RIDGE CT
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35235
-- ZIP extension: 
 - State project ID: AL-06-0036
 - Latitude: 33.58856
 - Longitude: -86.663141
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0945
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 919482
 - Units: 120
 - Low-income units: 120
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 120
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008150. AKA TRUSSVILLE HALL II.
 - Record status: Existing, unchanged

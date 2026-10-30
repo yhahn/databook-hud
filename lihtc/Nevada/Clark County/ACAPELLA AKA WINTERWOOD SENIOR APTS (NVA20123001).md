@@ -1,11 +1,9 @@
 # Project: ACAPELLA AKA WINTERWOOD SENIOR APTS (NVA20123001)
 
 - HUD ID: NVA20123001
-- HUD ID before: 
 - Project: ACAPELLA AKA WINTERWOOD SENIOR APTS
 - Address: 5025 E MOHAVE
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89104
 - ZIP extension: 0000
 - State project ID: 10-03
@@ -16,15 +14,10 @@
 - Tract 2020: 32003001611
 - Tract 2010: 32003001611
 - Tract 2000: 32003001400
-- Tract 1990: 
 - Place 2020: 71400
 - Place 2010: 71400
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 880819
 - Units: 142
 - Low-income units: 124
@@ -40,8 +33,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 63
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA WINTERWOOD SENIOR APTS.
 - Record status: Existing, unchanged

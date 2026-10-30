@@ -1,13 +1,10 @@
 # Project: PECAN TERRACE APTS (SCA19960043)
 
 - HUD ID: SCA19960043
-- HUD ID before: 
 - Project: PECAN TERRACE APTS
 - Address: 110 GOSSETT DR
 - City: WILLIAMSTON
-- State: SC
 - ZIP: 29697
-- ZIP extension: 
 - State project ID: SC-94-015
 - Latitude: 34.61594
 - Longitude: -82.480967
@@ -22,9 +19,7 @@
 - Place 2000: 55465
 - Place 1990: 1565
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 52149
 - Units: 39
 - Low-income units: 39
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

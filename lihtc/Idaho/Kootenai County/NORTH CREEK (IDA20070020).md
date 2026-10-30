@@ -1,13 +1,10 @@
 # Project: NORTH CREEK (IDA20070020)
 
 - HUD ID: IDA20070020
-- HUD ID before: 
 - Project: NORTH CREEK
 - Address: 3642 WEST CHUKAR LOOP
 - City: POST FALLS
-- State: ID
 - ZIP: 83854
-- ZIP extension: 
 - State project ID: HC0613
 - Latitude: 47.714849
 - Longitude: -116.99713
@@ -19,12 +16,8 @@
 - Tract 1990: 16055000400
 - Place 2020: 64810
 - Place 2010: 64810
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 749820
 - Units: 55
 - Low-income units: 54
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 54
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

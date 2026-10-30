@@ -1,13 +1,10 @@
 # Project: KEENS CROSSING (VTA20070010)
 
 - HUD ID: VTA20070010
-- HUD ID before: 
 - Project: KEENS CROSSING
 - Address: 15 CASCADE WAY
 - City: WINOOSKI
-- State: VT
 - ZIP: 05404
-- ZIP extension: 
 - State project ID: 0301
 - Latitude: 44.490826
 - Longitude: -73.18394
@@ -22,9 +19,7 @@
 - Place 2000: 85150
 - Place 1990: 3160
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 2214260
 - Units: 213
 - Low-income units: 98
@@ -40,15 +35,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1500000
 - CDBG: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA BARLOW SQUARE CONDOS/KEENS CROSSING/CENTRAL BLOCK
 - Record status: Existing, unchanged

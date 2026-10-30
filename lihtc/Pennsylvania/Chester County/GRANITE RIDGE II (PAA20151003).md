@@ -1,11 +1,9 @@
 # Project: GRANITE RIDGE II (PAA20151003)
 
 - HUD ID: PAA20151003
-- HUD ID before: 
 - Project: GRANITE RIDGE II
 - Address: MULTIPLE ADDRESSES
 - City: KENNETT SQUARE
-- State: PA
 - ZIP: 19348
 - ZIP extension: 2409
 - State project ID: TC20130446
@@ -16,15 +14,10 @@
 - Tract 2020: 42029303501
 - Tract 2010: 42029303501
 - Tract 2000: 42029303300
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 1163012
 - Units: 56
 - Low-income units: 56
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -62,8 +53,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

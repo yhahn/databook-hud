@@ -1,13 +1,10 @@
 # Project: HOPEWELL VILLAGE APTS (NCA19970225)
 
 - HUD ID: NCA19970225
-- HUD ID before: 
 - Project: HOPEWELL VILLAGE APTS
 - Address: 67 NATURAL SPRINGS RD
 - City: MURPHY
-- State: NC
 - ZIP: 28906
-- ZIP extension: 
 - State project ID: 9001260
 - Latitude: 35.103797
 - Longitude: -84.01859
@@ -20,11 +17,8 @@
 - Place 2020: 45660
 - Place 2010: 45660
 - Place 2000: 45660
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 90202
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

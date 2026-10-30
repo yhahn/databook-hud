@@ -1,11 +1,9 @@
 # Project: SOUTHGATE II (UTA19920045)
 
 - HUD ID: UTA19920045
-- HUD ID before: 
 - Project: SOUTHGATE II
 - Address: 468 SOUTH 75 WEST
 - City: CEDAR CITY
-- State: UT
 - ZIP: 84720
 - ZIP extension: 0000
 - State project ID: 1992-25
@@ -22,9 +20,7 @@
 - Place 2000: 11320
 - Place 1990: 0217
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 72375
 - Units: 42
 - Low-income units: 30
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -79,7 +72,4 @@
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

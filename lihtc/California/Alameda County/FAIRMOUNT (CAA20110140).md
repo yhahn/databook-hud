@@ -1,13 +1,10 @@
 # Project: FAIRMOUNT (CAA20110140)
 
 - HUD ID: CAA20110140
-- HUD ID before: 
 - Project: FAIRMOUNT
 - Address: 401 FAIRMOUNT AVE
 - City: OAKLAND
-- State: CA
 - ZIP: 94611
-- ZIP extension: 
 - State project ID: CA-09-563
 - Latitude: 37.819105
 - Longitude: -122.256713
@@ -22,9 +19,7 @@
 - Place 2000: 53000
 - Place 1990: 1970
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 448502
 - Units: 31
 - Low-income units: 30
@@ -40,12 +35,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +56,8 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2011620.
 - Record status: Existing, unchanged

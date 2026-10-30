@@ -1,13 +1,10 @@
 # Project: CHARLESTON APTS (MSA19950035)
 
 - HUD ID: MSA19950035
-- HUD ID before: 
 - Project: CHARLESTON APTS
 - Address: 242 ESKRIDGE ST
 - City: CHARLESTON
-- State: MS
 - ZIP: 38921
-- ZIP extension: 
 - State project ID: MS-95-142
 - Latitude: 34.009652
 - Longitude: -90.042082
@@ -22,10 +19,7 @@
 - Place 2000: 12900
 - Place 1990: 0215
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
-- Allocation amount: 
 - Units: 12
 - Low-income units: 12
 - Units reported: 12
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,6 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

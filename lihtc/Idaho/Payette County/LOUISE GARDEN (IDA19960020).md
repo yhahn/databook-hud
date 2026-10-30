@@ -1,13 +1,10 @@
 # Project: LOUISE GARDEN (IDA19960020)
 
 - HUD ID: IDA19960020
-- HUD ID before: 
 - Project: LOUISE GARDEN
 - Address: 1140 6TH AVENUE SOUTH
 - City: PAYETTE
-- State: ID
 - ZIP: 83661
-- ZIP extension: 
 - State project ID: HC9505
 - Latitude: 44.067853
 - Longitude: -116.929499
@@ -22,9 +19,7 @@
 - Place 2000: 61300
 - Place 1990: 0745
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 32847
 - Units: 32
 - Low-income units: 31
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

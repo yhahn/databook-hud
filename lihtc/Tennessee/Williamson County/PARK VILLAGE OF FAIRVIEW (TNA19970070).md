@@ -1,13 +1,10 @@
 # Project: PARK VILLAGE OF FAIRVIEW (TNA19970070)
 
 - HUD ID: TNA19970070
-- HUD ID before: 
 - Project: PARK VILLAGE OF FAIRVIEW
 - Address: 1025 FAIRVIEW BLVD
 - City: FAIRVIEW
-- State: TN
 - ZIP: 37062
-- ZIP extension: 
 - State project ID: TN-96-055
 - Latitude: 36.008976
 - Longitude: -87.049428
@@ -20,11 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 25440
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 550000
 - Units: 112
 - Low-income units: 112
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PARK VILLAGE TENEESSEE PARTNERS II.
 - Record status: Existing, unchanged

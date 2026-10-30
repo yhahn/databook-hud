@@ -1,13 +1,10 @@
 # Project: ASHEBROOKE APTS (NCA20060015)
 
 - HUD ID: NCA20060015
-- HUD ID before: 
 - Project: ASHEBROOKE APTS
 - Address: 227 RANDALL LANE
 - City: GOLDSBORO
-- State: NC
 - ZIP: 27534
-- ZIP extension: 
 - State project ID: 9001144
 - Latitude: 35.380532
 - Longitude: -77.916761
@@ -22,9 +19,7 @@
 - Place 2000: 26880
 - Place 1990: 1035
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 361204
 - Units: 55
 - Low-income units: 55
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 28
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

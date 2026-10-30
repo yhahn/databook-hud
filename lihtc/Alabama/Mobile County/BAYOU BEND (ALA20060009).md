@@ -1,13 +1,10 @@
 # Project: BAYOU BEND (ALA20060009)
 
 - HUD ID: ALA20060009
-- HUD ID before: 
 - Project: BAYOU BEND
 - Address: 8730 UNIVERSITY RD
 - City: BAYOU LA BATRE
-- State: AL
 - ZIP: 36509
-- ZIP extension: 
 - State project ID: AL-06-0008
 - Latitude: 30.416166
 - Longitude: -88.24793
@@ -20,12 +17,8 @@
 - Place 2020: 04684
 - Place 2010: 04684
 - Place 2000: 04684
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 55
 - Low-income units: 55
 - Units reported: 55
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 55
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008052, ALA2008532. AKA APARTMENTS HOUSING OF BAYOU LA BATRE.
 - Record status: Existing, unchanged

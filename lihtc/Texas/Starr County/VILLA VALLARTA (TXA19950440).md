@@ -1,13 +1,10 @@
 # Project: VILLA VALLARTA (TXA19950440)
 
 - HUD ID: TXA19950440
-- HUD ID before: 
 - Project: VILLA VALLARTA
 - Address: 600 FAIRGROUND RD
 - City: RIO GRANDE CITY
-- State: TX
 - ZIP: 78582
-- ZIP extension: 
 - State project ID: TX1281
 - Latitude: 26.386785
 - Longitude: -98.830507
@@ -22,10 +19,7 @@
 - Place 2000: 62168
 - Place 1990: 3555
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -38,17 +32,12 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

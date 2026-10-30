@@ -1,11 +1,9 @@
 # Project: LEGEND OAKS II (NEA20140040)
 
 - HUD ID: NEA20140040
-- HUD ID before: 
 - Project: LEGEND OAKS II
 - Address: 19TH STREET PLACE AND 18TH STR
 - City: LEXINGTON
-- State: NE
 - ZIP: 68850
 - ZIP extension: 0000
 - State project ID: 7-0782
@@ -16,15 +14,10 @@
 - Tract 2020: 31047968500
 - Tract 2010: 31047968500
 - Tract 2000: 31047968500
-- Tract 1990: 
 - Place 2020: 26910
 - Place 2010: 26910
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 266018
 - Units: 18
 - Low-income units: 18
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: No
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

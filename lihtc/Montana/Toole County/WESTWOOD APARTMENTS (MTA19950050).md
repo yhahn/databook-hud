@@ -1,11 +1,9 @@
 # Project: WESTWOOD APARTMENTS (MTA19950050)
 
 - HUD ID: MTA19950050
-- HUD ID before: 
 - Project: WESTWOOD APARTMENTS
 - Address: 770 WESTWOOD AVENUE
 - City: SHELBY
-- State: MT
 - ZIP: 59474
 - ZIP extension: 0000
 - State project ID: 93060
@@ -22,9 +20,7 @@
 - Place 2000: 67450
 - Place 1990: 0580
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 23452
 - Units: 12
 - Low-income units: 12
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

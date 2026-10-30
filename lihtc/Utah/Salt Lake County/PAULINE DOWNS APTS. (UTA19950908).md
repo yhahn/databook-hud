@@ -1,11 +1,9 @@
 # Project: PAULINE DOWNS APTS. (UTA19950908)
 
 - HUD ID: UTA19950908
-- HUD ID before: 
 - Project: PAULINE DOWNS APTS.
 - Address: 110 SOUTH 300 EAST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84111
 - ZIP extension: 0000
 - State project ID: 1993-04
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 351837
 - Units: 112
 - Low-income units: 112
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

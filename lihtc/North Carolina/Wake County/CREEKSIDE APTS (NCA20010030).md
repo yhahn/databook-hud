@@ -1,13 +1,10 @@
 # Project: CREEKSIDE APTS (NCA20010030)
 
 - HUD ID: NCA20010030
-- HUD ID before: 
 - Project: CREEKSIDE APTS
 - Address: 361 S FRANKLIN STREET
 - City: WAKE FOREST
-- State: NC
 - ZIP: 27587
-- ZIP extension: 
 - State project ID: 9002197
 - Latitude: 35.97293
 - Longitude: -78.506595
@@ -22,9 +19,7 @@
 - Place 2000: 70540
 - Place 1990: 2615
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 215217
 - Units: 38
 - Low-income units: 38
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

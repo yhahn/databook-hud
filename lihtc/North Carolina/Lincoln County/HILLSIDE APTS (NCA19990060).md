@@ -1,13 +1,10 @@
 # Project: HILLSIDE APTS (NCA19990060)
 
 - HUD ID: NCA19990060
-- HUD ID before: 
 - Project: HILLSIDE APTS
 - Address: 134 HILLSIDE DRIVE
 - City: LINCOLNTON
-- State: NC
 - ZIP: 28092
-- ZIP extension: 
 - State project ID: 9001336
 - Latitude: 35.46608
 - Longitude: -81.265217
@@ -22,9 +19,7 @@
 - Place 2000: 38320
 - Place 1990: 1470
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 56262
 - Units: 20
 - Low-income units: 20
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

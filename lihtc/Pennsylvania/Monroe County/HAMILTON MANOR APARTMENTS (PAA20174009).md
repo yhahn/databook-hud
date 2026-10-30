@@ -1,11 +1,9 @@
 # Project: HAMILTON MANOR APARTMENTS (PAA20174009)
 
 - HUD ID: PAA20174009
-- HUD ID before: 
 - Project: HAMILTON MANOR APARTMENTS
 - Address: 4225 MANOR DRIVE
 - City: STROUDSBURG
-- State: PA
 - ZIP: 18360
 - ZIP extension: 9498
 - State project ID: TC20160301
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42089301102
 - Tract 2010: 42089301102
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 439232
 - Units: 40
 - Low-income units: 40
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 500000
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +58,11 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: Existing, unchanged

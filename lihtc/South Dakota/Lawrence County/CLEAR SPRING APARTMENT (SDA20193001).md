@@ -1,13 +1,10 @@
 # Project: CLEAR SPRING APARTMENT (SDA20193001)
 
 - HUD ID: SDA20193001
-- HUD ID before: 
 - Project: CLEAR SPRING APARTMENT
 - Address: 2545 AND 2555 CLEAR SPRING ROAD
 - City: SPEARFISH
-- State: SD
 - ZIP: 57783
-- ZIP extension: 
 - State project ID: 03327
 - Latitude: 44.4981
 - Longitude: -103.8606
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 46081966200
 - Tract 2010: 46081966200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 45715
 - Place 2010: 45715
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 453278
 - Units: 35
 - Low-income units: 27
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -49,7 +38,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,21 +53,11 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

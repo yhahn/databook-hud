@@ -1,11 +1,9 @@
 # Project: WILLOWBROOK III APARTMENTS (NVA19989009)
 
 - HUD ID: NVA19989009
-- HUD ID before: 
 - Project: WILLOWBROOK III APARTMENTS
 - Address: 1648 MIDAS
 - City: WINNEMUCCA
-- State: NV
 - ZIP: 89445
 - ZIP extension: 0000
 - State project ID: 98-25
@@ -16,15 +14,10 @@
 - Tract 2020: 32013010701
 - Tract 2010: 32013010701
 - Tract 2000: 32013010700
-- Tract 1990: 
 - Place 2020: 84800
 - Place 2010: 84800
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 55895
 - Units: 20
 - Low-income units: 20
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: SUNWOOD APARTMENTS (NVA19940025)
 
 - HUD ID: NVA19940025
-- HUD ID before: 
 - Project: SUNWOOD APARTMENTS
 - Address: 150 BOVEAN STREET
 - City: LOVELOCK
-- State: NV
 - ZIP: 89419
 - ZIP extension: 0000
 - State project ID: 93-6
@@ -22,9 +20,7 @@
 - Place 2000: 43000
 - Place 1990: 0070
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 317832
 - Units: 24
 - Low-income units: 23
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +63,6 @@
 - Other population: Yes
 - Other population named: HANDICAPPED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: BURLINGTON SQUARE (MTA19970010)
 
 - HUD ID: MTA19970010
-- HUD ID before: 
 - Project: BURLINGTON SQUARE
 - Address: 2420 BURLINGTON AVE
 - City: MISSOULA
-- State: MT
 - ZIP: 59801
 - ZIP extension: 0000
 - State project ID: 96020
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0500
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 300000
 - Units: 51
 - Low-income units: 51
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

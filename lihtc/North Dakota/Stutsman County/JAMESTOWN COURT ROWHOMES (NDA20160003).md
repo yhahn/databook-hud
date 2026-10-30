@@ -1,11 +1,9 @@
 # Project: JAMESTOWN COURT ROWHOMES (NDA20160003)
 
 - HUD ID: NDA20160003
-- HUD ID before: 
 - Project: JAMESTOWN COURT ROWHOMES
 - Address: 217 4TH AVE SE
 - City: JAMESTOWN
-- State: ND
 - ZIP: 58401
 - ZIP extension: 4247
 - State project ID: TC1406
@@ -16,15 +14,11 @@
 - Tract 2020: 38093967800
 - Tract 2010: 38093967800
 - Tract 2000: 38093967600
-- Tract 1990: 
 - Place 2020: 40580
 - Place 2010: 40580
 - Place 2000: 40580
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 409140
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

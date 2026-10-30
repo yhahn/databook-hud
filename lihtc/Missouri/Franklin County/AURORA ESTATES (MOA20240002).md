@@ -1,11 +1,9 @@
 # Project: AURORA ESTATES (MOA20240002)
 
 - HUD ID: MOA20240002
-- HUD ID before: 
 - Project: AURORA ESTATES
 - Address: TBD
 - City: PACIFIC
-- State: MO
 - ZIP: 63069
 - ZIP extension: 0000
 - State project ID: 21-092
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29071800703
 - Tract 2010: 29071800701
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 28918
 - Place 2010: 28918
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 1080000
 - Units: 46
 - Low-income units: 41
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +55,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -76,10 +65,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: RIDGE II (VAA20030180)
 
 - HUD ID: VAA20030180
-- HUD ID before: 
 - Project: RIDGE II
 - Address: 170 E RESERVOIR RD
 - City: WOODSTOCK
-- State: VA
 - ZIP: 22664
-- ZIP extension: 
 - State project ID: 8858
 - Latitude: 38.866474
 - Longitude: -78.514579
@@ -22,9 +19,7 @@
 - Place 2000: 87712
 - Place 1990: 1360
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 210628
 - Units: 38
 - Low-income units: 38
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA RIDGE APTS II.
 - Record status: Existing, unchanged

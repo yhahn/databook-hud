@@ -1,13 +1,10 @@
 # Project: GROVE APTS (MSA20010017)
 
 - HUD ID: MSA20010017
-- HUD ID before: 
 - Project: GROVE APTS
 - Address: 411 W REYNOLDS ST
 - City: PONTOTOC
-- State: MS
 - ZIP: 38863
-- ZIP extension: 
 - State project ID: MS-01-003
 - Latitude: 34.24906
 - Longitude: -89.072728
@@ -22,9 +19,7 @@
 - Place 2000: 59160
 - Place 1990: 1030
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 186775
 - Units: 32
 - Low-income units: 30
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2001629.;
 - Record status: Existing, unchanged

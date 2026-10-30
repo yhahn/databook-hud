@@ -1,13 +1,10 @@
 # Project: MOSAIC GARDENS AT TAYLOR TERRACE (CAA20130061)
 
 - HUD ID: CAA20130061
-- HUD ID before: 
 - Project: MOSAIC GARDENS AT TAYLOR TERRACE
 - Address: 4058 TAYLOR ST
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95838
-- ZIP extension: 
 - State project ID: CA-12-862
 - Latitude: 38.64201
 - Longitude: -121.452082
@@ -22,9 +19,7 @@
 - Place 2000: 64000
 - Place 1990: 2420
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 492751
 - Units: 168
 - Low-income units: 166
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 87
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1994506. AKA TAYLOR TERRACE APTS HOUSING INVESTORS.
 - Record status: Existing, unchanged

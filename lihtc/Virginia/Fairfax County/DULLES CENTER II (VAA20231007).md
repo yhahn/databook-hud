@@ -1,13 +1,10 @@
 # Project: DULLES CENTER II (VAA20231007)
 
 - HUD ID: VAA20231007
-- HUD ID before: 
 - Project: DULLES CENTER II
 - Address: 2410 LITTLE CURRENT DRIVE
 - City: HERNDON
-- State: VA
 - ZIP: 20171
-- ZIP extension: 
 - State project ID: 4570
 - Latitude: 38.956508
 - Longitude: -77.421125
@@ -20,11 +17,8 @@
 - Place 2020: 48450
 - Place 2010: 48450
 - Place 2000: 14744
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1366032
 - Units: 128
 - Low-income units: 128
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 40
 - Non-profit sponsor: No
@@ -48,8 +41,6 @@
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -72,14 +63,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

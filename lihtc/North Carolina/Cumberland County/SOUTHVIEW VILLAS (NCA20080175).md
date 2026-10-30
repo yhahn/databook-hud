@@ -1,11 +1,9 @@
 # Project: SOUTHVIEW VILLAS (NCA20080175)
 
 - HUD ID: NCA20080175
-- HUD ID before: 
 - Project: SOUTHVIEW VILLAS
 - Address: 3315 GIBBON DR
 - City: HOPE MILLS
-- State: NC
 - ZIP: 28348
 - ZIP extension: 5810
 - State project ID: 9002703
@@ -19,12 +17,9 @@
 - Tract 1990: 37051001601
 - Place 2020: 32640
 - Place 2010: 32640
-- Place 2000: 
 - Place 1990: 1240
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 448358
 - Units: 64
 - Low-income units: 64
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

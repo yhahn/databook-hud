@@ -1,11 +1,9 @@
 # Project: FRANKLIN HEIGHTS CROWN (UTA20140030)
 
 - HUD ID: UTA20140030
-- HUD ID before: 
 - Project: FRANKLIN HEIGHTS CROWN
 - Address: 541 W 500 S
 - City: PROVO
-- State: UT
 - ZIP: 84601
 - ZIP extension: 4201
 - State project ID: 2012-26
@@ -22,9 +20,7 @@
 - Place 2000: 62470
 - Place 1990: 0800
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 65821
 - Units: 4
 - Low-income units: 4
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

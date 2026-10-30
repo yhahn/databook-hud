@@ -1,13 +1,10 @@
 # Project: WEXFORD WAY & CARLOW COURT AT EMERALD VISTA (CAA20120924)
 
 - HUD ID: CAA20120924
-- HUD ID before: 
 - Project: WEXFORD WAY & CARLOW COURT AT EMERALD VISTA
 - Address: 6900 MARIPOSA CIR
 - City: DUBLIN
-- State: CA
 - ZIP: 94568
-- ZIP extension: 
 - State project ID: CA-10-849
 - Latitude: 37.715366
 - Longitude: -121.911607
@@ -22,9 +19,7 @@
 - Place 2000: 20018
 - Place 1990: 0802
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1726777
 - Units: 180
 - Low-income units: 178
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 151
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

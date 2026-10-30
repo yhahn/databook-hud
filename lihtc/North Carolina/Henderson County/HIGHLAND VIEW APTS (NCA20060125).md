@@ -1,13 +1,10 @@
 # Project: HIGHLAND VIEW APTS (NCA20060125)
 
 - HUD ID: NCA20060125
-- HUD ID before: 
 - Project: HIGHLAND VIEW APTS
 - Address: 500 KING CREEK
 - City: HENDERSONVILLE
-- State: NC
 - ZIP: 28792
-- ZIP extension: 
 - State project ID: 9001411
 - Latitude: 35.294223
 - Longitude: -82.436125
@@ -22,9 +19,7 @@
 - Place 2000: 30720
 - Place 1990: 0763
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 211821
 - Units: 28
 - Low-income units: 28
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 7
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

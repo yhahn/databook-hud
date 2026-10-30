@@ -1,13 +1,10 @@
 # Project: EASTERN AVENUE APTS (MDA20130001)
 
 - HUD ID: MDA20130001
-- HUD ID before: 
 - Project: EASTERN AVENUE APTS
 - Address: 506 62ND PL
 - City: SEAT PLEASANT
-- State: MD
 - ZIP: 20743
-- ZIP extension: 
 - State project ID: MD94-27001
 - Latitude: 38.89547
 - Longitude: -76.911865
@@ -22,10 +19,7 @@
 - Place 2000: 13000
 - Place 1990: 0875
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
-- Allocation amount: 
 - Units: 88
 - Low-income units: 88
 - Units reported: 88
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MDA1996035.
 - Record status: Existing, unchanged

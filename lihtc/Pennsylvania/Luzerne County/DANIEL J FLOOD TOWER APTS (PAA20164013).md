@@ -1,11 +1,9 @@
 # Project: DANIEL J FLOOD TOWER APTS (PAA20164013)
 
 - HUD ID: PAA20164013
-- HUD ID before: 
 - Project: DANIEL J FLOOD TOWER APTS
 - Address: 230 WYOMING AVE
 - City: KINGSTON
-- State: PA
 - ZIP: 18704
 - ZIP extension: 2008
 - State project ID: TC20150111
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42079212700
 - Tract 2010: 42079212700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 39784
 - Place 2010: 39784
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 870047
 - Units: 211
 - Low-income units: 210
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

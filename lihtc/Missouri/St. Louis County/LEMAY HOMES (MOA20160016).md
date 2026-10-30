@@ -1,11 +1,9 @@
 # Project: LEMAY HOMES (MOA20160016)
 
 - HUD ID: MOA20160016
-- HUD ID before: 
 - Project: LEMAY HOMES
 - Address: 611 LAGRO AVENUE
 - City: SAINT LOUIS
-- State: MO
 - ZIP: 63125
 - ZIP extension: 0000
 - State project ID: 14-100
@@ -16,15 +14,11 @@
 - Tract 2020: 29189220200
 - Tract 2010: 29189220200
 - Tract 2000: 29189220200
-- Tract 1990: 
 - Place 2020: 41438
 - Place 2010: 41438
 - Place 2000: 41438
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 526000
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

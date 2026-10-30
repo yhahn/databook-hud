@@ -1,13 +1,10 @@
 # Project: CEDAR CREEK APTS (SCA20000014)
 
 - HUD ID: SCA20000014
-- HUD ID before: 
 - Project: CEDAR CREEK APTS
 - Address: 1510 MILL ST
 - City: MARION
-- State: SC
 - ZIP: 29571
-- ZIP extension: 
 - State project ID: SC-99-036
 - Latitude: 34.161467
 - Longitude: -79.409683
@@ -20,11 +17,8 @@
 - Place 2020: 44575
 - Place 2010: 99999
 - Place 2000: 44575
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 208682
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

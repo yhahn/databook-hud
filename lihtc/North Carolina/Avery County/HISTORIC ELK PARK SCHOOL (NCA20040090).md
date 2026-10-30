@@ -1,11 +1,9 @@
 # Project: HISTORIC ELK PARK SCHOOL (NCA20040090)
 
 - HUD ID: NCA20040090
-- HUD ID before: 
 - Project: HISTORIC ELK PARK SCHOOL
 - Address: 253 ELK PARK SCHOOL RD
 - City: ELK PARK
-- State: NC
 - ZIP: 28622
 - ZIP extension: 9388
 - State project ID: 9001648
@@ -19,12 +17,8 @@
 - Tract 1990: 37011990300
 - Place 2020: 20700
 - Place 2010: 20700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 268877
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

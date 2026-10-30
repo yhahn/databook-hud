@@ -1,11 +1,9 @@
 # Project: LEWIS PARK APARTMENTS (MNB20141003)
 
 - HUD ID: MNB20141003
-- HUD ID before: 
 - Project: LEWIS PARK APARTMENTS
 - Address: 180 WAYZATA STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55117
 - ZIP extension: 5370
 - State project ID: D1552
@@ -16,15 +14,11 @@
 - Tract 2020: 27123031300
 - Tract 2010: 27123031300
 - Tract 2000: 27123031300
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 478276
 - Units: 103
 - Low-income units: 102
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +59,11 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
-- Homeless: 
-- Other population: 
 - Other population named: No
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

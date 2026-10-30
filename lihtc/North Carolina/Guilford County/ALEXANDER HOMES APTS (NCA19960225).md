@@ -1,11 +1,9 @@
 # Project: ALEXANDER HOMES APTS (NCA19960225)
 
 - HUD ID: NCA19960225
-- HUD ID before: 
 - Project: ALEXANDER HOMES APTS
 - Address: 503 GILLESPIE ST 18
 - City: GREENSBORO
-- State: NC
 - ZIP: 27401
 - ZIP extension: 3630
 - State project ID: 9002199
@@ -19,12 +17,9 @@
 - Tract 1990: 37081011101
 - Place 2020: 28000
 - Place 2010: 28000
-- Place 2000: 
 - Place 1990: 1065
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 142938
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: JAMESTOWN VILLAGE APTS (TNA19930095)
 
 - HUD ID: TNA19930095
-- HUD ID before: 
 - Project: JAMESTOWN VILLAGE APTS
 - Address: 250 MACE AVE
 - City: JAMESTOWN
-- State: TN
 - ZIP: 38556
-- ZIP extension: 
 - State project ID: TN-92-030
 - Latitude: 36.434705
 - Longitude: -84.941319
@@ -20,11 +17,8 @@
 - Place 2020: 37780
 - Place 2010: 37780
 - Place 2000: 37780
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 62500
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +58,9 @@
 - QOZF amount: 0
 - Rental assistance: Unknown whether federal or state
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

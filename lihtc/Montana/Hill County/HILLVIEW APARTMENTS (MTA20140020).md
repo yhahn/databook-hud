@@ -1,11 +1,9 @@
 # Project: HILLVIEW APARTMENTS (MTA20140020)
 
 - HUD ID: MTA20140020
-- HUD ID before: 
 - Project: HILLVIEW APARTMENTS
 - Address: 1280 10TH STREET WEST
 - City: HAVRE
-- State: MT
 - ZIP: 59501
 - ZIP extension: 0000
 - State project ID: 13020
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30041040400
 - Tract 2010: 30041040400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 35050
 - Place 2010: 35050
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 18175000
 - Units: 52
 - Low-income units: 52
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

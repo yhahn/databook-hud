@@ -1,13 +1,10 @@
 # Project: GARDEN CITY APARTMENTS (TXA20163027)
 
 - HUD ID: TXA20163027
-- HUD ID before: 
 - Project: GARDEN CITY APARTMENTS
 - Address: 9601 W. MONTGOMERY ROAD
 - City: HOUSTON
-- State: TX
 - ZIP: 77088
-- ZIP extension: 
 - State project ID: TX5166
 - Latitude: 29.882572
 - Longitude: -95.448929
@@ -16,16 +13,11 @@
 - Tract 2020: 48201533100
 - Tract 2010: 48201533100
 - Tract 2000: 48201533100
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
 - Place 2000: 35000
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 252
 - Low-income units: 252
 - Units reported: 252
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -78,8 +67,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: RICHLIN TOWNHOUSES (IDA20060017)
 
 - HUD ID: IDA20060017
-- HUD ID before: 
 - Project: RICHLIN TOWNHOUSES
 - Address: 727 WEST 13TH STREET
 - City: BURLEY
-- State: ID
 - ZIP: 83318
-- ZIP extension: 
 - State project ID: HC0417
 - Latitude: 42.53663
 - Longitude: -113.802034
@@ -22,9 +19,7 @@
 - Place 2000: 11260
 - Place 1990: 0110
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 64365
 - Units: 16
 - Low-income units: 16
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

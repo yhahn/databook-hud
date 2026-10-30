@@ -1,13 +1,10 @@
 # Project: BRODHEAD ELDERLY APARTMENTS (KYA19920135)
 
 - HUD ID: KYA19920135
-- HUD ID before: 
 - Project: BRODHEAD ELDERLY APARTMENTS
 - Address: BUSSELL ST.
 - City: BRODHEAD
-- State: KY
 - ZIP: 40409
-- ZIP extension: 
 - State project ID: KY-91-036
 - Latitude: 37.388
 - Longitude: -84.3782
@@ -19,12 +16,9 @@
 - Tract 1990: 21203950200
 - Place 2020: 09838
 - Place 2010: 09838
-- Place 2000: 
 - Place 1990: 1400
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +56,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

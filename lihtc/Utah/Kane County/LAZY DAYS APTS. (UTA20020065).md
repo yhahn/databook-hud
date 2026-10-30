@@ -1,11 +1,9 @@
 # Project: LAZY DAYS APTS. (UTA20020065)
 
 - HUD ID: UTA20020065
-- HUD ID before: 
 - Project: LAZY DAYS APTS.
 - Address: 266 WEST 200 NORTH
 - City: KANAB
-- State: UT
 - ZIP: 84741
 - ZIP extension: 0000
 - State project ID: 2000-09
@@ -22,9 +20,7 @@
 - Place 2000: 39920
 - Place 1990: 0430
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 25009
 - Units: 31
 - Low-income units: 30
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,7 +66,6 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +73,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

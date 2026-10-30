@@ -1,13 +1,10 @@
 # Project: GRAHAM VILLAGE, PHASE I (KYA19970045)
 
 - HUD ID: KYA19970045
-- HUD ID before: 
 - Project: GRAHAM VILLAGE, PHASE I
 - Address: W. HWY. 22
 - City: CRESTWOOD
-- State: KY
 - ZIP: 40014
-- ZIP extension: 
 - State project ID: KY-95-110
 - Latitude: 38.3501
 - Longitude: -85.4492
@@ -19,12 +16,8 @@
 - Tract 1990: 21185030601
 - Place 2020: 18496
 - Place 2010: 18496
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 22
 - Low-income units: 22
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

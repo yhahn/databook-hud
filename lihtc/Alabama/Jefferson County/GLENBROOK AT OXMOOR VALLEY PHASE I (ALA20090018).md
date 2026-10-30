@@ -1,13 +1,10 @@
 # Project: GLENBROOK AT OXMOOR VALLEY PHASE I (ALA20090018)
 
 - HUD ID: ALA20090018
-- HUD ID before: 
 - Project: GLENBROOK AT OXMOOR VALLEY PHASE I
 - Address: 2801 SYDNEY DR
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35211
-- ZIP extension: 
 - State project ID: AL-07-0096
 - Latitude: 33.43073
 - Longitude: -86.871736
@@ -20,11 +17,8 @@
 - Place 2020: 07000
 - Place 2010: 07000
 - Place 2000: 05980
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 1019725
 - Units: 100
 - Low-income units: 100
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 100
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009552, ALA2007180, ALA2008057, ALA2008057.
 - Record status: Existing, unchanged

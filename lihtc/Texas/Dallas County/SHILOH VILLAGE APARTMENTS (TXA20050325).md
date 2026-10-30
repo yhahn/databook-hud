@@ -1,13 +1,10 @@
 # Project: SHILOH VILLAGE APARTMENTS (TXA20050325)
 
 - HUD ID: TXA20050325
-- HUD ID before: 
 - Project: SHILOH VILLAGE APARTMENTS
 - Address: 8702 SHILOH RD
 - City: DALLAS
-- State: TX
 - ZIP: 75228
-- ZIP extension: 
 - State project ID: TX4130
 - Latitude: 32.810703
 - Longitude: -96.668255
@@ -22,10 +19,7 @@
 - Place 2000: 19000
 - Place 1990: 1085
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 168
 - Low-income units: 168
 - Units reported: 168
@@ -40,15 +34,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 67
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: ABBINGTON VISTA OF HENRIETTA (TXA00000986)
 
 - HUD ID: TXA00000986
-- HUD ID before: 
 - Project: ABBINGTON VISTA OF HENRIETTA
 - Address: 1600 US HWY. 287 N.
 - City: HENRIETTA
-- State: TX
 - ZIP: 76365
-- ZIP extension: 
 - State project ID: TX5114
 - Latitude: 33.8262
 - Longitude: -98.1967
@@ -16,16 +13,10 @@
 - Tract 2020: 48077030302
 - Tract 2010: 48077030200
 - Tract 2000: 48077030302
-- Tract 1990: 
 - Place 2020: 33284
 - Place 2010: 33284
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 41
 - Units reported: 48
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

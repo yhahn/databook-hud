@@ -1,13 +1,10 @@
 # Project: SIENA COURT SENIOR APTS (CAA20120968)
 
 - HUD ID: CAA20120968
-- HUD ID before: 
 - Project: SIENA COURT SENIOR APTS
 - Address: 771 BLACK DIAMOND ST
 - City: PITTSBURG
-- State: CA
 - ZIP: 94565
-- ZIP extension: 
 - State project ID: CA-10-015
 - Latitude: 38.030074
 - Longitude: -121.885517
@@ -22,9 +19,7 @@
 - Place 2000: 02252
 - Place 1990: 2175
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1835626
 - Units: 111
 - Low-income units: 110
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 105
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SIENAURT APTS.
 - Record status: Existing, unchanged

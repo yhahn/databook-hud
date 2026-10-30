@@ -1,11 +1,9 @@
 # Project: DELAWARE COUNTY FAIRGROUNDS IV (PAA20133010)
 
 - HUD ID: PAA20133010
-- HUD ID before: 
 - Project: DELAWARE COUNTY FAIRGROUNDS IV
 - Address: SHANNON AND PETERSON STREET
 - City: CHESTER TOWNSHIP
-- State: PA
 - ZIP: 19013
 - ZIP extension: 2613
 - State project ID: TC20110430
@@ -16,15 +14,11 @@
 - Tract 2020: 42045405100
 - Tract 2010: 42045405100
 - Tract 2000: 42045406402
-- Tract 1990: 
 - Place 2020: 13208
 - Place 2010: 13208
 - Place 2000: 13272
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1452855
 - Units: 71
 - Low-income units: 71
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

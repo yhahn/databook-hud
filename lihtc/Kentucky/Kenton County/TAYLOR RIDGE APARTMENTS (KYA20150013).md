@@ -1,13 +1,10 @@
 # Project: TAYLOR RIDGE APARTMENTS (KYA20150013)
 
 - HUD ID: KYA20150013
-- HUD ID before: 
 - Project: TAYLOR RIDGE APARTMENTS
 - Address: REGAL RIDGE DRIVE
 - City: INDEPENDENCE
-- State: KY
 - ZIP: 41051
-- ZIP extension: 
 - State project ID: KY-14-005
 - Latitude: 38.9323
 - Longitude: -84.5754
@@ -16,15 +13,10 @@
 - Tract 2020: 21117063610
 - Tract 2010: 21117063605
 - Tract 2000: 21117063605
-- Tract 1990: 
 - Place 2020: 25300
 - Place 2010: 39142
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1801544
 - Units: 99
 - Low-income units: 99
@@ -39,7 +31,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

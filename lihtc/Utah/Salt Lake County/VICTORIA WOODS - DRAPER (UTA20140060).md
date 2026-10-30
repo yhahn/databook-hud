@@ -1,11 +1,9 @@
 # Project: VICTORIA WOODS - DRAPER (UTA20140060)
 
 - HUD ID: UTA20140060
-- HUD ID before: 
 - Project: VICTORIA WOODS - DRAPER
 - Address: 647 EAST 12225 SOUTH
 - City: DRAPER
-- State: UT
 - ZIP: 84020
 - ZIP extension: 0000
 - State project ID: 2013-11
@@ -19,12 +17,9 @@
 - Tract 1990: 49035112801
 - Place 2020: 20120
 - Place 2010: 20120
-- Place 2000: 
 - Place 1990: 0182
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 279987
 - Units: 42
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: TIMBERLINE APTS (ALA20070195)
 
 - HUD ID: ALA20070195
-- HUD ID before: 
 - Project: TIMBERLINE APTS
 - Address: 108 TIMBERLINE ST
 - City: TUSCUMBIA
-- State: AL
 - ZIP: 35674
-- ZIP extension: 
 - State project ID: AL-07-0016
 - Latitude: 34.715807
 - Longitude: -87.784132
@@ -20,11 +17,8 @@
 - Place 2020: 77280
 - Place 2010: 99999
 - Place 2000: 43648
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 571440
 - Units: 56
 - Low-income units: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1705570
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008215.
 - Record status: Existing, unchanged

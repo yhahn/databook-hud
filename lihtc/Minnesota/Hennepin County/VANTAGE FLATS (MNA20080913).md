@@ -1,11 +1,9 @@
 # Project: VANTAGE FLATS (MNA20080913)
 
 - HUD ID: MNA20080913
-- HUD ID before: 
 - Project: VANTAGE FLATS
 - Address: 5359 MINNEHAHA AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55417
 - ZIP extension: 2374
 - State project ID: D5224
@@ -22,9 +20,7 @@
 - Place 2000: 43000
 - Place 1990: 2585
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 211418
 - Units: 37
 - Low-income units: 37
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 7
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +67,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

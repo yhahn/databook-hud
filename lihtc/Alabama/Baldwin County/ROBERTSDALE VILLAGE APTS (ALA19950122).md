@@ -1,13 +1,10 @@
 # Project: ROBERTSDALE VILLAGE APTS (ALA19950122)
 
 - HUD ID: ALA19950122
-- HUD ID before: 
 - Project: ROBERTSDALE VILLAGE APTS
 - Address: 22625 MATTINGLY ST
 - City: ROBERTSDALE
-- State: AL
 - ZIP: 36567
-- ZIP extension: 
 - State project ID: AL-95-0044
 - Latitude: 30.555849
 - Longitude: -87.705361
@@ -20,11 +17,8 @@
 - Place 2020: 65208
 - Place 2010: 65208
 - Place 2000: 65208
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 185763
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1122000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1996110. AKA ROBERTSDALE I.
 - Record status: Existing, unchanged

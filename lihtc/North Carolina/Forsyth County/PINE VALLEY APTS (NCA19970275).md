@@ -1,13 +1,10 @@
 # Project: PINE VALLEY APTS (NCA19970275)
 
 - HUD ID: NCA19970275
-- HUD ID before: 
 - Project: PINE VALLEY APTS
 - Address: 5300 COUNTRYSIDE DRIVE
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27105
-- ZIP extension: 
 - State project ID: 9001782
 - Latitude: 36.165979
 - Longitude: -80.283455
@@ -22,9 +19,7 @@
 - Place 2000: 75000
 - Place 1990: 2785
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 421224
 - Units: 108
 - Low-income units: 107
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

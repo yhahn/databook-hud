@@ -1,11 +1,9 @@
 # Project: CARROLLTON CLUB LTD (GAA19920015)
 
 - HUD ID: GAA19920015
-- HUD ID before: 
 - Project: CARROLLTON CLUB LTD
 - Address: 1130 CEDAR ST
 - City: CARROLLTON
-- State: GA
 - ZIP: 30117
 - ZIP extension: 2500
 - State project ID: GA-91-009
@@ -20,12 +18,8 @@
 - Place 2020: 13492
 - Place 2010: 13492
 - Place 2000: 13492
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
-- Allocation amount: 
 - Units: 78
 - Low-income units: 78
 - Units reported: 78
@@ -36,12 +30,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +61,7 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

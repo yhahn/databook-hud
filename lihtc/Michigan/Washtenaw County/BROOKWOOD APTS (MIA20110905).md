@@ -1,13 +1,10 @@
 # Project: BROOKWOOD APTS (MIA20110905)
 
 - HUD ID: MIA20110905
-- HUD ID before: 
 - Project: BROOKWOOD APTS
 - Address: 8990 BROOKWOOD ST
 - City: YPSILANTI
-- State: MI
 - ZIP: 48197
-- ZIP extension: 
 - State project ID: MI-832
 - Latitude: 42.209034
 - Longitude: -83.581907
@@ -20,12 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 89140
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 81
 - Low-income units: 81
 - Units reported: 81
@@ -39,9 +32,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 2349000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1991115.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CHASTAIN MANOR (ALA20120578)
 
 - HUD ID: ALA20120578
-- HUD ID before: 
 - Project: CHASTAIN MANOR
 - Address: 381 34TH AVE E
 - City: TUSCALOOSA
-- State: AL
 - ZIP: 35404
-- ZIP extension: 
 - State project ID: AL-08-0081
 - Latitude: 33.21091
 - Longitude: -87.493778
@@ -22,10 +19,7 @@
 - Place 2000: 35704
 - Place 1990: 0920
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 56
 - Low-income units: 56
 - Units reported: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 1904200
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WILLOWS PEAKE (NCA20070185)
 
 - HUD ID: NCA20070185
-- HUD ID before: 
 - Project: WILLOWS PEAKE
 - Address: 1350 ELLER WAY
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27127
-- ZIP extension: 
 - State project ID: 9001022
 - Latitude: 36.079688
 - Longitude: -80.232135
@@ -19,12 +16,9 @@
 - Tract 1990: 37067000802
 - Place 2020: 75000
 - Place 2010: 75000
-- Place 2000: 
 - Place 1990: 2785
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 1123554
 - Units: 116
 - Low-income units: 116
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 29
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: CAMBRIDGE COURT APTS (SCA20030030)
 
 - HUD ID: SCA20030030
-- HUD ID before: 
 - Project: CAMBRIDGE COURT APTS
 - Address: 550 W DARLINGTON ST
 - City: FLORENCE
-- State: SC
 - ZIP: 29501
-- ZIP extension: 
 - State project ID: SC-01-048
 - Latitude: 34.200193
 - Longitude: -79.775104
@@ -22,9 +19,7 @@
 - Place 2000: 25810
 - Place 1990: 0465
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 299970
 - Units: 64
 - Low-income units: 64
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 52
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

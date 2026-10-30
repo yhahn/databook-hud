@@ -1,13 +1,10 @@
 # Project: LINCOLN TERRACE APARTMENTS (KYA20080090)
 
 - HUD ID: KYA20080090
-- HUD ID before: 
 - Project: LINCOLN TERRACE APARTMENTS
 - Address: STAR AVENUE
 - City: STANFORD
-- State: KY
 - ZIP: 40484
-- ZIP extension: 
 - State project ID: KY-08-105
 - Latitude: 37.5577
 - Longitude: -84.7205
@@ -19,12 +16,8 @@
 - Tract 1990: 21137980100
 - Place 2020: 41338
 - Place 2010: 73110
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 66445
 - Units: 48
 - Low-income units: 48
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

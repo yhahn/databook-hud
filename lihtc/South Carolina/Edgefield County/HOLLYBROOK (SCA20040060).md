@@ -1,13 +1,10 @@
 # Project: HOLLYBROOK (SCA20040060)
 
 - HUD ID: SCA20040060
-- HUD ID before: 
 - Project: HOLLYBROOK
 - Address: 320 PEACHTREE ST
 - City: EDGEFIELD
-- State: SC
 - ZIP: 29824
-- ZIP extension: 
 - State project ID: SC-02-031
 - Latitude: 33.782565
 - Longitude: -81.923823
@@ -20,11 +17,8 @@
 - Place 2020: 22795
 - Place 2010: 22795
 - Place 2000: 22795
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 210966
 - Units: 32
 - Low-income units: 32
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 400000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

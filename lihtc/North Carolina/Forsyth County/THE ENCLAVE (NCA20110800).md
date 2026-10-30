@@ -1,11 +1,9 @@
 # Project: THE ENCLAVE (NCA20110800)
 
 - HUD ID: NCA20110800
-- HUD ID before: 
 - Project: THE ENCLAVE
 - Address: 1489 COLONY LODGE LN
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27106
 - ZIP extension: 2460
 - State project ID: 9107230
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 37067002701
 - Tract 2010: 37067002701
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 75000
 - Place 2010: 75000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 989984
 - Units: 68
 - Low-income units: 68
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 28
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NCA0000075.;
 - Record status: Updated

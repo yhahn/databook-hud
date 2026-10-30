@@ -1,13 +1,10 @@
 # Project: LEWIS & CLARK PLAZA (WAA20040120)
 
 - HUD ID: WAA20040120
-- HUD ID before: 
 - Project: LEWIS & CLARK PLAZA
 - Address: 621 BROADWAY ST
 - City: VANCOUVER
-- State: WA
 - ZIP: 98660
-- ZIP extension: 
 - State project ID: WA-02-00323
 - Latitude: 45.625822
 - Longitude: -122.670386
@@ -22,9 +19,7 @@
 - Place 2000: 74060
 - Place 1990: 1350
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 537240
 - Units: 46
 - Low-income units: 46
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

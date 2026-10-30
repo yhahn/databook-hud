@@ -1,11 +1,9 @@
 # Project: BROOKSIDE COMMONS (MIA20150003)
 
 - HUD ID: MIA20150003
-- HUD ID before: 
 - Project: BROOKSIDE COMMONS
 - Address: NORTH LONG LAKE ROAD
 - City: TRAVERSE CITY
-- State: MI
 - ZIP: 49685
 - ZIP extension: 0000
 - State project ID: 3149
@@ -16,15 +14,9 @@
 - Tract 2020: 26055550701
 - Tract 2010: 26055550700
 - Tract 2000: 26055990700
-- Tract 1990: 
 - Place 2020: 99999
-- Place 2010: 
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 945666
 - Units: 72
 - Low-income units: 72
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 34
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: BELLEFIELD DWELLINGS (PAA20133006)
 
 - HUD ID: PAA20133006
-- HUD ID before: 
 - Project: BELLEFIELD DWELLINGS
 - Address: 4400 CENTRE AVE
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15213
 - ZIP extension: 1455
 - State project ID: TC20110313
@@ -16,15 +14,11 @@
 - Tract 2020: 42003562000
 - Tract 2010: 42003562000
 - Tract 2000: 42003050700
-- Tract 1990: 
 - Place 2020: 61000
 - Place 2010: 61000
 - Place 2000: 61000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 877391
 - Units: 158
 - Low-income units: 155
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 155
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: Updated

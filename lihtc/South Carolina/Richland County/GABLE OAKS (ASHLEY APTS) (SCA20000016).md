@@ -1,13 +1,10 @@
 # Project: GABLE OAKS (ASHLEY APTS) (SCA20000016)
 
 - HUD ID: SCA20000016
-- HUD ID before: 
 - Project: GABLE OAKS (ASHLEY APTS)
 - Address: 901 COLLETON ST
 - City: COLUMBIA
-- State: SC
 - ZIP: 29203
-- ZIP extension: 
 - State project ID: SC-59-901
 - Latitude: 34.055675
 - Longitude: -81.022363
@@ -20,11 +17,8 @@
 - Place 2020: 16000
 - Place 2010: 16000
 - Place 2000: 16000
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 206249
 - Units: 200
 - Low-income units: 200
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2001010. AKA ASHLEY APTS.
 - Record status: Existing, unchanged

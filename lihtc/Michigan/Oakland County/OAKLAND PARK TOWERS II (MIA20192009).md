@@ -1,11 +1,9 @@
 # Project: OAKLAND PARK TOWERS II (MIA20192009)
 
 - HUD ID: MIA20192009
-- HUD ID before: 
 - Project: OAKLAND PARK TOWERS II
 - Address: 930 JOHN R
 - City: TROY
-- State: MI
 - ZIP: 48083
 - ZIP extension: 0000
 - State project ID: 3428
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26125198100
 - Tract 2010: 26125198100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 80700
 - Place 2010: 80700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1541332
 - Units: 300
 - Low-income units: 297
@@ -40,15 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

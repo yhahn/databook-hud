@@ -1,13 +1,10 @@
 # Project: CRYSTAL SPRINGS APARTMENTS (KYA19940100)
 
 - HUD ID: KYA19940100
-- HUD ID before: 
 - Project: CRYSTAL SPRINGS APARTMENTS
 - Address: MAPLE ST.
 - City: RUSSELL SPRINGS
-- State: KY
 - ZIP: 42642
-- ZIP extension: 
 - State project ID: KY-93-047
 - Latitude: 37.0346
 - Longitude: -85.0899
@@ -19,12 +16,8 @@
 - Tract 1990: 21207960100
 - Place 2020: 67494
 - Place 2010: 40114
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +55,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

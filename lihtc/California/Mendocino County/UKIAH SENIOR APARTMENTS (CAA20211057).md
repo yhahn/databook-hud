@@ -1,13 +1,10 @@
 # Project: UKIAH SENIOR APARTMENTS (CAA20211057)
 
 - HUD ID: CAA20211057
-- HUD ID before: 
 - Project: UKIAH SENIOR APARTMENTS
 - Address: 763 SOUTH OAK STREET
 - City: UKIAH
-- State: CA
 - ZIP: 95482
-- ZIP extension: 
 - State project ID: CA-2019-577
 - Latitude: 39.143249
 - Longitude: -123.207909
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06045011600
 - Tract 2010: 06045011600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 81134
 - Place 2010: 81134
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 404672
 - Units: 31
 - Low-income units: 30
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Rural area consistent with TCAC methodology
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

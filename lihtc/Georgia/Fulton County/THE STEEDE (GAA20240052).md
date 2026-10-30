@@ -1,11 +1,9 @@
 # Project: THE STEEDE (GAA20240052)
 
 - HUD ID: GAA20240052
-- HUD ID before: 
 - Project: THE STEEDE
 - Address: 1265 LAKEWOOD AVENUE SE
 - City: ATLANTA (FULTON)
-- State: GA
 - ZIP: 30315
 - ZIP extension: 2310
 - State project ID: 2020-502
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 13121005504
 - Tract 2010: 13121005502
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 04000
 - Place 2010: 04000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 1468739
 - Units: 160
 - Low-income units: 160
@@ -44,12 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,7 +54,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +64,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

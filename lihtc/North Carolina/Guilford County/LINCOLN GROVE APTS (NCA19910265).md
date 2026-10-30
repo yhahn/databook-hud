@@ -1,11 +1,9 @@
 # Project: LINCOLN GROVE APTS (NCA19910265)
 
 - HUD ID: NCA19910265
-- HUD ID before: 
 - Project: LINCOLN GROVE APTS
 - Address: 503 GILLESPIE ST 18
 - City: GREENSBORO
-- State: NC
 - ZIP: 27401
 - ZIP extension: 3630
 - State project ID: 9002206
@@ -19,12 +17,9 @@
 - Tract 1990: 37081012707
 - Place 2020: 28000
 - Place 2010: 28000
-- Place 2000: 
 - Place 1990: 1065
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 36243
 - Units: 115
 - Low-income units: 115
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

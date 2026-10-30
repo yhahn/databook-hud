@@ -1,13 +1,10 @@
 # Project: HERITAGE TOWNHOMES (MNA20130009)
 
 - HUD ID: MNA20130009
-- HUD ID before: 
 - Project: HERITAGE TOWNHOMES
 - Address: SOUTH FERN ST - 17TH AVE SW
 - City: CAMBRIDGE
-- State: MN
 - ZIP: 55008
-- ZIP extension: 
 - State project ID: D6688
 - Latitude: 45.5941
 - Longitude: -93.2219
@@ -22,9 +19,7 @@
 - Place 2000: 09370
 - Place 1990: 0570
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 360050
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +43,9 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +53,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

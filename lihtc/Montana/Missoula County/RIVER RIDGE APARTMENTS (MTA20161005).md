@@ -1,11 +1,9 @@
 # Project: RIVER RIDGE APARTMENTS (MTA20161005)
 
 - HUD ID: MTA20161005
-- HUD ID before: 
 - Project: RIVER RIDGE APARTMENTS
 - Address: 2840 SANTE FE COURT
 - City: MISSOULA
-- State: MT
 - ZIP: 59808
 - ZIP extension: 0000
 - State project ID: 15070
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30063000204
 - Tract 2010: 30063000202
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 50200
 - Place 2010: 50200
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 403599
 - Units: 70
 - Low-income units: 70
@@ -44,7 +36,6 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

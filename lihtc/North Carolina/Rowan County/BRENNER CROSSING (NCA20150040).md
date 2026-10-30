@@ -1,11 +1,9 @@
 # Project: BRENNER CROSSING (NCA20150040)
 
 - HUD ID: NCA20150040
-- HUD ID before: 
 - Project: BRENNER CROSSING
 - Address: 610 ROY LEAZER AVE
 - City: SALISBURY
-- State: NC
 - ZIP: 28144
 - ZIP extension: 3188
 - State project ID: 9152551
@@ -22,9 +20,7 @@
 - Place 2000: 58860
 - Place 1990: 2195
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 700000
 - Units: 81
 - Low-income units: 80
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 21
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +66,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: SIERRA SPRINGS APARTMENTS (NVA19950010)
 
 - HUD ID: NVA19950010
-- HUD ID before: 
 - Project: SIERRA SPRINGS APARTMENTS
 - Address: 633 HOT SPRINGS RD.
 - City: CARSON CITY
-- State: NV
 - ZIP: 89706
 - ZIP extension: 0000
 - State project ID: 93-07
@@ -22,9 +20,7 @@
 - Place 2000: 09700
 - Place 1990: 0025
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 510000
 - Units: 90
 - Low-income units: 89
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

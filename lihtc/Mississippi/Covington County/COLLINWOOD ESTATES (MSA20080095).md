@@ -1,13 +1,10 @@
 # Project: COLLINWOOD ESTATES (MSA20080095)
 
 - HUD ID: MSA20080095
-- HUD ID before: 
 - Project: COLLINWOOD ESTATES
 - Address: 63 THOMAS DR
 - City: COLLINS
-- State: MS
 - ZIP: 39428
-- ZIP extension: 
 - State project ID: MS-06-056
 - Latitude: 31.633548
 - Longitude: -89.564114
@@ -22,9 +19,7 @@
 - Place 2000: 15140
 - Place 1990: 0255
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 554500
 - Units: 40
 - Low-income units: 39
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

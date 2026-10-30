@@ -1,13 +1,10 @@
 # Project: SCHOLAR HOUSE OF PADUCAH (KYA20120743)
 
 - HUD ID: KYA20120743
-- HUD ID before: 
 - Project: SCHOLAR HOUSE OF PADUCAH
 - Address: OLD NORTH FRIENDSHIP ROAD
 - City: PADUCAH
-- State: KY
 - ZIP: 42001
-- ZIP extension: 
 - State project ID: KY-11-004
 - Latitude: 37.0716
 - Longitude: -88.6559
@@ -19,12 +16,9 @@
 - Tract 1990: 21145031300
 - Place 2020: 58836
 - Place 2010: 58836
-- Place 2000: 
 - Place 1990: 1304
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 936000
 - Units: 48
 - Low-income units: 48
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

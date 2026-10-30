@@ -1,13 +1,10 @@
 # Project: JOHN CALVIN APTS (TNA20080800)
 
 - HUD ID: TNA20080800
-- HUD ID before: 
 - Project: JOHN CALVIN APTS
 - Address: 364 NORTHGATE MALL DR
 - City: HIXSON
-- State: TN
 - ZIP: 37343
-- ZIP extension: 
 - State project ID: TN-07-218
 - Latitude: 35.127858
 - Longitude: -85.237723
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 0245
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 216529
 - Units: 95
 - Low-income units: 95
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2007230.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MILSTEAD WOODS (NCA20120075)
 
 - HUD ID: NCA20120075
-- HUD ID before: 
 - Project: MILSTEAD WOODS
 - Address: 498 SCHOOL DRIVE
 - City: TAYLORSVILLE
-- State: NC
 - ZIP: 28681
-- ZIP extension: 
 - State project ID: 9111214
 - Latitude: 35.920234
 - Longitude: -81.190538
@@ -20,11 +17,8 @@
 - Place 2020: 66960
 - Place 2010: 66960
 - Place 2000: 66960
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 411878
 - Units: 40
 - Low-income units: 40
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

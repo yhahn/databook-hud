@@ -1,13 +1,10 @@
 # Project: VILLAS AT PASADENA (AZA20130024)
 
 - HUD ID: AZA20130024
-- HUD ID before: 
 - Project: VILLAS AT PASADENA
 - Address: 1604 W PASADENA AVE
 - City: PHOENIX
-- State: AZ
 - ZIP: 85015
-- ZIP extension: 
 - State project ID: TC-0730-12
 - Latitude: 33.510694
 - Longitude: -112.093602
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 0260
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 568550
 - Units: 34
 - Low-income units: 34
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: Both new construction and acquisition and rehab
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

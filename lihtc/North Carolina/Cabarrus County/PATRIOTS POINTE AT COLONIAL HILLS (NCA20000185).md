@@ -1,13 +1,10 @@
 # Project: PATRIOTS POINTE AT COLONIAL HILLS (NCA20000185)
 
 - HUD ID: NCA20000185
-- HUD ID before: 
 - Project: PATRIOTS POINTE AT COLONIAL HILLS
 - Address: 3699 PATRIOT'S PLACE
 - City: CONCORD
-- State: NC
 - ZIP: 28025
-- ZIP extension: 
 - State project ID: 9001771
 - Latitude: 35.364972
 - Longitude: -80.574828
@@ -16,15 +13,10 @@
 - Tract 2020: 37025040501
 - Tract 2010: 37025040500
 - Tract 2000: 37025040500
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 420571
 - Units: 76
 - Low-income units: 76
@@ -39,9 +31,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +61,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

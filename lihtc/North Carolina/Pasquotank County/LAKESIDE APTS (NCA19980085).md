@@ -1,13 +1,10 @@
 # Project: LAKESIDE APTS (NCA19980085)
 
 - HUD ID: NCA19980085
-- HUD ID before: 
 - Project: LAKESIDE APTS
 - Address: 111 CAMERON DRIVE
 - City: ELIZABETH CITY
-- State: NC
 - ZIP: 27909
-- ZIP extension: 
 - State project ID: 9002094
 - Latitude: 36.284764
 - Longitude: -76.27108
@@ -20,11 +17,8 @@
 - Place 2020: 20580
 - Place 2010: 20580
 - Place 2000: 20580
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 243661
 - Units: 50
 - Low-income units: 50
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

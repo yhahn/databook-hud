@@ -1,13 +1,10 @@
 # Project: LEE MANOR APTS (TNA20120035)
 
 - HUD ID: TNA20120035
-- HUD ID before: 
 - Project: LEE MANOR APTS
 - Address: 1800 LEE DR
 - City: ATHENS
-- State: TN
 - ZIP: 37303
-- ZIP extension: 
 - State project ID: TN-12-409
 - Latitude: 35.466324
 - Longitude: -84.60723
@@ -22,9 +19,7 @@
 - Place 2000: 02320
 - Place 1990: 0055
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 630548
 - Units: 90
 - Low-income units: 90
@@ -38,11 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: Both
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA LEE MANOR II.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: VERONA ESTATES (MSA20160007)
 
 - HUD ID: MSA20160007
-- HUD ID before: 
 - Project: VERONA ESTATES
 - Address: 119 LAKELAND DRIVE
 - City: VERONA
-- State: MS
 - ZIP: 38801
 - ZIP extension: 0000
 - State project ID: 15-1-027
@@ -16,15 +14,10 @@
 - Tract 2020: 28081951002
 - Tract 2010: 28081951002
 - Tract 2000: 28081951000
-- Tract 1990: 
 - Place 2020: 74840
 - Place 2010: 74840
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 36
 - Low-income units: 36
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Veterans
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

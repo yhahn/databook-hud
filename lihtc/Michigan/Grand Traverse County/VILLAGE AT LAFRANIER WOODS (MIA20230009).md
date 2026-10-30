@@ -1,11 +1,9 @@
 # Project: VILLAGE AT LAFRANIER WOODS (MIA20230009)
 
 - HUD ID: MIA20230009
-- HUD ID before: 
 - Project: VILLAGE AT LAFRANIER WOODS
 - Address: 1463 ORCHARD HILL PARKWAY
 - City: TRAVERSE CITY
-- State: MI
 - ZIP: 49686
 - ZIP extension: 0000
 - State project ID: 3806
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26055550900
 - Tract 2010: 26055551000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 80340
 - Place 2010: 80340
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 618190
 - Units: 115
 - Low-income units: 59
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 2075000
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

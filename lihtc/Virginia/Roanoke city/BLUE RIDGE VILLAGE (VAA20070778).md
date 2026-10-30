@@ -1,13 +1,10 @@
 # Project: BLUE RIDGE VILLAGE (VAA20070778)
 
 - HUD ID: VAA20070778
-- HUD ID before: 
 - Project: BLUE RIDGE VILLAGE
 - Address: 2744 MELROSE AVE NW
 - City: ROANOKE
-- State: VA
 - ZIP: 24017
-- ZIP extension: 
 - State project ID: 925
 - Latitude: 37.288058
 - Longitude: -79.981086
@@ -22,9 +19,7 @@
 - Place 2000: 68000
 - Place 1990: 1045
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 605609
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006102.
 - Record status: Existing, unchanged

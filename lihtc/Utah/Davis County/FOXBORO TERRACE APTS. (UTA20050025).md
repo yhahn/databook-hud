@@ -1,11 +1,9 @@
 # Project: FOXBORO TERRACE APTS. (UTA20050025)
 
 - HUD ID: UTA20050025
-- HUD ID before: 
 - Project: FOXBORO TERRACE APTS.
 - Address: 882 W. FOXBORO DRIVE
 - City: NORTH SALT LAKE
-- State: UT
 - ZIP: 84054
 - ZIP extension: 0000
 - State project ID: 2005-01
@@ -22,9 +20,7 @@
 - Place 2000: 55210
 - Place 1990: 0680
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 449491
 - Units: 180
 - Low-income units: 170
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

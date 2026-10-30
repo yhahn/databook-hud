@@ -1,13 +1,10 @@
 # Project: CAROLINA GARDENS APTS (NCA20060065)
 
 - HUD ID: NCA20060065
-- HUD ID before: 
 - Project: CAROLINA GARDENS APTS
 - Address: 6001 MAHOGANY LANE
 - City: KINGS MOUNTAIN
-- State: NC
 - ZIP: 28086
-- ZIP extension: 
 - State project ID: 9001690
 - Latitude: 35.260721
 - Longitude: -81.315845
@@ -22,9 +19,7 @@
 - Place 2000: 35880
 - Place 1990: 0255
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 217763
 - Units: 50
 - Low-income units: 50
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 25
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: KIRBY PARK VILLAS (TXA0000X039)
 
 - HUD ID: TXA0000X039
-- HUD ID before: 
 - Project: KIRBY PARK VILLAS
 - Address: 609 WEST 29TH STREET
 - City: SAN ANGELO
-- State: TX
 - ZIP: 76903
-- ZIP extension: 
 - State project ID: TX5230
 - Latitude: 31.485782
 - Longitude: -100.460201
@@ -16,16 +13,10 @@
 - Tract 2020: 48451001800
 - Tract 2010: 48451001800
 - Tract 2000: 48451001705
-- Tract 1990: 
 - Place 2020: 64472
 - Place 2010: 64472
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 72
 - Low-income units: 56
 - Units reported: 72
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

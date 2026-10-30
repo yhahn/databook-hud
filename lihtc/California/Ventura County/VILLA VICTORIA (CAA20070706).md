@@ -1,13 +1,10 @@
 # Project: VILLA VICTORIA (CAA20070706)
 
 - HUD ID: CAA20070706
-- HUD ID before: 
 - Project: VILLA VICTORIA
 - Address: 3730 GUM TREE ST
 - City: OXNARD
-- State: CA
 - ZIP: 93036
-- ZIP extension: 
 - State project ID: CA-05-802
 - Latitude: 34.224811
 - Longitude: -119.220429
@@ -22,9 +19,7 @@
 - Place 2000: 54652
 - Place 1990: 2050
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 479928
 - Units: 54
 - Low-income units: 53
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

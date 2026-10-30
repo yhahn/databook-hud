@@ -1,13 +1,10 @@
 # Project: POPLAR POINTE (ALA20000112)
 
 - HUD ID: ALA20000112
-- HUD ID before: 
 - Project: POPLAR POINTE
 - Address: 702 11TH AVE
 - City: PHENIX CITY
-- State: AL
 - ZIP: 36867
-- ZIP extension: 
 - State project ID: AL-00-0063
 - Latitude: 32.45887
 - Longitude: -85.008485
@@ -22,9 +19,7 @@
 - Place 2000: 59472
 - Place 1990: 1365
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 183569
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 448870
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2001115.
 - Record status: Existing, unchanged

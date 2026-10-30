@@ -1,13 +1,10 @@
 # Project: PARK CENTRAL (TXA20154030)
 
 - HUD ID: TXA20154030
-- HUD ID before: 
 - Project: PARK CENTRAL
 - Address: 2500 HIGHWAY 365
 - City: PORT ARTHUR
-- State: TX
 - ZIP: 77640
-- ZIP extension: 
 - State project ID: TX4958
 - Latitude: 29.943035
 - Longitude: -93.996622
@@ -22,10 +19,7 @@
 - Place 2000: 58820
 - Place 1990: 3335
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 184
 - Low-income units: 168
 - Units reported: 184
@@ -40,15 +34,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +68,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

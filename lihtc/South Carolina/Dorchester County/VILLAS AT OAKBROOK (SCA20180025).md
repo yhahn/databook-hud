@@ -1,13 +1,10 @@
 # Project: VILLAS AT OAKBROOK (SCA20180025)
 
 - HUD ID: SCA20180025
-- HUD ID before: 
 - Project: VILLAS AT OAKBROOK
 - Address: 2041 OLD TROLLEY ROAD
 - City: SUMMERVILLE
-- State: SC
 - ZIP: 29485
-- ZIP extension: 
 - State project ID: SC-16-019
 - Latitude: 32.950862
 - Longitude: -80.164638
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 45035010808
 - Tract 2010: 45035010808
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 70270
 - Place 2010: 70270
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 601264
 - Units: 42
 - Low-income units: 42
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Older Persons
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

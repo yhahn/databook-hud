@@ -1,11 +1,9 @@
 # Project: CAPISTRANO PINES APTS. (NVA20000010)
 
 - HUD ID: NVA20000010
-- HUD ID before: 
 - Project: CAPISTRANO PINES APTS.
 - Address: 400 N. MAJOR AVE.
 - City: HENDERSON
-- State: NV
 - ZIP: 89015
 - ZIP extension: 0000
 - State project ID: 00-03
@@ -22,9 +20,7 @@
 - Place 2000: 31900
 - Place 1990: 0058
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 408384
 - Units: 184
 - Low-income units: 183
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

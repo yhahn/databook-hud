@@ -1,13 +1,10 @@
 # Project: IKE SIMS VILLAGE (ILB20029001)
 
 - HUD ID: ILB20029001
-- HUD ID before: 
 - Project: IKE SIMS VILLAGE
 - Address: 3333 W MAYPOLE AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60624
-- ZIP extension: 
 - State project ID: TC-01-021
 - Latitude: 41.883761
 - Longitude: -87.709354
@@ -16,16 +13,11 @@
 - Tract 2020: 17031836800
 - Tract 2010: 17031836800
 - Tract 2000: 17031270300
-- Tract 1990: 
 - Place 2020: 14000
 - Place 2010: 14000
 - Place 2000: 14000
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
-- Allocation amount: 
 - Units: 200
 - Low-income units: 199
 - Units reported: 200
@@ -39,9 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -70,16 +59,8 @@
 - Families: Yes
 - Elderly: Yes
 - Disabled: Yes
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2002015.
 - Record status: Existing, unchanged

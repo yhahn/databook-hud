@@ -1,13 +1,10 @@
 # Project: SOUTHERN VILLAGE A, B, & C (MSA19880151)
 
 - HUD ID: MSA19880151
-- HUD ID before: 
 - Project: SOUTHERN VILLAGE A, B, & C
 - Address: 605 N 25TH AVE
 - City: HATTIESBURG
-- State: MS
 - ZIP: 39401
-- ZIP extension: 
 - State project ID: 88-181
 - Latitude: 31.334052
 - Longitude: -89.327991
@@ -22,10 +19,7 @@
 - Place 2000: 31020
 - Place 1990: 0535
 - Year placed in service: 1988
-- Placed in service note: 
 - Allocation year: 1988
-- Allocation year note: 
-- Allocation amount: 
 - Units: 7
 - Low-income units: 7
 - Units reported: 7
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: DAYSTAR VILLAGE (KYA20010030)
 
 - HUD ID: KYA20010030
-- HUD ID before: 
 - Project: DAYSTAR VILLAGE
 - Address: PATTON WAY
 - City: BOWLING GREEN
-- State: KY
 - ZIP: 42101
-- ZIP extension: 
 - State project ID: KY-99-027
 - Latitude: 36.9325
 - Longitude: -86.4363
@@ -19,12 +16,9 @@
 - Tract 1990: 21227010800
 - Place 2020: 08902
 - Place 2010: 08902
-- Place 2000: 
 - Place 1990: 0200
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 32
 - Low-income units: 32
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: BLUE GOOSE APARTMENTS (MNB20087001)
 
 - HUD ID: MNB20087001
-- HUD ID before: 
 - Project: BLUE GOOSE APARTMENTS
 - Address: 1825 5TH STREET SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55454
 - ZIP extension: 1200
 - State project ID: D3754
@@ -16,15 +14,11 @@
 - Tract 2020: 27053104802
 - Tract 2010: 27053104800
 - Tract 2000: 27053104800
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 149766
 - Units: 38
 - Low-income units: 38
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

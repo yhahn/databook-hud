@@ -1,13 +1,10 @@
 # Project: CRESCENT HILL (SPARTANBURG TERRACE) (SCA20010040)
 
 - HUD ID: SCA20010040
-- HUD ID before: 
 - Project: CRESCENT HILL (SPARTANBURG TERRACE)
 - Address: 108 PINENEEDLE DR
 - City: SPARTANBURG
-- State: SC
 - ZIP: 29306
-- ZIP extension: 
 - State project ID: SC-50-001
 - Latitude: 34.927521
 - Longitude: -81.940877
@@ -22,9 +19,7 @@
 - Place 2000: 68290
 - Place 1990: 1340
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 272131
 - Units: 150
 - Low-income units: 150
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA SPARTANBURG TERRACE
 - Record status: Existing, unchanged

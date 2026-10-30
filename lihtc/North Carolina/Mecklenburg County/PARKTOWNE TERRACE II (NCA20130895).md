@@ -1,11 +1,9 @@
 # Project: PARKTOWNE TERRACE II (NCA20130895)
 
 - HUD ID: NCA20130895
-- HUD ID before: 
 - Project: PARKTOWNE TERRACE II
 - Address: 5800 FAIRVIEW RD
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28209
 - ZIP extension: 4610
 - State project ID: 9110132
@@ -22,9 +20,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 545988
 - Units: 163
 - Low-income units: 163
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 17
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +66,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

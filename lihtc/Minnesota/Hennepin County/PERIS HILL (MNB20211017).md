@@ -1,11 +1,9 @@
 # Project: PERIS HILL (MNB20211017)
 
 - HUD ID: MNB20211017
-- HUD ID before: 
 - Project: PERIS HILL
 - Address: 1930 HENNEPIN AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55403
 - ZIP extension: 3160
 - State project ID: D7995
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 27053105500
 - Tract 2010: 27053105500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1036897
 - Units: 45
 - Low-income units: 45
@@ -44,11 +36,9 @@
 - Affordability years: 25
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,8 +57,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

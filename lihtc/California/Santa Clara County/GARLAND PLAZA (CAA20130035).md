@@ -1,13 +1,10 @@
 # Project: GARLAND PLAZA (CAA20130035)
 
 - HUD ID: CAA20130035
-- HUD ID before: 
 - Project: GARLAND PLAZA
 - Address: 662 GARLAND AVE
 - City: SUNNYVALE
-- State: CA
 - ZIP: 94086
-- ZIP extension: 
 - State project ID: CA-12-047
 - Latitude: 37.364101
 - Longitude: -122.022166
@@ -22,9 +19,7 @@
 - Place 2000: 77000
 - Place 1990: 2835
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 363480
 - Units: 19
 - Low-income units: 19
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CASTLE VILLAGE APARTMENTS (KYA20130742)
 
 - HUD ID: KYA20130742
-- HUD ID before: 
 - Project: CASTLE VILLAGE APARTMENTS
 - Address: CASTLE VILLAGE DRIVE
 - City: BRODHEAD
-- State: KY
 - ZIP: 40409
-- ZIP extension: 
 - State project ID: KY-11-016
 - Latitude: 37.388
 - Longitude: -84.3782
@@ -19,12 +16,9 @@
 - Tract 1990: 21203950200
 - Place 2020: 09838
 - Place 2010: 09838
-- Place 2000: 
 - Place 1990: 1400
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1216678
 - Units: 70
 - Low-income units: 70
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

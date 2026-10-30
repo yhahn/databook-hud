@@ -1,11 +1,9 @@
 # Project: VIEWS AT CITY WALK (MNA20130857)
 
 - HUD ID: MNA20130857
-- HUD ID before: 
 - Project: VIEWS AT CITY WALK
 - Address: 375 LAKEVIEW DRIVE
 - City: WOODBURY
-- State: MN
 - ZIP: 55129
 - ZIP extension: 4502
 - State project ID: D6677
@@ -19,12 +17,9 @@
 - Tract 1990: 27163071005
 - Place 2020: 71428
 - Place 2010: 71428
-- Place 2000: 
 - Place 1990: 4173
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 846570
 - Units: 45
 - Low-income units: 45
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 45
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +66,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

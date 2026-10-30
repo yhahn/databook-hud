@@ -1,11 +1,9 @@
 # Project: RUSSELL SQUARE APARTMENTS (MTA20020035)
 
 - HUD ID: MTA20020035
-- HUD ID before: 
 - Project: RUSSELL SQUARE APARTMENTS
 - Address: 1145,1155,1225 34TH ST
 - City: MISSOULA
-- State: MT
 - ZIP: 59802
 - ZIP extension: 0000
 - State project ID: 00060
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0455
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 186133
 - Units: 46
 - Low-income units: 36
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

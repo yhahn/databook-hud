@@ -1,13 +1,10 @@
 # Project: GREENS AT HAMMONDS LANE (MDA20110045)
 
 - HUD ID: MDA20110045
-- HUD ID before: 
 - Project: GREENS AT HAMMONDS LANE
 - Address: 600 HAMMONDS CT
 - City: BROOKLYN PARK
-- State: MD
 - ZIP: 21225
-- ZIP extension: 
 - State project ID: MD09-11001
 - Latitude: 39.209889
 - Longitude: -76.639747
@@ -22,10 +19,7 @@
 - Place 2000: 64250
 - Place 1990: 0808
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 90
 - Low-income units: 90
 - Units reported: 90
@@ -40,12 +34,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,9 @@
 - HOME amount: 800000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +56,7 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

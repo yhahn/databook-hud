@@ -1,11 +1,9 @@
 # Project: ROSE PARK ESTATES (MOA20160029)
 
 - HUD ID: MOA20160029
-- HUD ID before: 
 - Project: ROSE PARK ESTATES
 - Address: 403 E. SUMMIT
 - City: BOLIVAR
-- State: MO
 - ZIP: 65613
 - ZIP extension: 0000
 - State project ID: 14-023
@@ -16,15 +14,11 @@
 - Tract 2020: 29167960202
 - Tract 2010: 29167960200
 - Tract 2000: 29167960200
-- Tract 1990: 
 - Place 2020: 06976
 - Place 2010: 06976
 - Place 2000: 06976
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 630000
 - Units: 76
 - Low-income units: 76
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

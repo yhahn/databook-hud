@@ -1,13 +1,10 @@
 # Project: BROOKWOOD TERRACE APTS (TNA20090015)
 
 - HUD ID: TNA20090015
-- HUD ID before: 
 - Project: BROOKWOOD TERRACE APTS
 - Address: 2743 S RUTHERFORD BLVD
 - City: MURFREESBORO
-- State: TN
 - ZIP: 37130
-- ZIP extension: 
 - State project ID: TN-09-120
 - Latitude: 35.829349
 - Longitude: -86.350065
@@ -22,9 +19,7 @@
 - Place 2000: 51560
 - Place 1990: 1010
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 8446
 - Units: 122
 - Low-income units: 122
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 720345
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

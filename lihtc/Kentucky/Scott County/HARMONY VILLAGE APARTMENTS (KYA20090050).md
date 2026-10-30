@@ -1,13 +1,10 @@
 # Project: HARMONY VILLAGE APARTMENTS (KYA20090050)
 
 - HUD ID: KYA20090050
-- HUD ID before: 
 - Project: HARMONY VILLAGE APARTMENTS
 - Address: CORNWALLIS DRIVE
 - City: GEORGETOWN
-- State: KY
 - ZIP: 40324
-- ZIP extension: 
 - State project ID: KY-07-012
 - Latitude: 38.2153
 - Longitude: -84.5537
@@ -19,12 +16,8 @@
 - Tract 1990: 21209040600
 - Place 2020: 30700
 - Place 2010: 30700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 302555
 - Units: 34
 - Low-income units: 34
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

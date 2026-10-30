@@ -1,13 +1,10 @@
 # Project: WATAUGA GREEN APARTMENTS (NCA20150048)
 
 - HUD ID: NCA20150048
-- HUD ID before: 
 - Project: WATAUGA GREEN APARTMENTS
 - Address: 158 HERRING LOOP
 - City: BOONE
-- State: NC
 - ZIP: 28607
-- ZIP extension: 
 - State project ID: 9150966
 - Latitude: 36.2485
 - Longitude: -81.6996
@@ -22,9 +19,7 @@
 - Place 2000: 07080
 - Place 1990: 0325
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 648000
 - Units: 72
 - Low-income units: 72
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 29
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

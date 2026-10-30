@@ -1,11 +1,9 @@
 # Project: TUSCANY VILLAS SENIOR APARTMENTS (UTA20120901)
 
 - HUD ID: UTA20120901
-- HUD ID before: 
 - Project: TUSCANY VILLAS SENIOR APARTMENTS
 - Address: 948 WEST TUSCANY VIEW ROAD
 - City: MIDVALE
-- State: UT
 - ZIP: 84047
 - ZIP extension: 0000
 - State project ID: 2011-13
@@ -19,12 +17,9 @@
 - Tract 1990: 49035112401
 - Place 2020: 49710
 - Place 2010: 49710
-- Place 2000: 
 - Place 1990: 0580
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 929726
 - Units: 76
 - Low-income units: 76
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

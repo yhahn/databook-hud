@@ -1,13 +1,10 @@
 # Project: TISBURY APARTMENTS (KYA20080110)
 
 - HUD ID: KYA20080110
-- HUD ID before: 
 - Project: TISBURY APARTMENTS
 - Address: INNOVATION WAY
 - City: RADCLIFF
-- State: KY
 - ZIP: 40160
-- ZIP extension: 
 - State project ID: KY-07-010
 - Latitude: 37.8113
 - Longitude: -85.9302
@@ -19,12 +16,9 @@
 - Tract 1990: 21093000400
 - Place 2020: 63912
 - Place 2010: 63912
-- Place 2000: 
 - Place 1990: 1630
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 607600
 - Units: 30
 - Low-income units: 30
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +70,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

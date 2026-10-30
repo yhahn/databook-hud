@@ -1,13 +1,10 @@
 # Project: KYANA GROUP HOLDINGS I (FKA) RAMSER PROJECT (KYA19980115)
 
 - HUD ID: KYA19980115
-- HUD ID before: 
 - Project: KYANA GROUP HOLDINGS I (FKA) RAMSER PROJECT
 - Address: DIXIE HIGHWAY
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40210
-- ZIP extension: 
 - State project ID: KY-96-034
 - Latitude: 38.2271
 - Longitude: -85.7847
@@ -16,15 +13,10 @@
 - Tract 2020: 21111002800
 - Tract 2010: 21111002800
 - Tract 2000: 21111012604
-- Tract 1990: 
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 50
 - Low-income units: 50
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

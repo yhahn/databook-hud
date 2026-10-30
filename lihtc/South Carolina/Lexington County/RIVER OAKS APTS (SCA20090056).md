@@ -1,13 +1,10 @@
 # Project: RIVER OAKS APTS (SCA20090056)
 
 - HUD ID: SCA20090056
-- HUD ID before: 
 - Project: RIVER OAKS APTS
 - Address: 5324 BUSH RIVER RD
 - City: IRMO
-- State: SC
 - ZIP: 29212
-- ZIP extension: 
 - State project ID: SC-09-011
 - Latitude: 34.056336
 - Longitude: -81.172892
@@ -20,11 +17,8 @@
 - Place 2020: 65207
 - Place 2010: 65207
 - Place 2000: 35890
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 470684
 - Units: 100
 - Low-income units: 100
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1993075.
 - Record status: Existing, unchanged

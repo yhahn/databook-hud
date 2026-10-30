@@ -1,11 +1,9 @@
 # Project: DAVID HOGGARD FAMILY COMM. AKA EVERGREEN (NVA20049002)
 
 - HUD ID: NVA20049002
-- HUD ID before: 
 - Project: DAVID HOGGARD FAMILY COMM. AKA EVERGREEN
 - Address: MONROE / J STREET
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89106
 - ZIP extension: 0000
 - State project ID: 02-14
@@ -16,15 +14,10 @@
 - Tract 2020: 32003000201
 - Tract 2010: 32003000201
 - Tract 2000: 32003000201
-- Tract 1990: 
 - Place 2020: 40000
 - Place 2010: 40000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 499796
 - Units: 100
 - Low-income units: 100
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 100
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

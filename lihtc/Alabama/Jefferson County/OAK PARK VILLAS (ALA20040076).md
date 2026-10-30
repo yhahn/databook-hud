@@ -1,13 +1,10 @@
 # Project: OAK PARK VILLAS (ALA20040076)
 
 - HUD ID: ALA20040076
-- HUD ID before: 
 - Project: OAK PARK VILLAS
 - Address: 2700 OAK PARK DR
 - City: BESSEMER
-- State: AL
 - ZIP: 35020
-- ZIP extension: 
 - State project ID: AL-04-0076
 - Latitude: 33.422167
 - Longitude: -86.927756
@@ -22,9 +19,7 @@
 - Place 2000: 05980
 - Place 1990: 1045
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 133447
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006090. AKA PARK PLACE.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CROWN AT PIONEER ESTATES (UTA20070025)
 
 - HUD ID: UTA20070025
-- HUD ID before: 
 - Project: CROWN AT PIONEER ESTATES
 - Address: 1055 SOUTH 100 EAST
 - City: BLANDING
-- State: UT
 - ZIP: 84511
 - ZIP extension: 0000
 - State project ID: 2006-07
@@ -22,9 +20,7 @@
 - Place 2000: 06370
 - Place 1990: 0065
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 51617
 - Units: 4
 - Low-income units: 4
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

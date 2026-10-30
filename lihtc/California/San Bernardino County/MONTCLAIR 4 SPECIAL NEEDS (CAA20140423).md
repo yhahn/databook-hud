@@ -1,13 +1,10 @@
 # Project: MONTCLAIR 4 SPECIAL NEEDS (CAA20140423)
 
 - HUD ID: CAA20140423
-- HUD ID before: 
 - Project: MONTCLAIR 4 SPECIAL NEEDS
 - Address: 4115 KINGSLEY ST
 - City: MONTCLAIR
-- State: CA
 - ZIP: 91763
-- ZIP extension: 
 - State project ID: CA-12-225
 - Latitude: 34.066708
 - Longitude: -117.715048
@@ -22,9 +19,7 @@
 - Place 2000: 48788
 - Place 1990: 1815
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 343845
 - Units: 18
 - Low-income units: 17
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +62,8 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SAN EMI APTS.
 - Record status: Existing, unchanged

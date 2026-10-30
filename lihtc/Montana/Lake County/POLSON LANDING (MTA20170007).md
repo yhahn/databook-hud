@@ -1,11 +1,9 @@
 # Project: POLSON LANDING (MTA20170007)
 
 - HUD ID: MTA20170007
-- HUD ID before: 
 - Project: POLSON LANDING
 - Address: 402 RIDGEWATER DR
 - City: POLSON
-- State: MT
 - ZIP: 59860
 - ZIP extension: 0000
 - State project ID: 17010
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30047940305
 - Tract 2010: 30047940303
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 58750
 - Place 2010: 40355
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 676500
 - Units: 35
 - Low-income units: 35
@@ -44,7 +36,6 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

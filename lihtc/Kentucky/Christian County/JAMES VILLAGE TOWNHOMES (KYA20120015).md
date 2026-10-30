@@ -1,13 +1,10 @@
 # Project: JAMES VILLAGE TOWNHOMES (KYA20120015)
 
 - HUD ID: KYA20120015
-- HUD ID before: 
 - Project: JAMES VILLAGE TOWNHOMES
 - Address: EAST 21ST STREET
 - City: HOPKINSVILLE
-- State: KY
 - ZIP: 42240
-- ZIP extension: 
 - State project ID: KY-10-073
 - Latitude: 36.8627
 - Longitude: -87.4913
@@ -19,12 +16,9 @@
 - Tract 1990: 21047200400
 - Place 2020: 37918
 - Place 2010: 37918
-- Place 2000: 
 - Place 1990: 0955
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 732923
 - Units: 48
 - Low-income units: 48
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: OAKWOOD COURT (NDA19990025)
 
 - HUD ID: NDA19990025
-- HUD ID before: 
 - Project: OAKWOOD COURT
 - Address: 1738 BURDICK EXPY E
 - City: MINOT
-- State: ND
 - ZIP: 58701
-- ZIP extension: 
 - State project ID: 97-13
 - Latitude: 48.216393
 - Longitude: -101.237409
@@ -22,9 +19,7 @@
 - Place 2000: 53380
 - Place 1990: 1140
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 45116
 - Units: 7
 - Low-income units: 7
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

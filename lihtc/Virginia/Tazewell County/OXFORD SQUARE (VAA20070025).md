@@ -1,13 +1,10 @@
 # Project: OXFORD SQUARE (VAA20070025)
 
 - HUD ID: VAA20070025
-- HUD ID before: 
 - Project: OXFORD SQUARE
 - Address: 100 OXFORD SQ
 - City: RICHLANDS
-- State: VA
 - ZIP: 24641
-- ZIP extension: 
 - State project ID: 9084
 - Latitude: 37.087388
 - Longitude: -81.824947
@@ -22,9 +19,7 @@
 - Place 2000: 65744
 - Place 1990: 1017
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 216708
 - Units: 87
 - Low-income units: 87
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 87
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

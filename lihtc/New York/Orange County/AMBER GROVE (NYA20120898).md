@@ -1,13 +1,10 @@
 # Project: AMBER GROVE (NYA20120898)
 
 - HUD ID: NYA20120898
-- HUD ID before: 
 - Project: AMBER GROVE
 - Address: 1000 HEIDI CT
 - City: NEW WINDSOR
-- State: NY
 - ZIP: 12553
-- ZIP extension: 
 - State project ID: 20116052
 - Latitude: 41.455883
 - Longitude: -74.047697
@@ -22,9 +19,7 @@
 - Place 2000: 25857
 - Place 1990: 2501
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1359034
 - Units: 87
 - Low-income units: 87
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

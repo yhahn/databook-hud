@@ -1,13 +1,10 @@
 # Project: WOODLAND OLNEY SCHOOL APARTMENTS (NCA19980175)
 
 - HUD ID: NCA19980175
-- HUD ID before: 
 - Project: WOODLAND OLNEY SCHOOL APARTMENTS
 - Address: 507 WEST MAIN STREET
 - City: WOODLAND
-- State: NC
 - ZIP: 27897
-- ZIP extension: 
 - State project ID: 9002285
 - Latitude: 36.327592
 - Longitude: -77.219092
@@ -20,11 +17,8 @@
 - Place 2020: 75340
 - Place 2010: 75340
 - Place 2000: 75340
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 139286
 - Units: 30
 - Low-income units: 30
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 30
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

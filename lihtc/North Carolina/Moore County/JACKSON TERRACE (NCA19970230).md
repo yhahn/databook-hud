@@ -1,13 +1,10 @@
 # Project: JACKSON TERRACE (NCA19970230)
 
 - HUD ID: NCA19970230
-- HUD ID before: 
 - Project: JACKSON TERRACE
 - Address: 700 ANDERSON STREET
 - City: CARTHAGE
-- State: NC
 - ZIP: 28327
-- ZIP extension: 
 - State project ID: 9001790
 - Latitude: 35.343495
 - Longitude: -79.406211
@@ -19,12 +16,8 @@
 - Tract 1990: 37125950400
 - Place 2020: 10680
 - Place 2010: 10680
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 76734
 - Units: 16
 - Low-income units: 16
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

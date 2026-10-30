@@ -1,13 +1,10 @@
 # Project: HOMETOWN HARBOR WAUKEE (IAA20110517)
 
 - HUD ID: IAA20110517
-- HUD ID before: 
 - Project: HOMETOWN HARBOR WAUKEE
 - Address: 560 SE BRICK DR
 - City: WAUKEE
-- State: IA
 - ZIP: 50263
-- ZIP extension: 
 - State project ID: 09-0930
 - Latitude: 41.607975
 - Longitude: -93.84767
@@ -22,9 +19,7 @@
 - Place 2000: 14520
 - Place 1990: 4470
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 2964572
 - Units: 116
 - Low-income units: 116
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 6140000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2011030.
 - Record status: Existing, unchanged

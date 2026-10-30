@@ -1,13 +1,10 @@
 # Project: CASTLEBAR APTS II (MTA20030010)
 
 - HUD ID: MTA20030010
-- HUD ID before: 
 - Project: CASTLEBAR APTS II
 - Address: 1201 N 25TH AVE
 - City: BOZEMAN
-- State: MT
 - ZIP: 59718
-- ZIP extension: 
 - State project ID: MT-01-050
 - Latitude: 45.691717
 - Longitude: -111.070999
@@ -20,11 +17,8 @@
 - Place 2020: 08950
 - Place 2010: 08950
 - Place 2000: 08950
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 308438
 - Units: 36
 - Low-income units: 29
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -74,12 +66,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

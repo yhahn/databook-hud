@@ -1,11 +1,9 @@
 # Project: DIAMOND FORK APTS. (UTA20020020)
 
 - HUD ID: UTA20020020
-- HUD ID before: 
 - Project: DIAMOND FORK APTS.
 - Address: 312 N DIAMOND FORK LOOP
 - City: SPANISH FORK
-- State: UT
 - ZIP: 84660
 - ZIP extension: 0000
 - State project ID: 2002-20
@@ -22,9 +20,7 @@
 - Place 2000: 71290
 - Place 1990: 0555
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 158970
 - Units: 60
 - Low-income units: 60
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -65,7 +59,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +69,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

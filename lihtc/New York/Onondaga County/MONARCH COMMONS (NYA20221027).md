@@ -1,13 +1,10 @@
 # Project: MONARCH COMMONS (NYA20221027)
 
 - HUD ID: NYA20221027
-- HUD ID before: 
 - Project: MONARCH COMMONS
 - Address: 8701 KNOWLEDGE LANE
 - City: CICERO
-- State: NY
 - ZIP: 13039
-- ZIP extension: 
 - State project ID: 20210028
 - Latitude: 43.163
 - Longitude: -76.1119
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36067010200
 - Tract 2010: 36067010301
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1245480
 - Units: 50
 - Low-income units: 50
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Substance use
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

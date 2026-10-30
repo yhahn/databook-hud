@@ -1,11 +1,9 @@
 # Project: SOUTHERN PINES (LAA20050055)
 
 - HUD ID: LAA20050055
-- HUD ID before: 
 - Project: SOUTHERN PINES
 - Address: 100 MONTEREY DRIVE
 - City: RICHWOOD
-- State: LA
 - ZIP: 71202
 - ZIP extension: 0000
 - State project ID: LA-03-013
@@ -22,9 +20,7 @@
 - Place 2000: 51410
 - Place 1990: 0890
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 11114
 - Units: 28
 - Low-income units: 28
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: No
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS LAA2005053. AKA SOUTHERN PINES.;
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: VERSAILLES SCHOOL APARTMENTS (KYA20160015)
 
 - HUD ID: KYA20160015
-- HUD ID before: 
 - Project: VERSAILLES SCHOOL APARTMENTS
 - Address: SOUTH MAIN STREET
 - City: VERSAILLES
-- State: KY
 - ZIP: 40383
-- ZIP extension: 
 - State project ID: KY-15-004
 - Latitude: 38.031
 - Longitude: -84.6674
@@ -16,15 +13,10 @@
 - Tract 2020: 21239050105
 - Tract 2010: 21239050106
 - Tract 2000: 21239050102
-- Tract 1990: 
 - Place 2020: 79482
 - Place 2010: 79482
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 360590
 - Units: 13
 - Low-income units: 13
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

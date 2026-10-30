@@ -1,13 +1,10 @@
 # Project: EAGLE RIDGE APTS (ALA19960022)
 
 - HUD ID: ALA19960022
-- HUD ID before: 
 - Project: EAGLE RIDGE APTS
 - Address: 1181 MURRAY RD
 - City: DOTHAN
-- State: AL
 - ZIP: 36303
-- ZIP extension: 
 - State project ID: 96052-TC2
 - Latitude: 31.257903
 - Longitude: -85.409363
@@ -22,9 +19,7 @@
 - Place 2000: 21184
 - Place 1990: 0500
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 256987
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1276000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1998050. AKA DOTHAN HALL APTS.
 - Record status: Existing, unchanged

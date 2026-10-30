@@ -1,13 +1,10 @@
 # Project: MOUNTAIN APTS PHASE I (MTA20010040)
 
 - HUD ID: MTA20010040
-- HUD ID before: 
 - Project: MOUNTAIN APTS PHASE I
 - Address: 430 COLORADO AVE
 - City: WHITEFISH
-- State: MT
 - ZIP: 59937
-- ZIP extension: 
 - State project ID: MT-00-120
 - Latitude: 48.418751
 - Longitude: -114.338641
@@ -22,9 +19,7 @@
 - Place 2000: 79825
 - Place 1990: 0670
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 82146
 - Units: 15
 - Low-income units: 14
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MOUNTAIN APTS.
 - Record status: Existing, unchanged

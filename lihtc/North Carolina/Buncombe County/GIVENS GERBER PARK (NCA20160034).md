@@ -1,13 +1,10 @@
 # Project: GIVENS GERBER PARK (NCA20160034)
 
 - HUD ID: NCA20160034
-- HUD ID before: 
 - Project: GIVENS GERBER PARK
 - Address: 40 GERBER ROAD
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28803
-- ZIP extension: 
 - State project ID: 9167388
 - Latitude: 35.502511
 - Longitude: -82.521043
@@ -22,9 +19,7 @@
 - Place 2000: 02140
 - Place 1990: 2167
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 886800
 - Units: 120
 - Low-income units: 120
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 30
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

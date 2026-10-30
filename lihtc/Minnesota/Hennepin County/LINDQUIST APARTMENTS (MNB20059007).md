@@ -1,11 +1,9 @@
 # Project: LINDQUIST APARTMENTS (MNB20059007)
 
 - HUD ID: MNB20059007
-- HUD ID before: 
 - Project: LINDQUIST APARTMENTS
 - Address: 1931 WEST BROADWAY AVENUE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55411
 - ZIP extension: 2418
 - State project ID: D3124
@@ -16,15 +14,11 @@
 - Tract 2020: 27053102800
 - Tract 2010: 27053102800
 - Tract 2000: 27053102800
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 321286
 - Units: 26
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,8 +59,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: CHERRY RIDGE (IDA19960010)
 
 - HUD ID: IDA19960010
-- HUD ID before: 
 - Project: CHERRY RIDGE
 - Address: 1053 EMMA AVENUE
 - City: COEUR DALENE
-- State: ID
 - ZIP: 83814
-- ZIP extension: 
 - State project ID: HC9526
 - Latitude: 47.69285
 - Longitude: -116.799962
@@ -22,9 +19,7 @@
 - Place 2000: 16750
 - Place 1990: 0170
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 410119
 - Units: 72
 - Low-income units: 71
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

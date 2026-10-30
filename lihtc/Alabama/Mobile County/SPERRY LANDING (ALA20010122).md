@@ -1,13 +1,10 @@
 # Project: SPERRY LANDING (ALA20010122)
 
 - HUD ID: ALA20010122
-- HUD ID before: 
 - Project: SPERRY LANDING
 - Address: 6128 SPERRY RD
 - City: THEODORE
-- State: AL
 - ZIP: 36582
-- ZIP extension: 
 - State project ID: AL-00-0804
 - Latitude: 30.563126
 - Longitude: -88.20374
@@ -22,9 +19,7 @@
 - Place 2000: 76320
 - Place 1990: 1687
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 238626
 - Units: 94
 - Low-income units: 94
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 94
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2002045. AKA TKC SOUTH AL HOUSING II.
 - Record status: Existing, unchanged

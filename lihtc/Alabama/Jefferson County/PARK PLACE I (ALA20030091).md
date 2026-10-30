@@ -1,13 +1,10 @@
 # Project: PARK PLACE I (ALA20030091)
 
 - HUD ID: ALA20030091
-- HUD ID before: 
 - Project: PARK PLACE I
 - Address: 600 24TH ST N
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35203
-- ZIP extension: 
 - State project ID: AL-02-0054
 - Latitude: 33.521786
 - Longitude: -86.803608
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0185
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 1058253
 - Units: 197
 - Low-income units: 97
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 197
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2004080. FKA METROPOLITAN GARDENS
 - Record status: Existing, unchanged

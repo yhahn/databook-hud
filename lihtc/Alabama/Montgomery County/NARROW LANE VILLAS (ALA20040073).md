@@ -1,13 +1,10 @@
 # Project: NARROW LANE VILLAS (ALA20040073)
 
 - HUD ID: ALA20040073
-- HUD ID before: 
 - Project: NARROW LANE VILLAS
 - Address: 4581 NARROW LN RD
 - City: MONTGOMERY
-- State: AL
 - ZIP: 36116
-- ZIP extension: 
 - State project ID: AL-01-0815
 - Latitude: 32.315583
 - Longitude: -86.281793
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 1180
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 161982
 - Units: 142
 - Low-income units: 107
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 142
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2002025. AKA SUMMIT NARROW LANE VILLAS.
 - Record status: Existing, unchanged

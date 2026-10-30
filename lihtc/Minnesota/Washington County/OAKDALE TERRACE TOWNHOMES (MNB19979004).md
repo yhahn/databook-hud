@@ -1,11 +1,9 @@
 # Project: OAKDALE TERRACE TOWNHOMES (MNB19979004)
 
 - HUD ID: MNB19979004
-- HUD ID before: 
 - Project: OAKDALE TERRACE TOWNHOMES
 - Address: 1247 GENTRY AVENUE NORTH
 - City: OAKDALE
-- State: MN
 - ZIP: 55128
 - ZIP extension: 5757
 - State project ID: D3773
@@ -16,15 +14,11 @@
 - Tract 2020: 27163070912
 - Tract 2010: 27163070912
 - Tract 2000: 27163070908
-- Tract 1990: 
 - Place 2020: 47680
 - Place 2010: 47680
 - Place 2000: 47680
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 114654
 - Units: 17
 - Low-income units: 17
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

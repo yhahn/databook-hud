@@ -1,13 +1,10 @@
 # Project: PORT ROYAL (SCA20120045)
 
 - HUD ID: SCA20120045
-- HUD ID before: 
 - Project: PORT ROYAL
 - Address: 11 GROBER HILL RD
 - City: BEAUFORT
-- State: SC
 - ZIP: 29906
-- ZIP extension: 
 - State project ID: SC-10-013
 - Latitude: 32.398278
 - Longitude: -80.741335
@@ -22,9 +19,7 @@
 - Place 2000: 04690
 - Place 1990: 0187
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 710244
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1988293, SCA1988507.
 - Record status: Existing, unchanged

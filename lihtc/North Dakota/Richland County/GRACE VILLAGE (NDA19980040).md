@@ -1,13 +1,10 @@
 # Project: GRACE VILLAGE (NDA19980040)
 
 - HUD ID: NDA19980040
-- HUD ID before: 
 - Project: GRACE VILLAGE
 - Address: 507 FOURTH ST NE
 - City: HANKINSON
-- State: ND
 - ZIP: 58041
-- ZIP extension: 
 - State project ID: 96-02
 - Latitude: 46.076845
 - Longitude: -96.895708
@@ -22,9 +19,7 @@
 - Place 2000: 34900
 - Place 1990: 0980
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 53774
 - Units: 12
 - Low-income units: 12
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA1997015.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: WHITTELL POINTE APARTMENTS (NVA20049015)
 
 - HUD ID: NVA20049015
-- HUD ID before: 
 - Project: WHITTELL POINTE APARTMENTS
 - Address: 1855 SELMI DRIVE
 - City: RENO
-- State: NV
 - ZIP: 89512
 - ZIP extension: 0000
 - State project ID: 02-56
@@ -13,18 +11,12 @@
 - Longitude: -119.795165
 - County FIPS: 32031
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 32031001501
 - Tract 2000: 32031001500
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 60600
 - Place 2000: 60600
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 200000
 - Units: 120
 - Low-income units: 120
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

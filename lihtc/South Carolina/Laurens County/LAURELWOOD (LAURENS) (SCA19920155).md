@@ -1,13 +1,10 @@
 # Project: LAURELWOOD (LAURENS) (SCA19920155)
 
 - HUD ID: SCA19920155
-- HUD ID before: 
 - Project: LAURELWOOD (LAURENS)
 - Address: 301 REEDY FORK RD
 - City: LAURENS
-- State: SC
 - ZIP: 29360
-- ZIP extension: 
 - State project ID: SC-90-025
 - Latitude: 34.503272
 - Longitude: -82.047385
@@ -20,11 +17,8 @@
 - Place 2020: 40615
 - Place 2010: 40615
 - Place 2000: 40615
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 104393
 - Units: 62
 - Low-income units: 62
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WOODBRIDGE VILLAGE APTS (CAA20130118)
 
 - HUD ID: CAA20130118
-- HUD ID before: 
 - Project: WOODBRIDGE VILLAGE APTS
 - Address: 727 HUNT AVE
 - City: ST HELENA
-- State: CA
 - ZIP: 94574
-- ZIP extension: 
 - State project ID: CA-12-884
 - Latitude: 38.508894
 - Longitude: -122.464987
@@ -22,9 +19,7 @@
 - Place 2000: 64140
 - Place 1990: 2425
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 285170
 - Units: 50
 - Low-income units: 49
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

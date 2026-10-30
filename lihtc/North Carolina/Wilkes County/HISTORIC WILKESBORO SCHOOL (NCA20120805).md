@@ -1,13 +1,10 @@
 # Project: HISTORIC WILKESBORO SCHOOL (NCA20120805)
 
 - HUD ID: NCA20120805
-- HUD ID before: 
 - Project: HISTORIC WILKESBORO SCHOOL
 - Address: 215 W SOUTH STREET
 - City: WILKESBORO
-- State: NC
 - ZIP: 28697
-- ZIP extension: 
 - State project ID: 9107184
 - Latitude: 36.146706
 - Longitude: -81.154248
@@ -20,11 +17,8 @@
 - Place 2020: 74020
 - Place 2010: 74020
 - Place 2000: 74020
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 553983
 - Units: 41
 - Low-income units: 41
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 17
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

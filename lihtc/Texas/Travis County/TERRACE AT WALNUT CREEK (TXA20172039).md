@@ -1,13 +1,10 @@
 # Project: TERRACE AT WALNUT CREEK (TXA20172039)
 
 - HUD ID: TXA20172039
-- HUD ID before: 
 - Project: TERRACE AT WALNUT CREEK
 - Address: 8712 OLD MANOR ROAD
 - City: AUSTIN
-- State: TX
 - ZIP: 78724
-- ZIP extension: 
 - State project ID: TX5149
 - Latitude: 30.325541
 - Longitude: -97.640732
@@ -16,16 +13,10 @@
 - Tract 2020: 48453002220
 - Tract 2010: 48453002202
 - Tract 2000: 48453002202
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 05000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 324
 - Low-income units: 324
 - Units reported: 324
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

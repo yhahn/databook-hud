@@ -1,11 +1,9 @@
 # Project: PAXTON PLACE (PAA20191008)
 
 - HUD ID: PAA20191008
-- HUD ID before: 
 - Project: PAXTON PLACE
 - Address: 1100 S 20TH ST
 - City: HARRISBURG
-- State: PA
 - ZIP: 17104
 - ZIP extension: 2907
 - State project ID: TC20180424
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42043021400
 - Tract 2010: 42043021400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 32800
 - Place 2010: 32800
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 853013
 - Units: 37
 - Low-income units: 37
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

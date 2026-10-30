@@ -1,13 +1,10 @@
 # Project: SUNSET ON THE BAYOU (ALA20040092)
 
 - HUD ID: ALA20040092
-- HUD ID before: 
 - Project: SUNSET ON THE BAYOU
 - Address: 2001 BRILL RD
 - City: MOBILE
-- State: AL
 - ZIP: 36605
-- ZIP extension: 
 - State project ID: AL-01-0817
 - Latitude: 30.608177
 - Longitude: -88.084583
@@ -22,9 +19,7 @@
 - Place 2000: 50000
 - Place 1990: 1165
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 121515
 - Units: 104
 - Low-income units: 104
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 104
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2003090. AKA APARTMENTS HOUSING OF SUNSET.
 - Record status: Existing, unchanged

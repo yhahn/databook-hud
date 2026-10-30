@@ -1,11 +1,9 @@
 # Project: CRANE ORDWAY (MNB20069004)
 
 - HUD ID: MNB20069004
-- HUD ID before: 
 - Project: CRANE ORDWAY
 - Address: 281 EAST 5TH STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55101
 - ZIP extension: 2056
 - State project ID: D3813
@@ -16,15 +14,11 @@
 - Tract 2020: 27123034203
 - Tract 2010: 27123034202
 - Tract 2000: 27123034200
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 615869
 - Units: 70
 - Low-income units: 70
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 37
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -68,18 +61,9 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

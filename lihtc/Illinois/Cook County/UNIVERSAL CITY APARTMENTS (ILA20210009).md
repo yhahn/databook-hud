@@ -1,13 +1,10 @@
 # Project: UNIVERSAL CITY APARTMENTS (ILA20210009)
 
 - HUD ID: ILA20210009
-- HUD ID before: 
 - Project: UNIVERSAL CITY APARTMENTS
 - Address: 9510 SOUTH CONSTANCE AVENUE
 - City: CHICAGO
-- State: IL
 - ZIP: 60617
-- ZIP extension: 
 - State project ID: 007604
 - Latitude: 41.721519
 - Longitude: -87.57923
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 466647
 - Units: 159
 - Low-income units: 159
@@ -40,15 +35,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -59,8 +50,6 @@
 - TCEP amount: 0
 - HTF: No
 - HTF amount: 0
-- FHA: 
-- HOPE VI: 
 - HOPE VI amount: 0
 - RAD: No
 - QOZF: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

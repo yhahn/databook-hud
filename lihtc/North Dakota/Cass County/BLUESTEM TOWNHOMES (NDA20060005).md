@@ -1,13 +1,10 @@
 # Project: BLUESTEM TOWNHOMES (NDA20060005)
 
 - HUD ID: NDA20060005
-- HUD ID before: 
 - Project: BLUESTEM TOWNHOMES
 - Address: 4522 BLUE STEM CT S
 - City: FARGO
-- State: ND
 - ZIP: 58104
-- ZIP extension: 
 - State project ID: TC0502
 - Latitude: 46.812085
 - Longitude: -96.872555
@@ -20,11 +17,8 @@
 - Place 2020: 25700
 - Place 2010: 25700
 - Place 2000: 09320
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 316889
 - Units: 30
 - Low-income units: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

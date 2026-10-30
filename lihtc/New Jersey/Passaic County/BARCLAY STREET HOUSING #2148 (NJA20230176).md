@@ -1,13 +1,10 @@
 # Project: BARCLAY STREET HOUSING #2148 (NJA20230176)
 
 - HUD ID: NJA20230176
-- HUD ID before: 
 - Project: BARCLAY STREET HOUSING #2148
 - Address: 133-135 BARCLAY STREET
 - City: PATERSON CITY
-- State: NJ
 - ZIP: 07503
-- ZIP extension: 
 - State project ID: NJ-21-48
 - Latitude: 40.901484
 - Longitude: -74.168279
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 34031182900
 - Tract 2010: 34031182900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 57000
 - Place 2010: 57000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1199123
 - Units: 55
 - Low-income units: 55
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +55,6 @@
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Mental illness
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

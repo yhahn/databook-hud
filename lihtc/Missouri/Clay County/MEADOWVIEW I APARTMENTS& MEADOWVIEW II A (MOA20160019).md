@@ -1,11 +1,9 @@
 # Project: MEADOWVIEW I APARTMENTS& MEADOWVIEW II A (MOA20160019)
 
 - HUD ID: MOA20160019
-- HUD ID before: 
 - Project: MEADOWVIEW I APARTMENTS& MEADOWVIEW II A
 - Address: 201 LODWICK LANE
 - City: EXCELSIOR SPRINGS
-- State: MO
 - ZIP: 64024
 - ZIP extension: 0000
 - State project ID: 15-013
@@ -16,15 +14,11 @@
 - Tract 2020: 29047021701
 - Tract 2010: 29047021701
 - Tract 2000: 29047021700
-- Tract 1990: 
 - Place 2020: 23086
 - Place 2010: 23086
 - Place 2000: 23086
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 200000
 - Units: 36
 - Low-income units: 36
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,7 +41,6 @@
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: LIBERTY SQUARE & LIBERTY VILLAGE (TXA00001019)
 
 - HUD ID: TXA00001019
-- HUD ID before: 
 - Project: LIBERTY SQUARE & LIBERTY VILLAGE
 - Address: SCATTERED SITES SEE COMMENTS
 - City: GROESBECK
-- State: TX
 - ZIP: 76642
-- ZIP extension: 
 - State project ID: TX5147
 - Latitude: 31.5467
 - Longitude: -96.6523
@@ -16,16 +13,10 @@
 - Tract 2020: 48293970600
 - Tract 2010: 48293970600
 - Tract 2000: 48293970600
-- Tract 1990: 
 - Place 2020: 31280
 - Place 2010: 31280
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 80
 - Low-income units: 74
 - Units reported: 80
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -75,11 +65,4 @@
 - Other population named: Total Special Needs
 - Scattered site: Yes
 - Resyndicated: No
-- Metro: 
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

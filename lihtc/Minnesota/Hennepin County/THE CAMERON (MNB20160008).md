@@ -1,11 +1,9 @@
 # Project: THE CAMERON (MNB20160008)
 
 - HUD ID: MNB20160008
-- HUD ID before: 
 - Project: THE CAMERON
 - Address: 756 NORTH FOURTH STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55401
 - ZIP extension: 3809
 - State project ID: D7572
@@ -16,15 +14,11 @@
 - Tract 2020: 27053126201
 - Tract 2010: 27053126200
 - Tract 2000: 27053003501
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 261288
 - Units: 44
 - Low-income units: 44
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 3
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +60,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

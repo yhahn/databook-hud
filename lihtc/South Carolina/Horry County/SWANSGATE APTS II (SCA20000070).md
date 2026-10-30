@@ -1,13 +1,10 @@
 # Project: SWANSGATE APTS II (SCA20000070)
 
 - HUD ID: SCA20000070
-- HUD ID before: 
 - Project: SWANSGATE APTS II
 - Address: 1050 TENTH AVE N
 - City: MYRTLE BEACH
-- State: SC
 - ZIP: 29577
-- ZIP extension: 
 - State project ID: SC-98-006
 - Latitude: 33.618599
 - Longitude: -78.972764
@@ -22,9 +19,7 @@
 - Place 2000: 70585
 - Place 1990: 1402
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 113501
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: WESTMINSTER AT LONG COMMUNITY (PAA20120080)
 
 - HUD ID: PAA20120080
-- HUD ID before: 
 - Project: WESTMINSTER AT LONG COMMUNITY
 - Address: 600 E ROSEVILLE RD
 - City: LANCASTER
-- State: PA
 - ZIP: 17601
-- ZIP extension: 
 - State project ID: PA-TC-11-0434
 - Latitude: 40.073613
 - Longitude: -76.294155
@@ -19,12 +16,8 @@
 - Tract 1990: 42071011803
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 963173
 - Units: 61
 - Low-income units: 61
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 55
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PRAIRIEWOOD NORTH (NDA19960015)
 
 - HUD ID: NDA19960015
-- HUD ID before: 
 - Project: PRAIRIEWOOD NORTH
 - Address: 604 EIGHTH AVE S
 - City: WAHPETON
-- State: ND
 - ZIP: 58075
-- ZIP extension: 
 - State project ID: 94-02
 - Latitude: 46.25703
 - Longitude: -96.609955
@@ -22,9 +19,7 @@
 - Place 2000: 82660
 - Place 1990: 1680
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 48678
 - Units: 15
 - Low-income units: 15
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

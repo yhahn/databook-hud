@@ -1,13 +1,10 @@
 # Project: BRENTWOOD MANOR (IDA19939001)
 
 - HUD ID: IDA19939001
-- HUD ID before: 
 - Project: BRENTWOOD MANOR
 - Address: 3165 SOUTH APPLE STREET
 - City: BOISE
-- State: ID
 - ZIP: 83706
-- ZIP extension: 
 - State project ID: HC9107
 - Latitude: 43.581324
 - Longitude: -116.177006
@@ -16,15 +13,11 @@
 - Tract 2020: 16001000807
 - Tract 2010: 16001000804
 - Tract 2000: 16001000802
-- Tract 1990: 
 - Place 2020: 08830
 - Place 2010: 08830
 - Place 2000: 08830
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 301059
 - Units: 80
 - Low-income units: 80
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

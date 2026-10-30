@@ -1,11 +1,9 @@
 # Project: COMMUNITY PLAZA APARTMENTS (IAA20140040)
 
 - HUD ID: IAA20140040
-- HUD ID before: 
 - Project: COMMUNITY PLAZA APARTMENTS
 - Address: 125 CATHEDRAL OAKS RD
 - City: FOREST CITY
-- State: IA
 - ZIP: 50436
 - ZIP extension: 2249
 - State project ID: 13-13-41
@@ -22,9 +20,7 @@
 - Place 2000: 28380
 - Place 1990: 1505
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 243174
 - Units: 24
 - Low-income units: 24
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -49,22 +43,15 @@
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
-- HOME: 
-- HOME amount: 
 - CDBG: No
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

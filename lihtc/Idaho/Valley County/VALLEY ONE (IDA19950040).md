@@ -1,13 +1,10 @@
 # Project: VALLEY ONE (IDA19950040)
 
 - HUD ID: IDA19950040
-- HUD ID before: 
 - Project: VALLEY ONE
 - Address: 210 COLORADO STREET
 - City: MCCALL
-- State: ID
 - ZIP: 83638
-- ZIP extension: 
 - State project ID: HC9502
 - Latitude: 44.905773
 - Longitude: -116.100137
@@ -16,15 +13,11 @@
 - Tract 2020: 16085970301
 - Tract 2010: 16085970300
 - Tract 2000: 16085970300
-- Tract 1990: 
 - Place 2020: 48790
 - Place 2010: 48790
 - Place 2000: 48790
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 16362
 - Units: 8
 - Low-income units: 8
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

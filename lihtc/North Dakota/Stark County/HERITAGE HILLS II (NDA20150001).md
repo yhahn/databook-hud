@@ -1,11 +1,9 @@
 # Project: HERITAGE HILLS II (NDA20150001)
 
 - HUD ID: NDA20150001
-- HUD ID before: 
 - Project: HERITAGE HILLS II
 - Address: 2585 DAKOTA BLVD
 - City: ABERCROMBIE
-- State: ND
 - ZIP: 58601
 - ZIP extension: 0000
 - State project ID: TC1405
@@ -16,15 +14,10 @@
 - Tract 2020: 38089963501
 - Tract 2010: 38089963500
 - Tract 2000: 38089963600
-- Tract 1990: 
 - Place 2020: 19620
 - Place 2010: 19620
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 636179
 - Units: 39
 - Low-income units: 39
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

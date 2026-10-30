@@ -1,13 +1,10 @@
 # Project: DARSON MARIE TERRACE (TXA00001004)
 
 - HUD ID: TXA00001004
-- HUD ID before: 
 - Project: DARSON MARIE TERRACE
 - Address: 115 DARSON MARIE
 - City: SAN ANTONIO
-- State: TX
 - ZIP: 78226
-- ZIP extension: 
 - State project ID: TX4609
 - Latitude: 29.398197
 - Longitude: -98.5551
@@ -16,16 +13,11 @@
 - Tract 2020: 48029160702
 - Tract 2010: 48029160702
 - Tract 2000: 48029160702
-- Tract 1990: 
 - Place 2020: 65000
 - Place 2010: 65000
 - Place 2000: 65000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 57
 - Low-income units: 57
 - Units reported: 57
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 56
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: No
@@ -72,14 +62,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

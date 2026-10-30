@@ -1,11 +1,9 @@
 # Project: WHITETAIL RUN APARTMENTS (MTA20110045)
 
 - HUD ID: MTA20110045
-- HUD ID before: 
 - Project: WHITETAIL RUN APARTMENTS
 - Address: 335 - 349 SIOUX LANE
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: 09030
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 38000
 - Units: 32
 - Low-income units: 32
@@ -53,7 +49,6 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
@@ -78,8 +73,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA2011511.
 - Record status: Updated

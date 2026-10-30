@@ -1,11 +1,9 @@
 # Project: PLAZA APARTMENTS (PRA20150004)
 
 - HUD ID: PRA20150004
-- HUD ID before: 
 - Project: PLAZA APARTMENTS
 - Address: 19 JOSE I. QUINTON ST&
 - City: COAMO
-- State: PR
 - ZIP: 00769
 - ZIP extension: 0000
 - State project ID: 12-004
@@ -16,15 +14,10 @@
 - Tract 2020: 72043954300
 - Tract 2010: 72043954300
 - Tract 2000: 72043954100
-- Tract 1990: 
 - Place 2020: 18719
 - Place 2010: 18719
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 865573
 - Units: 60
 - Low-income units: 60
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

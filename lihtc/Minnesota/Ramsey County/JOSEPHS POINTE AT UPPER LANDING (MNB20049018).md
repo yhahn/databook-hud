@@ -1,11 +1,9 @@
 # Project: JOSEPHS POINTE AT UPPER LANDING (MNB20049018)
 
 - HUD ID: MNB20049018
-- HUD ID before: 
 - Project: JOSEPHS POINTE AT UPPER LANDING
 - Address: 200 WILKIN STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55102
 - ZIP extension: 4428
 - State project ID: D3595
@@ -16,15 +14,11 @@
 - Tract 2020: 27123036000
 - Tract 2010: 27123036000
 - Tract 2000: 27123036000
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 515280
 - Units: 90
 - Low-income units: 90
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -68,18 +60,8 @@
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

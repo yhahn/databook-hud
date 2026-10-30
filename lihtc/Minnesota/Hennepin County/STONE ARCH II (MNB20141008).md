@@ -1,11 +1,9 @@
 # Project: STONE ARCH II (MNB20141008)
 
 - HUD ID: MNB20141008
-- HUD ID before: 
 - Project: STONE ARCH II
 - Address: 520 SECOND STREET SE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55414
 - ZIP extension: 3851
 - State project ID: D6344
@@ -16,15 +14,11 @@
 - Tract 2020: 27053103700
 - Tract 2010: 27053103700
 - Tract 2000: 27053103700
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 553237
 - Units: 91
 - Low-income units: 91
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 7
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,10 +60,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: General Occupancy
 - Scattered site: No
@@ -78,8 +67,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

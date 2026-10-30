@@ -1,13 +1,10 @@
 # Project: BYHALIA ESTATES (MSA20020010)
 
 - HUD ID: MSA20020010
-- HUD ID before: 
 - Project: BYHALIA ESTATES
 - Address: 99 STONEWALL RD
 - City: BYHALIA
-- State: MS
 - ZIP: 38611
-- ZIP extension: 
 - State project ID: MS-02-003
 - Latitude: 34.859966
 - Longitude: -89.691864
@@ -20,11 +17,8 @@
 - Place 2020: 10060
 - Place 2010: 10060
 - Place 2000: 10060
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 37000
 - Units: 25
 - Low-income units: 25
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,6 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

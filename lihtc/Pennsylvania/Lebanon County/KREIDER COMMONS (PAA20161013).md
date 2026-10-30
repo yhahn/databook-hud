@@ -1,11 +1,9 @@
 # Project: KREIDER COMMONS (PAA20161013)
 
 - HUD ID: PAA20161013
-- HUD ID before: 
 - Project: KREIDER COMMONS
 - Address: 631 N 8TH ST
 - City: LEBANON
-- State: PA
 - ZIP: 17046
 - ZIP extension: 3521
 - State project ID: TC20140419
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42075000401
 - Tract 2010: 42075000401
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 42168
 - Place 2010: 42168
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 967495
 - Units: 50
 - Low-income units: 50
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -62,8 +51,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

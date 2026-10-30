@@ -1,13 +1,10 @@
 # Project: LENOX STATION APTS (NCA20030110)
 
 - HUD ID: NCA20030110
-- HUD ID before: 
 - Project: LENOX STATION APTS
 - Address: 510 S CAROLINE STREET
 - City: ROCKINGHAM
-- State: NC
 - ZIP: 28379
-- ZIP extension: 
 - State project ID: 9001303
 - Latitude: 34.931369
 - Longitude: -79.777365
@@ -22,9 +19,7 @@
 - Place 2000: 57260
 - Place 1990: 0780
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 240957
 - Units: 41
 - Low-income units: 41
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 41
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

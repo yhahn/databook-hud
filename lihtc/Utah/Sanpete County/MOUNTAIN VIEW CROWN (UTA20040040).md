@@ -1,11 +1,9 @@
 # Project: MOUNTAIN VIEW CROWN (UTA20040040)
 
 - HUD ID: UTA20040040
-- HUD ID before: 
 - Project: MOUNTAIN VIEW CROWN
 - Address: 460 EAST 335 NORTH
 - City: MT. PLEASANT
-- State: UT
 - ZIP: 84647
 - ZIP extension: 0000
 - State project ID: 2002-05
@@ -13,18 +11,13 @@
 - Longitude: -111.44643
 - County FIPS: 49039
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49039972100
 - Tract 2000: 49039972100
 - Tract 1990: 49039972100
-- Place 2020: 
 - Place 2010: 53010
-- Place 2000: 
 - Place 1990: 0635
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 50614
 - Units: 6
 - Low-income units: 6
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

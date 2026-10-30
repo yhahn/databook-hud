@@ -1,13 +1,10 @@
 # Project: NORTH CENTER SENIOR APARTMENTS (ILB20050809)
 
 - HUD ID: ILB20050809
-- HUD ID before: 
 - Project: NORTH CENTER SENIOR APARTMENTS
 - Address: 2324 W IRVING PARK ROAD
 - City: CHICAGO
-- State: IL
 - ZIP: 60618
-- ZIP extension: 
 - State project ID: TC-04-002
 - Latitude: 41.954279
 - Longitude: -87.686568
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 895476
 - Units: 104
 - Low-income units: 84
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2005802.
 - Record status: Existing, unchanged

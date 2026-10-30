@@ -1,13 +1,10 @@
 # Project: PINNACLE AT AVERY GLEN (FLA20120110)
 
 - HUD ID: FLA20120110
-- HUD ID before: 
 - Project: PINNACLE AT AVERY GLEN
 - Address: 3871 N PINE ISLAND RD
 - City: SUNRISE
-- State: FL
 - ZIP: 33351
-- ZIP extension: 
 - State project ID: 2492
 - Latitude: 26.172763
 - Longitude: -80.26795
@@ -22,9 +19,7 @@
 - Place 2000: 69700
 - Place 1990: 2047
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 2150000
 - Units: 140
 - Low-income units: 140
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,19 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 6190000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: LINK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

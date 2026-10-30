@@ -1,13 +1,10 @@
 # Project: ROBERT R. TAYLOR SENIOR HOMES (NCA20080150)
 
 - HUD ID: NCA20080150
-- HUD ID before: 
 - Project: ROBERT R. TAYLOR SENIOR HOMES
 - Address: 1308 5TH STREET NORTH
 - City: WILMINGTON
-- State: NC
 - ZIP: 28401
-- ZIP extension: 
 - State project ID: 9000656
 - Latitude: 34.250418
 - Longitude: -77.944902
@@ -19,12 +16,9 @@
 - Tract 1990: 37129011400
 - Place 2020: 74440
 - Place 2010: 74440
-- Place 2000: 
 - Place 1990: 2755
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 1233643
 - Units: 96
 - Low-income units: 96
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 39
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: AUTUMN TRACE APTS (NCA20060025)
 
 - HUD ID: NCA20060025
-- HUD ID before: 
 - Project: AUTUMN TRACE APTS
 - Address: 2401 FALL LANE
 - City: RALEIGH
-- State: NC
 - ZIP: 27604
-- ZIP extension: 
 - State project ID: 9001145
 - Latitude: 35.812204
 - Longitude: -78.577786
@@ -19,12 +16,9 @@
 - Tract 1990: 37183052703
 - Place 2020: 55000
 - Place 2010: 55000
-- Place 2000: 
 - Place 1990: 2020
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 221033
 - Units: 34
 - Low-income units: 34
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 14
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

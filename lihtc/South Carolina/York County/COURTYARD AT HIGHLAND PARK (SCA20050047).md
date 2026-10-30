@@ -1,13 +1,10 @@
 # Project: COURTYARD AT HIGHLAND PARK (SCA20050047)
 
 - HUD ID: SCA20050047
-- HUD ID before: 
 - Project: COURTYARD AT HIGHLAND PARK
 - Address: 923 STANDARD ST
 - City: ROCK HILL
-- State: SC
 - ZIP: 29730
-- ZIP extension: 
 - State project ID: SC-50-104
 - Latitude: 34.920786
 - Longitude: -81.011374
@@ -22,9 +19,7 @@
 - Place 2000: 61405
 - Place 1990: 1195
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 326980
 - Units: 116
 - Low-income units: 116
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 365000
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2006105.
 - Record status: Existing, unchanged

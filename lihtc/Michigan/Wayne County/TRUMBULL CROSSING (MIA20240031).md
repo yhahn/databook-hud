@@ -1,11 +1,9 @@
 # Project: TRUMBULL CROSSING (MIA20240031)
 
 - HUD ID: MIA20240031
-- HUD ID before: 
 - Project: TRUMBULL CROSSING
 - Address: 5500 TRUMBULL
 - City: DETROIT
-- State: MI
 - ZIP: 48208
 - ZIP extension: 0000
 - State project ID: 300
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26163522400
 - Tract 2010: 26163522400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 1779416
 - Units: 245
 - Low-income units: 245
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 5000000
 - CDBG: No
@@ -72,14 +62,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: WESTBRIDGE COMMONS (VAA20000447)
 
 - HUD ID: VAA20000447
-- HUD ID before: 
 - Project: WESTBRIDGE COMMONS
 - Address: 537 CEDAR RD
 - City: CHESAPEAKE
-- State: VA
 - ZIP: 23322
-- ZIP extension: 
 - State project ID: 5620
 - Latitude: 36.71274
 - Longitude: -76.255116
@@ -22,9 +19,7 @@
 - Place 2000: 16000
 - Place 1990: 0242
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 201558
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1999280.
 - Record status: Existing, unchanged

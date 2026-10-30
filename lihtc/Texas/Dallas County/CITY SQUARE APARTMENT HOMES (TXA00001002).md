@@ -1,13 +1,10 @@
 # Project: CITY SQUARE APARTMENT HOMES (TXA00001002)
 
 - HUD ID: TXA00001002
-- HUD ID before: 
 - Project: CITY SQUARE APARTMENT HOMES
 - Address: 705 WEST AVENUE B
 - City: GARLAND
-- State: TX
 - ZIP: 75040
-- ZIP extension: 
 - State project ID: TX5134
 - Latitude: 32.91098
 - Longitude: -96.639103
@@ -16,16 +13,11 @@
 - Tract 2020: 48113018802
 - Tract 2010: 48113018802
 - Tract 2000: 48113018802
-- Tract 1990: 
 - Place 2020: 29000
 - Place 2010: 29000
 - Place 2000: 29000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2017
-- Allocation year note: 
-- Allocation amount: 
 - Units: 126
 - Low-income units: 88
 - Units reported: 126
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

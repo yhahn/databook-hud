@@ -1,13 +1,10 @@
 # Project: ROYAL ARMS (VAA20192008)
 
 - HUD ID: VAA20192008
-- HUD ID before: 
 - Project: ROYAL ARMS
 - Address: 425 E CRISER ROAD
 - City: FRONT ROYAL
-- State: VA
 - ZIP: 22630
-- ZIP extension: 
 - State project ID: 8226
 - Latitude: 38.905929
 - Longitude: -78.188551
@@ -22,9 +19,7 @@
 - Place 2000: 29968
 - Place 1990: 0515
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 673577
 - Units: 144
 - Low-income units: 144
@@ -40,15 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 86
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

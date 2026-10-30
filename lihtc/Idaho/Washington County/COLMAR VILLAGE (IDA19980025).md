@@ -1,13 +1,10 @@
 # Project: COLMAR VILLAGE (IDA19980025)
 
 - HUD ID: IDA19980025
-- HUD ID before: 
 - Project: COLMAR VILLAGE
 - Address: 1325 WEST 6TH STREET
 - City: WEISER
-- State: ID
 - ZIP: 83672
-- ZIP extension: 
 - State project ID: HC9716
 - Latitude: 44.255151
 - Longitude: -116.977617
@@ -22,9 +19,7 @@
 - Place 2000: 86140
 - Place 1990: 1000
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 94703
 - Units: 20
 - Low-income units: 20
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HEIGHTS ON PARMER APARTMENTS (TXA20166486)
 
 - HUD ID: TXA20166486
-- HUD ID before: 
 - Project: HEIGHTS ON PARMER APARTMENTS
 - Address: 1500 EAST PARMER LANE
 - City: AUSTIN
-- State: TX
 - ZIP: 78753
-- ZIP extension: 
 - State project ID: TX5050
 - Latitude: 30.390298
 - Longitude: -97.652073
@@ -15,17 +12,10 @@
 - County from: 2020
 - Tract 2020: 48453043900
 - Tract 2010: 48453001839
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 05000
 - Place 2010: 05000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
-- Allocation amount: 
 - Units: 252
 - Low-income units: 252
 - Units reported: 252
@@ -40,15 +30,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +49,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

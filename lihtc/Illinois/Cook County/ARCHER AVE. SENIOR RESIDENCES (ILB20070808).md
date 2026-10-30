@@ -1,13 +1,10 @@
 # Project: ARCHER AVE. SENIOR RESIDENCES (ILB20070808)
 
 - HUD ID: ILB20070808
-- HUD ID before: 
 - Project: ARCHER AVE. SENIOR RESIDENCES
 - Address: 2928 S. ARCHER AVE.
 - City: CHICAGO
-- State: IL
 - ZIP: 60608
-- ZIP extension: 
 - State project ID: IL-05-010
 - Latitude: 41.841085
 - Longitude: -87.659571
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 668363
 - Units: 55
 - Low-income units: 55
@@ -39,16 +34,12 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2007005.
 - Record status: Existing, unchanged

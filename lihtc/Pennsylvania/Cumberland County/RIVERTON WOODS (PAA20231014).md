@@ -1,11 +1,9 @@
 # Project: RIVERTON WOODS (PAA20231014)
 
 - HUD ID: PAA20231014
-- HUD ID before: 
 - Project: RIVERTON WOODS
 - Address: 400 N 12TH ST
 - City: LEMOYNE
-- State: PA
 - ZIP: 17403
 - ZIP extension: 1439
 - State project ID: TC20210465
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42041010600
 - Tract 2010: 42041010600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 42648
 - Place 2010: 42648
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1048886
 - Units: 40
 - Low-income units: 40
@@ -44,11 +36,9 @@
 - Affordability years: 40
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

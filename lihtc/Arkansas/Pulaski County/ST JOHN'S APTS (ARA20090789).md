@@ -1,13 +1,10 @@
 # Project: ST JOHN'S APTS (ARA20090789)
 
 - HUD ID: ARA20090789
-- HUD ID before: 
 - Project: ST JOHN'S APTS
 - Address: 5001 W 65TH ST
 - City: LITTLE ROCK
-- State: AR
 - ZIP: 72209
-- ZIP extension: 
 - State project ID: AR-09-01-001
 - Latitude: 34.690129
 - Longitude: -92.331843
@@ -22,9 +19,7 @@
 - Place 2000: 41000
 - Place 1990: 1195
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 313561
 - Units: 224
 - Low-income units: 224
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ARA2009039, ARA2008100.
 - Record status: Existing, unchanged

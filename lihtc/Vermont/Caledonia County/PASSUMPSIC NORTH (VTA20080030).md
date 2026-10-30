@@ -1,13 +1,10 @@
 # Project: PASSUMPSIC NORTH (VTA20080030)
 
 - HUD ID: VTA20080030
-- HUD ID before: 
 - Project: PASSUMPSIC NORTH
 - Address: 82 N AVE
 - City: ST JOHNSBURY
-- State: VT
 - ZIP: 05819
-- ZIP extension: 
 - State project ID: 0375
 - Latitude: 44.421406
 - Longitude: -72.01612
@@ -22,9 +19,7 @@
 - Place 2000: 62125
 - Place 1990: 2268
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 54011
 - Units: 14
 - Low-income units: 14
@@ -38,14 +33,9 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: SKYVIEW APARTMENTS (NVA19940035)
 
 - HUD ID: NVA19940035
-- HUD ID before: 
 - Project: SKYVIEW APARTMENTS
 - Address: 1590 SKY VALLEY DRIVE
 - City: RENO
-- State: NV
 - ZIP: 89503
 - ZIP extension: 0000
 - State project ID: 92-5
@@ -22,9 +20,7 @@
 - Place 2000: 60600
 - Place 1990: 0090
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 275931
 - Units: 100
 - Low-income units: 55
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +63,7 @@
 - Other population: Yes
 - Other population named: HANDICAPPED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA1993015.
 - Record status: Existing, unchanged

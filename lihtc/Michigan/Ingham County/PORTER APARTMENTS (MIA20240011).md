@@ -1,11 +1,9 @@
 # Project: PORTER APARTMENTS (MIA20240011)
 
 - HUD ID: MIA20240011
-- HUD ID before: 
 - Project: PORTER APARTMENTS
 - Address: 505 TOWNSEND STREET
 - City: LANSING
-- State: MI
 - ZIP: 48933
 - ZIP extension: 0000
 - State project ID: 3747
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26065006700
 - Tract 2010: 26065006700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 46000
 - Place 2010: 46000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 1016108
 - Units: 98
 - Low-income units: 98
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: KINGSWOOD APTS II (MSA19880108)
 
 - HUD ID: MSA19880108
-- HUD ID before: 
 - Project: KINGSWOOD APTS II
 - Address: 500 KINGSWOOD DR
 - City: MT OLIVE
-- State: MS
 - ZIP: 39119
-- ZIP extension: 
 - State project ID: 88-068
 - Latitude: 31.74871
 - Longitude: -89.647582
@@ -20,12 +17,8 @@
 - Place 2020: 49520
 - Place 2010: 49520
 - Place 2000: 15140
-- Place 1990: 
 - Year placed in service: 1988
-- Placed in service note: 
 - Allocation year: 1988
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

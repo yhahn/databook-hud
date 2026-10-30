@@ -1,11 +1,9 @@
 # Project: CARMEL RIDGE APARTMENTS (NCA20141006)
 
 - HUD ID: NCA20141006
-- HUD ID before: 
 - Project: CARMEL RIDGE APARTMENTS
 - Address: 15 CARMEL RIDGE CIR
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28806
 - ZIP extension: 0048
 - State project ID: 9134668
@@ -16,15 +14,10 @@
 - Tract 2020: 37021002606
 - Tract 2010: 37021002606
 - Tract 2000: 37021002602
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 749341
 - Units: 80
 - Low-income units: 80
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,23 +55,12 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

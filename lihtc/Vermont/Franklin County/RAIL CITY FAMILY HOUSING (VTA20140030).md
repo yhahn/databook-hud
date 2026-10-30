@@ -1,13 +1,10 @@
 # Project: RAIL CITY FAMILY HOUSING (VTA20140030)
 
 - HUD ID: VTA20140030
-- HUD ID before: 
 - Project: RAIL CITY FAMILY HOUSING
 - Address: 101 FAIRFIELD ST
 - City: ST ALBANS
-- State: VT
 - ZIP: 05478
-- ZIP extension: 
 - State project ID: 0094
 - Latitude: 44.808103
 - Longitude: -73.076245
@@ -22,9 +19,7 @@
 - Place 2000: 61675
 - Place 1990: 2240
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 116387
 - Units: 31
 - Low-income units: 28
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

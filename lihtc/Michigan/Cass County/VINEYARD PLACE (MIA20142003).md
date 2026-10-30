@@ -1,11 +1,9 @@
 # Project: VINEYARD PLACE (MIA20142003)
 
 - HUD ID: MIA20142003
-- HUD ID before: 
 - Project: VINEYARD PLACE
 - Address: 508 VINEYARD PLACE DRIVE
 - City: DOWAGIAC
-- State: MI
 - ZIP: 49047
 - ZIP extension: 0000
 - State project ID: 600
@@ -16,15 +14,11 @@
 - Tract 2020: 26027002100
 - Tract 2010: 26027002100
 - Tract 2000: 26027000400
-- Tract 1990: 
 - Place 2020: 22880
 - Place 2010: 22880
 - Place 2000: 22880
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 368252
 - Units: 120
 - Low-income units: 120
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

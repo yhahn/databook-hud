@@ -1,13 +1,10 @@
 # Project: LAKESIDE TOWERS (MIA20130010)
 
 - HUD ID: MIA20130010
-- HUD ID before: 
 - Project: LAKESIDE TOWERS
 - Address: 15000 SHORELINE DR
 - City: STERLING HEIGHTS
-- State: MI
 - ZIP: 48313
-- ZIP extension: 
 - State project ID: MI-3512
 - Latitude: 42.619652
 - Longitude: -82.975469
@@ -22,9 +19,7 @@
 - Place 2000: 76460
 - Place 1990: 2583
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1193313
 - Units: 115
 - Low-income units: 114
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

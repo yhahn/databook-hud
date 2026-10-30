@@ -1,13 +1,10 @@
 # Project: WILLOW POND APTS (NCA19940565)
 
 - HUD ID: NCA19940565
-- HUD ID before: 
 - Project: WILLOW POND APTS
 - Address: 3508 3525 FROG POND PLACE
 - City: WILMINGTON
-- State: NC
 - ZIP: 28403
-- ZIP extension: 
 - State project ID: 9002171
 - Latitude: 34.2169
 - Longitude: -77.852
@@ -19,12 +16,9 @@
 - Tract 1990: 37129010502
 - Place 2020: 74440
 - Place 2010: 74440
-- Place 2000: 
 - Place 1990: 2755
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 103899
 - Units: 34
 - Low-income units: 34
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

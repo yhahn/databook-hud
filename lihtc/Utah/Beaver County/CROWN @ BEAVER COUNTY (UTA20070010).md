@@ -1,11 +1,9 @@
 # Project: CROWN @ BEAVER COUNTY (UTA20070010)
 
 - HUD ID: UTA20070010
-- HUD ID before: 
 - Project: CROWN @ BEAVER COUNTY
 - Address: 115 WEST 400 SOUTH
 - City: BEAVER
-- State: UT
 - ZIP: 84752
 - ZIP extension: 0000
 - State project ID: 2007-08
@@ -22,9 +20,7 @@
 - Place 2000: 04060
 - Place 1990: 0050
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 82666
 - Units: 5
 - Low-income units: 5
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

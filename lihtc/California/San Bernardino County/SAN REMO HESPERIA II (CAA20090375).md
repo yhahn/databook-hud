@@ -1,13 +1,10 @@
 # Project: SAN REMO HESPERIA II (CAA20090375)
 
 - HUD ID: CAA20090375
-- HUD ID before: 
 - Project: SAN REMO HESPERIA II
 - Address: 9055 SANTA FE AVE E
 - City: HESPERIA
-- State: CA
 - ZIP: 92345
-- ZIP extension: 
 - State project ID: CA-08-021
 - Latitude: 34.415675
 - Longitude: -117.302336
@@ -22,9 +19,7 @@
 - Place 2000: 33434
 - Place 1990: 1251
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 1128889
 - Units: 58
 - Low-income units: 58
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2009370. AKA SAN REMO II.
 - Record status: Existing, unchanged

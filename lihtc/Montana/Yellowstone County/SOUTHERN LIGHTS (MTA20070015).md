@@ -1,11 +1,9 @@
 # Project: SOUTHERN LIGHTS (MTA20070015)
 
 - HUD ID: MTA20070015
-- HUD ID before: 
 - Project: SOUTHERN LIGHTS
 - Address: 801 SOUTH 28TH ST
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: 06020
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 450000
 - Units: 20
 - Low-income units: 20
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

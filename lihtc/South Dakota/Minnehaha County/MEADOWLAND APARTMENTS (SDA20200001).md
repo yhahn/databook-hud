@@ -1,13 +1,10 @@
 # Project: MEADOWLAND APARTMENTS (SDA20200001)
 
 - HUD ID: SDA20200001
-- HUD ID before: 
 - Project: MEADOWLAND APARTMENTS
 - Address: 3501 MARION ROAD
 - City: SIOUX FALLS
-- State: SD
 - ZIP: 57106
-- ZIP extension: 
 - State project ID: 01135
 - Latitude: 43.51405
 - Longitude: -96.791186
@@ -22,9 +19,7 @@
 - Place 2000: 59020
 - Place 1990: 1225
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 392600
 - Units: 119
 - Low-income units: 119
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,23 +55,11 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

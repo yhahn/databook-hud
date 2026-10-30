@@ -1,13 +1,10 @@
 # Project: SANTA ANA STATION DISTRICT PHASE I (CAA20130082)
 
 - HUD ID: CAA20130082
-- HUD ID before: 
 - Project: SANTA ANA STATION DISTRICT PHASE I
 - Address: 616 N LACY ST
 - City: SANTA ANA
-- State: CA
 - ZIP: 92701
-- ZIP extension: 
 - State project ID: CA-11-020
 - Latitude: 33.749827
 - Longitude: -117.860916
@@ -22,9 +19,7 @@
 - Place 2000: 69000
 - Place 1990: 2570
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1358548
 - Units: 74
 - Low-income units: 73
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 73
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

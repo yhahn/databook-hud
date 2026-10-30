@@ -1,13 +1,10 @@
 # Project: SOUTH GLEN VILLAGE (NDA20020025)
 
 - HUD ID: NDA20020025
-- HUD ID before: 
 - Project: SOUTH GLEN VILLAGE
 - Address: 1947 HIAWATHA ST
 - City: MINOT
-- State: ND
 - ZIP: 58701
-- ZIP extension: 
 - State project ID: TC0112
 - Latitude: 48.215872
 - Longitude: -101.279492
@@ -22,9 +19,7 @@
 - Place 2000: 53380
 - Place 1990: 1140
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 297807
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: ROSELANE APTS. (UTA19940095)
 
 - HUD ID: UTA19940095
-- HUD ID before: 
 - Project: ROSELANE APTS.
 - Address: 105 SOUTH FAIRFIELD ROAD
 - City: LAYTON
-- State: UT
 - ZIP: 84041
 - ZIP extension: 0000
 - State project ID: 1992-13
@@ -22,9 +20,7 @@
 - Place 2000: 43660
 - Place 1990: 0480
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 243470
 - Units: 64
 - Low-income units: 64
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

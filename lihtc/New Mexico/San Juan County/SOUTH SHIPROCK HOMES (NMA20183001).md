@@ -1,13 +1,10 @@
 # Project: SOUTH SHIPROCK HOMES (NMA20183001)
 
 - HUD ID: NMA20183001
-- HUD ID before: 
 - Project: SOUTH SHIPROCK HOMES
 - Address: INTERSECTION OF HWY 491 AND SCHOOLHOUSE ROAD
 - City: SHIPROCK
-- State: NM
 - ZIP: 87420
-- ZIP extension: 
 - State project ID: TC15310
 - Latitude: 36.434
 - Longitude: -108.8146
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 35045942900
 - Tract 2010: 35045942900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 802175
 - Units: 255
 - Low-income units: 255
@@ -39,9 +30,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -65,12 +53,7 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Tribal
 - Scattered site: Yes
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

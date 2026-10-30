@@ -1,13 +1,10 @@
 # Project: PERRY RIDGE APTS (ALA20110574)
 
 - HUD ID: ALA20110574
-- HUD ID before: 
 - Project: PERRY RIDGE APTS
 - Address: 1005 FIKES FERRY RD
 - City: MARION
-- State: AL
 - ZIP: 36756
-- ZIP extension: 
 - State project ID: AL-08-0058
 - Latitude: 32.610099
 - Longitude: -87.297436
@@ -22,10 +19,7 @@
 - Place 2000: 46768
 - Place 1990: 1120
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 47
 - Low-income units: 47
 - Units reported: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 3607720
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2011060, ALA2009042, ALA2008170, ALA1990030. AKA COLONIAL MANOR APTS.
 - Record status: Existing, unchanged

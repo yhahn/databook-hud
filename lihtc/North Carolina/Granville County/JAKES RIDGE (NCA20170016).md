@@ -1,13 +1,10 @@
 # Project: JAKES RIDGE (NCA20170016)
 
 - HUD ID: NCA20170016
-- HUD ID before: 
 - Project: JAKES RIDGE
 - Address: 800 MITTENZWEI LANE
 - City: OXFORD
-- State: NC
 - ZIP: 27565
-- ZIP extension: 
 - State project ID: 9167964
 - Latitude: 36.2907
 - Longitude: -78.5952
@@ -22,9 +19,7 @@
 - Place 2000: 49800
 - Place 1990: 1870
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 479950
 - Units: 65
 - Low-income units: 64
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 17
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

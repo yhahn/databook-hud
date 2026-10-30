@@ -1,13 +1,10 @@
 # Project: RURAL HILL APTS (NCA20030165)
 
 - HUD ID: NCA20030165
-- HUD ID before: 
 - Project: RURAL HILL APTS
 - Address: 410 HEATHERTON LANE
 - City: RURAL HALL
-- State: NC
 - ZIP: 27405
-- ZIP extension: 
 - State project ID: 9001737
 - Latitude: 36.237097
 - Longitude: -80.299837
@@ -20,11 +17,8 @@
 - Place 2020: 58360
 - Place 2010: 58360
 - Place 2000: 58360
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 69189
 - Units: 32
 - Low-income units: 32
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 13
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

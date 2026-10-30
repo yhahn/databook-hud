@@ -1,13 +1,10 @@
 # Project: APPLEGATE APTS (ALA19930003)
 
 - HUD ID: ALA19930003
-- HUD ID before: 
 - Project: APPLEGATE APTS
 - Address: 162 ROSE DR
 - City: FLORENCE
-- State: AL
 - ZIP: 35630
-- ZIP extension: 
 - State project ID: AL-93-0058
 - Latitude: 34.858383
 - Longitude: -87.669154
@@ -22,9 +19,7 @@
 - Place 2000: 26896
 - Place 1990: 0640
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 144063
 - Units: 36
 - Low-income units: 36
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1114104
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1994005.
 - Record status: Existing, unchanged

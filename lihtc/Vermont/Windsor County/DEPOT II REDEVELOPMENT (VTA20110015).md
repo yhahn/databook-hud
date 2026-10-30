@@ -1,13 +1,10 @@
 # Project: DEPOT II REDEVELOPMENT (VTA20110015)
 
 - HUD ID: VTA20110015
-- HUD ID before: 
 - Project: DEPOT II REDEVELOPMENT
 - Address: 68 MAIN ST
 - City: BETHEL
-- State: VT
 - ZIP: 05032
-- ZIP extension: 
 - State project ID: 0048
 - Latitude: 43.829279
 - Longitude: -72.631098
@@ -19,12 +16,8 @@
 - Tract 1990: 50027965200
 - Place 2020: 05725
 - Place 2010: 05725
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 74596
 - Units: 10
 - Low-income units: 10
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VTA1993027, VTA1993010. AKA DEPOT II.
 - Record status: Existing, unchanged

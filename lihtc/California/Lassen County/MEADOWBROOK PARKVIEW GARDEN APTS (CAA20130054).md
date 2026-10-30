@@ -1,13 +1,10 @@
 # Project: MEADOWBROOK PARKVIEW GARDEN APTS (CAA20130054)
 
 - HUD ID: CAA20130054
-- HUD ID before: 
 - Project: MEADOWBROOK PARKVIEW GARDEN APTS
 - Address: 320 LIMONERIA AVE
 - City: SUSANVILLE
-- State: CA
 - ZIP: 96130
-- ZIP extension: 
 - State project ID: CA-12-056
 - Latitude: 40.411673
 - Longitude: -120.652271
@@ -22,9 +19,7 @@
 - Place 2000: 77364
 - Place 1990: 2845
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 678657
 - Units: 90
 - Low-income units: 87
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 78
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

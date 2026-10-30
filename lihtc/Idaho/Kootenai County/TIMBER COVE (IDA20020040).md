@@ -1,13 +1,10 @@
 # Project: TIMBER COVE (IDA20020040)
 
 - HUD ID: IDA20020040
-- HUD ID before: 
 - Project: TIMBER COVE
 - Address: 8131 WEST MONTANA STREET
 - City: RATHDRUM
-- State: ID
 - ZIP: 83858
-- ZIP extension: 
 - State project ID: HC0209
 - Latitude: 47.804398
 - Longitude: -116.896155
@@ -20,11 +17,8 @@
 - Place 2020: 66340
 - Place 2010: 66340
 - Place 2000: 66340
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 154441
 - Units: 22
 - Low-income units: 21
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

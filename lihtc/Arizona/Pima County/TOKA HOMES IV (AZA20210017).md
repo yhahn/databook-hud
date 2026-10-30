@@ -1,13 +1,10 @@
 # Project: TOKA HOMES IV (AZA20210017)
 
 - HUD ID: AZA20210017
-- HUD ID before: 
 - Project: TOKA HOMES IV
 - Address: 101 W. CEMAMAG WO:G
 - City: SELLS
-- State: AZ
 - ZIP: 85634
-- ZIP extension: 
 - State project ID: TC-0936-19
 - Latitude: 31.9626
 - Longitude: -111.8439
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 04019940800
 - Tract 2010: 04019940800
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 01570
 - Place 2010: 01570
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1025125
 - Units: 29
 - Low-income units: 29
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Tenant Lease Purchase
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

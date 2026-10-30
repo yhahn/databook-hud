@@ -1,13 +1,10 @@
 # Project: OAK LEAF 2 (MEA20120025)
 
 - HUD ID: MEA20120025
-- HUD ID before: 
 - Project: OAK LEAF 2
 - Address: 24 S ST
 - City: FREEPORT
-- State: ME
 - ZIP: 04032
-- ZIP extension: 
 - State project ID: MSHARLP1520
 - Latitude: 43.854189
 - Longitude: -70.100577
@@ -20,11 +17,8 @@
 - Place 2020: 26490
 - Place 2010: 26490
 - Place 2000: 26490
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 498279
 - Units: 25
 - Low-income units: 25
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

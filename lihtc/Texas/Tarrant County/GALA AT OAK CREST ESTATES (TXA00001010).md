@@ -1,13 +1,10 @@
 # Project: GALA AT OAK CREST ESTATES (TXA00001010)
 
 - HUD ID: TXA00001010
-- HUD ID before: 
 - Project: GALA AT OAK CREST ESTATES
 - Address: 100 DICKEY DR
 - City: EULESS
-- State: TX
 - ZIP: 76040
-- ZIP extension: 
 - State project ID: TX5113
 - Latitude: 32.836748
 - Longitude: -97.075225
@@ -16,16 +13,10 @@
 - Tract 2020: 48439113513
 - Tract 2010: 48439113513
 - Tract 2000: 48439106508
-- Tract 1990: 
 - Place 2020: 24768
 - Place 2010: 24768
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 120
 - Low-income units: 114
 - Units reported: 120
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

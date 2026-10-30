@@ -1,13 +1,10 @@
 # Project: SHOULDERBLADE 1 (MTA20108002)
 
 - HUD ID: MTA20108002
-- HUD ID before: 
 - Project: SHOULDERBLADE 1
 - Address: PO BOX 327
 - City: LAME DEER
-- State: MT
 - ZIP: 59043
-- ZIP extension: 
 - State project ID: MT-08-030
 - Latitude: 45.5321
 - Longitude: -106.4667
@@ -22,9 +19,7 @@
 - Place 2000: 02800
 - Place 1990: 0148
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 438705
 - Units: 35
 - Low-income units: 34
@@ -40,9 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

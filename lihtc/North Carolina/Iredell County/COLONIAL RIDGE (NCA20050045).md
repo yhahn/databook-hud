@@ -1,13 +1,10 @@
 # Project: COLONIAL RIDGE (NCA20050045)
 
 - HUD ID: NCA20050045
-- HUD ID before: 
 - Project: COLONIAL RIDGE
 - Address: 109 COLONIAL RIDGE CIRCLE
 - City: MOORESVILLE
-- State: NC
 - ZIP: 28117
-- ZIP extension: 
 - State project ID: 9002219
 - Latitude: 35.585666
 - Longitude: -80.85121
@@ -20,11 +17,8 @@
 - Place 2020: 44220
 - Place 2010: 44220
 - Place 2000: 44220
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 431261
 - Units: 80
 - Low-income units: 80
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

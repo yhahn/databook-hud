@@ -1,13 +1,10 @@
 # Project: FOXBORO COURT (NDA19970010)
 
 - HUD ID: NDA19970010
-- HUD ID before: 
 - Project: FOXBORO COURT
 - Address: 625 23RD ST E
 - City: WEST FARGO
-- State: ND
 - ZIP: 58078
-- ZIP extension: 
 - State project ID: 95-10
 - Latitude: 46.869907
 - Longitude: -96.863553
@@ -22,9 +19,7 @@
 - Place 2000: 25700
 - Place 1990: 0545
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 101223
 - Units: 22
 - Low-income units: 21
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA FOXBORO HOUSING.
 - Record status: Existing, unchanged

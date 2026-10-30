@@ -1,13 +1,10 @@
 # Project: LEGACY AT CENTRAL PLACE (NDA20140010)
 
 - HUD ID: NDA20140010
-- HUD ID before: 
 - Project: LEGACY AT CENTRAL PLACE
 - Address: 612 FIRST AVE W
 - City: WILLISTON
-- State: ND
 - ZIP: 58801
-- ZIP extension: 
 - State project ID: TC1208
 - Latitude: 48.149565
 - Longitude: -103.623611
@@ -22,9 +19,7 @@
 - Place 2000: 86220
 - Place 1990: 1740
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 611026
 - Units: 44
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA LEGACY AT CENTRAL PLAC.
 - Record status: Existing, unchanged

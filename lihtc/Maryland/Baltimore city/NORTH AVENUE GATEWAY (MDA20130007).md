@@ -1,13 +1,10 @@
 # Project: NORTH AVENUE GATEWAY (MDA20130007)
 
 - HUD ID: MDA20130007
-- HUD ID before: 
 - Project: NORTH AVENUE GATEWAY
 - Address: 3000 W N AVE
 - City: BALTIMORE
-- State: MD
 - ZIP: 21216
-- ZIP extension: 
 - State project ID: MD11-09001-2
 - Latitude: 39.309214
 - Longitude: -76.667573
@@ -22,10 +19,7 @@
 - Place 2000: 04000
 - Place 1990: 0025
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
-- Allocation amount: 
 - Units: 64
 - Low-income units: 64
 - Units reported: 64
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 63
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

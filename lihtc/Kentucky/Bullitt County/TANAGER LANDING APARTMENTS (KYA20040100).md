@@ -1,13 +1,10 @@
 # Project: TANAGER LANDING APARTMENTS (KYA20040100)
 
 - HUD ID: KYA20040100
-- HUD ID before: 
 - Project: TANAGER LANDING APARTMENTS
 - Address: TANAGER LN.
 - City: SHEPHERDSVILLE
-- State: KY
 - ZIP: 40165
-- ZIP extension: 
 - State project ID: KY-01-073
 - Latitude: 37.9917
 - Longitude: -85.6968
@@ -19,12 +16,8 @@
 - Tract 1990: 21029020200
 - Place 2020: 70086
 - Place 2010: 70086
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 200277
 - Units: 52
 - Low-income units: 39
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

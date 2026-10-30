@@ -1,13 +1,10 @@
 # Project: COTTAGES AT JOHNSTON COMMONS (IAA20110901)
 
 - HUD ID: IAA20110901
-- HUD ID before: 
 - Project: COTTAGES AT JOHNSTON COMMONS
 - Address: 5814 NORTHGLENN DR
 - City: JOHNSTON
-- State: IA
 - ZIP: 50131
-- ZIP extension: 
 - State project ID: 10-10-7
 - Latitude: 41.682651
 - Longitude: -93.698489
@@ -22,9 +19,7 @@
 - Place 2000: 39765
 - Place 1990: 2089
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 588988
 - Units: 31
 - Low-income units: 31
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2012532.
 - Record status: Existing, unchanged

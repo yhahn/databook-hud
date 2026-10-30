@@ -1,13 +1,10 @@
 # Project: LEGACY SENIOR VILLAGE (ALA20090022)
 
 - HUD ID: ALA20090022
-- HUD ID before: 
 - Project: LEGACY SENIOR VILLAGE
 - Address: 100 COTTON CIR
 - City: EUFAULA
-- State: AL
 - ZIP: 36027
-- ZIP extension: 
 - State project ID: AL-09-0037
 - Latitude: 31.9151
 - Longitude: -85.1655
@@ -22,9 +19,7 @@
 - Place 2000: 24568
 - Place 1990: 0560
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 444822
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 845160
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +62,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2011045, ALA2011569. FKA DEERFIELD PLACE
 - Record status: Existing, unchanged

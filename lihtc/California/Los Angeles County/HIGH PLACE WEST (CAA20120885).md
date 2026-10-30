@@ -1,13 +1,10 @@
 # Project: HIGH PLACE WEST (CAA20120885)
 
 - HUD ID: CAA20120885
-- HUD ID before: 
 - Project: HIGH PLACE WEST
 - Address: 2345 VIRGINIA AVE
 - City: SANTA MONICA
-- State: CA
 - ZIP: 90404
-- ZIP extension: 
 - State project ID: CA-11-834
 - Latitude: 34.023893
 - Longitude: -118.466774
@@ -22,9 +19,7 @@
 - Place 2000: 70000
 - Place 1990: 2600
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 818946
 - Units: 46
 - Low-income units: 46
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 22
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

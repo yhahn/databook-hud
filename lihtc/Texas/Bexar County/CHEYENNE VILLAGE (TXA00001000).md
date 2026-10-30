@@ -1,13 +1,10 @@
 # Project: CHEYENNE VILLAGE (TXA00001000)
 
 - HUD ID: TXA00001000
-- HUD ID before: 
 - Project: CHEYENNE VILLAGE
 - Address: 147 CHEYENNE AVE
 - City: SAN ANTONIO
-- State: TX
 - ZIP: 78207
-- ZIP extension: 
 - State project ID: TX5153
 - Latitude: 29.414351
 - Longitude: -98.544041
@@ -16,16 +13,11 @@
 - Tract 2020: 48029160501
 - Tract 2010: 48029160501
 - Tract 2000: 48029160500
-- Tract 1990: 
 - Place 2020: 65000
 - Place 2010: 65000
 - Place 2000: 65000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 60
 - Low-income units: 60
 - Units reported: 60
@@ -39,9 +31,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +61,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: PARKVIEW APTS (KENNEWICK) (WAA19960125)
 
 - HUD ID: WAA19960125
-- HUD ID before: 
 - Project: PARKVIEW APTS (KENNEWICK)
 - Address: 1138 W TENTH AVE
 - City: KENNEWICK
-- State: WA
 - ZIP: 99336
-- ZIP extension: 
 - State project ID: 94-33A
 - Latitude: 46.198718
 - Longitude: -119.135157
@@ -22,9 +19,7 @@
 - Place 2000: 35275
 - Place 1990: 0610
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 540914
 - Units: 107
 - Low-income units: 107
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 107
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

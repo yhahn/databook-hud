@@ -1,13 +1,10 @@
 # Project: WILLOW SPRINGS APARTMENTS (TXA19940325)
 
 - HUD ID: TXA19940325
-- HUD ID before: 
 - Project: WILLOW SPRINGS APARTMENTS
 - Address: 4433 5TH ST
 - City: BROOKSHIRE
-- State: TX
 - ZIP: 77423
-- ZIP extension: 
 - State project ID: TX1073
 - Latitude: 29.785094
 - Longitude: -95.956963
@@ -22,10 +19,7 @@
 - Place 2000: 10636
 - Place 1990: 0580
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 44
 - Low-income units: 44
 - Units reported: 44
@@ -36,12 +30,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: No
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA WILLOW SPRING APTS.
 - Record status: Existing, unchanged

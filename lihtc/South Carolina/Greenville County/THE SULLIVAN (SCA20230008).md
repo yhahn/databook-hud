@@ -1,11 +1,9 @@
 # Project: THE SULLIVAN (SCA20230008)
 
 - HUD ID: SCA20230008
-- HUD ID before: 
 - Project: THE SULLIVAN
 - Address: 6001 JACK'S LOOKOUT ROAD
 - City: GREENVILLE
-- State: SC
 - ZIP: 29617
 - ZIP extension: 0000
 - State project ID: SC-52113
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 45045003707
 - Tract 2010: 45045003707
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 05770
 - Place 2010: 05770
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1889573
 - Units: 180
 - Low-income units: 180
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

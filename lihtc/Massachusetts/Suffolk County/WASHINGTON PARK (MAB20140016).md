@@ -1,13 +1,10 @@
 # Project: WASHINGTON PARK (MAB20140016)
 
 - HUD ID: MAB20140016
-- HUD ID before: 
 - Project: WASHINGTON PARK
 - Address: 187 WALNUT AVE
 - City: BOSTON
-- State: MA
 - ZIP: 02119
-- ZIP extension: 
 - State project ID: MA-14-13
 - Latitude: 42.319813
 - Longitude: -71.089465
@@ -22,9 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0440
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 735395
 - Units: 96
 - Low-income units: 76
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

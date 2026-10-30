@@ -1,13 +1,10 @@
 # Project: VALLEY VIEW II APTS (VTA20140040)
 
 - HUD ID: VTA20140040
-- HUD ID before: 
 - Project: VALLEY VIEW II APTS
 - Address: 12 WALKER AVE
 - City: VERGENNES
-- State: VT
 - ZIP: 05491
-- ZIP extension: 
 - State project ID: 0467
 - Latitude: 44.170271
 - Longitude: -73.247115
@@ -22,9 +19,7 @@
 - Place 2000: 74650
 - Place 1990: 2670
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 67748
 - Units: 12
 - Low-income units: 12
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: Yes
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

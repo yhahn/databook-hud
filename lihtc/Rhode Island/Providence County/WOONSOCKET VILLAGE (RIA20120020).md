@@ -1,13 +1,10 @@
 # Project: WOONSOCKET VILLAGE (RIA20120020)
 
 - HUD ID: RIA20120020
-- HUD ID before: 
 - Project: WOONSOCKET VILLAGE
 - Address: 182 CUMBERLAND ST
 - City: WOONSOCKET
-- State: RI
 - ZIP: 02895
-- ZIP extension: 
 - State project ID: RI00175
 - Latitude: 42.005514
 - Longitude: -71.499476
@@ -22,9 +19,7 @@
 - Place 2000: 80780
 - Place 1990: 0560
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 416520
 - Units: 122
 - Low-income units: 122
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 122
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

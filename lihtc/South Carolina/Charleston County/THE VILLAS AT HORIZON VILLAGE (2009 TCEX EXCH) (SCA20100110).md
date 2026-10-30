@@ -1,13 +1,10 @@
 # Project: THE VILLAS AT HORIZON VILLAGE (2009 TCEX EXCH) (SCA20100110)
 
 - HUD ID: SCA20100110
-- HUD ID before: 
 - Project: THE VILLAS AT HORIZON VILLAGE (2009 TCEX EXCH)
 - Address: 3800 RIVERS AVE
 - City: NORTH CHARLESTON
-- State: SC
 - ZIP: 29405
-- ZIP extension: 
 - State project ID: SC-09-009
 - Latitude: 32.861138
 - Longitude: -79.985409
@@ -22,9 +19,7 @@
 - Place 2000: 50875
 - Place 1990: 0987
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 711963
 - Units: 71
 - Low-income units: 71
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 6051686
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: Yes
 - HOPE VI amount: 509298
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

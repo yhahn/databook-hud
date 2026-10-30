@@ -1,13 +1,10 @@
 # Project: MIDTOWN SQUARE APTS (MIA20040351)
 
 - HUD ID: MIA20040351
-- HUD ID before: 
 - Project: MIDTOWN SQUARE APTS
 - Address: 93 SEWARD ST
 - City: DETROIT
-- State: MI
 - ZIP: 48202
-- ZIP extension: 
 - State project ID: MI-2016
 - Latitude: 42.374539
 - Longitude: -83.077567
@@ -22,9 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 676973
 - Units: 71
 - Low-income units: 70
@@ -40,15 +35,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 68
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

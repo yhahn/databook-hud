@@ -1,11 +1,9 @@
 # Project: COTTAGES OF ASPEN (MNB20087002)
 
 - HUD ID: MNB20087002
-- HUD ID before: 
 - Project: COTTAGES OF ASPEN
 - Address: 1745 GRANADA AVENUE NORTH
 - City: OAKDALE
-- State: MN
 - ZIP: 55128
 - ZIP extension: 0000
 - State project ID: D3765
@@ -16,15 +14,11 @@
 - Tract 2020: 27163070911
 - Tract 2010: 27163070911
 - Tract 2000: 27163070908
-- Tract 1990: 
 - Place 2020: 47680
 - Place 2010: 47680
 - Place 2000: 47680
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 340042
 - Units: 114
 - Low-income units: 113
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

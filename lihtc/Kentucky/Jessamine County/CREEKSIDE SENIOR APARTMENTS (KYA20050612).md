@@ -1,13 +1,10 @@
 # Project: CREEKSIDE SENIOR APARTMENTS (KYA20050612)
 
 - HUD ID: KYA20050612
-- HUD ID before: 
 - Project: CREEKSIDE SENIOR APARTMENTS
 - Address: N. SECOND ST.
 - City: NICHOLASVILLE
-- State: KY
 - ZIP: 40356
-- ZIP extension: 
 - State project ID: KY-04-057
 - Latitude: 37.8787
 - Longitude: -84.5421
@@ -19,12 +16,9 @@
 - Tract 1990: 21113060101
 - Place 2020: 56136
 - Place 2010: 56136
-- Place 2000: 
 - Place 1990: 1450
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 190616
 - Units: 40
 - Low-income units: 38
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

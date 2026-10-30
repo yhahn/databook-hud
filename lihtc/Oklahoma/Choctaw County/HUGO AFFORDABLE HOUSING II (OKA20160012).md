@@ -1,11 +1,9 @@
 # Project: HUGO AFFORDABLE HOUSING II (OKA20160012)
 
 - HUD ID: OKA20160012
-- HUD ID before: 
 - Project: HUGO AFFORDABLE HOUSING II
 - Address: 1100 WINDHAVEN DRIVE
 - City: HUGO
-- State: OK
 - ZIP: 74743
 - ZIP extension: 0000
 - State project ID: 140761
@@ -16,15 +14,10 @@
 - Tract 2020: 40023967200
 - Tract 2010: 40023967200
 - Tract 2000: 40023997100
-- Tract 1990: 
 - Place 2020: 36300
 - Place 2010: 36300
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 116786
 - Units: 10
 - Low-income units: 10
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

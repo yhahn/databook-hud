@@ -1,13 +1,10 @@
 # Project: OAK HAVEN APARTMENTS (TXA20000095)
 
 - HUD ID: TXA20000095
-- HUD ID before: 
 - Project: OAK HAVEN APARTMENTS
 - Address: 513 FRONTAGE RD
 - City: DONNA
-- State: TX
 - ZIP: 78537
-- ZIP extension: 
 - State project ID: TX0082
 - Latitude: 26.173465
 - Longitude: -98.06792
@@ -22,10 +19,7 @@
 - Place 2000: 20884
 - Place 1990: 1205
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -38,17 +32,12 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

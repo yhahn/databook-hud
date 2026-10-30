@@ -1,13 +1,10 @@
 # Project: HENLEY PLACE (VAA20070790)
 
 - HUD ID: VAA20070790
-- HUD ID before: 
 - Project: HENLEY PLACE
 - Address: 1215 SILVER LAKE RD
 - City: CHRISTIANSBURG
-- State: VA
 - ZIP: 24073
-- ZIP extension: 
 - State project ID: 9033
 - Latitude: 37.128433
 - Longitude: -80.43086
@@ -22,9 +19,7 @@
 - Place 2000: 16608
 - Place 1990: 0260
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 524482
 - Units: 41
 - Low-income units: 41
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006111.
 - Record status: Existing, unchanged

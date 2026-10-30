@@ -1,13 +1,10 @@
 # Project: PEMBROKE SENIOR VILLAGE (NCA20150018)
 
 - HUD ID: NCA20150018
-- HUD ID before: 
 - Project: PEMBROKE SENIOR VILLAGE
 - Address: 21 SOUTH SPIRIT DRIVE
 - City: PEMBROKE
-- State: NC
 - ZIP: 28372
-- ZIP extension: 
 - State project ID: 9151512
 - Latitude: 34.6844
 - Longitude: -79.1877
@@ -19,12 +16,8 @@
 - Tract 1990: 37155960500
 - Place 2020: 51080
 - Place 2010: 51080
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 350000
 - Units: 51
 - Low-income units: 50
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 21
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

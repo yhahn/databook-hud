@@ -1,13 +1,10 @@
 # Project: KEYSTONE PLACE (TXA0000X038)
 
 - HUD ID: TXA0000X038
-- HUD ID before: 
 - Project: KEYSTONE PLACE
 - Address: 1331 PULLMAN DR
 - City: EL PASO
-- State: TX
 - ZIP: 79936
-- ZIP extension: 
 - State project ID: TX5238
 - Latitude: 31.727598
 - Longitude: -106.296819
@@ -16,16 +13,11 @@
 - Tract 2020: 48141010338
 - Tract 2010: 48141010338
 - Tract 2000: 48141010321
-- Tract 1990: 
 - Place 2020: 24000
 - Place 2010: 24000
 - Place 2000: 24000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 52
 - Low-income units: 48
 - Units reported: 52
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +63,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

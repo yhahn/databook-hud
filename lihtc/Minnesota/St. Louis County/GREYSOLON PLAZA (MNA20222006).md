@@ -1,13 +1,10 @@
 # Project: GREYSOLON PLAZA (MNA20222006)
 
 - HUD ID: MNA20222006
-- HUD ID before: 
 - Project: GREYSOLON PLAZA
 - Address: 231 EAST SUPERIOR STREET
 - City: DULUTH
-- State: MN
 - ZIP: 55802
-- ZIP extension: 
 - State project ID: D0437
 - Latitude: 46.789265
 - Longitude: -92.095529
@@ -22,9 +19,7 @@
 - Place 2000: 17000
 - Place 1990: 1040
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 1317782
 - Units: 150
 - Low-income units: 150
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
 - Affordability years: 30
 - Non-profit sponsor: No
@@ -48,7 +42,6 @@
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +65,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA GREYSOLON PLAZA.
 - Record status: Updated

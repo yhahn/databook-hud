@@ -1,13 +1,10 @@
 # Project: BRIDGES AT FLORENCE APTS (CAA20140379)
 
 - HUD ID: CAA20140379
-- HUD ID before: 
 - Project: BRIDGES AT FLORENCE APTS
 - Address: 649 E FLORENCE AVE
 - City: FRESNO
-- State: CA
 - ZIP: 93706
-- ZIP extension: 
 - State project ID: CA-12-185
 - Latitude: 36.717844
 - Longitude: -119.802988
@@ -22,9 +19,7 @@
 - Place 2000: 27000
 - Place 1990: 1090
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 426364
 - Units: 34
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: VINTAGE AT KENDALL (CAA20130476)
 
 - HUD ID: CAA20130476
-- HUD ID before: 
 - Project: VINTAGE AT KENDALL
 - Address: 1095 KENDALL DR
 - City: SAN BERNARDINO
-- State: CA
 - ZIP: 92407
-- ZIP extension: 
 - State project ID: CA-12-899
 - Latitude: 34.165188
 - Longitude: -117.307972
@@ -22,9 +19,7 @@
 - Place 2000: 65000
 - Place 1990: 2450
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 596771
 - Units: 178
 - Low-income units: 176
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1993351. AKA VICTORIA WOODS-SAN BERNARDINO.
 - Record status: Existing, unchanged

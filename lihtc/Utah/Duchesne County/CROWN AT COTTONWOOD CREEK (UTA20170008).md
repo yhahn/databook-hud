@@ -1,11 +1,9 @@
 # Project: CROWN AT COTTONWOOD CREEK (UTA20170008)
 
 - HUD ID: UTA20170008
-- HUD ID before: 
 - Project: CROWN AT COTTONWOOD CREEK
 - Address: 192 S. 100 E.
 - City: ROOSEVELT
-- State: UT
 - ZIP: 84066
 - ZIP extension: 0000
 - State project ID: 2015-22
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49013940501
 - Tract 2010: 49013940500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 64670
 - Place 2010: 64670
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 56611
 - Units: 4
 - Low-income units: 4
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

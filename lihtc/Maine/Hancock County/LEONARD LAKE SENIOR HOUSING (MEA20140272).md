@@ -1,13 +1,10 @@
 # Project: LEONARD LAKE SENIOR HOUSING (MEA20140272)
 
 - HUD ID: MEA20140272
-- HUD ID before: 
 - Project: LEONARD LAKE SENIOR HOUSING
 - Address: 16 WOOD ST
 - City: ELLSWORTH
-- State: ME
 - ZIP: 04605
-- ZIP extension: 
 - State project ID: MSHARLP1577
 - Latitude: 44.547939
 - Longitude: -68.429255
@@ -22,9 +19,7 @@
 - Place 2000: 23200
 - Place 1990: 1470
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 191840
 - Units: 26
 - Low-income units: 26
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

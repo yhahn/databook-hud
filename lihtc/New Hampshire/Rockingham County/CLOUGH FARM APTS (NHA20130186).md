@@ -1,13 +1,10 @@
 # Project: CLOUGH FARM APTS (NHA20130186)
 
 - HUD ID: NHA20130186
-- HUD ID before: 
 - Project: CLOUGH FARM APTS
 - Address: 8 BRAEMOOR WOODS RD
 - City: SALEM
-- State: NH
 - ZIP: 03079
-- ZIP extension: 
 - State project ID: 1001
 - Latitude: 42.769521
 - Longitude: -71.212703
@@ -19,12 +16,8 @@
 - Tract 1990: 33015100400
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 702059
 - Units: 32
 - Low-income units: 32
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CLOUGH WORK FORCE HOUSING.
 - Record status: Existing, unchanged

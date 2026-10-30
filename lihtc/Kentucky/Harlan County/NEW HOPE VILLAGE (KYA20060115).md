@@ -1,13 +1,10 @@
 # Project: NEW HOPE VILLAGE (KYA20060115)
 
 - HUD ID: KYA20060115
-- HUD ID before: 
 - Project: NEW HOPE VILLAGE
 - Address: NEW HOPE DR.
 - City: HARLAN
-- State: KY
 - ZIP: 40831
-- ZIP extension: 
 - State project ID: KY-03-009
 - Latitude: 36.7933
 - Longitude: -83.3173
@@ -19,12 +16,8 @@
 - Tract 1990: 21095970900
 - Place 2020: 34732
 - Place 2010: 34732
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 42203
 - Units: 11
 - Low-income units: 11
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

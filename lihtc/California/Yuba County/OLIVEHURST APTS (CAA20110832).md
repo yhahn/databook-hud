@@ -1,13 +1,10 @@
 # Project: OLIVEHURST APTS (CAA20110832)
 
 - HUD ID: CAA20110832
-- HUD ID before: 
 - Project: OLIVEHURST APTS
 - Address: 5086 CHESTNUT RD
 - City: OLIVEHURST
-- State: CA
 - ZIP: 95961
-- ZIP extension: 
 - State project ID: CA-09-538
 - Latitude: 39.101329
 - Longitude: -121.551442
@@ -22,10 +19,7 @@
 - Place 2000: 53714
 - Place 1990: 2000
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 51
 - Low-income units: 50
 - Units reported: 51
@@ -38,10 +32,6 @@
 - Construction: Acquisition and rehab
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +43,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 5963256
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +56,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

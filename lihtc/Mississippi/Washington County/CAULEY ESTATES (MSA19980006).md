@@ -1,13 +1,10 @@
 # Project: CAULEY ESTATES (MSA19980006)
 
 - HUD ID: MSA19980006
-- HUD ID before: 
 - Project: CAULEY ESTATES
 - Address: 803 CAULEY CV
 - City: GREENVILLE
-- State: MS
 - ZIP: 38703
-- ZIP extension: 
 - State project ID: MS-96-027
 - Latitude: 33.397316
 - Longitude: -91.020886
@@ -22,9 +19,7 @@
 - Place 2000: 29180
 - Place 1990: 0495
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 1279911
 - Units: 15
 - Low-income units: 15
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998607.
 - Record status: Existing, unchanged

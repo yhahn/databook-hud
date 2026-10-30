@@ -1,13 +1,10 @@
 # Project: SOUTH POINTE DEVELOPMENT (ALA20070166)
 
 - HUD ID: ALA20070166
-- HUD ID before: 
 - Project: SOUTH POINTE DEVELOPMENT
 - Address: 203 SHILOH CREEK DR
 - City: CALERA
-- State: AL
 - ZIP: 35040
-- ZIP extension: 
 - State project ID: AL-07-0034
 - Latitude: 33.082995
 - Longitude: -86.752427
@@ -20,11 +17,8 @@
 - Place 2020: 11416
 - Place 2010: 11416
 - Place 2000: 11416
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 581512
 - Units: 47
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008192, ALA2008535. AKA SOUTH POINTE DEVELOPMENT IN CALERA.
 - Record status: Existing, unchanged

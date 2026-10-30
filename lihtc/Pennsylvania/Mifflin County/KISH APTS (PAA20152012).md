@@ -1,11 +1,9 @@
 # Project: KISH APTS (PAA20152012)
 
 - HUD ID: PAA20152012
-- HUD ID before: 
 - Project: KISH APTS
 - Address: 196 S MAIN ST
 - City: LEWISTOWN
-- State: PA
 - ZIP: 17044
 - ZIP extension: 2100
 - State project ID: TC20130107
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42087960900
 - Tract 2010: 42087960900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 377748
 - Units: 141
 - Low-income units: 132
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 131
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -62,8 +51,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +59,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

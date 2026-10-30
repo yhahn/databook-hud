@@ -1,11 +1,9 @@
 # Project: HILLCREST APARTMENTS (MTA19960040)
 
 - HUD ID: MTA19960040
-- HUD ID before: 
 - Project: HILLCREST APARTMENTS
 - Address: 126 OHIO STREET N
 - City: CHINOOK
-- State: MT
 - ZIP: 59501
 - ZIP extension: 0000
 - State project ID: 96080
@@ -22,9 +20,7 @@
 - Place 2000: 14575
 - Place 1990: 0130
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 7156
 - Units: 12
 - Low-income units: 12
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

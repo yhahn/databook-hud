@@ -1,11 +1,9 @@
 # Project: HILDEBRANDT PARK APARTMENTS (MIA20231005)
 
 - HUD ID: MIA20231005
-- HUD ID before: 
 - Project: HILDEBRANDT PARK APARTMENTS
 - Address: 3122 TURNER
 - City: LANSING
-- State: MI
 - ZIP: 48906
 - ZIP extension: 0000
 - State project ID: 3967
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26065003200
 - Tract 2010: 26065003200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 46000
 - Place 2010: 46000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 942366
 - Units: 100
 - Low-income units: 100
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1336248
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

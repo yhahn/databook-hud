@@ -1,13 +1,10 @@
 # Project: LIONS SPRING (NCA20090055)
 
 - HUD ID: NCA20090055
-- HUD ID before: 
 - Project: LIONS SPRING
 - Address: 320 SHOTWELL ROAD
 - City: CLAYTON
-- State: NC
 - ZIP: 27520
-- ZIP extension: 
 - State project ID: 9002858
 - Latitude: 35.655047
 - Longitude: -78.480775
@@ -22,9 +19,7 @@
 - Place 2000: 12860
 - Place 1990: 0515
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 435008
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

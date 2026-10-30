@@ -1,13 +1,10 @@
 # Project: LAKE CITY VILLAGE HOPE REDEVELOPMENT PHASE VI (WAA20110804)
 
 - HUD ID: WAA20110804
-- HUD ID before: 
 - Project: LAKE CITY VILLAGE HOPE REDEVELOPMENT PHASE VI
 - Address: 12536 33RD AVE NE
 - City: SEATTLE
-- State: WA
 - ZIP: 98125
-- ZIP extension: 
 - State project ID: WA-10-00049
 - Latitude: 47.720365
 - Longitude: -122.292422
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 1140
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1399481
 - Units: 85
 - Low-income units: 85
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 65
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA0000358. AKA LAKE CITY VILLAGE HOPE VI REDEVELOPMENT.
 - Record status: Existing, unchanged

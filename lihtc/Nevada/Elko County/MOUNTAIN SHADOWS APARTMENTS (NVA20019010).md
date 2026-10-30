@@ -1,11 +1,9 @@
 # Project: MOUNTAIN SHADOWS APARTMENTS (NVA20019010)
 
 - HUD ID: NVA20019010
-- HUD ID before: 
 - Project: MOUNTAIN SHADOWS APARTMENTS
 - Address: 1810 WINCHESTER DRIVE
 - City: ELKO
-- State: NV
 - ZIP: 89801
 - ZIP extension: 0000
 - State project ID: 00-11
@@ -16,15 +14,11 @@
 - Tract 2020: 32007951202
 - Tract 2010: 32007951202
 - Tract 2000: 32007951200
-- Tract 1990: 
 - Place 2020: 22500
 - Place 2010: 22500
 - Place 2000: 22500
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 68381
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

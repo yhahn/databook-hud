@@ -1,13 +1,10 @@
 # Project: GRANADA TERRACE APARTMENTS (TXA19910215)
 
 - HUD ID: TXA19910215
-- HUD ID before: 
 - Project: GRANADA TERRACE APARTMENTS
 - Address: 1301 AVENUE A
 - City: SOUTH HOUSTON
-- State: TX
 - ZIP: 77587
-- ZIP extension: 
 - State project ID: TX2333
 - Latitude: 29.666717
 - Longitude: -95.216657
@@ -22,10 +19,7 @@
 - Place 2000: 69020
 - Place 1990: 4000
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 156
 - Low-income units: 156
 - Units reported: 156
@@ -40,15 +34,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: REDWOOD LODGE (CAA20130424)
 
 - HUD ID: CAA20130424
-- HUD ID before: 
 - Project: REDWOOD LODGE
 - Address: 40767 FREMONT BLVD
 - City: FREMONT
-- State: CA
 - ZIP: 94538
-- ZIP extension: 
 - State project ID: CA-12-858
 - Latitude: 37.535043
 - Longitude: -121.963464
@@ -22,9 +19,7 @@
 - Place 2000: 26000
 - Place 1990: 1080
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 154459
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

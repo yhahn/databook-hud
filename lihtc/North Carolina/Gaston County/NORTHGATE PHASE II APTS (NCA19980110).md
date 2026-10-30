@@ -1,13 +1,10 @@
 # Project: NORTHGATE PHASE II APTS (NCA19980110)
 
 - HUD ID: NCA19980110
-- HUD ID before: 
 - Project: NORTHGATE PHASE II APTS
 - Address: 1000 HEATHER COURT
 - City: BESSEMER CITY
-- State: NC
 - ZIP: 28016
-- ZIP extension: 
 - State project ID: 9001283
 - Latitude: 35.2983
 - Longitude: -81.281482
@@ -22,9 +19,7 @@
 - Place 2000: 05220
 - Place 1990: 0255
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 112563
 - Units: 24
 - Low-income units: 24
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

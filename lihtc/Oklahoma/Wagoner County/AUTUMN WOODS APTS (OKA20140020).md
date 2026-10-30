@@ -1,13 +1,10 @@
 # Project: AUTUMN WOODS APTS (OKA20140020)
 
 - HUD ID: OKA20140020
-- HUD ID before: 
 - Project: AUTUMN WOODS APTS
 - Address: 701 S FILMORE AVE
 - City: WAGONER
-- State: OK
 - ZIP: 74467
-- ZIP extension: 
 - State project ID: 120761
 - Latitude: 35.953508
 - Longitude: -95.384867
@@ -22,9 +19,7 @@
 - Place 2000: 77850
 - Place 1990: 2525
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 20250000
 - Units: 100
 - Low-income units: 100
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

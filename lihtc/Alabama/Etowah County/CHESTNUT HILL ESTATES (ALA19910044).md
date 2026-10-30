@@ -1,13 +1,10 @@
 # Project: CHESTNUT HILL ESTATES (ALA19910044)
 
 - HUD ID: ALA19910044
-- HUD ID before: 
 - Project: CHESTNUT HILL ESTATES
 - Address: 3200 SMITH DR
 - City: ALTOONA
-- State: AL
 - ZIP: 35952
-- ZIP extension: 
 - State project ID: AL-91-0042
 - Latitude: 34.027398
 - Longitude: -86.319153
@@ -20,11 +17,8 @@
 - Place 2020: 01660
 - Place 2010: 01660
 - Place 2000: 01660
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 37652
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,10 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1992045.
 - Record status: Existing, unchanged

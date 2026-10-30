@@ -1,13 +1,10 @@
 # Project: MORGANS RIDGE II (NCA20040120)
 
 - HUD ID: NCA20040120
-- HUD ID before: 
 - Project: MORGANS RIDGE II
 - Address: 3301 BOYETTE ROAD
 - City: WILSON
-- State: NC
 - ZIP: 27894
-- ZIP extension: 
 - State project ID: 9001684
 - Latitude: 35.7176
 - Longitude: -77.9179
@@ -16,15 +13,10 @@
 - Tract 2020: 37195000402
 - Tract 2010: 37195000200
 - Tract 2000: 37195000400
-- Tract 1990: 
 - Place 2020: 74540
-- Place 2010: 
 - Place 2000: 74540
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 139158
 - Units: 24
 - Low-income units: 24
@@ -39,9 +31,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +61,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

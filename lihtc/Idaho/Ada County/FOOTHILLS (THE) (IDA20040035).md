@@ -1,13 +1,10 @@
 # Project: FOOTHILLS (THE) (IDA20040035)
 
 - HUD ID: IDA20040035
-- HUD ID before: 
 - Project: FOOTHILLS (THE)
 - Address: 2308 EAST FRANKLIN ROAD
 - City: MERIDIAN
-- State: ID
 - ZIP: 83642
-- ZIP extension: 
 - State project ID: HC0307
 - Latitude: 43.605076
 - Longitude: -116.366074
@@ -22,9 +19,7 @@
 - Place 2000: 52120
 - Place 1990: 0590
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 371037
 - Units: 54
 - Low-income units: 53
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

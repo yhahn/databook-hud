@@ -1,13 +1,10 @@
 # Project: INDIAN HILLS ESTATES (ALA19950077)
 
 - HUD ID: ALA19950077
-- HUD ID before: 
 - Project: INDIAN HILLS ESTATES
 - Address: 712 ELM ST
 - City: TALLADEGA
-- State: AL
 - ZIP: 35160
-- ZIP extension: 
 - State project ID: AL-95-0064
 - Latitude: 33.427052
 - Longitude: -86.093753
@@ -22,9 +19,7 @@
 - Place 2000: 74592
 - Place 1990: 1655
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 126500
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 576000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1996060. AKA TALLADEGA COUNTY HOUSING.
 - Record status: Existing, unchanged

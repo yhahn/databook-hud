@@ -1,13 +1,10 @@
 # Project: EXCELSIOR APTS (NCA19980050)
 
 - HUD ID: NCA19980050
-- HUD ID before: 
 - Project: EXCELSIOR APTS
 - Address: 58 EXCELSIOR DRIVE
 - City: BREVARD
-- State: NC
 - ZIP: 28712
-- ZIP extension: 
 - State project ID: 9001288
 - Latitude: 35.264597
 - Longitude: -82.707025
@@ -22,9 +19,7 @@
 - Place 2000: 07720
 - Place 1990: 0345
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 99320
 - Units: 20
 - Low-income units: 20
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 8
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

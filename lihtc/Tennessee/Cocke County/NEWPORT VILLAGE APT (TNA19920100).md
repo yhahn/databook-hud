@@ -1,13 +1,10 @@
 # Project: NEWPORT VILLAGE APT (TNA19920100)
 
 - HUD ID: TNA19920100
-- HUD ID before: 
 - Project: NEWPORT VILLAGE APT
 - Address: 420 APPALACHIAN WAY
 - City: NEWPORT
-- State: TN
 - ZIP: 37821
-- ZIP extension: 
 - State project ID: TN-92-003
 - Latitude: 35.961398
 - Longitude: -83.198145
@@ -20,11 +17,8 @@
 - Place 2020: 53000
 - Place 2010: 53000
 - Place 2000: 53000
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 54938
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

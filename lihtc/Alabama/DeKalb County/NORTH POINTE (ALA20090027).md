@@ -1,13 +1,10 @@
 # Project: NORTH POINTE (ALA20090027)
 
 - HUD ID: ALA20090027
-- HUD ID before: 
 - Project: NORTH POINTE
 - Address: 601 GREENHILL BLVD NW
 - City: FORT PAYNE
-- State: AL
 - ZIP: 35967
-- ZIP extension: 
 - State project ID: AL-08-0037
 - Latitude: 34.471805
 - Longitude: -85.703921
@@ -22,9 +19,7 @@
 - Place 2000: 27616
 - Place 1990: 0655
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 800106
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1765710
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009547. FKA WILLOW SPRINGS
 - Record status: Existing, unchanged

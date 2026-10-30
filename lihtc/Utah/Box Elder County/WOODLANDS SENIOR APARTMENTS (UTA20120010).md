@@ -1,11 +1,9 @@
 # Project: WOODLANDS SENIOR APARTMENTS (UTA20120010)
 
 - HUD ID: UTA20120010
-- HUD ID before: 
 - Project: WOODLANDS SENIOR APARTMENTS
 - Address: 441 EAST 900 SOUTH
 - City: BRIGHAM CITY
-- State: UT
 - ZIP: 84302
 - ZIP extension: 0000
 - State project ID: 2011-19
@@ -22,9 +20,7 @@
 - Place 2000: 08460
 - Place 1990: 0080
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 653961
 - Units: 47
 - Low-income units: 47
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

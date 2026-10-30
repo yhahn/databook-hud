@@ -1,13 +1,10 @@
 # Project: NOTTOWAY MANOR (VAA20191020)
 
 - HUD ID: VAA20191020
-- HUD ID before: 
 - Project: NOTTOWAY MANOR
 - Address: 509 NOTTOWAY AVE
 - City: BLACKSTONE
-- State: VA
 - ZIP: 23824
-- ZIP extension: 
 - State project ID: 1070
 - Latitude: 37.079961
 - Longitude: -78.006131
@@ -22,9 +19,7 @@
 - Place 2000: 07832
 - Place 1990: 0105
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 214919
 - Units: 28
 - Low-income units: 28
@@ -40,15 +35,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

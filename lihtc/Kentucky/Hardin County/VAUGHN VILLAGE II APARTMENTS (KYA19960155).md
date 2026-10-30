@@ -1,13 +1,10 @@
 # Project: VAUGHN VILLAGE II APARTMENTS (KYA19960155)
 
 - HUD ID: KYA19960155
-- HUD ID before: 
 - Project: VAUGHN VILLAGE II APARTMENTS
 - Address: CRIMSON CREEK CT.
 - City: ELIZABETHTOWN
-- State: KY
 - ZIP: 42702
-- ZIP extension: 
 - State project ID: KY-95-011
 - Latitude: 37.72
 - Longitude: -85.8429
@@ -17,14 +14,9 @@
 - Tract 2010: 21093001100
 - Tract 2000: 21093001400
 - Tract 1990: 21093001100
-- Place 2020: 
-- Place 2010: 
-- Place 2000: 
 - Place 1990: 0610
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

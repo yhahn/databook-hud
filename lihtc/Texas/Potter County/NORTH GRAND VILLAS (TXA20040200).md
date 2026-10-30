@@ -1,13 +1,10 @@
 # Project: NORTH GRAND VILLAS (TXA20040200)
 
 - HUD ID: TXA20040200
-- HUD ID before: 
 - Project: NORTH GRAND VILLAS
 - Address: 2801 N GRAND ST
 - City: AMARILLO
-- State: TX
 - ZIP: 79107
-- ZIP extension: 
 - State project ID: TX3215
 - Latitude: 35.241603
 - Longitude: -101.795667
@@ -22,10 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0100
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
-- Allocation amount: 
 - Units: 144
 - Low-income units: 144
 - Units reported: 144
@@ -38,17 +32,12 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BELLSROE.
 - Record status: Existing, unchanged

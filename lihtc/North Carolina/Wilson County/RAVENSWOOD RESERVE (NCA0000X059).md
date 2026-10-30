@@ -1,11 +1,9 @@
 # Project: RAVENSWOOD RESERVE (NCA0000X059)
 
 - HUD ID: NCA0000X059
-- HUD ID before: 
 - Project: RAVENSWOOD RESERVE
 - Address: 3720 ASHBROOK DR NW
 - City: WILSON
-- State: NC
 - ZIP: 27896
 - ZIP extension: 7647
 - State project ID: 9198765
@@ -16,15 +14,10 @@
 - Tract 2020: 37195001402
 - Tract 2010: 37195001400
 - Tract 2000: 37195001400
-- Tract 1990: 
 - Place 2020: 74540
 - Place 2010: 74540
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 429000
 - Units: 60
 - Low-income units: 60
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,23 +55,10 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
-- Metro: 
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

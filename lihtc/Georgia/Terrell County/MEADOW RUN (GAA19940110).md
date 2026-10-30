@@ -1,11 +1,9 @@
 # Project: MEADOW RUN (GAA19940110)
 
 - HUD ID: GAA19940110
-- HUD ID before: 
 - Project: MEADOW RUN
 - Address: 875 MEADOW RUN LN SE
 - City: DAWSON
-- State: GA
 - ZIP: 39842
 - ZIP extension: 2145
 - State project ID: GA-92-028
@@ -22,10 +20,7 @@
 - Place 2000: 21912
 - Place 1990: 0810
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -36,12 +31,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +62,8 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS GAA1994105.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: LONE MOUNTAIN SENIOR APTS (NVA20130093)
 
 - HUD ID: NVA20130093
-- HUD ID before: 
 - Project: LONE MOUNTAIN SENIOR APTS
 - Address: 4652 N RAINBOW BLVD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89108
 - ZIP extension: 0000
 - State project ID: 11-70
@@ -22,9 +20,7 @@
 - Place 2000: 40000
 - Place 1990: 0065
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 508233
 - Units: 75
 - Low-income units: 65
@@ -40,8 +36,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 65
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +63,8 @@
 - Other population: No
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA2013003.
 - Record status: Existing, unchanged

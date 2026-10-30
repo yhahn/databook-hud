@@ -1,13 +1,10 @@
 # Project: RENAISSANCE SENIOR APTS (VAA20070030)
 
 - HUD ID: VAA20070030
-- HUD ID before: 
 - Project: RENAISSANCE SENIOR APTS
 - Address: 1021 GERMAN SCHOOL RD
 - City: RICHMOND
-- State: VA
 - ZIP: 23225
-- ZIP extension: 
 - State project ID: 4072
 - Latitude: 37.51717
 - Longitude: -77.513124
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 1035
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 795000
 - Units: 240
 - Low-income units: 240
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

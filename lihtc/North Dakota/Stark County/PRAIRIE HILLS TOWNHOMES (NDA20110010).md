@@ -1,13 +1,10 @@
 # Project: PRAIRIE HILLS TOWNHOMES (NDA20110010)
 
 - HUD ID: NDA20110010
-- HUD ID before: 
 - Project: PRAIRIE HILLS TOWNHOMES
 - Address: 975 15TH ST W
 - City: DICKINSON
-- State: ND
 - ZIP: 58601
-- ZIP extension: 
 - State project ID: TC1007
 - Latitude: 46.899644
 - Longitude: -102.796117
@@ -22,9 +19,7 @@
 - Place 2000: 19620
 - Place 1990: 0425
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 616790
 - Units: 36
 - Low-income units: 36
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA2011502.
 - Record status: Existing, unchanged

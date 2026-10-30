@@ -1,13 +1,10 @@
 # Project: RIVERWALK APTS PHASE I (MSA20000060)
 
 - HUD ID: MSA20000060
-- HUD ID before: 
 - Project: RIVERWALK APTS PHASE I
 - Address: 738 W UNION ST
 - City: GREENVILLE
-- State: MS
 - ZIP: 38701
-- ZIP extension: 
 - State project ID: MS-98-034
 - Latitude: 33.415448
 - Longitude: -91.051002
@@ -22,9 +19,7 @@
 - Place 2000: 29180
 - Place 1990: 0495
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 1882306
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA RIVERWALK APTS.
 - Record status: Existing, unchanged

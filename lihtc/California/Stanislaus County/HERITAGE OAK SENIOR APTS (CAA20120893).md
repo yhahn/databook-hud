@@ -1,13 +1,10 @@
 # Project: HERITAGE OAK SENIOR APTS (CAA20120893)
 
 - HUD ID: CAA20120893
-- HUD ID before: 
 - Project: HERITAGE OAK SENIOR APTS
 - Address: 730 OLD STOCKTON RD
 - City: OAKDALE
-- State: CA
 - ZIP: 95361
-- ZIP extension: 
 - State project ID: CA-11-804
 - Latitude: 37.774391
 - Longitude: -120.849606
@@ -22,9 +19,7 @@
 - Place 2000: 20907
 - Place 1990: 1965
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 366476
 - Units: 50
 - Low-income units: 49
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 1292653
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA OAKDALE HERITAGE OAK SENIORS.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: GLISAN COMMONS PHASE I (ORA20140020)
 
 - HUD ID: ORA20140020
-- HUD ID before: 
 - Project: GLISAN COMMONS PHASE I
 - Address: 555 NE 100TH AVE
 - City: PORTLAND
-- State: OR
 - ZIP: 97220
-- ZIP extension: 
 - State project ID: 3029
 - Latitude: 45.526534
 - Longitude: -122.56092
@@ -22,9 +19,7 @@
 - Place 2000: 59000
 - Place 1990: 0905
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 820000
 - Units: 67
 - Low-income units: 67
@@ -36,12 +31,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 1
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA GLISAN STREET COMMONS.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: RIVERBEND (MSA20230006)
 
 - HUD ID: MSA20230006
-- HUD ID before: 
 - Project: RIVERBEND
 - Address: 342 S BROADWAY STREET
 - City: GREENVILLE
-- State: MS
 - ZIP: 38701
 - ZIP extension: 0000
 - State project ID: 21-1-022
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28151000600
 - Tract 2010: 28151000600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 29180
 - Place 2010: 29180
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 44
 - Low-income units: 44
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,7 +52,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

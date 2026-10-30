@@ -1,11 +1,9 @@
 # Project: LOWER WOODVILLE APARTMENTS (MSA20150015)
 
 - HUD ID: MSA20150015
-- HUD ID before: 
 - Project: LOWER WOODVILLE APARTMENTS
 - Address: 137 LEWIS DRIVE
 - City: NATCHEZ
-- State: MS
 - ZIP: 39120
 - ZIP extension: 0000
 - State project ID: 14-T-003
@@ -16,15 +14,11 @@
 - Tract 2020: 28001000800
 - Tract 2010: 28001000800
 - Tract 2000: 28001000800
-- Tract 1990: 
 - Place 2020: 50440
 - Place 2010: 50440
 - Place 2000: 50440
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 169516
 - Units: 60
 - Low-income units: 60
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

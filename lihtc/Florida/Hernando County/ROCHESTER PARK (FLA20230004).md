@@ -1,13 +1,10 @@
 # Project: ROCHESTER PARK (FLA20230004)
 
 - HUD ID: FLA20230004
-- HUD ID before: 
 - Project: ROCHESTER PARK
 - Address: 1410 CANDLELIGHT BLVD
 - City: BROOKSVILLE
-- State: FL
 - ZIP: 34601
-- ZIP extension: 
 - State project ID: FL-20-3287
 - Latitude: 28.543154
 - Longitude: -82.410465
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 12053040501
 - Tract 2010: 12053040501
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 08800
 - Place 2010: 08800
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 1650000
 - Units: 84
 - Low-income units: 82
@@ -44,11 +35,9 @@
 - Affordability years: 50
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

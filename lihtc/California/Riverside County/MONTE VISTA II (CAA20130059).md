@@ -1,13 +1,10 @@
 # Project: MONTE VISTA II (CAA20130059)
 
 - HUD ID: CAA20130059
-- HUD ID before: 
 - Project: MONTE VISTA II
 - Address: 41411 JUNIPER ST
 - City: MURRIETA
-- State: CA
 - ZIP: 92562
-- ZIP extension: 
 - State project ID: CA-11-036
 - Latitude: 33.559724
 - Longitude: -117.206579
@@ -22,9 +19,7 @@
 - Place 2000: 50076
 - Place 1990: 3112
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 480040
 - Units: 40
 - Low-income units: 39
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 968000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MONTE VISTA II FAMILY HOUSING LLC.
 - Record status: Existing, unchanged

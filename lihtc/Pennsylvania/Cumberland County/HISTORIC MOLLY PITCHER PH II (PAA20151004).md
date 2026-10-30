@@ -1,11 +1,9 @@
 # Project: HISTORIC MOLLY PITCHER PH II (PAA20151004)
 
 - HUD ID: PAA20151004
-- HUD ID before: 
 - Project: HISTORIC MOLLY PITCHER PH II
 - Address: 11-15 S HANOVER ST
 - City: CARLISLE
-- State: PA
 - ZIP: 17013
 - ZIP extension: 4445
 - State project ID: TC20130443
@@ -16,15 +14,11 @@
 - Tract 2020: 42041012400
 - Tract 2010: 42041012400
 - Tract 2000: 42041012400
-- Tract 1990: 
 - Place 2020: 11272
 - Place 2010: 11272
 - Place 2000: 11272
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 259980
 - Units: 8
 - Low-income units: 8
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -62,8 +54,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

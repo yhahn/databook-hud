@@ -1,13 +1,10 @@
 # Project: LEGACY APTS II (SCA19990065)
 
 - HUD ID: SCA19990065
-- HUD ID before: 
 - Project: LEGACY APTS II
 - Address: 1001 SINGLETON RIDGE OAD
 - City: CONWAY
-- State: SC
 - ZIP: 29526
-- ZIP extension: 
 - State project ID: SC-97-014
 - Latitude: 33.8992
 - Longitude: -78.918
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 45051070102
 - Tract 2010: 45051070102
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 16405
 - Place 2010: 16405
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 287074
 - Units: 94
 - Low-income units: 60
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

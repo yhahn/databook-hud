@@ -1,13 +1,10 @@
 # Project: WOMEN'S ADDICTION RECOVERY MANOR (KYA20070125)
 
 - HUD ID: KYA20070125
-- HUD ID before: 
 - Project: WOMEN'S ADDICTION RECOVERY MANOR
 - Address: N. MCKINLEY STREET
 - City: HENDERSON
-- State: KY
 - ZIP: 42419
-- ZIP extension: 
 - State project ID: KY-05-063
 - Latitude: 37.8336
 - Longitude: -87.578
@@ -16,15 +13,10 @@
 - Tract 2020: 21101020200
 - Tract 2010: 21101020200
 - Tract 2000: 21101020200
-- Tract 1990: 
 - Place 2020: 35866
 - Place 2010: 35866
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 361417
 - Units: 38
 - Low-income units: 38
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +56,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +68,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

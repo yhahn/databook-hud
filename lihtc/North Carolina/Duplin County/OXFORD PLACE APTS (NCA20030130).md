@@ -1,13 +1,10 @@
 # Project: OXFORD PLACE APTS (NCA20030130)
 
 - HUD ID: NCA20030130
-- HUD ID before: 
 - Project: OXFORD PLACE APTS
 - Address: 131 OXFORD COURT
 - City: BEULAVILLE
-- State: NC
 - ZIP: 28518
-- ZIP extension: 
 - State project ID: 9001616
 - Latitude: 34.914895
 - Longitude: -77.768091
@@ -19,12 +16,8 @@
 - Tract 1990: 37061990500
 - Place 2020: 05660
 - Place 2010: 05660
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 111014
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

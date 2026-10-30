@@ -1,13 +1,10 @@
 # Project: TSCHIRLEY CROSSING (WAA20040230)
 
 - HUD ID: WAA20040230
-- HUD ID before: 
 - Project: TSCHIRLEY CROSSING
 - Address: 111 S TSCHIRLEY RD
 - City: SPOKANE VALLEY
-- State: WA
 - ZIP: 99016
-- ZIP extension: 
 - State project ID: WA-02-00238
 - Latitude: 47.655015
 - Longitude: -117.169539
@@ -22,9 +19,7 @@
 - Place 2000: 28520
 - Place 1990: 0528
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 139885
 - Units: 26
 - Low-income units: 26
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA2003800, WAA2003210.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: RYAN HOUSE (NDA19980025)
 
 - HUD ID: NDA19980025
-- HUD ID before: 
 - Project: RYAN HOUSE
 - Address: 23 N THIRD ST
 - City: GRAND FORKS
-- State: ND
 - ZIP: 58203
-- ZIP extension: 
 - State project ID: TC9711
 - Latitude: 47.925616
 - Longitude: -97.031446
@@ -22,9 +19,7 @@
 - Place 2000: 32060
 - Place 1990: 0693
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 76016
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

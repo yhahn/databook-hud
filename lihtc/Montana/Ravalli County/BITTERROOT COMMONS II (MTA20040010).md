@@ -1,11 +1,9 @@
 # Project: BITTERROOT COMMONS II (MTA20040010)
 
 - HUD ID: MTA20040010
-- HUD ID before: 
 - Project: BITTERROOT COMMONS II
 - Address: 501 AND 503 WELCOME WAY
 - City: DARBY
-- State: MT
 - ZIP: 59829
 - ZIP extension: 0000
 - State project ID: 03010
@@ -20,11 +18,8 @@
 - Place 2020: 19300
 - Place 2010: 19300
 - Place 2000: 19300
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 82500
 - Units: 8
 - Low-income units: 8
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -79,7 +72,4 @@
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

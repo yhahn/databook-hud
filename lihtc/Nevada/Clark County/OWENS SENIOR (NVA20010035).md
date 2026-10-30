@@ -1,11 +1,9 @@
 # Project: OWENS SENIOR (NVA20010035)
 
 - HUD ID: NVA20010035
-- HUD ID before: 
 - Project: OWENS SENIOR
 - Address: 1626 DAVIS PL
 - City: NORTH LAS VEGAS
-- State: NV
 - ZIP: 89030
 - ZIP extension: 0000
 - State project ID: 99-22
@@ -13,18 +11,14 @@
 - Longitude: -115.13771
 - County FIPS: 32003
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 32003003800
 - Tract 2000: 32003003800
 - Tract 1990: 32003003800
-- Place 2020: 
 - Place 2010: 51800
 - Place 2000: 51800
 - Place 1990: 0080
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 461341
 - Units: 72
 - Low-income units: 71
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

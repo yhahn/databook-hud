@@ -1,11 +1,9 @@
 # Project: NORTHERN WAREHOUSE (MNB20115005)
 
 - HUD ID: MNB20115005
-- HUD ID before: 
 - Project: NORTHERN WAREHOUSE
 - Address: 308 PRINCE STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55101
 - ZIP extension: 1476
 - State project ID: D1567
@@ -16,15 +14,11 @@
 - Tract 2020: 27123034201
 - Tract 2010: 27123034201
 - Tract 2000: 27123034200
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 243545
 - Units: 52
 - Low-income units: 52
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +60,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

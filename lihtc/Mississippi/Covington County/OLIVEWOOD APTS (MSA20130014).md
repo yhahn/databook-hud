@@ -1,13 +1,9 @@
 # Project: OLIVEWOOD APTS (MSA20130014)
 
 - HUD ID: MSA20130014
-- HUD ID before: 
 - Project: OLIVEWOOD APTS
 - Address: 400 KINGSWOOD DR
 - City: MT OLIVE
-- State: MS
-- ZIP: 
-- ZIP extension: 
 - State project ID: MS-12-1-052
 - Latitude: 31.748662
 - Longitude: -89.646251
@@ -20,11 +16,8 @@
 - Place 2020: 49520
 - Place 2010: 49520
 - Place 2000: 15140
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 166019
 - Units: 24
 - Low-income units: 24
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998040.
 - Record status: Existing, unchanged

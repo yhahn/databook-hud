@@ -1,11 +1,9 @@
 # Project: HERITAGE HOUSE APTS. (UTA20100907)
 
 - HUD ID: UTA20100907
-- HUD ID before: 
 - Project: HERITAGE HOUSE APTS.
 - Address: 277 EAST 5000 SOUTH
 - City: WASHINGTON TERRACE
-- State: UT
 - ZIP: 84405
 - ZIP extension: 0000
 - State project ID: 2008-23
@@ -22,9 +20,7 @@
 - Place 2000: 82070
 - Place 1990: 1050
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 165648
 - Units: 34
 - Low-income units: 34
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: LAUREL GARDENS II (MSA20090075)
 
 - HUD ID: MSA20090075
-- HUD ID before: 
 - Project: LAUREL GARDENS II
 - Address: 100 S GARDEN DR
 - City: LAUREL
-- State: MS
 - ZIP: 39440
-- ZIP extension: 
 - State project ID: MS-04-012
 - Latitude: 31.7198
 - Longitude: -89.1315
@@ -22,9 +19,7 @@
 - Place 2000: 39640
 - Place 1990: 0655
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 348243
 - Units: 30
 - Low-income units: 29
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

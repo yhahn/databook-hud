@@ -1,11 +1,9 @@
 # Project: SIERRA RIDGE (NVA20110030)
 
 - HUD ID: NVA20110030
-- HUD ID before: 
 - Project: SIERRA RIDGE
 - Address: 1820 RUSSELL WAY
 - City: CARSON CITY
-- State: NV
 - ZIP: 89706
 - ZIP extension: 2785
 - State project ID: 09-002
@@ -22,9 +20,7 @@
 - Place 2000: 09700
 - Place 1990: 0025
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 349500
 - Units: 42
 - Low-income units: 41
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

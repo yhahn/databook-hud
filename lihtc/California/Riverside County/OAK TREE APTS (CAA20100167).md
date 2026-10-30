@@ -1,13 +1,10 @@
 # Project: OAK TREE APTS (CAA20100167)
 
 - HUD ID: CAA20100167
-- HUD ID before: 
 - Project: OAK TREE APTS
 - Address: 42176 LYNDIE LN
 - City: TEMECULA
-- State: CA
 - ZIP: 92591
-- ZIP extension: 
 - State project ID: CA-09-599
 - Latitude: 33.507733
 - Longitude: -117.143227
@@ -22,10 +19,7 @@
 - Place 2000: 78120
 - Place 1990: 2878
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 39
 - Units reported: 40
@@ -40,12 +34,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 3275904
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2010511.
 - Record status: Existing, unchanged

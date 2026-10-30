@@ -1,13 +1,10 @@
 # Project: GRACE CHURCH APTS (RIA20140166)
 
 - HUD ID: RIA20140166
-- HUD ID before: 
 - Project: GRACE CHURCH APTS
 - Address: 280 WASHINGTON ST
 - City: PROVIDENCE
-- State: RI
 - ZIP: 02903
-- ZIP extension: 
 - State project ID: RI-00185
 - Latitude: 41.820283
 - Longitude: -71.418399
@@ -22,9 +19,7 @@
 - Place 2000: 59000
 - Place 1990: 0400
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 438213
 - Units: 100
 - Low-income units: 100
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 100
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

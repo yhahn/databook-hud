@@ -1,13 +1,10 @@
 # Project: MEADOW CREEK APTS (TNA19990120)
 
 - HUD ID: TNA19990120
-- HUD ID before: 
 - Project: MEADOW CREEK APTS
 - Address: 3180 HICKORY DR
 - City: PIGEON FORGE
-- State: TN
 - ZIP: 37863
-- ZIP extension: 
 - State project ID: TN-98-012
 - Latitude: 35.787906
 - Longitude: -83.572225
@@ -20,11 +17,8 @@
 - Place 2020: 58080
 - Place 2010: 58080
 - Place 2000: 58080
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 265795
 - Units: 50
 - Low-income units: 50
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

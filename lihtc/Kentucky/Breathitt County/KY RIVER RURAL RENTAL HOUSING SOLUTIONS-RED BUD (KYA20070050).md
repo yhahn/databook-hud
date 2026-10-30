@@ -1,13 +1,10 @@
 # Project: KY RIVER RURAL RENTAL HOUSING SOLUTIONS-RED BUD (KYA20070050)
 
 - HUD ID: KYA20070050
-- HUD ID before: 
 - Project: KY RIVER RURAL RENTAL HOUSING SOLUTIONS-RED BUD
 - Address: IVY COURT DRIVE
 - City: JACKSON
-- State: KY
 - ZIP: 41339
-- ZIP extension: 
 - State project ID: KY-06-041
 - Latitude: 37.5687
 - Longitude: -83.3865
@@ -19,12 +16,9 @@
 - Tract 1990: 21025980300
 - Place 2020: 39952
 - Place 2010: 39952
-- Place 2000: 
 - Place 1990: 1015
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 321392
 - Units: 32
 - Low-income units: 32
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -78,8 +70,4 @@
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

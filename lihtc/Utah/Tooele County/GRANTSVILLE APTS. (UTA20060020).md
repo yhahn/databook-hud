@@ -1,11 +1,9 @@
 # Project: GRANTSVILLE APTS. (UTA20060020)
 
 - HUD ID: UTA20060020
-- HUD ID before: 
 - Project: GRANTSVILLE APTS.
 - Address: 278 WEST MAIN STREET
 - City: GRANTSVILLE
-- State: UT
 - ZIP: 84029
 - ZIP extension: 0000
 - State project ID: 2004-16
@@ -22,9 +20,7 @@
 - Place 2000: 31120
 - Place 1990: 0320
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 109665
 - Units: 20
 - Low-income units: 20
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

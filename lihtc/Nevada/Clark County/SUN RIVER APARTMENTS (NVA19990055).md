@@ -1,11 +1,9 @@
 # Project: SUN RIVER APARTMENTS (NVA19990055)
 
 - HUD ID: NVA19990055
-- HUD ID before: 
 - Project: SUN RIVER APARTMENTS
 - Address: 61 NORTH ARROWHEAD
 - City: MESQUITE
-- State: NV
 - ZIP: 89027
 - ZIP extension: 0000
 - State project ID: 98-21
@@ -22,9 +20,7 @@
 - Place 2000: 46000
 - Place 1990: 0074
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 84475
 - Units: 24
 - Low-income units: 24
@@ -40,8 +36,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

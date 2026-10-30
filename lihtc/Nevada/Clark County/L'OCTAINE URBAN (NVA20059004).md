@@ -1,11 +1,9 @@
 # Project: L'OCTAINE URBAN (NVA20059004)
 
 - HUD ID: NVA20059004
-- HUD ID before: 
 - Project: L'OCTAINE URBAN
 - Address: 801 S LAS VEGAS BLVD
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89101
 - ZIP extension: 0000
 - State project ID: 03-57
@@ -16,15 +14,11 @@
 - Tract 2020: 32003007900
 - Tract 2010: 32003000900
 - Tract 2000: 32003000900
-- Tract 1990: 
 - Place 2020: 40000
 - Place 2010: 40000
 - Place 2000: 40000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 353788
 - Units: 51
 - Low-income units: 51
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

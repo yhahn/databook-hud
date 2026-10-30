@@ -1,13 +1,10 @@
 # Project: LA PALMILLA (TXA00001017)
 
 - HUD ID: TXA00001017
-- HUD ID before: 
 - Project: LA PALMILLA
 - Address: 2300 E ALBERTA RD.
 - City: EDINBURG
-- State: TX
 - ZIP: 78542
-- ZIP extension: 
 - State project ID: TX5137
 - Latitude: 26.251047
 - Longitude: -98.148116
@@ -16,16 +13,10 @@
 - Tract 2020: 48215023804
 - Tract 2010: 48215023801
 - Tract 2000: 48215023600
-- Tract 1990: 
 - Place 2020: 50092
 - Place 2010: 50092
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 140
 - Low-income units: 126
 - Units reported: 140
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

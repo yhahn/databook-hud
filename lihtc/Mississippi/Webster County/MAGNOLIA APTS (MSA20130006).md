@@ -1,13 +1,10 @@
 # Project: MAGNOLIA APTS (MSA20130006)
 
 - HUD ID: MSA20130006
-- HUD ID before: 
 - Project: MAGNOLIA APTS
 - Address: 111 WATERWORKS RD
 - City: EUPORA
-- State: MS
 - ZIP: 39744
-- ZIP extension: 
 - State project ID: MS-11-1-031
 - Latitude: 33.531782
 - Longitude: -89.266276
@@ -22,9 +19,7 @@
 - Place 2000: 23420
 - Place 1990: 0410
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 192841
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1991100.
 - Record status: Existing, unchanged

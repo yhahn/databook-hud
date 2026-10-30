@@ -1,13 +1,10 @@
 # Project: THE PRESERVE AT CROSSROADS (IAA20110516)
 
 - HUD ID: IAA20110516
-- HUD ID before: 
 - Project: THE PRESERVE AT CROSSROADS
 - Address: 1455 OLESON RD
 - City: WATERLOO
-- State: IA
 - ZIP: 50702
-- ZIP extension: 
 - State project ID: 09-0928
 - Latitude: 42.467717
 - Longitude: -92.328903
@@ -22,9 +19,7 @@
 - Place 2000: 82425
 - Place 1990: 4455
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1209245
 - Units: 96
 - Low-income units: 96
@@ -39,9 +34,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 4830864
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2011080.
 - Record status: Existing, unchanged

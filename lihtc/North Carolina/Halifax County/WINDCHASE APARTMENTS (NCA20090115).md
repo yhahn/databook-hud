@@ -1,13 +1,10 @@
 # Project: WINDCHASE APARTMENTS (NCA20090115)
 
 - HUD ID: NCA20090115
-- HUD ID before: 
 - Project: WINDCHASE APARTMENTS
 - Address: 701 EAST LITTLETON RD
 - City: ROANOKE RAPIDS
-- State: NC
 - ZIP: 27870
-- ZIP extension: 
 - State project ID: 9002710
 - Latitude: 36.438185
 - Longitude: -77.655412
@@ -20,11 +17,8 @@
 - Place 2020: 56900
 - Place 2010: 56900
 - Place 2000: 56900
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 256719
 - Units: 42
 - Low-income units: 42
@@ -39,9 +33,7 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

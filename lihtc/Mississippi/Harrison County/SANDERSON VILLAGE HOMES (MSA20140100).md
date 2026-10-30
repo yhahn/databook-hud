@@ -1,13 +1,10 @@
 # Project: SANDERSON VILLAGE HOMES (MSA20140100)
 
 - HUD ID: MSA20140100
-- HUD ID before: 
 - Project: SANDERSON VILLAGE HOMES
 - Address: 1000 34TH ST
 - City: GULFPORT
-- State: MS
 - ZIP: 39501
-- ZIP extension: 
 - State project ID: MS-12-1-037
 - Latitude: 30.391568
 - Longitude: -89.07223
@@ -22,9 +19,7 @@
 - Place 2000: 29700
 - Place 1990: 0906
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 750000
 - Units: 80
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: VERNAL GARDENS II (UTA20150009)
 
 - HUD ID: UTA20150009
-- HUD ID before: 
 - Project: VERNAL GARDENS II
 - Address: 342 SOUTH 1350 WEST
 - City: VERNAL
-- State: UT
 - ZIP: 84078
 - ZIP extension: 0000
 - State project ID: 2014-13
@@ -16,15 +14,11 @@
 - Tract 2020: 49047968301
 - Tract 2010: 49047968301
 - Tract 2000: 49047988300
-- Tract 1990: 
 - Place 2020: 80090
 - Place 2010: 80090
 - Place 2000: 80090
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 331426
 - Units: 32
 - Low-income units: 32
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CREEKBRIDGE COURT (IDA20000005)
 
 - HUD ID: IDA20000005
-- HUD ID before: 
 - Project: CREEKBRIDGE COURT
 - Address: 2131 3RD STREET NORTH
 - City: NAMPA
-- State: ID
 - ZIP: 83687
-- ZIP extension: 
 - State project ID: HC9906
 - Latitude: 43.576415
 - Longitude: -116.547323
@@ -20,11 +17,8 @@
 - Place 2020: 56260
 - Place 2010: 56260
 - Place 2000: 56260
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 342669
 - Units: 60
 - Low-income units: 45
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

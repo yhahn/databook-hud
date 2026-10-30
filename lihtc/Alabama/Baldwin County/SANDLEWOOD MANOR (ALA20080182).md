@@ -1,13 +1,10 @@
 # Project: SANDLEWOOD MANOR (ALA20080182)
 
 - HUD ID: ALA20080182
-- HUD ID before: 
 - Project: SANDLEWOOD MANOR
 - Address: 22575 MATTINGLY ST
 - City: ROBERTSDALE
-- State: AL
 - ZIP: 36567
-- ZIP extension: 
 - State project ID: AL-06-0046
 - Latitude: 30.554227
 - Longitude: -87.705396
@@ -20,12 +17,8 @@
 - Place 2020: 65208
 - Place 2010: 65208
 - Place 2000: 65208
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008530, ALA2006140, ALA2006175, ALA2006175.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: SOUTHVIEW GREEN APARTMENTS (NCA20040180)
 
 - HUD ID: NCA20040180
-- HUD ID before: 
 - Project: SOUTHVIEW GREEN APARTMENTS
 - Address: 3143 ROUND GROVE PL
 - City: HOPE MILLS
-- State: NC
 - ZIP: 28348
 - ZIP extension: 1647
 - State project ID: 9002264
@@ -19,12 +17,8 @@
 - Tract 1990: 37051001602
 - Place 2020: 99999
 - Place 2010: 32640
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 375173
 - Units: 72
 - Low-income units: 72
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

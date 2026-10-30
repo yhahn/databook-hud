@@ -1,13 +1,10 @@
 # Project: VERBENA CROSSING APTS (CAA20130469)
 
 - HUD ID: CAA20130469
-- HUD ID before: 
 - Project: VERBENA CROSSING APTS
 - Address: 66950 IRONWOOD DR
 - City: DESERT HOT SPRINGS
-- State: CA
 - ZIP: 92240
-- ZIP extension: 
 - State project ID: CA-12-112
 - Latitude: 33.950694
 - Longitude: -116.493655
@@ -22,9 +19,7 @@
 - Place 2000: 18996
 - Place 1990: 0765
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 571458
 - Units: 96
 - Low-income units: 94
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

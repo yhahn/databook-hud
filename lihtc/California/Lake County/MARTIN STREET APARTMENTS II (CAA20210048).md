@@ -1,13 +1,10 @@
 # Project: MARTIN STREET APARTMENTS II (CAA20210048)
 
 - HUD ID: CAA20210048
-- HUD ID before: 
 - Project: MARTIN STREET APARTMENTS II
 - Address: 1257 MARTIN STREET
 - City: LAKEPORT
-- State: CA
 - ZIP: 95453
-- ZIP extension: 
 - State project ID: CA-2019-123
 - Latitude: 39.040235
 - Longitude: -122.928219
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06033000402
 - Tract 2010: 06033000400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 39710
 - Place 2010: 39710
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 1731073
 - Units: 48
 - Low-income units: 47
@@ -39,16 +30,11 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: Yes
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +53,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Rural
 - Scattered site: No
@@ -78,8 +60,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

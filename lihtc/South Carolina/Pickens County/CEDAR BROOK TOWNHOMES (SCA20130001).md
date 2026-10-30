@@ -1,13 +1,10 @@
 # Project: CEDAR BROOK TOWNHOMES (SCA20130001)
 
 - HUD ID: SCA20130001
-- HUD ID before: 
 - Project: CEDAR BROOK TOWNHOMES
 - Address: 101 CEDAR BROOK CIR
 - City: EASLEY
-- State: SC
 - ZIP: 29640
-- ZIP extension: 
 - State project ID: SC-12-027
 - Latitude: 34.83929
 - Longitude: -82.593907
@@ -22,9 +19,7 @@
 - Place 2000: 21985
 - Place 1990: 0390
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 850000
 - Units: 39
 - Low-income units: 39
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CEDAR BROOK TOWNHOMES M12-SG450946.
 - Record status: Existing, unchanged

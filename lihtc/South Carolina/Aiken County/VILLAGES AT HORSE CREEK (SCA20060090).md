@@ -1,13 +1,10 @@
 # Project: VILLAGES AT HORSE CREEK (SCA20060090)
 
 - HUD ID: SCA20060090
-- HUD ID before: 
 - Project: VILLAGES AT HORSE CREEK
 - Address: 446 LAWANA DR
 - City: GLOVERVILLE
-- State: SC
 - ZIP: 29828
-- ZIP extension: 
 - State project ID: SC-04-054
 - Latitude: 33.521118
 - Longitude: -81.831512
@@ -20,11 +17,8 @@
 - Place 2020: 29410
 - Place 2010: 29410
 - Place 2000: 00550
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 243244
 - Units: 36
 - Low-income units: 36
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SMITH HOUSE.
 - Record status: Existing, unchanged

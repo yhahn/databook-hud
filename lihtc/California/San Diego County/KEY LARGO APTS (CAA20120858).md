@@ -1,13 +1,10 @@
 # Project: KEY LARGO APTS (CAA20120858)
 
 - HUD ID: CAA20120858
-- HUD ID before: 
 - Project: KEY LARGO APTS
 - Address: 380 N MOLLISON AVE
 - City: EL CAJON
-- State: CA
 - ZIP: 92021
-- ZIP extension: 
 - State project ID: CA-11-896
 - Latitude: 32.79911
 - Longitude: -116.951178
@@ -22,9 +19,7 @@
 - Place 2000: 21712
 - Place 1990: 0850
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 748544
 - Units: 132
 - Low-income units: 130
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

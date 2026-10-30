@@ -1,13 +1,10 @@
 # Project: LIVINGSTON ROAD PROJECT (MSA19880110)
 
 - HUD ID: MSA19880110
-- HUD ID before: 
 - Project: LIVINGSTON ROAD PROJECT
 - Address: 3362 LIVINGSTON RD
 - City: JACKSON
-- State: MS
 - ZIP: 39213
-- ZIP extension: 
 - State project ID: 87-085
 - Latitude: 32.347021
 - Longitude: -90.20049
@@ -22,10 +19,7 @@
 - Place 2000: 36000
 - Place 1990: 0615
 - Year placed in service: 1988
-- Placed in service note: 
 - Allocation year: 1987
-- Allocation year note: 
-- Allocation amount: 
 - Units: 4
 - Low-income units: 4
 - Units reported: 4
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

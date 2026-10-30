@@ -1,13 +1,10 @@
 # Project: HOMESTEAD VILLAGE I (NDA19980015)
 
 - HUD ID: NDA19980015
-- HUD ID before: 
 - Project: HOMESTEAD VILLAGE I
 - Address: 310 THIRD AVE SE
 - City: GWINNER
-- State: ND
 - ZIP: 58040
-- ZIP extension: 
 - State project ID: TC9803
 - Latitude: 46.222404
 - Longitude: -97.65644
@@ -22,9 +19,7 @@
 - Place 2000: 15100
 - Place 1990: 0720
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 5706
 - Units: 4
 - Low-income units: 4
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

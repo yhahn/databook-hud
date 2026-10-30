@@ -1,13 +1,10 @@
 # Project: MT. AARON VILLAGE (NYA20221028)
 
 - HUD ID: NYA20221028
-- HUD ID before: 
 - Project: MT. AARON VILLAGE
 - Address: 695 GENESEE ST
 - City: BUFFALO
-- State: NY
 - ZIP: 14211
-- ZIP extension: 
 - State project ID: 20186041
 - Latitude: 42.897295
 - Longitude: -78.85082
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36029016600
 - Tract 2010: 36029016600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 11000
 - Place 2010: 11000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 1397094
 - Units: 59
 - Low-income units: 59
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1175104
 - CDBG: No
@@ -67,10 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Substance use
 - Scattered site: Yes
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

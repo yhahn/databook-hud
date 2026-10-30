@@ -1,11 +1,9 @@
 # Project: PINE VIEW I (MSA20180004)
 
 - HUD ID: MSA20180004
-- HUD ID before: 
 - Project: PINE VIEW I
 - Address: 707 AIRPORT ROAD
 - City: HOUSTON
-- State: MS
 - ZIP: 38851
 - ZIP extension: 0000
 - State project ID: 17-1-014
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28017950300
 - Tract 2010: 28017950300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 33900
 - Place 2010: 33900
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 607707
 - Units: 48
 - Low-income units: 48
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

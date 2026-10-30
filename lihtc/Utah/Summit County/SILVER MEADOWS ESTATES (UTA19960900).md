@@ -1,11 +1,9 @@
 # Project: SILVER MEADOWS ESTATES (UTA19960900)
 
 - HUD ID: UTA19960900
-- HUD ID before: 
 - Project: SILVER MEADOWS ESTATES
 - Address: 1935 COOKE DRIVE
 - City: PARK CITY
-- State: UT
 - ZIP: 84068
 - ZIP extension: 0000
 - State project ID: 1994-22
@@ -22,9 +20,7 @@
 - Place 2000: 58070
 - Place 1990: 0740
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 190029
 - Units: 14
 - Low-income units: 14
@@ -40,11 +36,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

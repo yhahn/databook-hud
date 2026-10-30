@@ -1,13 +1,10 @@
 # Project: OAK FOREST APARTMENTS (NCA19920410)
 
 - HUD ID: NCA19920410
-- HUD ID before: 
 - Project: OAK FOREST APARTMENTS
 - Address: 117 A OAK FOREST APARTMENTS
 - City: DALLAS
-- State: NC
 - ZIP: 28034
-- ZIP extension: 
 - State project ID: 9001373
 - Latitude: 35.305215
 - Longitude: -81.179786
@@ -22,9 +19,7 @@
 - Place 2000: 16180
 - Place 1990: 0645
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 78723
 - Units: 60
 - Low-income units: 59
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 6
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

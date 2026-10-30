@@ -1,13 +1,9 @@
 # Project: SABANA VILLAGE (PRA20000075)
 
 - HUD ID: PRA20000075
-- HUD ID before: 
 - Project: SABANA VILLAGE
 - Address: 856 CALLE JUAN PENA REYES
 - City: SAN JUAN
-- State: PR
-- ZIP: 
-- ZIP extension: 
 - State project ID: 97-013
 - Latitude: 18.405006
 - Longitude: -66.027852
@@ -20,11 +16,8 @@
 - Place 2020: 76770
 - Place 2010: 76770
 - Place 2000: 76770
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 1306764
 - Units: 160
 - Low-income units: 160
@@ -39,9 +32,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: AIDS/HIV
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA LUCHA CONTRA EL SIDA
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: MAPLE RIDGE (NCA20087020)
 
 - HUD ID: NCA20087020
-- HUD ID before: 
 - Project: MAPLE RIDGE
 - Address: 4810 CANYON CREST CIR
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28314
 - ZIP extension: 0766
 - State project ID: 9000673
@@ -16,15 +14,10 @@
 - Tract 2020: 37051003312
 - Tract 2010: 37051003312
 - Tract 2000: 37051002000
-- Tract 1990: 
 - Place 2020: 22920
 - Place 2010: 22920
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 323399
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,23 +55,14 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

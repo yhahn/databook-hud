@@ -1,13 +1,10 @@
 # Project: CASPN HOMES SUPPORTIVE HOUSING FOR THE ELDERLY (NCA19980030)
 
 - HUD ID: NCA19980030
-- HUD ID before: 
 - Project: CASPN HOMES SUPPORTIVE HOUSING FOR THE ELDERLY
 - Address: 945 S CHURCH ST
 - City: ASHEBORO
-- State: NC
 - ZIP: 27203
-- ZIP extension: 
 - State project ID: 9002123
 - Latitude: 35.694781
 - Longitude: -79.817704
@@ -22,9 +19,7 @@
 - Place 2000: 02080
 - Place 1990: 0075
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 265099
 - Units: 51
 - Low-income units: 50
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

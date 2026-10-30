@@ -1,13 +1,10 @@
 # Project: MUTUAL HOUSING AT THE HIGHLANDS (CAA20100166)
 
 - HUD ID: CAA20100166
-- HUD ID before: 
 - Project: MUTUAL HOUSING AT THE HIGHLANDS
 - Address: 6010 34TH ST
 - City: NORTH HIGHLANDS
-- State: CA
 - ZIP: 95660
-- ZIP extension: 
 - State project ID: CA-09-524
 - Latitude: 38.67626
 - Longitude: -121.387688
@@ -22,10 +19,7 @@
 - Place 2000: 51924
 - Place 1990: 1935
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 90
 - Low-income units: 89
 - Units reported: 90
@@ -40,12 +34,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 66
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 13387535
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: SPECIAL NEEDS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2010515.
 - Record status: Existing, unchanged

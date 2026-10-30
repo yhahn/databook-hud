@@ -1,13 +1,10 @@
 # Project: WHITEHOUSE SENIOR VILLAGE (TXA0000X106)
 
 - HUD ID: TXA0000X106
-- HUD ID before: 
 - Project: WHITEHOUSE SENIOR VILLAGE
 - Address: 201 LEAMINGTON SPA ROAD
 - City: WHITEHOUSE
-- State: TX
 - ZIP: 75791
-- ZIP extension: 
 - State project ID: TX5224
 - Latitude: 32.214384
 - Longitude: -95.223734
@@ -16,16 +13,10 @@
 - Tract 2020: 48423002200
 - Tract 2010: 48423002200
 - Tract 2000: 48423002009
-- Tract 1990: 
 - Place 2020: 78388
 - Place 2010: 78388
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 72
 - Low-income units: 56
 - Units reported: 72
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

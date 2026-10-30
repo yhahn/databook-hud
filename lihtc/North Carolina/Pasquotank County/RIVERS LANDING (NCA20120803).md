@@ -1,13 +1,10 @@
 # Project: RIVERS LANDING (NCA20120803)
 
 - HUD ID: NCA20120803
-- HUD ID before: 
 - Project: RIVERS LANDING
 - Address: 1699 WEEKSVILLE RD
 - City: ELIZABETH CITY
-- State: NC
 - ZIP: 27909
-- ZIP extension: 
 - State project ID: 9110689
 - Latitude: 36.262988
 - Longitude: -76.193601
@@ -22,9 +19,7 @@
 - Place 2000: 20580
 - Place 1990: 0805
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 894667
 - Units: 100
 - Low-income units: 100
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 40
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

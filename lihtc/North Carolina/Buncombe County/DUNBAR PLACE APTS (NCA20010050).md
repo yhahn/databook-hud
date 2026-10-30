@@ -1,13 +1,10 @@
 # Project: DUNBAR PLACE APTS (NCA20010050)
 
 - HUD ID: NCA20010050
-- HUD ID before: 
 - Project: DUNBAR PLACE APTS
 - Address: 100 PEACOCK LANE
 - City: ARDEN
-- State: NC
 - ZIP: 28704
-- ZIP extension: 
 - State project ID: 9002105
 - Latitude: 35.463337
 - Longitude: -82.512248
@@ -22,9 +19,7 @@
 - Place 2000: 58260
 - Place 1990: 2167
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 428433
 - Units: 74
 - Low-income units: 74
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 30
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

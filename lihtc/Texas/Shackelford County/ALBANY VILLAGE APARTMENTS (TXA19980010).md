@@ -1,13 +1,10 @@
 # Project: ALBANY VILLAGE APARTMENTS (TXA19980010)
 
 - HUD ID: TXA19980010
-- HUD ID before: 
 - Project: ALBANY VILLAGE APARTMENTS
 - Address: 325 STATE HWY 6
 - City: ALBANY
-- State: TX
 - ZIP: 76430
-- ZIP extension: 
 - State project ID: TX1721
 - Latitude: 32.716637
 - Longitude: -99.285236
@@ -22,10 +19,7 @@
 - Place 2000: 01648
 - Place 1990: 0050
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
-- Allocation amount: 
 - Units: 40
 - Low-income units: 40
 - Units reported: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: ARRINGTON PLACE (CRESCENT MANOR) (SCA20030012)
 
 - HUD ID: SCA20030012
-- HUD ID before: 
 - Project: ARRINGTON PLACE (CRESCENT MANOR)
 - Address: 1734 VAN HEISE ST
 - City: COLUMBIA
-- State: SC
 - ZIP: 29204
-- ZIP extension: 
 - State project ID: SC-50-103
 - Latitude: 34.032181
 - Longitude: -81.009757
@@ -22,9 +19,7 @@
 - Place 2000: 16000
 - Place 1990: 0305
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 135522
 - Units: 67
 - Low-income units: 67
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2004010. AKA CRESCENT MANOR.
 - Record status: Existing, unchanged

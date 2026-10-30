@@ -1,13 +1,10 @@
 # Project: THE GREAT LAURELS OF LAKE JUNALUSKA (NCA20070160)
 
 - HUD ID: NCA20070160
-- HUD ID before: 
 - Project: THE GREAT LAURELS OF LAKE JUNALUSKA
 - Address: 80 CANDLER STREET
 - City: WAYNESVILLE
-- State: NC
 - ZIP: 28786
-- ZIP extension: 
 - State project ID: 9002247
 - Latitude: 35.489915
 - Longitude: -82.990539
@@ -22,9 +19,7 @@
 - Place 2000: 71500
 - Place 1990: 2675
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 916104
 - Units: 100
 - Low-income units: 100
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 50
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

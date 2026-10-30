@@ -1,11 +1,9 @@
 # Project: COMSTOCK APARTMENTS (MTA19960015)
 
 - HUD ID: MTA19960015
-- HUD ID before: 
 - Project: COMSTOCK APARTMENTS
 - Address: 777 HAGGERTY LANE
 - City: BOZEMAN
-- State: MT
 - ZIP: 59715
 - ZIP extension: 0000
 - State project ID: 94170
@@ -20,11 +18,8 @@
 - Place 2020: 08950
 - Place 2010: 08950
 - Place 2000: 08950
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 109534
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +72,4 @@
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

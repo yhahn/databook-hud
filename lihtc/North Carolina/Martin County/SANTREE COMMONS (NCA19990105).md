@@ -1,13 +1,10 @@
 # Project: SANTREE COMMONS (NCA19990105)
 
 - HUD ID: NCA19990105
-- HUD ID before: 
 - Project: SANTREE COMMONS
 - Address: 208 COMMON CIRCLE
 - City: WILLIAMSTON
-- State: NC
 - ZIP: 27892
-- ZIP extension: 
 - State project ID: 9000987
 - Latitude: 35.837813
 - Longitude: -77.078214
@@ -19,12 +16,9 @@
 - Tract 1990: 37117970200
 - Place 2020: 74220
 - Place 2010: 74220
-- Place 2000: 
 - Place 1990: 2750
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 86484
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

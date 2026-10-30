@@ -1,11 +1,9 @@
 # Project: CASTLE MOUNTAIN (MTA20107001)
 
 - HUD ID: MTA20107001
-- HUD ID before: 
 - Project: CASTLE MOUNTAIN
 - Address: 101 1ST AVE SE
 - City: WHITE SULPHUR SPRING
-- State: MT
 - ZIP: 59645
 - ZIP extension: 0000
 - State project ID: 09090
@@ -15,17 +13,10 @@
 - County from: 2020
 - Tract 2020: 30059000100
 - Tract 2010: 30059000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 80050
 - Place 2010: 80050
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 10
 - Low-income units: 10
 - Units reported: 10
@@ -44,7 +35,6 @@
 - Affordability years: 46
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: MAIDIE LANE (KYA20020060)
 
 - HUD ID: KYA20020060
-- HUD ID before: 
 - Project: MAIDIE LANE
 - Address: MAIDIE LN.
 - City: SHELBYVILLE
-- State: KY
 - ZIP: 40065
-- ZIP extension: 
 - State project ID: KY-00-013
 - Latitude: 38.2066
 - Longitude: -85.2248
@@ -19,12 +16,9 @@
 - Tract 1990: 21211040300
 - Place 2020: 70050
 - Place 2010: 70050
-- Place 2000: 
 - Place 1990: 1790
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 1
 - Low-income units: 1
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

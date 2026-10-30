@@ -1,13 +1,10 @@
 # Project: BASS CIRCLE APTS (DCB20120081)
 
 - HUD ID: DCB20120081
-- HUD ID before: 
 - Project: BASS CIRCLE APTS
 - Address: 4511 B ST SE
 - City: WASHINGTON
-- State: DC
 - ZIP: 20019
-- ZIP extension: 
 - State project ID: DCB2014005
 - Latitude: 38.887969
 - Longitude: -76.936197
@@ -22,8 +19,6 @@
 - Place 2000: 50000
 - Place 1990: 0005
 - Year placed in service: 2012
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 804377
 - Units: 119
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

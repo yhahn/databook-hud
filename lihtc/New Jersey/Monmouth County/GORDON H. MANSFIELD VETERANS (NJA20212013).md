@@ -1,11 +1,9 @@
 # Project: GORDON H. MANSFIELD VETERANS (NJA20212013)
 
 - HUD ID: NJA20212013
-- HUD ID before: 
 - Project: GORDON H. MANSFIELD VETERANS
 - Address: 275 ESSEX RD
 - City: TINTON FALLS
-- State: NJ
 - ZIP: 07753
 - ZIP extension: 7863
 - State project ID: 03324-1
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 34025804802
 - Tract 2010: 34025807800
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 73020
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 636148
 - Units: 70
 - Low-income units: 70
@@ -39,16 +31,11 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 369000
 - CDBG: No
@@ -73,13 +60,7 @@
 - Homeless: Yes
 - Other population: No
 - Other population named: Veterans
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: STEPHEN CENTER PERMANENT SUPPORTIVE HOU (NEA20141010)
 
 - HUD ID: NEA20141010
-- HUD ID before: 
 - Project: STEPHEN CENTER PERMANENT SUPPORTIVE HOU
 - Address: 2723 Q STREET
 - City: OMAHA
-- State: NE
 - ZIP: 68107
 - ZIP extension: 0000
 - State project ID: 7-0793
@@ -16,15 +14,11 @@
 - Tract 2020: 31055002900
 - Tract 2010: 31055002900
 - Tract 2000: 31055002900
-- Tract 1990: 
 - Place 2020: 37000
 - Place 2010: 37000
 - Place 2000: 37000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 725000
 - Units: 62
 - Low-income units: 62
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: Special Needs
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

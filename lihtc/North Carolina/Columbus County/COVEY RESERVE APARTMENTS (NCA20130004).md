@@ -1,11 +1,9 @@
 # Project: COVEY RESERVE APARTMENTS (NCA20130004)
 
 - HUD ID: NCA20130004
-- HUD ID before: 
 - Project: COVEY RESERVE APARTMENTS
 - Address: 200 JORDAN LN
 - City: WHITEVILLE
-- State: NC
 - ZIP: 28472
 - ZIP extension: 3820
 - State project ID: 9133671
@@ -19,12 +17,9 @@
 - Tract 1990: 37047990900
 - Place 2020: 73660
 - Place 2010: 73660
-- Place 2000: 
 - Place 1990: 2735
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 411957
 - Units: 44
 - Low-income units: 44
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

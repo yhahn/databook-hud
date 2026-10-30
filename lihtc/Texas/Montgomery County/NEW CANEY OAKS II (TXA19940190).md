@@ -1,13 +1,10 @@
 # Project: NEW CANEY OAKS II (TXA19940190)
 
 - HUD ID: TXA19940190
-- HUD ID before: 
 - Project: NEW CANEY OAKS II
 - Address: 19633 FM 1485
 - City: NEW CANEY
-- State: TX
 - ZIP: 77357
-- ZIP extension: 
 - State project ID: TX1074
 - Latitude: 30.162091
 - Longitude: -95.230486
@@ -20,12 +17,8 @@
 - Place 2020: 99999
 - Place 2010: 99999
 - Place 2000: 56156
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
-- Allocation amount: 
 - Units: 101
 - Low-income units: 99
 - Units reported: 101
@@ -40,15 +33,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CHERRY KNOLL APARTMENTS (NCA20100070)
 
 - HUD ID: NCA20100070
-- HUD ID before: 
 - Project: CHERRY KNOLL APARTMENTS
 - Address: 107 CHERRY KNOLL DR
 - City: RUTHERFORDTON
-- State: NC
 - ZIP: 28139
 - ZIP extension: 3070
 - State project ID: 9105256
@@ -22,9 +20,7 @@
 - Place 2000: 58460
 - Place 1990: 2180
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 64534
 - Units: 28
 - Low-income units: 28
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 3
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +66,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

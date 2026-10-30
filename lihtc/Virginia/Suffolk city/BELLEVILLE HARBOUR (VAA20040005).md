@@ -1,13 +1,10 @@
 # Project: BELLEVILLE HARBOUR (VAA20040005)
 
 - HUD ID: VAA20040005
-- HUD ID before: 
 - Project: BELLEVILLE HARBOUR
 - Address: 4000 BELLEHARBOUR CIR
 - City: SUFFOLK
-- State: VA
 - ZIP: 23435
-- ZIP extension: 
 - State project ID: 8883
 - Latitude: 36.862246
 - Longitude: -76.435438
@@ -22,9 +19,7 @@
 - Place 2000: 76432
 - Place 1990: 1200
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 595353
 - Units: 120
 - Low-income units: 120
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA BELLEHARBOUR
 - Record status: Existing, unchanged

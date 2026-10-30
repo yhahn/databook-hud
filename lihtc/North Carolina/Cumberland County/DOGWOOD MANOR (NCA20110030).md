@@ -1,13 +1,10 @@
 # Project: DOGWOOD MANOR (NCA20110030)
 
 - HUD ID: NCA20110030
-- HUD ID before: 
 - Project: DOGWOOD MANOR
 - Address: 422 ALFRED STREET
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28301
-- ZIP extension: 
 - State project ID: 9105134
 - Latitude: 35.043723
 - Longitude: -78.876012
@@ -22,9 +19,7 @@
 - Place 2000: 22920
 - Place 1990: 0910
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 180993
 - Units: 36
 - Low-income units: 36
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: UMOM FAMILY HOUSING II (AZA20120075)
 
 - HUD ID: AZA20120075
-- HUD ID before: 
 - Project: UMOM FAMILY HOUSING II
 - Address: 3320 E VAN BUREN ST
 - City: PHOENIX
-- State: AZ
 - ZIP: 85008
-- ZIP extension: 
 - State project ID: TC-0533-10
 - Latitude: 33.451456
 - Longitude: -112.009517
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 0260
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 960885
 - Units: 60
 - Low-income units: 60
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,9 +55,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes

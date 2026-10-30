@@ -1,13 +1,10 @@
 # Project: THE VILLAGE (NCA20100240)
 
 - HUD ID: NCA20100240
-- HUD ID before: 
 - Project: THE VILLAGE
 - Address: 259 C TOWN CENTER DRIVE
 - City: LOCUST
-- State: NC
 - ZIP: 28097
-- ZIP extension: 
 - State project ID: 9002741
 - Latitude: 35.259563
 - Longitude: -80.433137
@@ -19,12 +16,8 @@
 - Tract 1990: 37025041600
 - Place 2020: 38860
 - Place 2010: 38860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

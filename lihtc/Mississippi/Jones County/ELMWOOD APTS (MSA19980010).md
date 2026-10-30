@@ -1,13 +1,10 @@
 # Project: ELMWOOD APTS (MSA19980010)
 
 - HUD ID: MSA19980010
-- HUD ID before: 
 - Project: ELMWOOD APTS
 - Address: 106 MIZE ST
 - City: ELLISVILLE
-- State: MS
 - ZIP: 39437
-- ZIP extension: 
 - State project ID: MS-97-035
 - Latitude: 31.612562
 - Longitude: -89.211858
@@ -20,11 +17,8 @@
 - Place 2020: 22020
 - Place 2010: 22020
 - Place 2000: 22020
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 40407
 - Units: 32
 - Low-income units: 31
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

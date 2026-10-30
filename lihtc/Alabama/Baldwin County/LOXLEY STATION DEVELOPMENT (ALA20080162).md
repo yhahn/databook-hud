@@ -1,13 +1,10 @@
 # Project: LOXLEY STATION DEVELOPMENT (ALA20080162)
 
 - HUD ID: ALA20080162
-- HUD ID before: 
 - Project: LOXLEY STATION DEVELOPMENT
 - Address: 63 RIBBON RAIL CT
 - City: LOXLEY
-- State: AL
 - ZIP: 36551
-- ZIP extension: 
 - State project ID: AL-07-0049
 - Latitude: 30.630736
 - Longitude: -87.747268
@@ -20,12 +17,8 @@
 - Place 2020: 44608
 - Place 2010: 44608
 - Place 2000: 44608
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008538, ALA2007185, ALA2007091, ALA2007091.
 - Record status: Existing, unchanged

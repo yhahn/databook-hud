@@ -1,13 +1,10 @@
 # Project: PARTNERSHIP VILLAGE (NCA19990090)
 
 - HUD ID: NCA19990090
-- HUD ID before: 
 - Project: PARTNERSHIP VILLAGE
 - Address: 131 GREENBRIAR ROAD
 - City: GREENSBORO
-- State: NC
 - ZIP: 27407
-- ZIP extension: 
 - State project ID: 9001348
 - Latitude: 36.128057
 - Longitude: -79.791668
@@ -22,9 +19,7 @@
 - Place 2000: 28000
 - Place 1990: 1065
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 110889
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: COUNTRY ESTATES (VAA19990055)
 
 - HUD ID: VAA19990055
-- HUD ID before: 
 - Project: COUNTRY ESTATES
 - Address: 402 CEDAR AVENUE
 - City: FARMVILLE
-- State: VA
 - ZIP: 23901
-- ZIP extension: 
 - State project ID: 959
 - Latitude: 37.299082
 - Longitude: -78.379654
@@ -20,11 +17,8 @@
 - Place 2020: 27440
 - Place 2010: 27440
 - Place 2000: 27440
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 140329
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: REALLOCATION BUT NO INFO ON EARLIER RECORD.
 - Record status: Existing, unchanged

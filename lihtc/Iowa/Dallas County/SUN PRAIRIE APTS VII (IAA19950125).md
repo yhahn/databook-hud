@@ -1,11 +1,9 @@
 # Project: SUN PRAIRIE APTS VII (IAA19950125)
 
 - HUD ID: IAA19950125
-- HUD ID before: 
 - Project: SUN PRAIRIE APTS VII
 - Address: 6689 VISTA DR
 - City: WEST DES MOINES
-- State: IA
 - ZIP: 50266
 - ZIP extension: 0000
 - State project ID: 94-35
@@ -13,18 +11,14 @@
 - Longitude: -93.799836
 - County FIPS: 19049
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 19049050811
 - Tract 2000: 19049050802
 - Tract 1990: 19049050800
-- Place 2020: 
 - Place 2010: 83910
 - Place 2000: 14520
 - Place 1990: 4470
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 274540
 - Units: 69
 - Low-income units: 69
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +61,8 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HIGHLAND VIEW APTS (ALA20050042)
 
 - HUD ID: ALA20050042
-- HUD ID before: 
 - Project: HIGHLAND VIEW APTS
 - Address: 2713 N BROAD ST
 - City: SELMA
-- State: AL
 - ZIP: 36701
-- ZIP extension: 
 - State project ID: AL-05-0019
 - Latitude: 32.437242
 - Longitude: -87.024646
@@ -22,9 +19,7 @@
 - Place 2000: 69120
 - Place 1990: 1555
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 309339
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1477820
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007080.
 - Record status: Existing, unchanged

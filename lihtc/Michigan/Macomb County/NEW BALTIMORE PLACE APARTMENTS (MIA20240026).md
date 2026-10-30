@@ -1,11 +1,9 @@
 # Project: NEW BALTIMORE PLACE APARTMENTS (MIA20240026)
 
 - HUD ID: MIA20240026
-- HUD ID before: 
 - Project: NEW BALTIMORE PLACE APARTMENTS
 - Address: 51140 HUNTLEY AVENUE
 - City: NEW BALTIMORE
-- State: MI
 - ZIP: 48047
 - ZIP extension: 0000
 - State project ID: 3147
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26099220002
 - Tract 2010: 26099220002
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 57100
 - Place 2010: 57100
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2024
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 684208
 - Units: 101
 - Low-income units: 100
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

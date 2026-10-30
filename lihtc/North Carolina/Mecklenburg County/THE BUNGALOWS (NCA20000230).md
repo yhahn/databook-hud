@@ -1,13 +1,10 @@
 # Project: THE BUNGALOWS (NCA20000230)
 
 - HUD ID: NCA20000230
-- HUD ID before: 
 - Project: THE BUNGALOWS
 - Address: 328D JETTON STREET
 - City: DAVIDSON
-- State: NC
 - ZIP: 28036
-- ZIP extension: 
 - State project ID: 9001153
 - Latitude: 35.498263
 - Longitude: -80.856569
@@ -22,9 +19,7 @@
 - Place 2000: 16400
 - Place 1990: 0660
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 194202
 - Units: 32
 - Low-income units: 32
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

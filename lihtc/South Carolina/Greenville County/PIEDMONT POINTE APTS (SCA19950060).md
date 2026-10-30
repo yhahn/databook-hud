@@ -1,13 +1,10 @@
 # Project: PIEDMONT POINTE APTS (SCA19950060)
 
 - HUD ID: SCA19950060
-- HUD ID before: 
 - Project: PIEDMONT POINTE APTS
 - Address: 300 OLD PELZER RD
 - City: PIEDMONT
-- State: SC
 - ZIP: 29673
-- ZIP extension: 
 - State project ID: SC-94-003
 - Latitude: 34.732035
 - Longitude: -82.444237
@@ -22,9 +19,7 @@
 - Place 2000: 29635
 - Place 1990: 0533
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 38673
 - Units: 39
 - Low-income units: 39
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1995520.
 - Record status: Existing, unchanged

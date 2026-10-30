@@ -1,13 +1,10 @@
 # Project: SHOCKOE HILL I APTS (VAA20020215)
 
 - HUD ID: VAA20020215
-- HUD ID before: 
 - Project: SHOCKOE HILL I APTS
 - Address: 210 HOSPITAL ST
 - City: RICHMOND
-- State: VA
 - ZIP: 23219
-- ZIP extension: 
 - State project ID: 4158
 - Latitude: 37.553102
 - Longitude: -77.431484
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 1035
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 237668
 - Units: 113
 - Low-income units: 113
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SHOCKOE HILL ELDERLY I.
 - Record status: Updated

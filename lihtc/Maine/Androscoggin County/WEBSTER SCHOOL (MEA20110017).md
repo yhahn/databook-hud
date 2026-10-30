@@ -1,13 +1,10 @@
 # Project: WEBSTER SCHOOL (MEA20110017)
 
 - HUD ID: MEA20110017
-- HUD ID before: 
 - Project: WEBSTER SCHOOL
 - Address: 95 HAMPSHIRE ST
 - City: AUBURN
-- State: ME
 - ZIP: 04210
-- ZIP extension: 
 - State project ID: MSHARLP1494
 - Latitude: 44.100833
 - Longitude: -70.23108
@@ -22,9 +19,7 @@
 - Place 2000: 02060
 - Place 1990: 0200
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 174457
 - Units: 28
 - Low-income units: 28
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1169449
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

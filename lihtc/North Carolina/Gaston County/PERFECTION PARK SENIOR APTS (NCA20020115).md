@@ -1,13 +1,10 @@
 # Project: PERFECTION PARK SENIOR APTS (NCA20020115)
 
 - HUD ID: NCA20020115
-- HUD ID before: 
 - Project: PERFECTION PARK SENIOR APTS
 - Address: 3030 PERFECTION PARK COURT
 - City: BELMONT
-- State: NC
 - ZIP: 28012
-- ZIP extension: 
 - State project ID: 9000997
 - Latitude: 35.279629
 - Longitude: -81.05387
@@ -19,12 +16,8 @@
 - Tract 1990: 37071031002
 - Place 2020: 04840
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 282720
 - Units: 50
 - Low-income units: 50
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

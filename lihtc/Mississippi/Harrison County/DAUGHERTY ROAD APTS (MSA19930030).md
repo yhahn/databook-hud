@@ -1,13 +1,10 @@
 # Project: DAUGHERTY ROAD APTS (MSA19930030)
 
 - HUD ID: MSA19930030
-- HUD ID before: 
 - Project: DAUGHERTY ROAD APTS
 - Address: 6083 DAUGHERTY RD
 - City: LONG BEACH
-- State: MS
 - ZIP: 39560
-- ZIP extension: 
 - State project ID: MS-92-018
 - Latitude: 30.375796
 - Longitude: -89.174619
@@ -22,10 +19,7 @@
 - Place 2000: 29700
 - Place 1990: 0690
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 60
 - Low-income units: 59
 - Units reported: 60
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
 - Data note: AKA GULF COAST APTS OF LONG BEACH.
 - Record status: Existing, unchanged

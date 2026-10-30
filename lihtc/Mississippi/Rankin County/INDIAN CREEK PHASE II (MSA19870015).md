@@ -1,13 +1,10 @@
 # Project: INDIAN CREEK PHASE II (MSA19870015)
 
 - HUD ID: MSA19870015
-- HUD ID before: 
 - Project: INDIAN CREEK PHASE II
 - Address: 150 HWY 469 N
 - City: FLORENCE
-- State: MS
 - ZIP: 39073
-- ZIP extension: 
 - State project ID: 87-064
 - Latitude: 32.157008
 - Longitude: -90.116436
@@ -20,12 +17,8 @@
 - Place 2020: 24980
 - Place 2010: 24980
 - Place 2000: 24980
-- Place 1990: 
 - Year placed in service: 1987
-- Placed in service note: 
 - Allocation year: 1987
-- Allocation year note: 
-- Allocation amount: 
 - Units: 32
 - Low-income units: 31
 - Units reported: 32
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

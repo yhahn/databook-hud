@@ -1,11 +1,9 @@
 # Project: PLYMOUTH LANDING (MOA20180018)
 
 - HUD ID: MOA20180018
-- HUD ID before: 
 - Project: PLYMOUTH LANDING
 - Address: 1444 EAST CLEVELAND STREET
 - City: MONETT
-- State: MO
 - ZIP: 65708
 - ZIP extension: 0000
 - State project ID: 17-020
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29109470401
 - Tract 2010: 29109470400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 49196
 - Place 2010: 49196
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 508000
 - Units: 39
 - Low-income units: 31
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

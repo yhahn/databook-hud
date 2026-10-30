@@ -1,13 +1,10 @@
 # Project: PINOLE GROVE SENIOR HOUSING (CAA20120876)
 
 - HUD ID: CAA20120876
-- HUD ID before: 
 - Project: PINOLE GROVE SENIOR HOUSING
 - Address: 800 JOHN ST
 - City: PINOLE
-- State: CA
 - ZIP: 94564
-- ZIP extension: 
 - State project ID: CA-93-040
 - Latitude: 38.006788
 - Longitude: -122.287331
@@ -22,9 +19,7 @@
 - Place 2000: 33308
 - Place 1990: 2160
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 260072
 - Units: 70
 - Low-income units: 69
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 700000
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1994300.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PENDELL COMMONS (NYA20110050)
 
 - HUD ID: NYA20110050
-- HUD ID before: 
 - Project: PENDELL COMMONS
 - Address: 15 COMMONS LN
 - City: POUGHKEEPSIE
-- State: NY
 - ZIP: 12601
-- ZIP extension: 
 - State project ID: 20096021
 - Latitude: 41.721517
 - Longitude: -73.908324
@@ -22,9 +19,7 @@
 - Place 2000: 25109
 - Place 1990: 1160
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1331529
 - Units: 73
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA2011519.
 - Record status: Existing, unchanged

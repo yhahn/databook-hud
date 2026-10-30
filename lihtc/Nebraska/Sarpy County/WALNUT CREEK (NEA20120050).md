@@ -1,13 +1,10 @@
 # Project: WALNUT CREEK (NEA20120050)
 
 - HUD ID: NEA20120050
-- HUD ID before: 
 - Project: WALNUT CREEK
 - Address: 2204 ALBERT ST
 - City: BELLEVUE
-- State: NE
 - ZIP: 68147
-- ZIP extension: 
 - State project ID: 7-0754
 - Latitude: 41.181451
 - Longitude: -95.945877
@@ -20,11 +17,8 @@
 - Place 2020: 03950
 - Place 2010: 99999
 - Place 2000: 03950
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 798582
 - Units: 60
 - Low-income units: 51
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

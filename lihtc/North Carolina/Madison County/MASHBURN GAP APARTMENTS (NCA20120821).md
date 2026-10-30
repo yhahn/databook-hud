@@ -1,13 +1,10 @@
 # Project: MASHBURN GAP APARTMENTS (NCA20120821)
 
 - HUD ID: NCA20120821
-- HUD ID before: 
 - Project: MASHBURN GAP APARTMENTS
 - Address: 1140 NORTH MAIN STREET
 - City: MARSHALL
-- State: NC
 - ZIP: 28753
-- ZIP extension: 
 - State project ID: 9001241
 - Latitude: 35.808847
 - Longitude: -82.688826
@@ -19,12 +16,8 @@
 - Tract 1990: 37115010100
 - Place 2020: 41580
 - Place 2010: 41580
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 65010
 - Units: 34
 - Low-income units: 34
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

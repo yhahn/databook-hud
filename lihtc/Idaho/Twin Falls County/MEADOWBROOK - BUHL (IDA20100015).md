@@ -1,13 +1,10 @@
 # Project: MEADOWBROOK - BUHL (IDA20100015)
 
 - HUD ID: IDA20100015
-- HUD ID before: 
 - Project: MEADOWBROOK - BUHL
 - Address: 315 CLEAR LAKES ROAD
 - City: BUHL
-- State: ID
 - ZIP: 83316
-- ZIP extension: 
 - State project ID: HC0902
 - Latitude: 42.601335
 - Longitude: -114.752615
@@ -22,9 +19,7 @@
 - Place 2000: 10810
 - Place 1990: 0105
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 20
 - Low-income units: 19
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

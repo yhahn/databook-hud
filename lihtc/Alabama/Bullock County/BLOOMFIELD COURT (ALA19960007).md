@@ -1,13 +1,10 @@
 # Project: BLOOMFIELD COURT (ALA19960007)
 
 - HUD ID: ALA19960007
-- HUD ID before: 
 - Project: BLOOMFIELD COURT
 - Address: 1000 BLOOMFIELD ST
 - City: UNION SPRINGS
-- State: AL
 - ZIP: 36089
-- ZIP extension: 
 - State project ID: AL-96-0059
 - Latitude: 32.124011
 - Longitude: -85.71791
@@ -22,9 +19,7 @@
 - Place 2000: 77880
 - Place 1990: 1735
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 179023
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 904000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997015.
 - Record status: Existing, unchanged

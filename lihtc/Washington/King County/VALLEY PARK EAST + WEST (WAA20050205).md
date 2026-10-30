@@ -1,13 +1,10 @@
 # Project: VALLEY PARK EAST + WEST (WAA20050205)
 
 - HUD ID: WAA20050205
-- HUD ID before: 
 - Project: VALLEY PARK EAST + WEST
 - Address: 624 L PLACE SE
 - City: AUBURN
-- State: WA
 - ZIP: 98002
-- ZIP extension: 
 - State project ID: 04-38
 - Latitude: 47.302108
 - Longitude: -122.213753
@@ -22,9 +19,7 @@
 - Place 2000: 03180
 - Place 1990: 0055
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 614625
 - Units: 60
 - Low-income units: 58
@@ -39,17 +34,14 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -73,13 +61,6 @@
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Transitional
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

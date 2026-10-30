@@ -1,11 +1,9 @@
 # Project: DR. LUTHER MACK JR. SENIOR APARTMENTS (NVA20130185)
 
 - HUD ID: NVA20130185
-- HUD ID before: 
 - Project: DR. LUTHER MACK JR. SENIOR APARTMENTS
 - Address: 8158 GILES ST
 - City: LAS VEGAS
-- State: NV
 - ZIP: 89123
 - ZIP extension: 0000
 - State project ID: 12-03
@@ -22,9 +20,7 @@
 - Place 2000: 23770
 - Place 1990: 0084
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 17068724
 - Units: 48
 - Low-income units: 48
@@ -40,8 +36,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -74,12 +63,8 @@
 - Other population: No
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA2013091.
 - Record status: Existing, unchanged

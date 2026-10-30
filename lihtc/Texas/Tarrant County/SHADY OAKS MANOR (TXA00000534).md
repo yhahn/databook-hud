@@ -1,13 +1,10 @@
 # Project: SHADY OAKS MANOR (TXA00000534)
 
 - HUD ID: TXA00000534
-- HUD ID before: 
 - Project: SHADY OAKS MANOR
 - Address: 6148 SAN VILLA DR
 - City: FORT WORTH
-- State: TX
 - ZIP: 76135
-- ZIP extension: 
 - State project ID: TX3291
 - Latitude: 32.804088
 - Longitude: -97.416566
@@ -21,11 +18,8 @@
 - Place 2010: 27000
 - Place 2000: 27000
 - Place 1990: 1500
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 138
 - Low-income units: 138
 - Units reported: 138
@@ -38,17 +32,12 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

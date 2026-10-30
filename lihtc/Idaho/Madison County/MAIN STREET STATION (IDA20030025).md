@@ -1,13 +1,10 @@
 # Project: MAIN STREET STATION (IDA20030025)
 
 - HUD ID: IDA20030025
-- HUD ID before: 
 - Project: MAIN STREET STATION
 - Address: 438 WEST MAIN STREET
 - City: REXBURG
-- State: ID
 - ZIP: 83440
-- ZIP extension: 
 - State project ID: HC0208
 - Latitude: 43.826242
 - Longitude: -111.79647
@@ -22,9 +19,7 @@
 - Place 2000: 67420
 - Place 1990: 0820
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 330876
 - Units: 68
 - Low-income units: 67
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

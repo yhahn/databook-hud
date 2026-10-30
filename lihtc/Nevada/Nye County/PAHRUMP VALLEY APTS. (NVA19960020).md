@@ -1,11 +1,9 @@
 # Project: PAHRUMP VALLEY APTS. (NVA19960020)
 
 - HUD ID: NVA19960020
-- HUD ID before: 
 - Project: PAHRUMP VALLEY APTS.
 - Address: 2151 PAHRUMP VALLEY BLVD
 - City: PAHRUMP
-- State: NV
 - ZIP: 89048
 - ZIP extension: 0000
 - State project ID: 95-2
@@ -22,9 +20,7 @@
 - Place 2000: 53800
 - Place 1990: 0082
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 61807
 - Units: 33
 - Low-income units: 32
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA1997025.
 - Record status: Existing, unchanged

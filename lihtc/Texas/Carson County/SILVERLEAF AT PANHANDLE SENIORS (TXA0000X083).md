@@ -1,13 +1,10 @@
 # Project: SILVERLEAF AT PANHANDLE SENIORS (TXA0000X083)
 
 - HUD ID: TXA0000X083
-- HUD ID before: 
 - Project: SILVERLEAF AT PANHANDLE SENIORS
 - Address: 601 PECAN AVENUE
 - City: PANHANDLE
-- State: TX
 - ZIP: 79068
-- ZIP extension: 
 - State project ID: TX5200
 - Latitude: 35.342806
 - Longitude: -101.389186
@@ -16,16 +13,10 @@
 - Tract 2020: 48065950200
 - Tract 2010: 48065950200
 - Tract 2000: 48065950200
-- Tract 1990: 
 - Place 2020: 54960
 - Place 2010: 54960
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 60
 - Low-income units: 54
 - Units reported: 60
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

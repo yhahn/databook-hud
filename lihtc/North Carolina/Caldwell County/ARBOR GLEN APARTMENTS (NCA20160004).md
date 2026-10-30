@@ -1,13 +1,10 @@
 # Project: ARBOR GLEN APARTMENTS (NCA20160004)
 
 - HUD ID: NCA20160004
-- HUD ID before: 
 - Project: ARBOR GLEN APARTMENTS
 - Address: 100 ABINGTON ROAD
 - City: LENOIR
-- State: NC
 - ZIP: 28645
-- ZIP extension: 
 - State project ID: 9167346
 - Latitude: 35.903929
 - Longitude: -81.559878
@@ -20,11 +17,8 @@
 - Place 2020: 37760
 - Place 2010: 37760
 - Place 2000: 37760
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 381823
 - Units: 50
 - Low-income units: 50
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

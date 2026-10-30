@@ -1,13 +1,10 @@
 # Project: ROLLING FORK MANOR (MSA19970080)
 
 - HUD ID: MSA19970080
-- HUD ID before: 
 - Project: ROLLING FORK MANOR
 - Address: 205 DAY ST
 - City: ROLLING FORK
-- State: MS
 - ZIP: 39159
-- ZIP extension: 
 - State project ID: MS-97-050
 - Latitude: 32.907978
 - Longitude: -90.883692
@@ -22,9 +19,7 @@
 - Place 2000: 63560
 - Place 1990: 1115
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 46743
 - Units: 32
 - Low-income units: 31
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

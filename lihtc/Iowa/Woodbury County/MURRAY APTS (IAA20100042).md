@@ -1,13 +1,10 @@
 # Project: MURRAY APTS (IAA20100042)
 
 - HUD ID: IAA20100042
-- HUD ID before: 
 - Project: MURRAY APTS
 - Address: 821 JACKSON ST
 - City: SIOUX CITY
-- State: IA
 - ZIP: 51105
-- ZIP extension: 
 - State project ID: 09-0916
 - Latitude: 42.499144
 - Longitude: -96.402238
@@ -22,9 +19,7 @@
 - Place 2000: 73335
 - Place 1990: 3980
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 174316
 - Units: 17
 - Low-income units: 17
@@ -39,13 +34,9 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +46,9 @@
 - CDBG amount: 0
 - TCAP: Yes
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2010511.
 - Record status: Existing, unchanged

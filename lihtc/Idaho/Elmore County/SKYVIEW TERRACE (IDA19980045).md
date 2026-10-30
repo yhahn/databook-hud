@@ -1,13 +1,10 @@
 # Project: SKYVIEW TERRACE (IDA19980045)
 
 - HUD ID: IDA19980045
-- HUD ID before: 
 - Project: SKYVIEW TERRACE
 - Address: 945 WEST 5TH NORTH
 - City: MOUNTAIN HOME
-- State: ID
 - ZIP: 83647
-- ZIP extension: 
 - State project ID: HC9705
 - Latitude: 43.133716
 - Longitude: -115.710242
@@ -20,11 +17,8 @@
 - Place 2020: 54730
 - Place 2010: 54730
 - Place 2000: 54730
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 232578
 - Units: 56
 - Low-income units: 55
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

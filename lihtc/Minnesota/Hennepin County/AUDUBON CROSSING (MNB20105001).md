@@ -1,11 +1,9 @@
 # Project: AUDUBON CROSSING (MNB20105001)
 
 - HUD ID: MNB20105001
-- HUD ID before: 
 - Project: AUDUBON CROSSING
 - Address: 951 LOWRY AVENUE NORTHEAST
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55418
 - ZIP extension: 3748
 - State project ID: D5895
@@ -16,15 +14,11 @@
 - Tract 2020: 27053001100
 - Tract 2010: 27053001100
 - Tract 2000: 27053001100
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 699539
 - Units: 30
 - Low-income units: 30
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

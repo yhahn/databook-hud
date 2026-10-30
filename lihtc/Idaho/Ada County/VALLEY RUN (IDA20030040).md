@@ -1,13 +1,10 @@
 # Project: VALLEY RUN (IDA20030040)
 
 - HUD ID: IDA20030040
-- HUD ID before: 
 - Project: VALLEY RUN
 - Address: 620 LINDER AVENUE
 - City: KUNA
-- State: ID
 - ZIP: 83634
-- ZIP extension: 
 - State project ID: HC0206
 - Latitude: 43.493857
 - Longitude: -116.413443
@@ -20,11 +17,8 @@
 - Place 2020: 44290
 - Place 2010: 44290
 - Place 2000: 44290
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 209375
 - Units: 32
 - Low-income units: 31
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: RUSSELL SCHOOL APARTMENTS (KYA20120020)
 
 - HUD ID: KYA20120020
-- HUD ID before: 
 - Project: RUSSELL SCHOOL APARTMENTS
 - Address: WEST FIFTH STREET
 - City: LEXINGTON
-- State: KY
 - ZIP: 40508
-- ZIP extension: 
 - State project ID: KY-11-050
 - Latitude: 38.0575
 - Longitude: -84.4916
@@ -19,12 +16,9 @@
 - Tract 1990: 21067000200
 - Place 2020: 46027
 - Place 2010: 46027
-- Place 2000: 
 - Place 1990: 1160
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 823100
 - Units: 27
 - Low-income units: 27
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

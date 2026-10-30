@@ -1,13 +1,10 @@
 # Project: SIENNA POINTE (TXA20145029)
 
 - HUD ID: TXA20145029
-- HUD ID before: 
 - Project: SIENNA POINTE
 - Address: 2913 HUNTER ROAD
 - City: SAN MARCOS
-- State: TX
 - ZIP: 78666
-- ZIP extension: 
 - State project ID: TX4887
 - Latitude: 29.848659
 - Longitude: -97.97785
@@ -22,9 +19,7 @@
 - Place 2000: 65600
 - Place 1990: 3795
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 92579
 - Units: 228
 - Low-income units: 228
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

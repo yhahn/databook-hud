@@ -1,13 +1,10 @@
 # Project: COLONIAL VILLAGE WEST (VAA20191006)
 
 - HUD ID: VAA20191006
-- HUD ID before: 
 - Project: COLONIAL VILLAGE WEST
 - Address: 2111 NORTH KEY BOULEVARD
 - City: ARLINGTON
-- State: VA
 - ZIP: 22201
-- ZIP extension: 
 - State project ID: 952
 - Latitude: 38.893382
 - Longitude: -77.085366
@@ -22,9 +19,7 @@
 - Place 2000: 03000
 - Place 1990: 0056
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 800025
 - Units: 70
 - Low-income units: 70
@@ -40,15 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
-- RHS 514 loan: 
-- RHS 515 loan: 
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +61,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2002050.
 - Record status: Existing, unchanged

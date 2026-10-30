@@ -1,13 +1,10 @@
 # Project: TWIN OAKS ELDERLY HANDICAP (MSA19980048)
 
 - HUD ID: MSA19980048
-- HUD ID before: 
 - Project: TWIN OAKS ELDERLY HANDICAP
 - Address: 419 CHESTNUT DR
 - City: NEW ALBANY
-- State: MS
 - ZIP: 38652
-- ZIP extension: 
 - State project ID: MS-97-018
 - Latitude: 34.47711
 - Longitude: -89.014743
@@ -22,9 +19,7 @@
 - Place 2000: 51000
 - Place 1990: 0885
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 517542
 - Units: 20
 - Low-income units: 20
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998582, MSA1997105.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: JERRY BURNETT APARTMENTS (UTA20160004)
 
 - HUD ID: UTA20160004
-- HUD ID before: 
 - Project: JERRY BURNETT APARTMENTS
 - Address: 270 NORTH 300 WEST
 - City: KAYSVILLE
-- State: UT
 - ZIP: 84037
 - ZIP extension: 0000
 - State project ID: 2015-04
@@ -16,15 +14,11 @@
 - Tract 2020: 49011126101
 - Tract 2010: 49011126101
 - Tract 2000: 49011126101
-- Tract 1990: 
 - Place 2020: 40360
 - Place 2010: 40360
 - Place 2000: 40360
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 165250
 - Units: 25
 - Low-income units: 25
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

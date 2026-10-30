@@ -1,13 +1,10 @@
 # Project: CHURCH STREET APARTMENTS (KYA19960030)
 
 - HUD ID: KYA19960030
-- HUD ID before: 
 - Project: CHURCH STREET APARTMENTS
 - Address: CHURCH ST.
 - City: MANCHESTER
-- State: KY
 - ZIP: 40336
-- ZIP extension: 
 - State project ID: KY-94-011
 - Latitude: 37.169
 - Longitude: -83.7514
@@ -19,12 +16,8 @@
 - Tract 1990: 21051950300
 - Place 2020: 49656
 - Place 2010: 49656
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 40
 - Low-income units: 40
@@ -39,7 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

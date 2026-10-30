@@ -1,13 +1,10 @@
 # Project: EMERSON MANOR (WAA20010035)
 
 - HUD ID: WAA20010035
-- HUD ID before: 
 - Project: EMERSON MANOR
 - Address: 703 SIMPSON AVE
 - City: HOQUIAM
-- State: WA
 - ZIP: 98550
-- ZIP extension: 
 - State project ID: 00-60
 - Latitude: 46.977994
 - Longitude: -123.884903
@@ -22,9 +19,7 @@
 - Place 2000: 32300
 - Place 1990: 0560
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 348000
 - Units: 59
 - Low-income units: 58
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

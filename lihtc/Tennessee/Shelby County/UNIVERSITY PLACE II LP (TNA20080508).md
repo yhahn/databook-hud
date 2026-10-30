@@ -1,13 +1,10 @@
 # Project: UNIVERSITY PLACE II LP (TNA20080508)
 
 - HUD ID: TNA20080508
-- HUD ID before: 
 - Project: UNIVERSITY PLACE II LP
 - Address: 1045 E EH CRUMP BLVD
 - City: MEMPHIS
-- State: TN
 - ZIP: 38104
-- ZIP extension: 
 - State project ID: TN-06-012
 - Latitude: 35.131817
 - Longitude: -90.026508
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 732473
 - Units: 94
 - Low-income units: 94
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2008087.
 - Record status: Existing, unchanged

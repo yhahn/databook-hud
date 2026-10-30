@@ -1,13 +1,10 @@
 # Project: CLEAR SPRING APTS (ALA19990042)
 
 - HUD ID: ALA19990042
-- HUD ID before: 
 - Project: CLEAR SPRING APTS
 - Address: 515 OLD HWY 25 W
 - City: COLUMBIANA
-- State: AL
 - ZIP: 35051
-- ZIP extension: 
 - State project ID: AL-99-0069
 - Latitude: 33.171497
 - Longitude: -86.612942
@@ -20,11 +17,8 @@
 - Place 2020: 16768
 - Place 2010: 16768
 - Place 2000: 16768
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 213795
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 870900
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2000045. AKA COLUMBIANA II.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SILVER HILL AT GREAT NECK (VAA19950181)
 
 - HUD ID: VAA19950181
-- HUD ID before: 
 - Project: SILVER HILL AT GREAT NECK
 - Address: 1537 MILL DAM RD
 - City: VIRGINIA BEACH
-- State: VA
 - ZIP: 23454
-- ZIP extension: 
 - State project ID: 4480
 - Latitude: 36.879466
 - Longitude: -76.03936
@@ -22,9 +19,7 @@
 - Place 2000: 82000
 - Place 1990: 1280
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 85226
 - Units: 122
 - Low-income units: 95
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1994115.
 - Record status: Existing, unchanged

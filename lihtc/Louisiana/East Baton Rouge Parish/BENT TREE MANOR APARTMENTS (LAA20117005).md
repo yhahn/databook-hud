@@ -1,11 +1,9 @@
 # Project: BENT TREE MANOR APARTMENTS (LAA20117005)
 
 - HUD ID: LAA20117005
-- HUD ID before: 
 - Project: BENT TREE MANOR APARTMENTS
 - Address: 12778 PLANK ROAD
 - City: BAKER
-- State: LA
 - ZIP: 70714
 - ZIP extension: 0000
 - State project ID: LA-11-108
@@ -20,11 +18,8 @@
 - Place 2020: 03985
 - Place 2010: 03985
 - Place 2000: 03985
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 254401
 - Units: 32
 - Low-income units: 32
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: Acquisition/Rehab
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS LAA0000050
 - Record status: Existing, unchanged

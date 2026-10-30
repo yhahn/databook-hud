@@ -1,11 +1,9 @@
 # Project: BROADWAY HEIGHTS APARTMENTS I (IAA20140020)
 
 - HUD ID: IAA20140020
-- HUD ID before: 
 - Project: BROADWAY HEIGHTS APARTMENTS I
 - Address: 4282 E 50TH ST
 - City: DES MOINES
-- State: IA
 - ZIP: 50317
 - ZIP extension: 4779
 - State project ID: 13-13-21
@@ -20,11 +18,8 @@
 - Place 2020: 21000
 - Place 2010: 21000
 - Place 2000: 01630
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 486469
 - Units: 65
 - Low-income units: 65
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: Victims of Domestic Violence
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

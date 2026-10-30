@@ -1,11 +1,9 @@
 # Project: MORTON MANOR APARTMENTS (MIA20222004)
 
 - HUD ID: MIA20222004
-- HUD ID before: 
 - Project: MORTON MANOR APARTMENTS
 - Address: 20000 DEQUINDRE
 - City: DETROIT
-- State: MI
 - ZIP: 48234
 - ZIP extension: 0000
 - State project ID: 3851
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26163507500
 - Tract 2010: 26163507500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2025
-- Allocation year note: 
 - Allocation amount: 782938
 - Units: 150
 - Low-income units: 150
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 5600000
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

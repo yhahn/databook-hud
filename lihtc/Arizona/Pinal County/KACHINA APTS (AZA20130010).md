@@ -1,13 +1,10 @@
 # Project: KACHINA APTS (AZA20130010)
 
 - HUD ID: AZA20130010
-- HUD ID before: 
 - Project: KACHINA APTS
 - Address: 316 N AVE A
 - City: CASA GRANDE
-- State: AZ
 - ZIP: 85122
-- ZIP extension: 
 - State project ID: TC-0721-12
 - Latitude: 32.87638
 - Longitude: -111.734466
@@ -22,9 +19,7 @@
 - Place 2000: 10530
 - Place 1990: 0041
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 638546
 - Units: 96
 - Low-income units: 95
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 95
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA DHI-KACHINA APTS.
 - Record status: Existing, unchanged

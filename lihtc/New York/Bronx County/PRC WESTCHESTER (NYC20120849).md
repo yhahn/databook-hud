@@ -1,13 +1,10 @@
 # Project: PRC WESTCHESTER (NYC20120849)
 
 - HUD ID: NYC20120849
-- HUD ID before: 
 - Project: PRC WESTCHESTER
 - Address: 1240 WESTCHESTER AVENUE
 - City: BRONX
-- State: NY
 - ZIP: 10459
-- ZIP extension: 
 - State project ID: 35-2435683
 - Latitude: 40.826739
 - Longitude: -73.888291
@@ -16,15 +13,11 @@
 - Tract 2020: 36005012102
 - Tract 2010: 36005012102
 - Tract 2000: 36005012102
-- Tract 1990: 
 - Place 2020: 51000
 - Place 2010: 51000
 - Place 2000: 51000
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 2067524
 - Units: 409
 - Low-income units: 397
@@ -38,10 +31,6 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,13 +46,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

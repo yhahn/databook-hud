@@ -1,13 +1,10 @@
 # Project: RICHMOND CITY CENTER APTS (CAA20130080)
 
 - HUD ID: CAA20130080
-- HUD ID before: 
 - Project: RICHMOND CITY CENTER APTS
 - Address: 1000 MACDONALD AVE
 - City: RICHMOND
-- State: CA
 - ZIP: 94801
-- ZIP extension: 
 - State project ID: CA-12-092
 - Latitude: 37.935479
 - Longitude: -122.359992
@@ -22,9 +19,7 @@
 - Place 2000: 60620
 - Place 1990: 2330
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 449429
 - Units: 63
 - Low-income units: 63
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1993210.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: FREEMONT-CHASE REHAB PROJECT (VAA19930145)
 
 - HUD ID: VAA19930145
-- HUD ID before: 
 - Project: FREEMONT-CHASE REHAB PROJECT
 - Address: 430 CHASE ST
 - City: WINCHESTER
-- State: VA
 - ZIP: 22601
-- ZIP extension: 
 - State project ID: 985
 - Latitude: 39.188605
 - Longitude: -78.160127
@@ -22,9 +19,7 @@
 - Place 2000: 86720
 - Place 1990: 1345
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 15469
 - Units: 6
 - Low-income units: 6
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1993040, VAA0000042.
 - Record status: Existing, unchanged

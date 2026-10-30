@@ -1,11 +1,9 @@
 # Project: BENTLEYVILLE PRESERVATION (PAA20201002)
 
 - HUD ID: PAA20201002
-- HUD ID before: 
 - Project: BENTLEYVILLE PRESERVATION
 - Address: 507 OLD WEST RD
 - City: BENTLEYVILLE
-- State: PA
 - ZIP: 15314
 - ZIP extension: 1560
 - State project ID: TC20180307
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42125764000
 - Tract 2010: 42125764000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 05672
 - Place 2010: 05672
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 991676
 - Units: 102
 - Low-income units: 101
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

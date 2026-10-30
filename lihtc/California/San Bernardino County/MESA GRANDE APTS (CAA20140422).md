@@ -1,13 +1,10 @@
 # Project: MESA GRANDE APTS (CAA20140422)
 
 - HUD ID: CAA20140422
-- HUD ID before: 
 - Project: MESA GRANDE APTS
 - Address: 1600 LILLYHILL DR
 - City: NEEDLES
-- State: CA
 - ZIP: 92363
-- ZIP extension: 
 - State project ID: CA-13-028
 - Latitude: 34.829222
 - Longitude: -114.614976
@@ -22,9 +19,7 @@
 - Place 2000: 50734
 - Place 1990: 1890
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 216214
 - Units: 46
 - Low-income units: 45
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

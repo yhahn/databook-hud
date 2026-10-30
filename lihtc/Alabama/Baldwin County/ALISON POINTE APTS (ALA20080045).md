@@ -1,13 +1,10 @@
 # Project: ALISON POINTE APTS (ALA20080045)
 
 - HUD ID: ALA20080045
-- HUD ID before: 
 - Project: ALISON POINTE APTS
 - Address: 9921 BETHANY DR
 - City: FOLEY
-- State: AL
 - ZIP: 36535
-- ZIP extension: 
 - State project ID: AL-06-0801
 - Latitude: 30.367661
 - Longitude: -87.694339
@@ -22,9 +19,7 @@
 - Place 2000: 26992
 - Place 1990: 0645
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 780607
 - Units: 128
 - Low-income units: 128
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 128
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

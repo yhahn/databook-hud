@@ -1,13 +1,10 @@
 # Project: MARKET SQUARE COMMONS (MEA20100022)
 
 - HUD ID: MEA20100022
-- HUD ID before: 
 - Project: MARKET SQUARE COMMONS
 - Address: 40 MARKET SQ
 - City: HOULTON
-- State: ME
 - ZIP: 04730
-- ZIP extension: 
 - State project ID: RLP-1473
 - Latitude: 46.125422
 - Longitude: -67.840149
@@ -22,9 +19,7 @@
 - Place 2000: 33945
 - Place 1990: 2120
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 4003025
 - Units: 28
 - Low-income units: 17
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 4003025
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

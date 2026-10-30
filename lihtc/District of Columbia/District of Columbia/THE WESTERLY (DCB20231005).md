@@ -1,13 +1,10 @@
 # Project: THE WESTERLY (DCB20231005)
 
 - HUD ID: DCB20231005
-- HUD ID before: 
 - Project: THE WESTERLY
 - Address: 350 MAPLE DRIVE, SW
 - City: WASHINGTON
-- State: DC
 - ZIP: 20024
-- ZIP extension: 
 - State project ID: DCB2025055
 - Latitude: 38.8821
 - Longitude: -77.0245
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 11001010201
 - Tract 2010: 11001010200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 50000
 - Place 2010: 50000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 2370471
 - Units: 94
 - Low-income units: 94
@@ -33,8 +24,6 @@
 - Efficiencies: 24
 - 1-bedroom units: 63
 - 2-bedroom units: 7
-- 3-bedroom units: 
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: Both
 - Income ceiling: Income average
@@ -44,11 +33,9 @@
 - Affordability years: 99
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -71,15 +58,8 @@
 - Elderly: Yes
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

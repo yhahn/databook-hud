@@ -1,13 +1,10 @@
 # Project: ST. GEORGE SCHOOL (KYA19970135)
 
 - HUD ID: KYA19970135
-- HUD ID before: 
 - Project: ST. GEORGE SCHOOL
 - Address: STANDARD AVE.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40210
-- ZIP extension: 
 - State project ID: KY-95-096
 - Latitude: 38.2271
 - Longitude: -85.7847
@@ -19,12 +16,9 @@
 - Tract 1990: 21111001600
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 29
 - Low-income units: 29
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: GATEWAY VILLAGE (NCA20090040)
 
 - HUD ID: NCA20090040
-- HUD ID before: 
 - Project: GATEWAY VILLAGE
 - Address: 535 NORTH YORK STREET
 - City: GASTONIA
-- State: NC
 - ZIP: 28052
-- ZIP extension: 
 - State project ID: 9002728
 - Latitude: 35.268578
 - Longitude: -81.185672
@@ -22,9 +19,7 @@
 - Place 2000: 25580
 - Place 1990: 0990
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 340000
 - Units: 40
 - Low-income units: 40
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

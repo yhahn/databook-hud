@@ -1,11 +1,9 @@
 # Project: VOYAGEUR APARTMENTS (MTA20160008)
 
 - HUD ID: MTA20160008
-- HUD ID before: 
 - Project: VOYAGEUR APARTMENTS
 - Address: 1630 DIVISION ROAD
 - City: GREAT FALLS
-- State: MT
 - ZIP: 59404
 - ZIP extension: 0000
 - State project ID: 14040
@@ -16,15 +14,11 @@
 - Tract 2020: 30013001800
 - Tract 2010: 30013001800
 - Tract 2000: 30013001800
-- Tract 1990: 
 - Place 2020: 32800
 - Place 2010: 99999
 - Place 2000: 32800
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 647500
 - Units: 38
 - Low-income units: 38
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

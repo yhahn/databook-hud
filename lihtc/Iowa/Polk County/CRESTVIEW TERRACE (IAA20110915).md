@@ -1,13 +1,10 @@
 # Project: CRESTVIEW TERRACE (IAA20110915)
 
 - HUD ID: IAA20110915
-- HUD ID before: 
 - Project: CRESTVIEW TERRACE
 - Address: 916 ASHWORTH RD
 - City: WEST DES MOINES
-- State: IA
 - ZIP: 50265
-- ZIP extension: 
 - State project ID: 09-0904
 - Latitude: 41.584454
 - Longitude: -93.714641
@@ -22,9 +19,7 @@
 - Place 2000: 83910
 - Place 1990: 4550
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 991178
 - Units: 55
 - Low-income units: 55
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 22
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: Yes
 - TCEP amount: 3084299
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

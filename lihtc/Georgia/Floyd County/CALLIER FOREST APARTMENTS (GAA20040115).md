@@ -1,11 +1,9 @@
 # Project: CALLIER FOREST APARTMENTS (GAA20040115)
 
 - HUD ID: GAA20040115
-- HUD ID before: 
 - Project: CALLIER FOREST APARTMENTS
 - Address: 131 DODD BLVD SE
 - City: ROME
-- State: GA
 - ZIP: 30161
 - ZIP extension: 6686
 - State project ID: GA-03-527
@@ -22,9 +20,7 @@
 - Place 2000: 66668
 - Place 1990: 2455
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 73962
 - Units: 130
 - Low-income units: 130
@@ -36,12 +32,9 @@
 - 3-bedroom units: 24
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +63,8 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS GAA2006200.
 - Record status: Existing, unchanged

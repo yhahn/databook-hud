@@ -1,13 +1,10 @@
 # Project: GREEN HILLS APARTMENTS (KYA19950075)
 
 - HUD ID: KYA19950075
-- HUD ID before: 
 - Project: GREEN HILLS APARTMENTS
 - Address: STEWART ST.
 - City: ELIZABETHTOWN
-- State: KY
 - ZIP: 40242
-- ZIP extension: 
 - State project ID: KY-94-035
 - Latitude: 37.7012
 - Longitude: -85.8554
@@ -19,12 +16,9 @@
 - Tract 1990: 21093001400
 - Place 2020: 24274
 - Place 2010: 24274
-- Place 2000: 
 - Place 1990: 0610
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +56,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
@@ -80,6 +69,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

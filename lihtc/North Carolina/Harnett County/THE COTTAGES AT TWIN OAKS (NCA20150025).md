@@ -1,13 +1,10 @@
 # Project: THE COTTAGES AT TWIN OAKS (NCA20150025)
 
 - HUD ID: NCA20150025
-- HUD ID before: 
 - Project: THE COTTAGES AT TWIN OAKS
 - Address: 55 COTTAGE OAKS WAY
 - City: ANGIER
-- State: NC
 - ZIP: 27501
-- ZIP extension: 
 - State project ID: 9134335
 - Latitude: 35.514375
 - Longitude: -78.744467
@@ -19,12 +16,8 @@
 - Tract 1990: 37085070900
 - Place 2020: 01400
 - Place 2010: 01400
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 445595
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

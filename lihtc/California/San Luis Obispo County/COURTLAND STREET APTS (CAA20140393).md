@@ -1,13 +1,10 @@
 # Project: COURTLAND STREET APTS (CAA20140393)
 
 - HUD ID: CAA20140393
-- HUD ID before: 
 - Project: COURTLAND STREET APTS
 - Address: 150 S COURTLAND ST
 - City: ARROYO GRANDE
-- State: CA
 - ZIP: 93420
-- ZIP extension: 
 - State project ID: CA-12-121
 - Latitude: 35.119833
 - Longitude: -120.60659
@@ -22,9 +19,7 @@
 - Place 2000: 02868
 - Place 1990: 0130
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 370793
 - Units: 36
 - Low-income units: 35
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

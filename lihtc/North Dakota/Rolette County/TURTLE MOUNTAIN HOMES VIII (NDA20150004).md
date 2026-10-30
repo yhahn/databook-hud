@@ -1,11 +1,9 @@
 # Project: TURTLE MOUNTAIN HOMES VIII (NDA20150004)
 
 - HUD ID: NDA20150004
-- HUD ID before: 
 - Project: TURTLE MOUNTAIN HOMES VIII
 - Address: 110 EDUCATION LANE NE
 - City: BELCOURT
-- State: ND
 - ZIP: 58316
 - ZIP extension: 0000
 - State project ID: TC1303
@@ -16,15 +14,10 @@
 - Tract 2020: 38079941800
 - Tract 2010: 38079941800
 - Tract 2000: 38079951900
-- Tract 1990: 
 - Place 2020: 05740
 - Place 2010: 05740
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 500637
 - Units: 24
 - Low-income units: 24
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

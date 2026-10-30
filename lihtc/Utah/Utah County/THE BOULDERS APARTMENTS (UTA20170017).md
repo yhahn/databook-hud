@@ -1,11 +1,9 @@
 # Project: THE BOULDERS APARTMENTS (UTA20170017)
 
 - HUD ID: UTA20170017
-- HUD ID before: 
 - Project: THE BOULDERS APARTMENTS
 - Address: 750 SOUTH 650 WEST
 - City: PROVO
-- State: UT
 - ZIP: 84601
 - ZIP extension: 0000
 - State project ID: 2016-96
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49049980300
 - Tract 2010: 49049002801
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 62470
 - Place 2010: 62470
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 1606247
 - Units: 368
 - Low-income units: 367
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

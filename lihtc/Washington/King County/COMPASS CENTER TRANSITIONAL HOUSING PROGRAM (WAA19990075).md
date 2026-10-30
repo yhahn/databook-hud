@@ -1,11 +1,9 @@
 # Project: COMPASS CENTER TRANSITIONAL HOUSING PROGRAM (WAA19990075)
 
 - HUD ID: WAA19990075
-- HUD ID before: 
 - Project: COMPASS CENTER TRANSITIONAL HOUSING PROGRAM
 - Address: 1205 THOMAS STREET
 - City: SEATTLE
-- State: WA
 - ZIP: 98109
 - ZIP extension: 5427
 - State project ID: 97-44N
@@ -22,9 +20,7 @@
 - Place 2000: 63000
 - Place 1990: 1140
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 203718
 - Units: 34
 - Low-income units: 34
@@ -39,9 +35,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,8 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

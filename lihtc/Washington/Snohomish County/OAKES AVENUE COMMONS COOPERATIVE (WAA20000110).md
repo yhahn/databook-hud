@@ -1,11 +1,9 @@
 # Project: OAKES AVENUE COMMONS COOPERATIVE (WAA20000110)
 
 - HUD ID: WAA20000110
-- HUD ID before: 
 - Project: OAKES AVENUE COMMONS COOPERATIVE
 - Address: 3125 OAKES AVENUE
 - City: EVERETT
-- State: WA
 - ZIP: 98201
 - ZIP extension: 4405
 - State project ID: 98-29Q
@@ -22,9 +20,7 @@
 - Place 2000: 22640
 - Place 1990: 0420
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 233933
 - Units: 20
 - Low-income units: 20
@@ -39,9 +35,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,8 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: FAIRFOREST APTS (SCA19940035)
 
 - HUD ID: SCA19940035
-- HUD ID before: 
 - Project: FAIRFOREST APTS
 - Address: 221 E MAIN ST
 - City: UNION
-- State: SC
 - ZIP: 29379
-- ZIP extension: 
 - State project ID: SC-92-016
 - Latitude: 34.715552
 - Longitude: -81.622048
@@ -22,9 +19,7 @@
 - Place 2000: 47200
 - Place 1990: 1455
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 66953
 - Units: 45
 - Low-income units: 45
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

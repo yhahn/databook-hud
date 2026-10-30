@@ -1,13 +1,10 @@
 # Project: PRESIDENTIAL WEST APTS (TNA20130013)
 
 - HUD ID: TNA20130013
-- HUD ID before: 
 - Project: PRESIDENTIAL WEST APTS
 - Address: 5487 HUDGINS RD
 - City: MEMPHIS
-- State: TN
 - ZIP: 38116
-- ZIP extension: 
 - State project ID: TN-12-441
 - Latitude: 34.998858
 - Longitude: -90.00139
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 763764
 - Units: 112
 - Low-income units: 112
@@ -38,11 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: Both
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

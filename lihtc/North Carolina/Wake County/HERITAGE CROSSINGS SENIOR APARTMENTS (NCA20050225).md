@@ -1,13 +1,10 @@
 # Project: HERITAGE CROSSINGS SENIOR APARTMENTS (NCA20050225)
 
 - HUD ID: NCA20050225
-- HUD ID before: 
 - Project: HERITAGE CROSSINGS SENIOR APARTMENTS
 - Address: 3134 BRANCH FERRY COURT
 - City: WAKE FOREST
-- State: NC
 - ZIP: 27587
-- ZIP extension: 
 - State project ID: 9002242
 - Latitude: 35.949242
 - Longitude: -78.520026
@@ -22,9 +19,7 @@
 - Place 2000: 70540
 - Place 1990: 2615
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 391889
 - Units: 121
 - Low-income units: 120
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 13
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

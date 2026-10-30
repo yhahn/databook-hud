@@ -1,13 +1,10 @@
 # Project: HAYMOUNT MANOR APTS (NCA20010060)
 
 - HUD ID: NCA20010060
-- HUD ID before: 
 - Project: HAYMOUNT MANOR APTS
 - Address: 2040 ELVIRA STREET
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28303
-- ZIP extension: 
 - State project ID: 9002257
 - Latitude: 35.068207
 - Longitude: -78.913191
@@ -22,9 +19,7 @@
 - Place 2000: 22920
 - Place 1990: 0910
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 262693
 - Units: 48
 - Low-income units: 48
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

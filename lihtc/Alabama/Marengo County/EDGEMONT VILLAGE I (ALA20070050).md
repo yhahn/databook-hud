@@ -1,13 +1,10 @@
 # Project: EDGEMONT VILLAGE I (ALA20070050)
 
 - HUD ID: ALA20070050
-- HUD ID before: 
 - Project: EDGEMONT VILLAGE I
 - Address: 1303 EDGEMONT DR
 - City: DEMOPOLIS
-- State: AL
 - ZIP: 36732
-- ZIP extension: 
 - State project ID: AL-06-0039
 - Latitude: 32.500913
 - Longitude: -87.8217
@@ -22,10 +19,7 @@
 - Place 2000: 20296
 - Place 1990: 0485
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 36
 - Low-income units: 36
 - Units reported: 36
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

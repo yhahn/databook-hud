@@ -1,13 +1,10 @@
 # Project: OAK PARK VILLAGE (IDA19960050)
 
 - HUD ID: IDA19960050
-- HUD ID before: 
 - Project: OAK PARK VILLAGE
 - Address: 2888 WEST CHERRY LANE
 - City: BOISE
-- State: ID
 - ZIP: 83705
-- ZIP extension: 
 - State project ID: HC9405
 - Latitude: 43.580879
 - Longitude: -116.217586
@@ -22,9 +19,7 @@
 - Place 2000: 08830
 - Place 1990: 0090
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 660541
 - Units: 200
 - Low-income units: 154
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

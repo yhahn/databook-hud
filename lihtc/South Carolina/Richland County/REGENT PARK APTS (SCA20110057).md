@@ -1,13 +1,10 @@
 # Project: REGENT PARK APTS (SCA20110057)
 
 - HUD ID: SCA20110057
-- HUD ID before: 
 - Project: REGENT PARK APTS
 - Address: 680 WINDSOR LAKE WAY
 - City: COLUMBIA
-- State: SC
 - ZIP: 29223
-- ZIP extension: 
 - State project ID: SC-10-024
 - Latitude: 34.077519
 - Longitude: -80.932536
@@ -22,9 +19,7 @@
 - Place 2000: 19285
 - Place 1990: 0357
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 850000
 - Units: 72
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 18
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1988297, SCA1988501.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: COUNTRY OAKS I APTS. (UTA19930010)
 
 - HUD ID: UTA19930010
-- HUD ID before: 
 - Project: COUNTRY OAKS I APTS.
 - Address: 337 NORTH 700 WEST
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84116
 - ZIP extension: 0000
 - State project ID: 1992-07
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 24908
 - Units: 7
 - Low-income units: 7
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

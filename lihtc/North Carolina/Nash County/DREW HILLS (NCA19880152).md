@@ -1,13 +1,10 @@
 # Project: DREW HILLS (NCA19880152)
 
 - HUD ID: NCA19880152
-- HUD ID before: 
 - Project: DREW HILLS
 - Address: 3 A DREW HILLS COURT
 - City: BATTLEBORO
-- State: NC
 - ZIP: 27809
-- ZIP extension: 
 - State project ID: 9001394
 - Latitude: 36.044073
 - Longitude: -77.756746
@@ -16,15 +13,11 @@
 - Tract 2020: 37127010700
 - Tract 2010: 37127010700
 - Tract 2000: 37127010700
-- Tract 1990: 
 - Place 2020: 57500
 - Place 2010: 57500
 - Place 2000: 57500
-- Place 1990: 
 - Year placed in service: 1988
-- Placed in service note: 
 - Allocation year: 1988
-- Allocation year note: 
 - Allocation amount: 57937
 - Units: 44
 - Low-income units: 44
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +61,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

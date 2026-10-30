@@ -1,13 +1,10 @@
 # Project: JETTON SCHOOL APARTMENTS (KYA19990065)
 
 - HUD ID: KYA19990065
-- HUD ID before: 
 - Project: JETTON SCHOOL APARTMENTS
 - Address: WALTER JETTON BLVD.
 - City: PADUCAH
-- State: KY
 - ZIP: 42001
-- ZIP extension: 
 - State project ID: KY-98-034
 - Latitude: 37.0716
 - Longitude: -88.6559
@@ -19,12 +16,9 @@
 - Tract 1990: 21145030200
 - Place 2020: 58836
 - Place 2010: 58836
-- Place 2000: 
 - Place 1990: 1520
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 87972
 - Units: 21
 - Low-income units: 20
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

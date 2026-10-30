@@ -1,13 +1,10 @@
 # Project: TIMBERS EDGE APARTMENTS (TXA20099007)
 
 - HUD ID: TXA20099007
-- HUD ID before: 
 - Project: TIMBERS EDGE APARTMENTS
 - Address: 1075 PINCHBACK RD
 - City: BEAUMONT
-- State: TX
 - ZIP: 77707
-- ZIP extension: 
 - State project ID: TX4578
 - Latitude: 30.066157
 - Longitude: -94.175285
@@ -22,10 +19,7 @@
 - Place 2000: 07000
 - Place 1990: 0320
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 150
 - Low-income units: 150
 - Units reported: 150
@@ -38,17 +32,12 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +60,10 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: FKA PARK SHADOW APTS
 - Record status: Existing, unchanged

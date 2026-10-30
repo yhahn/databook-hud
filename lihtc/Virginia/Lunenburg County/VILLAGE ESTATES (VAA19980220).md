@@ -1,13 +1,10 @@
 # Project: VILLAGE ESTATES (VAA19980220)
 
 - HUD ID: VAA19980220
-- HUD ID before: 
 - Project: VILLAGE ESTATES
 - Address: 642 KV ROAD
 - City: VICTORIA
-- State: VA
 - ZIP: 23974
-- ZIP extension: 
 - State project ID: 1136
 - Latitude: 36.986129
 - Longitude: -78.219067
@@ -19,12 +16,8 @@
 - Tract 1990: 51111990300
 - Place 2020: 81024
 - Place 2010: 81024
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 195506
 - Units: 32
 - Low-income units: 32
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: REALLOCATION BUT NO INFO ON EARLIER RECORD.
 - Record status: Existing, unchanged

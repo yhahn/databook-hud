@@ -1,13 +1,10 @@
 # Project: SENIOR SUITES CHATHAM (ILB20050811)
 
 - HUD ID: ILB20050811
-- HUD ID before: 
 - Project: SENIOR SUITES CHATHAM
 - Address: 8300 SOUTH COTTAGE GROVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60619
-- ZIP extension: 
 - State project ID: IL-05-003
 - Latitude: 41.743965
 - Longitude: -87.605346
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 858271
 - Units: 90
 - Low-income units: 90
@@ -39,16 +34,12 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 7028245
 - CDBG: No
@@ -72,14 +63,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2005020.;
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SILVER LAKE II (IDA19990035)
 
 - HUD ID: IDA19990035
-- HUD ID before: 
 - Project: SILVER LAKE II
 - Address: 698 WEST WILBUR AVENUE
 - City: COEUR DALENE
-- State: ID
 - ZIP: 83814
-- ZIP extension: 
 - State project ID: HC9807
 - Latitude: 47.737008
 - Longitude: -116.799336
@@ -20,11 +17,8 @@
 - Place 2020: 16750
 - Place 2010: 16750
 - Place 2000: 16750
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 328774
 - Units: 60
 - Low-income units: 53
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 53
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

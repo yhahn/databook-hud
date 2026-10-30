@@ -1,13 +1,10 @@
 # Project: RESIDENCE AT FRANKLIN PARK (COA20120025)
 
 - HUD ID: COA20120025
-- HUD ID before: 
 - Project: RESIDENCE AT FRANKLIN PARK
 - Address: 1525 N FRANKLIN ST
 - City: DENVER
-- State: CO
 - ZIP: 80218
-- ZIP extension: 
 - State project ID: 2008011
 - Latitude: 39.740466
 - Longitude: -104.968682
@@ -22,10 +19,7 @@
 - Place 2000: 20000
 - Place 1990: 0320
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 91
 - Low-income units: 89
 - Units reported: 91
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 86
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 7030494
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

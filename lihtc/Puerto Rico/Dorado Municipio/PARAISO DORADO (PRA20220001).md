@@ -1,11 +1,9 @@
 # Project: PARAISO DORADO (PRA20220001)
 
 - HUD ID: PRA20220001
-- HUD ID before: 
 - Project: PARAISO DORADO
 - Address: PR 698 KM. 0.5 MAMEYAL SECTOR
 - City: DORADO
-- State: PR
 - ZIP: 00646
 - ZIP extension: 0000
 - State project ID: TC16-025
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 72051540401
 - Tract 2010: 72051540400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 24008
 - Place 2010: 24008
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 2510651
 - Units: 84
 - Low-income units: 84
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -57,14 +45,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

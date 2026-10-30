@@ -1,11 +1,9 @@
 # Project: ASPEN VILLAGE (NVA20130089)
 
 - HUD ID: NVA20130089
-- HUD ID before: 
 - Project: ASPEN VILLAGE
 - Address: 1401 SULLIVAN LN
 - City: SPARKS
-- State: NV
 - ZIP: 89436
 - ZIP extension: 0000
 - State project ID: 12-04
@@ -22,9 +20,7 @@
 - Place 2000: 68400
 - Place 1990: 0100
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 711000
 - Units: 43
 - Low-income units: 43
@@ -40,8 +36,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 43
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +63,8 @@
 - Other population: Yes
 - Other population named: AIDS/HIV RELATED ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA2013002.
 - Record status: Existing, unchanged

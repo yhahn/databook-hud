@@ -1,11 +1,9 @@
 # Project: COTTONWOOD GROVE II (UTA20110910)
 
 - HUD ID: UTA20110910
-- HUD ID before: 
 - Project: COTTONWOOD GROVE II
 - Address: 880 WEST 575 SOUTH
 - City: BRIGHAM CITY
-- State: UT
 - ZIP: 84302
 - ZIP extension: 0000
 - State project ID: 2011-15
@@ -19,12 +17,9 @@
 - Tract 1990: 49003960700
 - Place 2020: 08460
 - Place 2010: 08460
-- Place 2000: 
 - Place 1990: 0080
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1000000
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

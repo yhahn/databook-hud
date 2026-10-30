@@ -1,11 +1,9 @@
 # Project: JELLIFF ESTATES (NJA20230185)
 
 - HUD ID: NJA20230185
-- HUD ID before: 
 - Project: JELLIFF ESTATES
 - Address: 220 JELLIFF AVE #230
 - City: NEWARK
-- State: NJ
 - ZIP: 07108
 - ZIP extension: 1929
 - State project ID: 03305-1
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 34013023200
 - Tract 2010: 34013023200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 51000
 - Place 2010: 51000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 654883
 - Units: 50
 - Low-income units: 50
@@ -39,16 +31,11 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 500000
 - CDBG: No
@@ -73,13 +60,7 @@
 - Homeless: Yes
 - Other population: No
 - Other population named: Veterans
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

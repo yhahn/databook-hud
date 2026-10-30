@@ -1,13 +1,10 @@
 # Project: PALISADES APTS (ALA20060150)
 
 - HUD ID: ALA20060150
-- HUD ID before: 
 - Project: PALISADES APTS
 - Address: 151 FOREMAN RD
 - City: MOBILE
-- State: AL
 - ZIP: 36608
-- ZIP extension: 
 - State project ID: AL-06-0043
 - Latitude: 30.687459
 - Longitude: -88.200943
@@ -22,10 +19,7 @@
 - Place 2000: 50000
 - Place 1990: 1165
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 80
 - Low-income units: 80
 - Units reported: 80
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 80
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008165.
 - Record status: Existing, unchanged

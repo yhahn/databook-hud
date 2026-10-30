@@ -1,11 +1,9 @@
 # Project: LIBERTY STATION APARTMENTS (UTA20120906)
 
 - HUD ID: UTA20120906
-- HUD ID before: 
 - Project: LIBERTY STATION APARTMENTS
 - Address: 404 WEST 1080 SOUTH
 - City: HEBER CITY
-- State: UT
 - ZIP: 84032
 - ZIP extension: 0000
 - State project ID: 2010-10
@@ -19,12 +17,9 @@
 - Tract 1990: 49051992400
 - Place 2020: 34200
 - Place 2010: 34200
-- Place 2000: 
 - Place 1990: 0340
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 898421
 - Units: 56
 - Low-income units: 52
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +71,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

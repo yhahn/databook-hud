@@ -1,13 +1,10 @@
 # Project: CHANDLER PARK APTS I (MSA20040005)
 
 - HUD ID: MSA20040005
-- HUD ID before: 
 - Project: CHANDLER PARK APTS I
 - Address: 309 REED RD
 - City: STARKVILLE
-- State: MS
 - ZIP: 39759
-- ZIP extension: 
 - State project ID: 03-004
 - Latitude: 33.470793
 - Longitude: -88.832304
@@ -22,9 +19,7 @@
 - Place 2000: 70240
 - Place 1990: 1250
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 750150
 - Units: 98
 - Low-income units: 97
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2003010.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: VITALIA FKA BASCOM APARTMENTS (CAA20231106)
 
 - HUD ID: CAA20231106
-- HUD ID before: 
 - Project: VITALIA FKA BASCOM APARTMENTS
 - Address: 3100 S BASCOM AVE
 - City: SAN JOSE
-- State: CA
 - ZIP: 95124
-- ZIP extension: 
 - State project ID: CA-2021-593
 - Latitude: 37.266607
 - Longitude: -121.940232
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06085502701
 - Tract 2010: 06085502701
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 68000
 - Place 2010: 68000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 3042799
 - Units: 79
 - Low-income units: 77
@@ -34,7 +25,6 @@
 - 1-bedroom units: 16
 - 2-bedroom units: 12
 - 3-bedroom units: 5
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
@@ -44,11 +34,9 @@
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,9 +55,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: ADA and Accessible Units pursuant to CBC Chapter 11B
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

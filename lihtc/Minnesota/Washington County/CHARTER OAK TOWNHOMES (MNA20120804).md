@@ -1,13 +1,10 @@
 # Project: CHARTER OAK TOWNHOMES (MNA20120804)
 
 - HUD ID: MNA20120804
-- HUD ID before: 
 - Project: CHARTER OAK TOWNHOMES
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: STILLWATER
-- State: MN
 - ZIP: 55082
-- ZIP extension: 
 - State project ID: D1646
 - Latitude: 45.0464
 - Longitude: -92.8412
@@ -22,9 +19,7 @@
 - Place 2000: 62824
 - Place 1990: 3675
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 450000
 - Units: 60
 - Low-income units: 60
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 209472
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MNA2012020.
 - Record status: Existing, unchanged

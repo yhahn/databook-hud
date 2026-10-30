@@ -1,13 +1,10 @@
 # Project: MIRANDELA SENIOR APTS (CAA20100155)
 
 - HUD ID: CAA20100155
-- HUD ID before: 
 - Project: MIRANDELA SENIOR APTS
 - Address: 5555 CRESTRIDGE RD
 - City: RANCHO PALOS VERDES
-- State: CA
 - ZIP: 90275
-- ZIP extension: 
 - State project ID: CA-09-206
 - Latitude: 33.767761
 - Longitude: -118.37299
@@ -22,9 +19,7 @@
 - Place 2000: 59514
 - Place 1990: 2284
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 688959
 - Units: 34
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

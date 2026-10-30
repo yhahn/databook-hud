@@ -1,13 +1,10 @@
 # Project: WILLOW BEND ESTATES (MSA20020050)
 
 - HUD ID: MSA20020050
-- HUD ID before: 
 - Project: WILLOW BEND ESTATES
 - Address: 125 EVELYN ST
 - City: BELZONI
-- State: MS
 - ZIP: 39038
-- ZIP extension: 
 - State project ID: MS-02-007
 - Latitude: 33.192024
 - Longitude: -90.493747
@@ -22,9 +19,7 @@
 - Place 2000: 05140
 - Place 1990: 0085
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 430596
 - Units: 48
 - Low-income units: 46
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2002653.
 - Record status: Existing, unchanged

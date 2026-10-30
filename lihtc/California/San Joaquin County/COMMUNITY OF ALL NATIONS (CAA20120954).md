@@ -1,13 +1,10 @@
 # Project: COMMUNITY OF ALL NATIONS (CAA20120954)
 
 - HUD ID: CAA20120954
-- HUD ID before: 
 - Project: COMMUNITY OF ALL NATIONS
 - Address: 2172 DOCKERY CT
 - City: STOCKTON
-- State: CA
 - ZIP: 95206
-- ZIP extension: 
 - State project ID: CA-10-171
 - Latitude: 37.936155
 - Longitude: -121.25079
@@ -22,9 +19,7 @@
 - Place 2000: 38065
 - Place 1990: 2805
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 946237
 - Units: 75
 - Low-income units: 73
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 3350000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA EIGHTH STREET HOUSING.
 - Record status: Existing, unchanged

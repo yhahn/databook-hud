@@ -1,13 +1,10 @@
 # Project: THE HAVENS AT WILLOW OAKS (NCA20070165)
 
 - HUD ID: NCA20070165
-- HUD ID before: 
 - Project: THE HAVENS AT WILLOW OAKS
 - Address: 2000 EVERITT STREET
 - City: GREENSBORO
-- State: NC
 - ZIP: 27401
-- ZIP extension: 
 - State project ID: 9001040
 - Latitude: 36.065355
 - Longitude: -79.762391
@@ -22,9 +19,7 @@
 - Place 2000: 28000
 - Place 1990: 1065
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 735418
 - Units: 60
 - Low-income units: 60
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 15
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

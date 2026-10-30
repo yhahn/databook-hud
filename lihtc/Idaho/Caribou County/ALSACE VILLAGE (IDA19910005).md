@@ -1,13 +1,10 @@
 # Project: ALSACE VILLAGE (IDA19910005)
 
 - HUD ID: IDA19910005
-- HUD ID before: 
 - Project: ALSACE VILLAGE
 - Address: 341 SOUTH 1ST EAST
 - City: SODA SPRINGS
-- State: ID
 - ZIP: 83276
-- ZIP extension: 
 - State project ID: HC9003
 - Latitude: 42.651549
 - Longitude: -111.600473
@@ -22,9 +19,7 @@
 - Place 2000: 75195
 - Place 1990: 0900
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 33135
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

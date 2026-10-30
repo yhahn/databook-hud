@@ -1,13 +1,10 @@
 # Project: SPRING VILLA APTS (TRIO SISTERS) (RIA20201077)
 
 - HUD ID: RIA20201077
-- HUD ID before: 
 - Project: SPRING VILLA APTS (TRIO SISTERS)
 - Address: 20 MCGUIRE RD
 - City: NORTH PROVIDENCE
-- State: RI
 - ZIP: 02904
-- ZIP extension: 
 - State project ID: RI00038
 - Latitude: 41.861268
 - Longitude: -71.470875
@@ -22,8 +19,6 @@
 - Place 2000: 51940
 - Place 1990: 0350
 - Year placed in service: 2020
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
 - Allocation amount: 232549
 - Units: 100
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 100
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,7 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: Yes
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Unknown whether federal or state
 - Targets a population: Yes
 - Families: No
@@ -72,14 +53,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: HIDDEN OAKS V (UTA19930901)
 
 - HUD ID: UTA19930901
-- HUD ID before: 
 - Project: HIDDEN OAKS V
 - Address: 6330 SOUTH DIXIE DR
 - City: WEST JORDAN
-- State: UT
 - ZIP: 84084
 - ZIP extension: 0000
 - State project ID: 1991-08
@@ -22,9 +20,7 @@
 - Place 2000: 82950
 - Place 1990: 1075
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 396035
 - Units: 96
 - Low-income units: 95
@@ -40,11 +36,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -65,21 +58,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

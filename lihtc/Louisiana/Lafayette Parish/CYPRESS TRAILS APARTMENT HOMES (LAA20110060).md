@@ -1,11 +1,9 @@
 # Project: CYPRESS TRAILS APARTMENT HOMES (LAA20110060)
 
 - HUD ID: LAA20110060
-- HUD ID before: 
 - Project: CYPRESS TRAILS APARTMENT HOMES
 - Address: 810 MOSS STREET
 - City: LAFAYETTE
-- State: LA
 - ZIP: 70501
 - ZIP extension: 0000
 - State project ID: LA-09-051
@@ -22,9 +20,7 @@
 - Place 2000: 40735
 - Place 1990: 0700
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 46135
 - Units: 72
 - Low-income units: 72
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Multi-Family
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

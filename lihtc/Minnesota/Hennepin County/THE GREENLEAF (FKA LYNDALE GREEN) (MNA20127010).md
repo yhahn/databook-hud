@@ -1,11 +1,9 @@
 # Project: THE GREENLEAF (FKA LYNDALE GREEN) (MNA20127010)
 
 - HUD ID: MNA20127010
-- HUD ID before: 
 - Project: THE GREENLEAF (FKA LYNDALE GREEN)
 - Address: 2743 LYNDALE AVE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55401
 - ZIP extension: 2101
 - State project ID: D6368
@@ -22,9 +20,7 @@
 - Place 2000: 43000
 - Place 1990: 2585
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 414847
 - Units: 63
 - Low-income units: 63
@@ -39,9 +35,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

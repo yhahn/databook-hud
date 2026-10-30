@@ -1,13 +1,10 @@
 # Project: COMPANION AT THORNTON HALL (SCA20050040)
 
 - HUD ID: SCA20050040
-- HUD ID before: 
 - Project: COMPANION AT THORNTON HALL
 - Address: 2119 LINCOLN ST
 - City: GEORGETOWN
-- State: SC
 - ZIP: 29440
-- ZIP extension: 
 - State project ID: SC-03-009
 - Latitude: 33.385015
 - Longitude: -79.295445
@@ -22,9 +19,7 @@
 - Place 2000: 28870
 - Place 1990: 0513
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 289622
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
 - No longer monitored: Yes
 - Why no longer monitored: Sale under qualified contract
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

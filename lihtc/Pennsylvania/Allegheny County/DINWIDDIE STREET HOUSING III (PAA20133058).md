@@ -1,11 +1,9 @@
 # Project: DINWIDDIE STREET HOUSING III (PAA20133058)
 
 - HUD ID: PAA20133058
-- HUD ID before: 
 - Project: DINWIDDIE STREET HOUSING III
 - Address: SCATTERED SITES
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15219
 - ZIP extension: 3335
 - State project ID: TC20110410
@@ -22,9 +20,7 @@
 - Place 2000: 61000
 - Place 1990: 7234
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 797450
 - Units: 26
 - Low-income units: 26
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

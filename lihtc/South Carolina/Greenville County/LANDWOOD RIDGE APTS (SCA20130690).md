@@ -1,13 +1,10 @@
 # Project: LANDWOOD RIDGE APTS (SCA20130690)
 
 - HUD ID: SCA20130690
-- HUD ID before: 
 - Project: LANDWOOD RIDGE APTS
 - Address: 200 MCALISTER RD
 - City: GREENVILLE
-- State: SC
 - ZIP: 29607
-- ZIP extension: 
 - State project ID: SC-12-079
 - Latitude: 34.837476
 - Longitude: -82.368569
@@ -22,9 +19,7 @@
 - Place 2000: 30850
 - Place 1990: 0565
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 347544
 - Units: 48
 - Low-income units: 48
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1994055.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: COLLEGE PARK (IDA20060012)
 
 - HUD ID: IDA20060012
-- HUD ID before: 
 - Project: COLLEGE PARK
 - Address: 2000 COLLEGE AVENUE
 - City: CALDWELL
-- State: ID
 - ZIP: 83605
-- ZIP extension: 
 - State project ID: HC0407
 - Latitude: 43.653029
 - Longitude: -116.680661
@@ -22,9 +19,7 @@
 - Place 2000: 12250
 - Place 1990: 0120
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 70277
 - Units: 18
 - Low-income units: 18
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

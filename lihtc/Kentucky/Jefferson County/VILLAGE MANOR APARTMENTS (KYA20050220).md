@@ -1,13 +1,10 @@
 # Project: VILLAGE MANOR APARTMENTS (KYA20050220)
 
 - HUD ID: KYA20050220
-- HUD ID before: 
 - Project: VILLAGE MANOR APARTMENTS
 - Address: FENLEY AVENUE
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40207
-- ZIP extension: 
 - State project ID: KY-06-101
 - Latitude: 38.2551
 - Longitude: -85.6359
@@ -19,12 +16,9 @@
 - Tract 1990: 21111007700
 - Place 2020: 05068
 - Place 2010: 05068
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 230555
 - Units: 251
 - Low-income units: 251
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

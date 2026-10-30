@@ -1,13 +1,10 @@
 # Project: ASHBERRY MANOR APARTMENTS (KYA19970005)
 
 - HUD ID: KYA19970005
-- HUD ID before: 
 - Project: ASHBERRY MANOR APARTMENTS
 - Address: ASHBERRY ST.
 - City: BARDSTOWN
-- State: KY
 - ZIP: 42754
-- ZIP extension: 
 - State project ID: KY-96-004
 - Latitude: 37.5086
 - Longitude: -86.3256
@@ -19,12 +16,8 @@
 - Tract 1990: 21179990300
 - Place 2020: 44686
 - Place 2010: 44686
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 94500
 - Units: 24
 - Low-income units: 24
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: HARMON SENIOR VILLAS (TXA0000X028)
 
 - HUD ID: TXA0000X028
-- HUD ID before: 
 - Project: HARMON SENIOR VILLAS
 - Address: 2401 GOLDEN HEIGHTS ROAD
 - City: FORT WORTH
-- State: TX
 - ZIP: 76177
-- ZIP extension: 
 - State project ID: TX5239
 - Latitude: 32.93136
 - Longitude: -97.3247
@@ -16,16 +13,10 @@
 - Tract 2020: 48439113932
 - Tract 2010: 48439113926
 - Tract 2000: 48439113913
-- Tract 1990: 
 - Place 2020: 27000
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 160
 - Low-income units: 144
 - Units reported: 160
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

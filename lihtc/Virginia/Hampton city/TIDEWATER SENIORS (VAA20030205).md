@@ -1,13 +1,10 @@
 # Project: TIDEWATER SENIORS (VAA20030205)
 
 - HUD ID: VAA20030205
-- HUD ID before: 
 - Project: TIDEWATER SENIORS
 - Address: 1446 W QUEEN ST
 - City: HAMPTON
-- State: VA
 - ZIP: 23669
-- ZIP extension: 
 - State project ID: 1128
 - Latitude: 37.02513
 - Longitude: -76.379448
@@ -22,9 +19,7 @@
 - Place 2000: 35000
 - Place 1990: 0590
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 295985
 - Units: 140
 - Low-income units: 140
@@ -38,10 +33,6 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

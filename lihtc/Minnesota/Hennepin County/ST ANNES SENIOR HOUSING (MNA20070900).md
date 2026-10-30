@@ -1,11 +1,9 @@
 # Project: ST ANNES SENIOR HOUSING (MNA20070900)
 
 - HUD ID: MNA20070900
-- HUD ID before: 
 - Project: ST ANNES SENIOR HOUSING
 - Address: 2323 26TH AVENUE NORTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55411
 - ZIP extension: 1759
 - State project ID: D3675
@@ -22,9 +20,7 @@
 - Place 2000: 43000
 - Place 1990: 2585
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 475066
 - Units: 61
 - Low-income units: 61
@@ -39,9 +35,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

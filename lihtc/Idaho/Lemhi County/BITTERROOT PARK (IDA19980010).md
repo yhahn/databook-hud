@@ -1,13 +1,10 @@
 # Project: BITTERROOT PARK (IDA19980010)
 
 - HUD ID: IDA19980010
-- HUD ID before: 
 - Project: BITTERROOT PARK
 - Address: 310 CATHERINE LANE
 - City: SALMON
-- State: ID
 - ZIP: 83467
-- ZIP extension: 
 - State project ID: HC9706
 - Latitude: 45.170413
 - Longitude: -113.899821
@@ -22,9 +19,7 @@
 - Place 2000: 71650
 - Place 1990: 0875
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 58237
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

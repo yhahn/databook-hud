@@ -1,11 +1,9 @@
 # Project: TORRE WESTMINSTER VISTA (MNB20079009)
 
 - HUD ID: MNB20079009
-- HUD ID before: 
 - Project: TORRE WESTMINSTER VISTA
 - Address: 1374 WESTMINSTER STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55130
 - ZIP extension: 3367
 - State project ID: D5525
@@ -16,15 +14,11 @@
 - Tract 2020: 27123030601
 - Tract 2010: 27123030601
 - Tract 2000: 27123030601
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 504817
 - Units: 289
 - Low-income units: 289
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

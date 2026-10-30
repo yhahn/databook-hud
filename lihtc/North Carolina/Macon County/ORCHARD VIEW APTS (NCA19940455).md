@@ -1,11 +1,9 @@
 # Project: ORCHARD VIEW APTS (NCA19940455)
 
 - HUD ID: NCA19940455
-- HUD ID before: 
 - Project: ORCHARD VIEW APTS
 - Address: 430 ORCHARD VIEW DR
 - City: FRANKLIN
-- State: NC
 - ZIP: 28734
 - ZIP extension: 7301
 - State project ID: 9000981
@@ -16,15 +14,10 @@
 - Tract 2020: 37113970700
 - Tract 2010: 37113970700
 - Tract 2000: 37113970300
-- Tract 1990: 
 - Place 2020: 24640
 - Place 2010: 24640
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 190407
 - Units: 48
 - Low-income units: 48
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: GREGORY OAKS (NCA20040080)
 
 - HUD ID: NCA20040080
-- HUD ID before: 
 - Project: GREGORY OAKS
 - Address: 280 SEAWELL AVENUE
 - City: RALEIGH
-- State: NC
 - ZIP: 27601
-- ZIP extension: 
 - State project ID: 9002151
 - Latitude: 35.783294
 - Longitude: -78.627039
@@ -22,9 +19,7 @@
 - Place 2000: 55000
 - Place 1990: 2020
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 162725
 - Units: 32
 - Low-income units: 32
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

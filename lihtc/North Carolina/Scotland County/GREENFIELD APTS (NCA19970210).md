@@ -1,13 +1,10 @@
 # Project: GREENFIELD APTS (NCA19970210)
 
 - HUD ID: NCA19970210
-- HUD ID before: 
 - Project: GREENFIELD APTS
 - Address: 1040 TURNPIKE ROAD
 - City: LAURINBURG
-- State: NC
 - ZIP: 28352
-- ZIP extension: 
 - State project ID: 9001542
 - Latitude: 34.762127
 - Longitude: -79.492732
@@ -22,9 +19,7 @@
 - Place 2000: 37220
 - Place 1990: 1420
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 244229
 - Units: 48
 - Low-income units: 48
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: WESTMINSTER COMMONS (COA20130015)
 
 - HUD ID: COA20130015
-- HUD ID before: 
 - Project: WESTMINSTER COMMONS
 - Address: 3180 W 76TH AVE
 - City: WESTMINSTER
-- State: CO
 - ZIP: 80030
-- ZIP extension: 
 - State project ID: 2012505
 - Latitude: 39.834337
 - Longitude: -105.027906
@@ -22,10 +19,7 @@
 - Place 2000: 83835
 - Place 1990: 1355
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
-- Allocation amount: 
 - Units: 130
 - Low-income units: 130
 - Units reported: 130
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

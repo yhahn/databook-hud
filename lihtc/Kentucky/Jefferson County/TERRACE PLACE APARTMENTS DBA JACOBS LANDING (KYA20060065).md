@@ -1,13 +1,10 @@
 # Project: TERRACE PLACE APARTMENTS DBA JACOBS LANDING (KYA20060065)
 
 - HUD ID: KYA20060065
-- HUD ID before: 
 - Project: TERRACE PLACE APARTMENTS DBA JACOBS LANDING
 - Address: MEDALLION CT.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40299
-- ZIP extension: 
 - State project ID: KY-04-050
 - Latitude: 38.1437
 - Longitude: -85.6748
@@ -16,15 +13,10 @@
 - Tract 2020: 21111011906
 - Tract 2010: 21111011906
 - Tract 2000: 21111011906
-- Tract 1990: 
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 179365
 - Units: 62
 - Low-income units: 62
@@ -39,7 +31,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: WOODLAWN TERRACE (ALA19910215)
 
 - HUD ID: ALA19910215
-- HUD ID before: 
 - Project: WOODLAWN TERRACE
 - Address: 201 E S ST
 - City: UNIONTOWN
-- State: AL
 - ZIP: 36786
-- ZIP extension: 
 - State project ID: AL-91-0024
 - Latitude: 32.44757
 - Longitude: -87.511665
@@ -20,11 +17,8 @@
 - Place 2020: 77904
 - Place 2010: 77904
 - Place 2000: 77904
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 21542
 - Units: 15
 - Low-income units: 15
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PERRY CO HOUSING. FKA WOODLAND TERRACE
 - Record status: Existing, unchanged

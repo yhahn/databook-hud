@@ -1,11 +1,9 @@
 # Project: CHERRY ORCHARD APARTMENTS (MTA19990015)
 
 - HUD ID: MTA19990015
-- HUD ID before: 
 - Project: CHERRY ORCHARD APARTMENTS
 - Address: 700 LIBERTY STREET
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 98090
@@ -20,11 +18,8 @@
 - Place 2020: 40075
 - Place 2010: 40075
 - Place 2000: 25075
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 44284
 - Units: 24
 - Low-income units: 24
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

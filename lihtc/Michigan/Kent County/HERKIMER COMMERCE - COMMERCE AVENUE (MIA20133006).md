@@ -1,11 +1,9 @@
 # Project: HERKIMER COMMERCE - COMMERCE AVENUE (MIA20133006)
 
 - HUD ID: MIA20133006
-- HUD ID before: 
 - Project: HERKIMER COMMERCE - COMMERCE AVENUE
 - Address: 310 COMMERCE AVENUE
 - City: GRAND RAPIDS
-- State: MI
 - ZIP: 49503
 - ZIP extension: 0000
 - State project ID: 3508
@@ -16,15 +14,11 @@
 - Tract 2020: 26081002100
 - Tract 2010: 26081002100
 - Tract 2000: 26081002100
-- Tract 1990: 
 - Place 2020: 34000
 - Place 2010: 34000
 - Place 2000: 34000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1401789
 - Units: 67
 - Low-income units: 67
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

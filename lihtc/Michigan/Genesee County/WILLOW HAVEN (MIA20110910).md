@@ -1,13 +1,10 @@
 # Project: WILLOW HAVEN (MIA20110910)
 
 - HUD ID: MIA20110910
-- HUD ID before: 
 - Project: WILLOW HAVEN
 - Address: 855 S BRIDGE ST
 - City: LINDEN
-- State: MI
 - ZIP: 48451
-- ZIP extension: 
 - State project ID: MI-3370
 - Latitude: 42.809271
 - Longitude: -83.781803
@@ -20,12 +17,8 @@
 - Place 2020: 47820
 - Place 2010: 47820
 - Place 2000: 47820
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 32
 - Low-income units: 31
 - Units reported: 32
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 978775
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

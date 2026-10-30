@@ -1,13 +1,10 @@
 # Project: HIGH FOREST APTS II (ALA20090028)
 
 - HUD ID: ALA20090028
-- HUD ID before: 
 - Project: HIGH FOREST APTS II
 - Address: 77 HIGH FOREST LN
 - City: JASPER
-- State: AL
 - ZIP: 35501
-- ZIP extension: 
 - State project ID: AL-09-0075
 - Latitude: 33.847071
 - Longitude: -87.26877
@@ -22,9 +19,7 @@
 - Place 2000: 38416
 - Place 1990: 0960
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 553852
 - Units: 48
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 1506930
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +62,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2011040, ALA2011567.
 - Record status: Existing, unchanged

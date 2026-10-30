@@ -1,13 +1,10 @@
 # Project: BELOVIDA AT NEWBURY PARK SENIOR APTS (CAA20110027)
 
 - HUD ID: CAA20110027
-- HUD ID before: 
 - Project: BELOVIDA AT NEWBURY PARK SENIOR APTS
 - Address: 1777 NEWBURY PARK DR
 - City: SAN JOSE
-- State: CA
 - ZIP: 95133
-- ZIP extension: 
 - State project ID: CA-09-839
 - Latitude: 37.366581
 - Longitude: -121.866774
@@ -22,9 +19,7 @@
 - Place 2000: 68000
 - Place 1990: 2510
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 1504925
 - Units: 184
 - Low-income units: 184
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 184
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PORT BYRON APARTMENTS (NYA20231015)
 
 - HUD ID: NYA20231015
-- HUD ID before: 
 - Project: PORT BYRON APARTMENTS
 - Address: 27 CHURCH STREET
 - City: PORT BYRON
-- State: NY
 - ZIP: 13140
-- ZIP extension: 
 - State project ID: 20210433
 - Latitude: 43.03564
 - Longitude: -76.625607
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 36011040300
 - Tract 2010: 36011040300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 59212
 - Place 2010: 59212
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1430000
 - Units: 69
 - Low-income units: 69
@@ -44,11 +35,9 @@
 - Affordability years: 50
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 48713862
 - CDBG: No
@@ -67,10 +56,8 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
 - Disabled: Yes
-- Homeless: 
 - Other population: Yes
 - Other population named: ESSHI - SPMI
 - Scattered site: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

@@ -1,13 +1,10 @@
 # Project: CAMBRIDGE POINTE APARTMENTS (KYA19980025)
 
 - HUD ID: KYA19980025
-- HUD ID before: 
 - Project: CAMBRIDGE POINTE APARTMENTS
 - Address: ZION RD.
 - City: HENDERSON
-- State: KY
 - ZIP: 42420
-- ZIP extension: 
 - State project ID: KY-96-029
 - Latitude: 37.8336
 - Longitude: -87.578
@@ -16,15 +13,10 @@
 - Tract 2020: 21101020200
 - Tract 2010: 21101020200
 - Tract 2000: 21101020200
-- Tract 1990: 
 - Place 2020: 35866
 - Place 2010: 35866
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 48
 - Low-income units: 48
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

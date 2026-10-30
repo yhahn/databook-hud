@@ -1,11 +1,9 @@
 # Project: JEFFERSON SCHOOL APTS. II (UTA20050029)
 
 - HUD ID: UTA20050029
-- HUD ID before: 
 - Project: JEFFERSON SCHOOL APTS. II
 - Address: 1011 SOUTH WEST TEMPLE
 - City: SALT LAKE CITY
-- State: UT
 - ZIP: 84115
 - ZIP extension: 0000
 - State project ID: 2006-29
@@ -22,9 +20,7 @@
 - Place 2000: 67000
 - Place 1990: 0870
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 159864
 - Units: 84
 - Low-income units: 48
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

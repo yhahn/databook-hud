@@ -1,13 +1,10 @@
 # Project: PEBBLE CREEK (SCA20110050)
 
 - HUD ID: SCA20110050
-- HUD ID before: 
 - Project: PEBBLE CREEK
 - Address: 136 LIBRARY HILL LN
 - City: LEXINGTON
-- State: SC
 - ZIP: 29072
-- ZIP extension: 
 - State project ID: SC-09-139
 - Latitude: 33.977488
 - Longitude: -81.220882
@@ -20,11 +17,8 @@
 - Place 2020: 41335
 - Place 2010: 41335
 - Place 2000: 41335
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 601613
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 500000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 5263708
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PEBBLE CREEK (2009 TCEX EXCH FUNDS).
 - Record status: Existing, unchanged

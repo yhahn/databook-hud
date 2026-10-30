@@ -1,13 +1,10 @@
 # Project: CASTLE MOUNTAIN APTS 1 (MTA20100005)
 
 - HUD ID: MTA20100005
-- HUD ID before: 
 - Project: CASTLE MOUNTAIN APTS 1
 - Address: 101 FIRST AVE SE
 - City: WHITE SULPHUR SPRINGS
-- State: MT
 - ZIP: 59645
-- ZIP extension: 
 - State project ID: 9090
 - Latitude: 46.547412
 - Longitude: -110.902428
@@ -22,10 +19,7 @@
 - Place 2000: 80050
 - Place 1990: 0680
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 10
 - Low-income units: 10
 - Units reported: 10
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 2207364
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

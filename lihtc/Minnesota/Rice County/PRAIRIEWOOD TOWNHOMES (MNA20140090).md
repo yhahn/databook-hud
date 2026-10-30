@@ -1,13 +1,10 @@
 # Project: PRAIRIEWOOD TOWNHOMES (MNA20140090)
 
 - HUD ID: MNA20140090
-- HUD ID before: 
 - Project: PRAIRIEWOOD TOWNHOMES
 - Address: MULTIPLE BUILDING ADDRESSES
 - City: FARIBAULT
-- State: MN
 - ZIP: 55021
-- ZIP extension: 
 - State project ID: D7592
 - Latitude: 44.3164
 - Longitude: -93.2899
@@ -22,9 +19,7 @@
 - Place 2000: 20546
 - Place 1990: 1250
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 636773
 - Units: 30
 - Low-income units: 30
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +43,9 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +55,8 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA PRAIRIEWOOD TOWNHOMES.
 - Record status: Existing, unchanged

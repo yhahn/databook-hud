@@ -1,13 +1,10 @@
 # Project: NEWBRIDGE VILLAGE (VAA20201022)
 
 - HUD ID: VAA20201022
-- HUD ID before: 
 - Project: NEWBRIDGE VILLAGE
 - Address: 313 NEWBRIDGE ROAD
 - City: RICHMOND
-- State: VA
 - ZIP: 23223
-- ZIP extension: 
 - State project ID: 8913
 - Latitude: 37.546106
 - Longitude: -77.342955
@@ -22,9 +19,7 @@
 - Place 2000: 37032
 - Place 1990: 0620
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 665855
 - Units: 152
 - Low-income units: 152
@@ -40,15 +35,12 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 122
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2004075.
 - Record status: Existing, unchanged

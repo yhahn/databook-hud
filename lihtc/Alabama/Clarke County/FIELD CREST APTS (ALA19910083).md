@@ -1,13 +1,10 @@
 # Project: FIELD CREST APTS (ALA19910083)
 
 - HUD ID: ALA19910083
-- HUD ID before: 
 - Project: FIELD CREST APTS
 - Address: 22271 HWY 69
 - City: COFFEEVILLE
-- State: AL
 - ZIP: 36524
-- ZIP extension: 
 - State project ID: AL-91-0063
 - Latitude: 31.753073
 - Longitude: -88.083711
@@ -20,11 +17,8 @@
 - Place 2020: 16264
 - Place 2010: 16264
 - Place 2000: 16264
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 30748
 - Units: 19
 - Low-income units: 19
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1993050. AKA COFFEEVILLE HOUSING.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: ST. BENEDICT'S MANOR II (UTA20070040)
 
 - HUD ID: UTA20070040
-- HUD ID before: 
 - Project: ST. BENEDICT'S MANOR II
 - Address: 1469 DARLING STREET
 - City: OGDEN
-- State: UT
 - ZIP: 84403
 - ZIP extension: 0000
 - State project ID: 2006-23
@@ -22,9 +20,7 @@
 - Place 2000: 55980
 - Place 1990: 0695
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 250500
 - Units: 40
 - Low-income units: 40
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +72,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

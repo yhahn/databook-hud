@@ -1,13 +1,10 @@
 # Project: THOMAS JEFFERSON SENIORS (VAA20040652)
 
 - HUD ID: VAA20040652
-- HUD ID before: 
 - Project: THOMAS JEFFERSON SENIORS
 - Address: 429 W MARY ST
 - City: BRISTOL
-- State: VA
 - ZIP: 24201
-- ZIP extension: 
 - State project ID: 1127
 - Latitude: 36.601668
 - Longitude: -82.178973
@@ -22,9 +19,7 @@
 - Place 2000: 09816
 - Place 1990: 0160
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 182745
 - Units: 30
 - Low-income units: 30
@@ -38,10 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2003200.
 - Record status: Existing, unchanged

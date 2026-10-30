@@ -1,11 +1,9 @@
 # Project: A-MILL ARTIST LOFTS (MNB20141001)
 
 - HUD ID: MNB20141001
-- HUD ID before: 
 - Project: A-MILL ARTIST LOFTS
 - Address: 301 MAIN STREET SE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55414
 - ZIP extension: 0000
 - State project ID: D6728
@@ -16,15 +14,11 @@
 - Tract 2020: 27053103700
 - Tract 2010: 27053103700
 - Tract 2000: 27053103700
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 5703191
 - Units: 251
 - Low-income units: 251
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,10 +59,6 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Artist
 - Scattered site: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

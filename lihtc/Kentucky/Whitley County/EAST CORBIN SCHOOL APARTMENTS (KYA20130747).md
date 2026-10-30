@@ -1,13 +1,10 @@
 # Project: EAST CORBIN SCHOOL APARTMENTS (KYA20130747)
 
 - HUD ID: KYA20130747
-- HUD ID before: 
 - Project: EAST CORBIN SCHOOL APARTMENTS
 - Address: MASTERS STREET
 - City: CORBIN
-- State: KY
 - ZIP: 40701
-- ZIP extension: 
 - State project ID: KY-13-003
 - Latitude: 36.95
 - Longitude: -84.1067
@@ -19,12 +16,8 @@
 - Tract 1990: 21121990400
 - Place 2020: 17362
 - Place 2010: 17362
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 993358
 - Units: 32
 - Low-income units: 32
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

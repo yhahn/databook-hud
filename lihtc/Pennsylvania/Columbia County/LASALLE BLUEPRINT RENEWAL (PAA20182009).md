@@ -1,11 +1,9 @@
 # Project: LASALLE BLUEPRINT RENEWAL (PAA20182009)
 
 - HUD ID: PAA20182009
-- HUD ID before: 
 - Project: LASALLE BLUEPRINT RENEWAL
 - Address: SCATTERED SITES
 - City: BERWICK
-- State: PA
 - ZIP: 18603
 - ZIP extension: 2909
 - State project ID: TC20170602
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42037050600
 - Tract 2010: 42037050600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 05888
 - Place 2010: 05888
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 60000
 - Units: 24
 - Low-income units: 24
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 2440000
 - CDBG: No
@@ -62,8 +50,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: Yes
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

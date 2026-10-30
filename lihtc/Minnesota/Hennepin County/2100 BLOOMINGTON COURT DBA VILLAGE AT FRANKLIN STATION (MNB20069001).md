@@ -1,11 +1,9 @@
 # Project: 2100 BLOOMINGTON COURT DBA VILLAGE AT FRANKLIN STATION (MNB20069001)
 
 - HUD ID: MNB20069001
-- HUD ID before: 
 - Project: 2100 BLOOMINGTON COURT DBA VILLAGE AT FRANKLIN STATION
 - Address: 2100 BLOOMINGTON AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 3077
 - State project ID: D0844
@@ -16,15 +14,11 @@
 - Tract 2020: 27053106000
 - Tract 2010: 27053106000
 - Tract 2000: 27053106000
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 237878
 - Units: 90
 - Low-income units: 89
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +59,11 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

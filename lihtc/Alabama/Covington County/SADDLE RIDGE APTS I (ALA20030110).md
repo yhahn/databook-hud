@@ -1,13 +1,10 @@
 # Project: SADDLE RIDGE APTS I (ALA20030110)
 
 - HUD ID: ALA20030110
-- HUD ID before: 
 - Project: SADDLE RIDGE APTS I
 - Address: 100 SADDLE RIDGE DR
 - City: ANDALUSIA
-- State: AL
 - ZIP: 36420
-- ZIP extension: 
 - State project ID: AL-03-0025
 - Latitude: 31.293017
 - Longitude: -86.492415
@@ -22,9 +19,7 @@
 - Place 2000: 01708
 - Place 1990: 0055
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 264084
 - Units: 45
 - Low-income units: 45
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1251660
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2005050.
 - Record status: Existing, unchanged

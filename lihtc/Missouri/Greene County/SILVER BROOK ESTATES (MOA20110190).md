@@ -1,13 +1,10 @@
 # Project: SILVER BROOK ESTATES (MOA20110190)
 
 - HUD ID: MOA20110190
-- HUD ID before: 
 - Project: SILVER BROOK ESTATES
 - Address: 4368 W CATALPA ST
 - City: SPRINGFIELD
-- State: MO
 - ZIP: 65802
-- ZIP extension: 
 - State project ID: 08-904
 - Latitude: 37.193531
 - Longitude: -93.368698
@@ -22,9 +19,7 @@
 - Place 2000: 08722
 - Place 1990: 4075
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 640000
 - Units: 28
 - Low-income units: 28
@@ -39,13 +34,9 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 530000
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MOA2011522.
 - Record status: Existing, unchanged

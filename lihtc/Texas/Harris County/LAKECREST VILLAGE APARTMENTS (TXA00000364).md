@@ -1,13 +1,10 @@
 # Project: LAKECREST VILLAGE APARTMENTS (TXA00000364)
 
 - HUD ID: TXA00000364
-- HUD ID before: 
 - Project: LAKECREST VILLAGE APARTMENTS
 - Address: 9393 TIDWELL RD
 - City: HOUSTON
-- State: TX
 - ZIP: 77078
-- ZIP extension: 
 - State project ID: TX1808
 - Latitude: 29.851024
 - Longitude: -95.251818
@@ -21,10 +18,8 @@
 - Place 2010: 35000
 - Place 2000: 35000
 - Place 1990: 1975
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 107464
 - Units: 224
 - Low-income units: 224
@@ -44,7 +39,6 @@
 - Affordability years: 40
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: PALMER COURT TOWNHOUSES (MIA20110901)
 
 - HUD ID: MIA20110901
-- HUD ID before: 
 - Project: PALMER COURT TOWNHOUSES
 - Address: 5721 ST ANTOINE ST
 - City: DETROIT
-- State: MI
 - ZIP: 48202
-- ZIP extension: 
 - State project ID: MI-944
 - Latitude: 42.365187
 - Longitude: -83.060824
@@ -22,10 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 173
 - Low-income units: 70
 - Units reported: 173
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 6713322
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA2002225.
 - Record status: Existing, unchanged

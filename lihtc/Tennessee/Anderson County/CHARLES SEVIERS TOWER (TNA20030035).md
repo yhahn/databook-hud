@@ -1,13 +1,10 @@
 # Project: CHARLES SEVIERS TOWER (TNA20030035)
 
 - HUD ID: TNA20030035
-- HUD ID before: 
 - Project: CHARLES SEVIERS TOWER
 - Address: 150 N CHARLES G SEIVERS BLVD
 - City: CLINTON
-- State: TN
 - ZIP: 37716
-- ZIP extension: 
 - State project ID: TN-02-209
 - Latitude: 36.099942
 - Longitude: -84.132042
@@ -22,9 +19,7 @@
 - Place 2000: 15580
 - Place 1990: 0265
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 247655
 - Units: 149
 - Low-income units: 149
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

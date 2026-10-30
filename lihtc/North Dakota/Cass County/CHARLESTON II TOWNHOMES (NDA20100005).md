@@ -1,13 +1,10 @@
 # Project: CHARLESTON II TOWNHOMES (NDA20100005)
 
 - HUD ID: NDA20100005
-- HUD ID before: 
 - Project: CHARLESTON II TOWNHOMES
 - Address: 146 14TH AVE E
 - City: WEST FARGO
-- State: ND
 - ZIP: 58078
-- ZIP extension: 
 - State project ID: TC0901
 - Latitude: 46.861276
 - Longitude: -96.899511
@@ -22,9 +19,7 @@
 - Place 2000: 84780
 - Place 1990: 1715
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 387970
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CHARLESTON TOWNHOMES II.
 - Record status: Existing, unchanged

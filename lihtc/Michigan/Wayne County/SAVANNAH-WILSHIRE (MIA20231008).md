@@ -1,11 +1,9 @@
 # Project: SAVANNAH-WILSHIRE (MIA20231008)
 
 - HUD ID: MIA20231008
-- HUD ID before: 
 - Project: SAVANNAH-WILSHIRE
 - Address: 250 & 388 WEST GRAND BLVD
 - City: DETROIT
-- State: MI
 - ZIP: 48216
 - ZIP extension: 0000
 - State project ID: 3912
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26163521100
 - Tract 2010: 26163521100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 273288
 - Units: 40
 - Low-income units: 40
@@ -44,11 +36,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 3849848
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

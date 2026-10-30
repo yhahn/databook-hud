@@ -1,11 +1,9 @@
 # Project: FIFTH STREET APARTMENTS (MTA19930010)
 
 - HUD ID: MTA19930010
-- HUD ID before: 
 - Project: FIFTH STREET APARTMENTS
 - Address: 720 - 724 FIFTH STREET
 - City: HARDIN
-- State: MT
 - ZIP: 59034
 - ZIP extension: 0000
 - State project ID: 92050
@@ -22,9 +20,7 @@
 - Place 2000: 34225
 - Place 1990: 0305
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 36295
 - Units: 16
 - Low-income units: 16
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

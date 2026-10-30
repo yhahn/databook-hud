@@ -1,13 +1,10 @@
 # Project: LASALETTE GARDENS APARTMENTS (KYA20130755)
 
 - HUD ID: KYA20130755
-- HUD ID before: 
 - Project: LASALETTE GARDENS APARTMENTS
 - Address: GREENUP STREET
 - City: COVINGTON
-- State: KY
 - ZIP: 41011
-- ZIP extension: 
 - State project ID: KY-11-008
 - Latitude: 39.0786
 - Longitude: -84.5159
@@ -19,12 +16,9 @@
 - Tract 1990: 21117060100
 - Place 2020: 17848
 - Place 2010: 17848
-- Place 2000: 
 - Place 1990: 0465
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 1577786
 - Units: 76
 - Low-income units: 76
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

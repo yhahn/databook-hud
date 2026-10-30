@@ -1,11 +1,9 @@
 # Project: VICTORIA RIDGE RETIREMENT (UTA20060081)
 
 - HUD ID: UTA20060081
-- HUD ID before: 
 - Project: VICTORIA RIDGE RETIREMENT
 - Address: 1024 CHILDS AVENUE
 - City: OGDEN
-- State: UT
 - ZIP: 84404
 - ZIP extension: 0000
 - State project ID: 2005-17
@@ -22,9 +20,7 @@
 - Place 2000: 55980
 - Place 1990: 0695
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 370300
 - Units: 48
 - Low-income units: 48
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

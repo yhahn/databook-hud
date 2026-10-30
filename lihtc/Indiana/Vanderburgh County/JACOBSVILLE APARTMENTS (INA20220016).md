@@ -1,13 +1,10 @@
 # Project: JACOBSVILLE APARTMENTS (INA20220016)
 
 - HUD ID: INA20220016
-- HUD ID before: 
 - Project: JACOBSVILLE APARTMENTS
 - Address: 240 W FLORIDA ST
 - City: EVANSVILLE
-- State: IN
 - ZIP: 47710
-- ZIP extension: 
 - State project ID: IN-21-00800
 - Latitude: 37.989152
 - Longitude: -87.567961
@@ -22,9 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0775
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 362547
 - Units: 35
 - Low-income units: 35
@@ -40,15 +35,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -59,8 +49,6 @@
 - TCEP amount: 0
 - HTF: No
 - HTF amount: 0
-- FHA: 
-- HOPE VI: 
 - HOPE VI amount: 0
 - RAD: No
 - QOZF: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

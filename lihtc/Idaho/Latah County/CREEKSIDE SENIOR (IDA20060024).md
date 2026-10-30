@@ -1,13 +1,10 @@
 # Project: CREEKSIDE SENIOR (IDA20060024)
 
 - HUD ID: IDA20060024
-- HUD ID before: 
 - Project: CREEKSIDE SENIOR
 - Address: 1227 CREEKSIDE LANE
 - City: MOSCOW
-- State: ID
 - ZIP: 83843
-- ZIP extension: 
 - State project ID: HC0404
 - Latitude: 46.72372
 - Longitude: -116.973509
@@ -19,12 +16,9 @@
 - Tract 1990: 16057005300
 - Place 2020: 54550
 - Place 2010: 54550
-- Place 2000: 
 - Place 1990: 0625
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 265292
 - Units: 54
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

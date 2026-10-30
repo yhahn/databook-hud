@@ -1,13 +1,10 @@
 # Project: PARIS PLACE (KYA20000085)
 
 - HUD ID: KYA20000085
-- HUD ID before: 
 - Project: PARIS PLACE
 - Address: KRISTEN LN.
 - City: PARIS
-- State: KY
 - ZIP: 40361
-- ZIP extension: 
 - State project ID: KY-99-051
 - Latitude: 38.2155
 - Longitude: -84.2279
@@ -16,15 +13,10 @@
 - Tract 2020: 21017030102
 - Tract 2010: 21017030100
 - Tract 2000: 21017030100
-- Tract 1990: 
 - Place 2020: 59196
 - Place 2010: 59196
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 32
 - Low-income units: 32
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

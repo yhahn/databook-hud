@@ -1,11 +1,9 @@
 # Project: JEREMIAH SAINT PAUL PROJECT (MNB20078004)
 
 - HUD ID: MNB20078004
-- HUD ID before: 
 - Project: JEREMIAH SAINT PAUL PROJECT
 - Address: 932 CONCORDIA AVENUE
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55104
 - ZIP extension: 5442
 - State project ID: D4073
@@ -16,15 +14,11 @@
 - Tract 2020: 27123033500
 - Tract 2010: 27123033500
 - Tract 2000: 27123033500
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 863276
 - Units: 39
 - Low-income units: 38
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -68,18 +60,10 @@
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

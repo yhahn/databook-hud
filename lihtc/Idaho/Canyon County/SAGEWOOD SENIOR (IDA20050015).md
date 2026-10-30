@@ -1,13 +1,10 @@
 # Project: SAGEWOOD SENIOR (IDA20050015)
 
 - HUD ID: IDA20050015
-- HUD ID before: 
 - Project: SAGEWOOD SENIOR
 - Address: 4815 LEANNE AVENUE
 - City: CALDWELL
-- State: ID
 - ZIP: 83607
-- ZIP extension: 
 - State project ID: HC0310
 - Latitude: 43.627005
 - Longitude: -116.638186
@@ -20,11 +17,8 @@
 - Place 2020: 12250
 - Place 2010: 12250
 - Place 2000: 12250
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 287215
 - Units: 48
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

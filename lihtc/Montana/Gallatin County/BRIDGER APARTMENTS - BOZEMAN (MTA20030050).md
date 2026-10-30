@@ -1,11 +1,9 @@
 # Project: BRIDGER APARTMENTS - BOZEMAN (MTA20030050)
 
 - HUD ID: MTA20030050
-- HUD ID before: 
 - Project: BRIDGER APARTMENTS - BOZEMAN
 - Address: 2715 W. COLLEGE AVE
 - City: BOZEMAN
-- State: MT
 - ZIP: 59718
 - ZIP extension: 0000
 - State project ID: 02050
@@ -22,9 +20,7 @@
 - Place 2000: 08950
 - Place 1990: 0080
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 500000
 - Units: 44
 - Low-income units: 44
@@ -76,10 +72,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA2003045.
 - Record status: Updated

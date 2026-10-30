@@ -1,13 +1,10 @@
 # Project: WEST RIDGE APTS (ALA20030155)
 
 - HUD ID: ALA20030155
-- HUD ID before: 
 - Project: WEST RIDGE APTS
 - Address: 347 INDUSTRIAL PARK ST
 - City: GORDO
-- State: AL
 - ZIP: 35466
-- ZIP extension: 
 - State project ID: AL-03-0004
 - Latitude: 33.320377
 - Longitude: -87.909667
@@ -20,11 +17,8 @@
 - Place 2020: 30736
 - Place 2010: 30736
 - Place 2000: 30736
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 183768
 - Units: 26
 - Low-income units: 26
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 26
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 880610
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2005080.
 - Record status: Existing, unchanged

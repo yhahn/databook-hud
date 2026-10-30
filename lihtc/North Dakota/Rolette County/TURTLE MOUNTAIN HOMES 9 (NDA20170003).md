@@ -1,11 +1,9 @@
 # Project: TURTLE MOUNTAIN HOMES 9 (NDA20170003)
 
 - HUD ID: NDA20170003
-- HUD ID before: 
 - Project: TURTLE MOUNTAIN HOMES 9
 - Address: TBD
 - City: DUNSEITH
-- State: ND
 - ZIP: 58366
 - ZIP extension: 0000
 - State project ID: TC1504
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 38079951900
 - Tract 2010: 38079951900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 67780
 - Place 2010: 67780
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 329114
 - Units: 26
 - Low-income units: 25
@@ -40,11 +32,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CALIFORNIA TERRACE (CAA20120853)
 
 - HUD ID: CAA20120853
-- HUD ID before: 
 - Project: CALIFORNIA TERRACE
 - Address: 21501 LAKE SHORE DR
 - City: CALIFORNIA CITY
-- State: CA
 - ZIP: 93505
-- ZIP extension: 
 - State project ID: CA-11-914
 - Latitude: 35.129359
 - Longitude: -117.940256
@@ -22,9 +19,7 @@
 - Place 2000: 09780
 - Place 1990: 0367
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 76390
 - Units: 32
 - Low-income units: 31
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1988120, CAA0000390.
 - Record status: Existing, unchanged

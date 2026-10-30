@@ -1,13 +1,10 @@
 # Project: HARAMBEE SQUARE APTS (NCA19940350)
 
 - HUD ID: NCA19940350
-- HUD ID before: 
 - Project: HARAMBEE SQUARE APTS
 - Address: 148 168 SOUTH WASHINGTON ST
 - City: ROCKY MOUNT
-- State: NC
 - ZIP: 27801
-- ZIP extension: 
 - State project ID: 9001800
 - Latitude: 35.9351
 - Longitude: -77.7582
@@ -19,12 +16,9 @@
 - Tract 1990: 37065020100
 - Place 2020: 57500
 - Place 2010: 57500
-- Place 2000: 
 - Place 1990: 2115
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 104024
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

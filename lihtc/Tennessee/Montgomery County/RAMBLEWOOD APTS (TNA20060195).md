@@ -1,13 +1,10 @@
 # Project: RAMBLEWOOD APTS (TNA20060195)
 
 - HUD ID: TNA20060195
-- HUD ID before: 
 - Project: RAMBLEWOOD APTS
 - Address: 2404 RAMBLEWOOD DR
 - City: CLARKSVILLE
-- State: TN
 - ZIP: 37040
-- ZIP extension: 
 - State project ID: TN-06-200
 - Latitude: 36.470756
 - Longitude: -87.373617
@@ -19,12 +16,8 @@
 - Tract 1990: 47125101600
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 188578
 - Units: 112
 - Low-income units: 112
@@ -39,9 +32,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +62,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA RAMBLEWOOD II.
 - Record status: Updated

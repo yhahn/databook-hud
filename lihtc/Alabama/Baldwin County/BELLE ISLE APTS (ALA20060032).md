@@ -1,13 +1,10 @@
 # Project: BELLE ISLE APTS (ALA20060032)
 
 - HUD ID: ALA20060032
-- HUD ID before: 
 - Project: BELLE ISLE APTS
 - Address: 18720 US HWY 90
 - City: ROBERTSDALE
-- State: AL
 - ZIP: 36567
-- ZIP extension: 
 - State project ID: AL-06-0023
 - Latitude: 30.563694
 - Longitude: -87.705276
@@ -20,12 +17,8 @@
 - Place 2020: 65208
 - Place 2010: 65208
 - Place 2000: 65208
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 28
 - Low-income units: 28
 - Units reported: 28
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 28
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 1001270
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007015.
 - Record status: Existing, unchanged

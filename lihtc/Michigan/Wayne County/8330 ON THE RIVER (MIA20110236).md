@@ -1,13 +1,10 @@
 # Project: 8330 ON THE RIVER (MIA20110236)
 
 - HUD ID: MIA20110236
-- HUD ID before: 
 - Project: 8330 ON THE RIVER
 - Address: 8330 E JEFFERSON AVE
 - City: DETROIT
-- State: MI
 - ZIP: 48214
-- ZIP extension: 
 - State project ID: MI-386
 - Latitude: 42.353057
 - Longitude: -82.991939
@@ -22,10 +19,7 @@
 - Place 2000: 22000
 - Place 1990: 0680
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 280
 - Low-income units: 259
 - Units reported: 280
@@ -39,9 +33,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 8329078
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA2004030.
 - Record status: Existing, unchanged

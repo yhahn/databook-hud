@@ -1,11 +1,9 @@
 # Project: MANN EDGE TERRACE (PAA20130006)
 
 - HUD ID: PAA20130006
-- HUD ID before: 
 - Project: MANN EDGE TERRACE
 - Address: 30 S DORCAS ST
 - City: LEWISTOWN
-- State: PA
 - ZIP: 17044
 - ZIP extension: 2109
 - State project ID: TC20110605
@@ -22,9 +20,7 @@
 - Place 2000: 43000
 - Place 1990: 5807
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 572218
 - Units: 31
 - Low-income units: 31
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

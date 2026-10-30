@@ -1,13 +1,10 @@
 # Project: VINTAGE AT LAGUNA SENIOR APTS II (CAA20120880)
 
 - HUD ID: CAA20120880
-- HUD ID before: 
 - Project: VINTAGE AT LAGUNA SENIOR APTS II
 - Address: 9204 BIG HORN BLVD
 - City: ELK GROVE
-- State: CA
 - ZIP: 95758
-- ZIP extension: 
 - State project ID: CA-11-841
 - Latitude: 38.423834
 - Longitude: -121.407122
@@ -22,9 +19,7 @@
 - Place 2000: 39173
 - Place 1990: 1418
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 403450
 - Units: 69
 - Low-income units: 68
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

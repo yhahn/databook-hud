@@ -1,13 +1,10 @@
 # Project: GREENVILLE HOUSING 1 (MSA19980026)
 
 - HUD ID: MSA19980026
-- HUD ID before: 
 - Project: GREENVILLE HOUSING 1
 - Address: 1010 S THEOBALD ST
 - City: GREENVILLE
-- State: MS
 - ZIP: 38701
-- ZIP extension: 
 - State project ID: MS-96-109
 - Latitude: 33.397818
 - Longitude: -91.066195
@@ -22,10 +19,7 @@
 - Place 2000: 29180
 - Place 1990: 0495
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
-- Allocation amount: 
 - Units: 20
 - Low-income units: 20
 - Units reported: 20
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998592.
 - Record status: Existing, unchanged

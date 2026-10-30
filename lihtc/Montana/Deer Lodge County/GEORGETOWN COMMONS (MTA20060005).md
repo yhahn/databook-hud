@@ -1,11 +1,9 @@
 # Project: GEORGETOWN COMMONS (MTA20060005)
 
 - HUD ID: MTA20060005
-- HUD ID before: 
 - Project: GEORGETOWN COMMONS
 - Address: 215 E PENNSYLVANIA AVE
 - City: ANACONDA
-- State: MT
 - ZIP: 59711
 - ZIP extension: 0000
 - State project ID: 04020
@@ -22,9 +20,7 @@
 - Place 2000: 01675
 - Place 1990: 0010
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 99213
 - Units: 10
 - Low-income units: 10
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

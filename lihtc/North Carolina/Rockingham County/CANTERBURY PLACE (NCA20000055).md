@@ -1,13 +1,10 @@
 # Project: CANTERBURY PLACE (NCA20000055)
 
 - HUD ID: NCA20000055
-- HUD ID before: 
 - Project: CANTERBURY PLACE
 - Address: 1851 AMOS STREET
 - City: REIDSVILLE
-- State: NC
 - ZIP: 27320
-- ZIP extension: 
 - State project ID: 9001207
 - Latitude: 36.336053
 - Longitude: -79.66135
@@ -22,9 +19,7 @@
 - Place 2000: 55900
 - Place 1990: 2045
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 216378
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

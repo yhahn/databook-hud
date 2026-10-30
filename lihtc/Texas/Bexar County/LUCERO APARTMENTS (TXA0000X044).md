@@ -1,13 +1,10 @@
 # Project: LUCERO APARTMENTS (TXA0000X044)
 
 - HUD ID: TXA0000X044
-- HUD ID before: 
 - Project: LUCERO APARTMENTS
 - Address: 527 S. ACME ROAD
 - City: SAN ANTONIO
-- State: TX
 - ZIP: 78237
-- ZIP extension: 
 - State project ID: TX5157
 - Latitude: 29.425554
 - Longitude: -98.58744
@@ -16,16 +13,11 @@
 - Tract 2020: 48029171602
 - Tract 2010: 48029171602
 - Tract 2000: 48029171600
-- Tract 1990: 
 - Place 2020: 65000
 - Place 2010: 65000
 - Place 2000: 65000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 324
 - Low-income units: 324
 - Units reported: 324
@@ -38,10 +30,7 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

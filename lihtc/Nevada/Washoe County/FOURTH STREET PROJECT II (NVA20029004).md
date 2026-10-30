@@ -1,11 +1,9 @@
 # Project: FOURTH STREET PROJECT II (NVA20029004)
 
 - HUD ID: NVA20029004
-- HUD ID before: 
 - Project: FOURTH STREET PROJECT II
 - Address: 450 N. WELLS AVE.
 - City: RENO
-- State: NV
 - ZIP: 89512
 - ZIP extension: 0000
 - State project ID: 01-05
@@ -16,15 +14,11 @@
 - Tract 2020: 32031000105
 - Tract 2010: 32031000102
 - Tract 2000: 32031000100
-- Tract 1990: 
 - Place 2020: 60600
 - Place 2010: 60600
 - Place 2000: 60600
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 272578
 - Units: 30
 - Low-income units: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

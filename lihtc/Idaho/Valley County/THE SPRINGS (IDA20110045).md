@@ -1,13 +1,10 @@
 # Project: THE SPRINGS (IDA20110045)
 
 - HUD ID: IDA20110045
-- HUD ID before: 
 - Project: THE SPRINGS
 - Address: 325 VALLEY SPRINGS ROAD
 - City: MCCALL
-- State: ID
 - ZIP: 83638
-- ZIP extension: 
 - State project ID: HC0925
 - Latitude: 44.895159
 - Longitude: -116.092547
@@ -19,12 +16,9 @@
 - Tract 1990: 16085970200
 - Place 2020: 48790
 - Place 2010: 48790
-- Place 2000: 
 - Place 1990: 0550
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 100
 - Units: 36
 - Low-income units: 35
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: GRIFFITH COMMONS (NCA20000115)
 
 - HUD ID: NCA20000115
-- HUD ID before: 
 - Project: GRIFFITH COMMONS
 - Address: 300 GRIFFITH COMMONS DRIVE
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27103
-- ZIP extension: 
 - State project ID: 9000708
 - Latitude: 36.045509
 - Longitude: -80.30826
@@ -20,11 +17,8 @@
 - Place 2020: 75000
 - Place 2010: 75000
 - Place 2000: 75000
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 365133
 - Units: 75
 - Low-income units: 74
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

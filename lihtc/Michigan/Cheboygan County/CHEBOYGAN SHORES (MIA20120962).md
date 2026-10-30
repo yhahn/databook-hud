@@ -1,13 +1,10 @@
 # Project: CHEBOYGAN SHORES (MIA20120962)
 
 - HUD ID: MIA20120962
-- HUD ID before: 
 - Project: CHEBOYGAN SHORES
 - Address: 328 DUNCAN AVE
 - City: CHEBOYGAN
-- State: MI
 - ZIP: 49721
-- ZIP extension: 
 - State project ID: MI-1741
 - Latitude: 45.644608
 - Longitude: -84.462589
@@ -22,9 +19,7 @@
 - Place 2000: 15000
 - Place 1990: 0490
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 244972
 - Units: 24
 - Low-income units: 24
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA1988065.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: CRESTVIEW COMMUNITY EXPANSION (MNB20049003)
 
 - HUD ID: MNB20049003
-- HUD ID before: 
 - Project: CRESTVIEW COMMUNITY EXPANSION
 - Address: 1145 WESTMINSTER STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55130
 - ZIP extension: 3659
 - State project ID: D2538
@@ -16,15 +14,11 @@
 - Tract 2020: 27123030900
 - Tract 2010: 27123030900
 - Tract 2000: 27123030900
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 278201
 - Units: 44
 - Low-income units: 44
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 11
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,11 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
-- Homeless: 
 - Other population: Yes
 - Other population named: mental illness, brain injury, drug dependency, developmental or physical disability
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

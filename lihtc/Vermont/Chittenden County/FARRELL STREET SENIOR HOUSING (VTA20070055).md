@@ -1,13 +1,10 @@
 # Project: FARRELL STREET SENIOR HOUSING (VTA20070055)
 
 - HUD ID: VTA20070055
-- HUD ID before: 
 - Project: FARRELL STREET SENIOR HOUSING
 - Address: 412 FARRELL ST
 - City: SOUTH BURLINGTON
-- State: VT
 - ZIP: 05403
-- ZIP extension: 
 - State project ID: 0319
 - Latitude: 44.450389
 - Longitude: -73.205553
@@ -22,9 +19,7 @@
 - Place 2000: 66175
 - Place 1990: 2420
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 388662
 - Units: 63
 - Low-income units: 63
@@ -40,15 +35,10 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 42
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 359500
 - CDBG: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

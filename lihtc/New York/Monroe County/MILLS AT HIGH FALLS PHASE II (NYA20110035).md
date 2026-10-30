@@ -1,13 +1,10 @@
 # Project: MILLS AT HIGH FALLS PHASE II (NYA20110035)
 
 - HUD ID: NYA20110035
-- HUD ID before: 
 - Project: MILLS AT HIGH FALLS PHASE II
 - Address: 392 STATE ST
 - City: ROCHESTER
-- State: NY
 - ZIP: 14608
-- ZIP extension: 
 - State project ID: 20096048
 - Latitude: 43.161903
 - Longitude: -77.6198
@@ -22,9 +19,7 @@
 - Place 2000: 63000
 - Place 1990: 3100
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 202994
 - Units: 21
 - Low-income units: 11
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA2011529.
 - Record status: Existing, unchanged

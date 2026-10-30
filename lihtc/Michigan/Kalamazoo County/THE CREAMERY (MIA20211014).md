@@ -1,11 +1,9 @@
 # Project: THE CREAMERY (MIA20211014)
 
 - HUD ID: MIA20211014
-- HUD ID before: 
 - Project: THE CREAMERY
 - Address: 1101 PORTAGE STREET
 - City: KALAMAZOO
-- State: MI
 - ZIP: 49001
 - ZIP extension: 0000
 - State project ID: 3840
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26077001002
 - Tract 2010: 26077001000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 42160
 - Place 2010: 42160
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 427126
 - Units: 48
 - Low-income units: 39
@@ -40,15 +32,12 @@
 - Income ceiling: Income average
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

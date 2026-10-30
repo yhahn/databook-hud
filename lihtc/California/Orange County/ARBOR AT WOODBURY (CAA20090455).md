@@ -1,13 +1,10 @@
 # Project: ARBOR AT WOODBURY (CAA20090455)
 
 - HUD ID: CAA20090455
-- HUD ID before: 
 - Project: ARBOR AT WOODBURY
 - Address: 300 REGAL
 - City: IRVINE
-- State: CA
 - ZIP: 92620
-- ZIP extension: 
 - State project ID: CA-08-007
 - Latitude: 33.69178
 - Longitude: -117.748067
@@ -22,9 +19,7 @@
 - Place 2000: 36770
 - Place 1990: 0904
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1713675
 - Units: 90
 - Low-income units: 89
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 72
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 300000
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

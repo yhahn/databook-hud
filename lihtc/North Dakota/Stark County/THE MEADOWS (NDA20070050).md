@@ -1,13 +1,10 @@
 # Project: THE MEADOWS (NDA20070050)
 
 - HUD ID: NDA20070050
-- HUD ID before: 
 - Project: THE MEADOWS
 - Address: 1000 NACHTWEY DR
 - City: DICKINSON
-- State: ND
 - ZIP: 58601
-- ZIP extension: 
 - State project ID: TC0606
 - Latitude: 46.858696
 - Longitude: -102.780199
@@ -22,9 +19,7 @@
 - Place 2000: 19620
 - Place 1990: 0425
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 149258
 - Units: 58
 - Low-income units: 58
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

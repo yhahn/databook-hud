@@ -1,13 +1,10 @@
 # Project: BISHOP COURTS (TXA0000X004)
 
 - HUD ID: TXA0000X004
-- HUD ID before: 
 - Project: BISHOP COURTS
 - Address: 978 HWY 77
 - City: BISHOP
-- State: TX
 - ZIP: 78343
-- ZIP extension: 
 - State project ID: TX5203
 - Latitude: 27.587007
 - Longitude: -97.78457
@@ -16,16 +13,10 @@
 - Tract 2020: 48355006000
 - Tract 2010: 48355006000
 - Tract 2000: 48355006000
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 60
 - Low-income units: 60
 - Units reported: 60
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

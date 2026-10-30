@@ -1,13 +1,10 @@
 # Project: AGAPE PROJECT - FULTON (KYA19960005)
 
 - HUD ID: KYA19960005
-- HUD ID before: 
 - Project: AGAPE PROJECT - FULTON
 - Address: MAIDEN ST.
 - City: FULTON
-- State: KY
 - ZIP: 42041
-- ZIP extension: 
 - State project ID: KY-95-111
 - Latitude: 36.5661
 - Longitude: -88.9999
@@ -19,12 +16,9 @@
 - Tract 1990: 21075980100
 - Place 2020: 13600
 - Place 2010: 13600
-- Place 2000: 
 - Place 1990: 0765
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 6
 - Low-income units: 6
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

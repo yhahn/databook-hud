@@ -1,11 +1,9 @@
 # Project: LOFTS AT 2601 (THE) (PAA20173017)
 
 - HUD ID: PAA20173017
-- HUD ID before: 
 - Project: LOFTS AT 2601 (THE)
 - Address: 2601 N BROAD ST
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19132
 - ZIP extension: 4040
 - State project ID: TC20150320
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101016600
 - Tract 2010: 42101016600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 604505
 - Units: 56
 - Low-income units: 56
@@ -40,15 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +51,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

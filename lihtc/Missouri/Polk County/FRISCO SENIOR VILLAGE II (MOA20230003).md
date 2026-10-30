@@ -1,11 +1,9 @@
 # Project: FRISCO SENIOR VILLAGE II (MOA20230003)
 
 - HUD ID: MOA20230003
-- HUD ID before: 
 - Project: FRISCO SENIOR VILLAGE II
 - Address: 620 SOUTH OAKLAND AVENUE
 - City: BOLIVAR
-- State: MO
 - ZIP: 65613
 - ZIP extension: 0000
 - State project ID: 20-088
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 29167960402
 - Tract 2010: 29167960400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 06976
 - Place 2010: 06976
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 648000
 - Units: 42
 - Low-income units: 36
@@ -40,16 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -65,7 +52,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

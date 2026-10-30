@@ -1,13 +1,10 @@
 # Project: COUNTRYWOOD I & II APTS (ALA19930027)
 
 - HUD ID: ALA19930027
-- HUD ID before: 
 - Project: COUNTRYWOOD I & II APTS
 - Address: 418 NICHOLSON AVE
 - City: CENTREVILLE
-- State: AL
 - ZIP: 35042
-- ZIP extension: 
 - State project ID: AL-93-0067
 - Latitude: 32.950006
 - Longitude: -87.153464
@@ -22,9 +19,7 @@
 - Place 2000: 09136
 - Place 1990: 0240
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 38078
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1994070.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: STUDIOS AT SOUTH RICHMOND (VAA20120215)
 
 - HUD ID: VAA20120215
-- HUD ID before: 
 - Project: STUDIOS AT SOUTH RICHMOND
 - Address: 5409 HULL ST RD
 - City: RICHMOND
-- State: VA
 - ZIP: 23224
-- ZIP extension: 
 - State project ID: 9419
 - Latitude: 37.489281
 - Longitude: -77.493211
@@ -22,9 +19,7 @@
 - Place 2000: 67000
 - Place 1990: 1035
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 303588
 - Units: 21
 - Low-income units: 21
@@ -38,10 +33,6 @@
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SHANNON GLEN AT RIVERSIDE (IDA20020025)
 
 - HUD ID: IDA20020025
-- HUD ID before: 
 - Project: SHANNON GLEN AT RIVERSIDE
 - Address: 10140 WEST CHARLIE LANE
 - City: GARDEN CITY
-- State: ID
 - ZIP: 83714
-- ZIP extension: 
 - State project ID: HC0210
 - Latitude: 43.677429
 - Longitude: -116.305275
@@ -20,11 +17,8 @@
 - Place 2020: 29620
 - Place 2010: 29620
 - Place 2000: 29620
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 340600
 - Units: 72
 - Low-income units: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

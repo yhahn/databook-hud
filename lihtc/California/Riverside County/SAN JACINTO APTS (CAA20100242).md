@@ -1,13 +1,10 @@
 # Project: SAN JACINTO APTS (CAA20100242)
 
 - HUD ID: CAA20100242
-- HUD ID before: 
 - Project: SAN JACINTO APTS
 - Address: 633 E MAIN ST
 - City: SAN JACINTO
-- State: CA
 - ZIP: 92583
-- ZIP extension: 
 - State project ID: CA-09-588
 - Latitude: 33.784111
 - Longitude: -116.949044
@@ -22,9 +19,7 @@
 - Place 2000: 67112
 - Place 1990: 2500
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 135514
 - Units: 46
 - Low-income units: 45
@@ -40,12 +35,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: Yes
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1076346
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2010507, CAA1991060.
 - Record status: Existing, unchanged

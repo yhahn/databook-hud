@@ -1,13 +1,10 @@
 # Project: CAMPINA COURT APTS (CAA20140380)
 
 - HUD ID: CAA20140380
-- HUD ID before: 
 - Project: CAMPINA COURT APTS
 - Address: 9000 CAMPINA DR
 - City: LA MESA
-- State: CA
 - ZIP: 91942
-- ZIP extension: 
 - State project ID: CA-13-863
 - Latitude: 32.784248
 - Longitude: -117.003479
@@ -22,9 +19,7 @@
 - Place 2000: 40004
 - Place 1990: 1460
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 286575
 - Units: 60
 - Low-income units: 59
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1995029.
 - Record status: Existing, unchanged

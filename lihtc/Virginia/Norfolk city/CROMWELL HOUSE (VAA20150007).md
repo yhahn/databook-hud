@@ -1,11 +1,9 @@
 # Project: CROMWELL HOUSE (VAA20150007)
 
 - HUD ID: VAA20150007
-- HUD ID before: 
 - Project: CROMWELL HOUSE
 - Address: 114 CROMWELL PARKWAY
 - City: NORFOLK
-- State: VA
 - ZIP: 23505
 - ZIP extension: 3505
 - State project ID: 4565
@@ -22,9 +20,7 @@
 - Place 2000: 57000
 - Place 1990: 0875
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 366522
 - Units: 205
 - Low-income units: 205
@@ -39,9 +35,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1996030.
 - Record status: Existing, unchanged

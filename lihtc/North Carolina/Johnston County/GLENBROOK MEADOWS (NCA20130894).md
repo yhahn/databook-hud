@@ -1,11 +1,9 @@
 # Project: GLENBROOK MEADOWS (NCA20130894)
 
 - HUD ID: NCA20130894
-- HUD ID before: 
 - Project: GLENBROOK MEADOWS
 - Address: 511 GLEN ROAD
 - City: GARNER
-- State: NC
 - ZIP: 27529
 - ZIP extension: 7905
 - State project ID: 9111254
@@ -19,12 +17,8 @@
 - Tract 1990: 37101041100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 948722
 - Units: 54
 - Low-income units: 54
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 14
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

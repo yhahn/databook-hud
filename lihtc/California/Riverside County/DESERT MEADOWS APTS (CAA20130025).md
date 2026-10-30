@@ -1,13 +1,10 @@
 # Project: DESERT MEADOWS APTS (CAA20130025)
 
 - HUD ID: CAA20130025
-- HUD ID before: 
 - Project: DESERT MEADOWS APTS
 - Address: 44071 CLINTON ST
 - City: INDIO
-- State: CA
 - ZIP: 92201
-- ZIP extension: 
 - State project ID: CA-11-830
 - Latitude: 33.728802
 - Longitude: -116.242946
@@ -22,9 +19,7 @@
 - Place 2000: 36448
 - Place 1990: 1330
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 968626
 - Units: 80
 - Low-income units: 79
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 79
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

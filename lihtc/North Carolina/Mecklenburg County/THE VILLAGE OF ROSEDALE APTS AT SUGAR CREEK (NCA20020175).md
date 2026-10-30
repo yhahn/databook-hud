@@ -1,13 +1,10 @@
 # Project: THE VILLAGE OF ROSEDALE APTS AT SUGAR CREEK (NCA20020175)
 
 - HUD ID: NCA20020175
-- HUD ID before: 
 - Project: THE VILLAGE OF ROSEDALE APTS AT SUGAR CREEK
 - Address: 3925 TIFFANY ROSE PLACE
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28206
-- ZIP extension: 
 - State project ID: 9001784
 - Latitude: 35.258339
 - Longitude: -80.801336
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 452224
 - Units: 74
 - Low-income units: 74
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 74
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: ECHO HILL APARTMENTS (KYA20171020)
 
 - HUD ID: KYA20171020
-- HUD ID before: 
 - Project: ECHO HILL APARTMENTS
 - Address: ECHO HILL APARTMENTS
 - City: VANCEBURG
-- State: KY
 - ZIP: 41179
-- ZIP extension: 
 - State project ID: KY-15-006
 - Latitude: 38.5679
 - Longitude: -83.3454
@@ -16,15 +13,10 @@
 - Tract 2020: 21135930200
 - Tract 2010: 21135930200
 - Tract 2000: 21135990200
-- Tract 1990: 
 - Place 2020: 79068
 - Place 2010: 79068
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1025514
 - Units: 40
 - Low-income units: 40
@@ -39,7 +31,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

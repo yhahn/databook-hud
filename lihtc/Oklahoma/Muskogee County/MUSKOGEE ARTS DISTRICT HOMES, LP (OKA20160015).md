@@ -1,11 +1,9 @@
 # Project: MUSKOGEE ARTS DISTRICT HOMES, LP (OKA20160015)
 
 - HUD ID: OKA20160015
-- HUD ID before: 
 - Project: MUSKOGEE ARTS DISTRICT HOMES, LP
 - Address: 407 S. 5TH STREET
 - City: MUSKOGEE
-- State: OK
 - ZIP: 74401
 - ZIP extension: 0000
 - State project ID: 140739
@@ -16,15 +14,11 @@
 - Tract 2020: 40101000600
 - Tract 2010: 40101000600
 - Tract 2000: 40101000600
-- Tract 1990: 
 - Place 2020: 50050
 - Place 2010: 50050
 - Place 2000: 50050
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 562457
 - Units: 36
 - Low-income units: 36
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

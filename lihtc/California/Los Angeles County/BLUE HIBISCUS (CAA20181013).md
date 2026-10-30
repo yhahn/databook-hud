@@ -1,13 +1,10 @@
 # Project: BLUE HIBISCUS (CAA20181013)
 
 - HUD ID: CAA20181013
-- HUD ID before: 
 - Project: BLUE HIBISCUS
 - Address: 1125 NORTH DETROIT STREET
 - City: WEST HOLLYWOOD
-- State: CA
 - ZIP: 90046
-- ZIP extension: 
 - State project ID: CA-2016-014
 - Latitude: 34.091653
 - Longitude: -118.345353
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06037700101
 - Tract 2010: 06037700101
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 84410
 - Place 2010: 84410
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 641758
 - Units: 22
 - Low-income units: 21
@@ -40,15 +31,11 @@
 - Income ceiling: Income average
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,8 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

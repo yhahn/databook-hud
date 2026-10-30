@@ -1,13 +1,10 @@
 # Project: TANGLEWOOD APARTMENTS (KYA20050205)
 
 - HUD ID: KYA20050205
-- HUD ID before: 
 - Project: TANGLEWOOD APARTMENTS
 - Address: LOWES DRIVE
 - City: MURRAY
-- State: KY
 - ZIP: 42071
-- ZIP extension: 
 - State project ID: KY-03-056
 - Latitude: 36.6521
 - Longitude: -88.2893
@@ -19,12 +16,9 @@
 - Tract 1990: 21035010300
 - Place 2020: 54642
 - Place 2010: 54642
-- Place 2000: 
 - Place 1990: 1420
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 41
 - Low-income units: 40
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

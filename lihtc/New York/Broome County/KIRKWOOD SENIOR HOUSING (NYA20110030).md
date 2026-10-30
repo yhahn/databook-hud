@@ -1,13 +1,10 @@
 # Project: KIRKWOOD SENIOR HOUSING (NYA20110030)
 
 - HUD ID: NYA20110030
-- HUD ID before: 
 - Project: KIRKWOOD SENIOR HOUSING
 - Address: 26 S WOODHILL AVE
 - City: BINGHAMTON
-- State: NY
 - ZIP: 13904
-- ZIP extension: 
 - State project ID: 20096055
 - Latitude: 42.105815
 - Longitude: -75.840844
@@ -19,12 +16,8 @@
 - Tract 1990: 36007012600
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 536990
 - Units: 32
 - Low-income units: 32
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA2011521.
 - Record status: Existing, unchanged

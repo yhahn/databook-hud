@@ -1,13 +1,10 @@
 # Project: MT. VERNON GREENS APARTMENTS (KYA20100040)
 
 - HUD ID: KYA20100040
-- HUD ID before: 
 - Project: MT. VERNON GREENS APARTMENTS
 - Address: MCBEE STREET
 - City: MT. VERNON
-- State: KY
 - ZIP: 40456
-- ZIP extension: 
 - State project ID: KY-09-089
 - Latitude: 37.388
 - Longitude: -84.3782
@@ -19,12 +16,9 @@
 - Tract 1990: 21203950200
 - Place 2020: 54174
 - Place 2010: 54174
-- Place 2000: 
 - Place 1990: 1400
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1731660
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

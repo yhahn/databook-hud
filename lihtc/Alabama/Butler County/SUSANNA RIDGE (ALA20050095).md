@@ -1,13 +1,10 @@
 # Project: SUSANNA RIDGE (ALA20050095)
 
 - HUD ID: ALA20050095
-- HUD ID before: 
 - Project: SUSANNA RIDGE
 - Address: 488 S CONECUH ST
 - City: GREENVILLE
-- State: AL
 - ZIP: 36037
-- ZIP extension: 
 - State project ID: AL-05-0004
 - Latitude: 31.82033
 - Longitude: -86.616489
@@ -22,9 +19,7 @@
 - Place 2000: 31912
 - Place 1990: 0790
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 193368
 - Units: 33
 - Low-income units: 33
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 923250
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006115. AKA APARTMENTS HOUSING OF GREENVILLE.
 - Record status: Existing, unchanged

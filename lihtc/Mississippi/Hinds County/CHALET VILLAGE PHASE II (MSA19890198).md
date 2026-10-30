@@ -1,13 +1,10 @@
 # Project: CHALET VILLAGE PHASE II (MSA19890198)
 
 - HUD ID: MSA19890198
-- HUD ID before: 
 - Project: CHALET VILLAGE PHASE II
 - Address: 530 HIAWATHA ST
 - City: JACKSON
-- State: MS
 - ZIP: 39204
-- ZIP extension: 
 - State project ID: 88-084
 - Latitude: 32.292332
 - Longitude: -90.196084
@@ -22,10 +19,7 @@
 - Place 2000: 36000
 - Place 1990: 0615
 - Year placed in service: 1989
-- Placed in service note: 
 - Allocation year: 1988
-- Allocation year note: 
-- Allocation amount: 
 - Units: 116
 - Low-income units: 94
 - Units reported: 116
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

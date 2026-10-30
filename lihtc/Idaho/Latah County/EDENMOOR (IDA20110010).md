@@ -1,13 +1,10 @@
 # Project: EDENMOOR (IDA20110010)
 
 - HUD ID: IDA20110010
-- HUD ID before: 
 - Project: EDENMOOR
 - Address: 308 GRANT STREET
 - City: MOSCOW
-- State: ID
 - ZIP: 83843
-- ZIP extension: 
 - State project ID: HC1103
 - Latitude: 46.732408
 - Longitude: -116.984068
@@ -22,9 +19,7 @@
 - Place 2000: 54550
 - Place 1990: 0625
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 442749
 - Units: 62
 - Low-income units: 61
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

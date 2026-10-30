@@ -1,13 +1,10 @@
 # Project: WALNUT FOREST APARTMENTS (KYA20100648)
 
 - HUD ID: KYA20100648
-- HUD ID before: 
 - Project: WALNUT FOREST APARTMENTS
 - Address: MORGANTOWN ROAD
 - City: FRANKLIN
-- State: KY
 - ZIP: 42134
-- ZIP extension: 
 - State project ID: KY-09-063
 - Latitude: 36.6963
 - Longitude: -86.6439
@@ -19,12 +16,9 @@
 - Tract 1990: 21213970300
 - Place 2020: 28918
 - Place 2010: 28918
-- Place 2000: 
 - Place 1990: 0740
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1823638
 - Units: 48
 - Low-income units: 48
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

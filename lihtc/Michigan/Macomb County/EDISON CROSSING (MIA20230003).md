@@ -1,11 +1,9 @@
 # Project: EDISON CROSSING (MIA20230003)
 
 - HUD ID: MIA20230003
-- HUD ID before: 
 - Project: EDISON CROSSING
 - Address: 106 NORTHBOUND GRATIOT AVENUE
 - City: MT CLEMENS
-- State: MI
 - ZIP: 48034
 - ZIP extension: 0000
 - State project ID: 4001
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26099245400
 - Tract 2010: 26125160900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 55820
 - Place 2010: 74900
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 906841
 - Units: 30
 - Low-income units: 30
@@ -40,15 +32,11 @@
 - Income ceiling: Income average
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

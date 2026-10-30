@@ -1,11 +1,9 @@
 # Project: CROWN AT BRYCE MEADOWS (UTA20050015)
 
 - HUD ID: UTA20050015
-- HUD ID before: 
 - Project: CROWN AT BRYCE MEADOWS
 - Address: 415 N. BRYCE PARK DRIVE
 - City: TROPIC
-- State: UT
 - ZIP: 84776
 - ZIP extension: 0000
 - State project ID: 2003-30
@@ -13,18 +11,11 @@
 - Longitude: -112.0794
 - County FIPS: 49017
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 49017000400
 - Tract 2000: 49017000200
-- Tract 1990: 
-- Place 2020: 
 - Place 2010: 10330
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 52062
 - Units: 6
 - Low-income units: 6
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: No
 - Families: No
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

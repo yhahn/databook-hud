@@ -1,13 +1,10 @@
 # Project: MOORE MANOR APTS (MSA19980037)
 
 - HUD ID: MSA19980037
-- HUD ID before: 
 - Project: MOORE MANOR APTS
 - Address: 520 111TH ST
 - City: AMORY
-- State: MS
 - ZIP: 38821
-- ZIP extension: 
 - State project ID: MS-97-056
 - Latitude: 33.984832
 - Longitude: -88.499907
@@ -22,9 +19,7 @@
 - Place 2000: 01260
 - Place 1990: 0020
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 106781
 - Units: 64
 - Low-income units: 62
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 62
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998601. AKA TWB MOORE MANOR.
 - Record status: Existing, unchanged

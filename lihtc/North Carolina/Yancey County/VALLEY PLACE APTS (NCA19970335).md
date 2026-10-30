@@ -1,13 +1,10 @@
 # Project: VALLEY PLACE APTS (NCA19970335)
 
 - HUD ID: NCA19970335
-- HUD ID before: 
 - Project: VALLEY PLACE APTS
 - Address: 216 RESERVOIR ROAD
 - City: BURNSVILLE
-- State: NC
 - ZIP: 28714
-- ZIP extension: 
 - State project ID: 9001334
 - Latitude: 35.913024
 - Longitude: -82.298453
@@ -20,11 +17,8 @@
 - Place 2020: 09140
 - Place 2010: 09140
 - Place 2000: 09140
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 35314
 - Units: 18
 - Low-income units: 18
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

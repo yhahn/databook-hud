@@ -1,13 +1,10 @@
 # Project: OAK ESTATES (NCA19930260)
 
 - HUD ID: NCA19930260
-- HUD ID before: 
 - Project: OAK ESTATES
 - Address: 620 MCLEOD STREET
 - City: ELIZABETHTOWN
-- State: NC
 - ZIP: 28337
-- ZIP extension: 
 - State project ID: 9001658
 - Latitude: 34.620015
 - Longitude: -78.607571
@@ -22,9 +19,7 @@
 - Place 2000: 20600
 - Place 1990: 0810
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 52358
 - Units: 56
 - Low-income units: 56
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 6
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

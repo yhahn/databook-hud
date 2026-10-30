@@ -1,13 +1,10 @@
 # Project: LADEARA CREST ESTATES APTS (NCA20000135)
 
 - HUD ID: NCA20000135
-- HUD ID before: 
 - Project: LADEARA CREST ESTATES APTS
 - Address: 2531 LADEARA CREST LANE
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27105
-- ZIP extension: 
 - State project ID: 9001028
 - Latitude: 36.1486
 - Longitude: -80.2342
@@ -22,9 +19,7 @@
 - Place 2000: 75000
 - Place 1990: 2785
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 589734
 - Units: 245
 - Low-income units: 245
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

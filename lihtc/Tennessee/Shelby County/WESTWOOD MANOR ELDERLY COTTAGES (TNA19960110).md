@@ -1,13 +1,10 @@
 # Project: WESTWOOD MANOR ELDERLY COTTAGES (TNA19960110)
 
 - HUD ID: TNA19960110
-- HUD ID before: 
 - Project: WESTWOOD MANOR ELDERLY COTTAGES
 - Address: 4428 FIG LEAF CIR
 - City: MEMPHIS
-- State: TN
 - ZIP: 38109
-- ZIP extension: 
 - State project ID: TN-94-033
 - Latitude: 35.027575
 - Longitude: -90.09384
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 200811
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA WESTWOOD MANOR DEVELOPMENT.
 - Record status: Existing, unchanged

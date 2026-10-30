@@ -1,13 +1,10 @@
 # Project: WRIGHT APTS II (ALA19910220)
 
 - HUD ID: ALA19910220
-- HUD ID before: 
 - Project: WRIGHT APTS II
 - Address: 3600 17TH ST
 - City: NORTHPORT
-- State: AL
 - ZIP: 35476
-- ZIP extension: 
 - State project ID: AL-91-0031
 - Latitude: 33.228584
 - Longitude: -87.590336
@@ -22,9 +19,7 @@
 - Place 2000: 55200
 - Place 1990: 1275
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 25056
 - Units: 10
 - Low-income units: 10
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1992120.
 - Record status: Existing, unchanged

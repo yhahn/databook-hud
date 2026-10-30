@@ -1,13 +1,10 @@
 # Project: CHATHAM WOODS (NCA20030030)
 
 - HUD ID: NCA20030030
-- HUD ID before: 
 - Project: CHATHAM WOODS
 - Address: 230 HAWTHORNE STREET
 - City: ELKIN
-- State: NC
 - ZIP: 28621
-- ZIP extension: 
 - State project ID: 9001226
 - Latitude: 36.255899
 - Longitude: -80.845409
@@ -22,9 +19,7 @@
 - Place 2000: 20620
 - Place 1990: 0815
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 206636
 - Units: 30
 - Low-income units: 30
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

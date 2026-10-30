@@ -1,13 +1,10 @@
 # Project: VILLAGE GREEN APTS (ALA19950162)
 
 - HUD ID: ALA19950162
-- HUD ID before: 
 - Project: VILLAGE GREEN APTS
 - Address: 111 VILLAGE GREEN CIR
 - City: RED BAY
-- State: AL
 - ZIP: 35582
-- ZIP extension: 
 - State project ID: AL-95-0088
 - Latitude: 34.441638
 - Longitude: -88.137733
@@ -22,9 +19,7 @@
 - Place 2000: 63576
 - Place 1990: 1450
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 75017
 - Units: 57
 - Low-income units: 57
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 57
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997180.
 - Record status: Existing, unchanged

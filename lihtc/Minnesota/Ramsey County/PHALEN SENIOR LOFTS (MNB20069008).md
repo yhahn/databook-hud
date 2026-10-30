@@ -1,11 +1,9 @@
 # Project: PHALEN SENIOR LOFTS (MNB20069008)
 
 - HUD ID: MNB20069008
-- HUD ID before: 
 - Project: PHALEN SENIOR LOFTS
 - Address: 635 PHALEN BOULEVARD
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55130
 - ZIP extension: 5306
 - State project ID: D3921
@@ -16,15 +14,11 @@
 - Tract 2020: 27123031500
 - Tract 2010: 27123031500
 - Tract 2000: 27123031500
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 367992
 - Units: 73
 - Low-income units: 73
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 40
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +60,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

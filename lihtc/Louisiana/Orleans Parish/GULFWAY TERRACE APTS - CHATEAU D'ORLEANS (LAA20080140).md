@@ -1,11 +1,9 @@
 # Project: GULFWAY TERRACE APTS / CHATEAU D'ORLEANS (LAA20080140)
 
 - HUD ID: LAA20080140
-- HUD ID before: 
 - Project: GULFWAY TERRACE APTS / CHATEAU D'ORLEANS
 - Address: 14765 CHEF MENTEUR HWY
 - City: NEW ORLEANS
-- State: LA
 - ZIP: 70129
 - ZIP extension: 0000
 - State project ID: LA-06-291
@@ -22,9 +20,7 @@
 - Place 2000: 55000
 - Place 1990: 0956
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 51304
 - Units: 206
 - Low-income units: 206
@@ -40,12 +36,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
 - TCAP amount: 0
-- TCEP: 
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: Acquisition/Rehab
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS LAA1988070, LAA1987055. AKA CHATEAU D'ORLEANS.;
 - Record status: Existing, unchanged

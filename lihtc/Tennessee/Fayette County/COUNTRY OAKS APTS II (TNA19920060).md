@@ -1,13 +1,10 @@
 # Project: COUNTRY OAKS APTS II (TNA19920060)
 
 - HUD ID: TNA19920060
-- HUD ID before: 
 - Project: COUNTRY OAKS APTS II
 - Address: 423 JERNIGAN DR
 - City: SOMERVILLE
-- State: TN
 - ZIP: 38068
-- ZIP extension: 
 - State project ID: TN-91-013
 - Latitude: 35.236433
 - Longitude: -89.34131
@@ -20,11 +17,8 @@
 - Place 2020: 69620
 - Place 2010: 69620
 - Place 2000: 69620
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 28090
 - Units: 20
 - Low-income units: 20
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

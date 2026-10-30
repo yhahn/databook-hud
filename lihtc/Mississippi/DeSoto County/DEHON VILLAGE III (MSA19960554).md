@@ -1,13 +1,10 @@
 # Project: DEHON VILLAGE III (MSA19960554)
 
 - HUD ID: MSA19960554
-- HUD ID before: 
 - Project: DEHON VILLAGE III
 - Address: 9340 MCLEMORE CV
 - City: WALLS
-- State: MS
 - ZIP: 38680
-- ZIP extension: 
 - State project ID: MS-95-104
 - Latitude: 34.958286
 - Longitude: -90.153797
@@ -20,12 +17,8 @@
 - Place 2020: 77400
 - Place 2010: 77400
 - Place 2000: 42840
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
-- Allocation amount: 
 - Units: 38
 - Low-income units: 38
 - Units reported: 38
@@ -39,9 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,7 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1996045, MSA1996042.
 - Record status: Existing, unchanged

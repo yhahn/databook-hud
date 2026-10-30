@@ -1,11 +1,9 @@
 # Project: THE GABLES AT DRUID HILLS II (NCA20100511)
 
 - HUD ID: NCA20100511
-- HUD ID before: 
 - Project: THE GABLES AT DRUID HILLS II
 - Address: 1145 KOHLER AVE
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28206
 - ZIP extension: 4001
 - State project ID: 9102485
@@ -22,9 +20,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 838989
 - Units: 72
 - Low-income units: 72
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +66,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

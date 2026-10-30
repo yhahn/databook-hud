@@ -1,11 +1,9 @@
 # Project: FOX CHASE I (GAA19920060)
 
 - HUD ID: GAA19920060
-- HUD ID before: 
 - Project: FOX CHASE I
 - Address: 11 FOX CHASE CIR
 - City: GREENSBORO
-- State: GA
 - ZIP: 30642
 - ZIP extension: 2956
 - State project ID: GA-91-014
@@ -22,10 +20,7 @@
 - Place 2000: 34876
 - Place 1990: 1260
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
-- Allocation amount: 
 - Units: 24
 - Low-income units: 24
 - Units reported: 24
@@ -36,12 +31,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +62,7 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

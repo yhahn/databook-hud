@@ -1,13 +1,10 @@
 # Project: WHISPERING WOODS APARTMENTS PHASE II (KYA20090100)
 
 - HUD ID: KYA20090100
-- HUD ID before: 
 - Project: WHISPERING WOODS APARTMENTS PHASE II
 - Address: TIPSY CIRCLE
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40208
-- ZIP extension: 
 - State project ID: KY-08-023
 - Latitude: 38.1858
 - Longitude: -85.8379
@@ -19,12 +16,9 @@
 - Tract 1990: 21111012604
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1712
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 436103
 - Units: 50
 - Low-income units: 50
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

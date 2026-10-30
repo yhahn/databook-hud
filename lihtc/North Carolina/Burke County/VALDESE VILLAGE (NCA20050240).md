@@ -1,13 +1,10 @@
 # Project: VALDESE VILLAGE (NCA20050240)
 
 - HUD ID: NCA20050240
-- HUD ID before: 
 - Project: VALDESE VILLAGE
 - Address: 1120 REFOUR AVENUE SOUTHEAST
 - City: VALDESE
-- State: NC
 - ZIP: 28690
-- ZIP extension: 
 - State project ID: 9001315
 - Latitude: 35.736518
 - Longitude: -81.545847
@@ -22,9 +19,7 @@
 - Place 2000: 69520
 - Place 1990: 2570
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 72968
 - Units: 34
 - Low-income units: 34
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

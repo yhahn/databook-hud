@@ -1,13 +1,10 @@
 # Project: WESTPORT TERRACE (IAA20110914)
 
 - HUD ID: IAA20110914
-- HUD ID before: 
 - Project: WESTPORT TERRACE
 - Address: 950 JOHNSON ST RD
 - City: KEOKUK
-- State: IA
 - ZIP: 52632
-- ZIP extension: 
 - State project ID: 09-0933
 - Latitude: 40.410854
 - Longitude: -91.412486
@@ -22,9 +19,7 @@
 - Place 2000: 40845
 - Place 1990: 2145
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 844378
 - Units: 72
 - Low-income units: 72
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS IAA2011513, IAA2011100. AKA WESTPORT APTS GP.
 - Record status: Existing, unchanged

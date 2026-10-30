@@ -1,11 +1,9 @@
 # Project: GREGSON APTS. (UTA19969008)
 
 - HUD ID: UTA19969008
-- HUD ID before: 
 - Project: GREGSON APTS.
 - Address: 19 WEST GREGSON AVENUE
 - City: SOUTH SALT LAKE CITY
-- State: UT
 - ZIP: 84115
 - ZIP extension: 0000
 - State project ID: 1994-27
@@ -16,15 +14,11 @@
 - Tract 2020: 49035111601
 - Tract 2010: 49035111600
 - Tract 2000: 49035111600
-- Tract 1990: 
 - Place 2020: 71070
 - Place 2010: 71070
 - Place 2000: 71070
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 83027
 - Units: 16
 - Low-income units: 16
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

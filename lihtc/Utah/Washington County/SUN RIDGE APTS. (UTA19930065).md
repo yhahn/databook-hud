@@ -1,11 +1,9 @@
 # Project: SUN RIDGE APTS. (UTA19930065)
 
 - HUD ID: UTA19930065
-- HUD ID before: 
 - Project: SUN RIDGE APTS.
 - Address: 277 SOUTH 1100 EAST
 - City: ST. GEORGE
-- State: UT
 - ZIP: 84770
 - ZIP extension: 0000
 - State project ID: 1992-04
@@ -19,12 +17,9 @@
 - Tract 1990: 49053985800
 - Place 2020: 65330
 - Place 2010: 65330
-- Place 2000: 
 - Place 1990: 0855
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 266474
 - Units: 52
 - Low-income units: 52
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

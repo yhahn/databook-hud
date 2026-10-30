@@ -1,13 +1,10 @@
 # Project: MEBANE MILL LOFTS (NCA20110075)
 
 - HUD ID: NCA20110075
-- HUD ID before: 
 - Project: MEBANE MILL LOFTS
 - Address: 301 W WASHINGTON STREET
 - City: MEBANE
-- State: NC
 - ZIP: 27302
-- ZIP extension: 
 - State project ID: 9104475
 - Latitude: 36.097367
 - Longitude: -79.275474
@@ -20,11 +17,8 @@
 - Place 2020: 42240
 - Place 2010: 42240
 - Place 2000: 42240
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 793803
 - Units: 75
 - Low-income units: 75
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 19
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

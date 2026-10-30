@@ -1,13 +1,10 @@
 # Project: THE VILLAS AT CHRISTIAN VILLAGE (NCA20140140)
 
 - HUD ID: NCA20140140
-- HUD ID before: 
 - Project: THE VILLAS AT CHRISTIAN VILLAGE
 - Address: 120 CAMBELL CIRCLE
 - City: KING
-- State: NC
 - ZIP: 27021
-- ZIP extension: 
 - State project ID: 9152094
 - Latitude: 36.2941
 - Longitude: -80.3543
@@ -20,11 +17,8 @@
 - Place 2020: 35760
 - Place 2010: 35760
 - Place 2000: 35760
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 304000
 - Units: 38
 - Low-income units: 38
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: OAKHILL APARTMENTS (NCA20040130)
 
 - HUD ID: NCA20040130
-- HUD ID before: 
 - Project: OAKHILL APARTMENTS
 - Address: 104 PERIWINKLE LANE
 - City: SPRING HOPE
-- State: NC
 - ZIP: 27882
-- ZIP extension: 
 - State project ID: 9001309
 - Latitude: 35.944324
 - Longitude: -78.104315
@@ -16,15 +13,10 @@
 - Tract 2020: 37127011000
 - Tract 2010: 37127011000
 - Tract 2000: 37127011000
-- Tract 1990: 
 - Place 2020: 64160
 - Place 2010: 64160
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 115124
 - Units: 25
 - Low-income units: 25
@@ -39,9 +31,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +61,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

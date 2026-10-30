@@ -1,13 +1,10 @@
 # Project: EAST METRO PLACE II - STABILIZATION OF EAST METRO (MNA20059004)
 
 - HUD ID: MNA20059004
-- HUD ID before: 
 - Project: EAST METRO PLACE II - STABILIZATION OF EAST METRO
 - Address: 3521 CENTURY AVE N
 - City: WHITE BEAR LAKE
-- State: MN
 - ZIP: 55110
-- ZIP extension: 
 - State project ID: D3661
 - Latitude: 45.047982
 - Longitude: -92.985085
@@ -22,9 +19,7 @@
 - Place 2000: 66460
 - Place 1990: 4090
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 263896
 - Units: 35
 - Low-income units: 34
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 459659
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: SINGLES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MNA2005037. FKA MAPLE VILLAGE PHASE II
 - Record status: Existing, unchanged

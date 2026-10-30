@@ -1,13 +1,10 @@
 # Project: MEADOW'S GATE (NCA20100514)
 
 - HUD ID: NCA20100514
-- HUD ID before: 
 - Project: MEADOW'S GATE
 - Address: WESTERN BOULEVARD
 - City: JACKSONVILLE
-- State: NC
 - ZIP: 28546
-- ZIP extension: 
 - State project ID: 9102488
 - Latitude: 34.7783
 - Longitude: -77.361
@@ -19,12 +16,9 @@
 - Tract 1990: 37133001300
 - Place 2020: 28900
 - Place 2010: 34200
-- Place 2000: 
 - Place 1990: 1280
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 80
 - Low-income units: 80
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 40
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

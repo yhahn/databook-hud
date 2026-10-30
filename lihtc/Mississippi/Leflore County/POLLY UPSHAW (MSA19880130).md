@@ -1,13 +1,10 @@
 # Project: POLLY UPSHAW (MSA19880130)
 
 - HUD ID: MSA19880130
-- HUD ID before: 
 - Project: POLLY UPSHAW
 - Address: 206 FIRST AVE N
 - City: GREENWOOD
-- State: MS
 - ZIP: 38930
-- ZIP extension: 
 - State project ID: 88-128
 - Latitude: 33.516708
 - Longitude: -90.158309
@@ -22,10 +19,7 @@
 - Place 2000: 29340
 - Place 1990: 0505
 - Year placed in service: 1988
-- Placed in service note: 
 - Allocation year: 1988
-- Allocation year note: 
-- Allocation amount: 
 - Units: 1
 - Low-income units: 1
 - Units reported: 1
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

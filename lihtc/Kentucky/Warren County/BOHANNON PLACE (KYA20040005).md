@@ -1,13 +1,10 @@
 # Project: BOHANNON PLACE (KYA20040005)
 
 - HUD ID: KYA20040005
-- HUD ID before: 
 - Project: BOHANNON PLACE
 - Address: 12TH AVE. EAST
 - City: BOWLING GREEN
-- State: KY
 - ZIP: 42102
-- ZIP extension: 
 - State project ID: KY-01-013
 - Latitude: 36.9921
 - Longitude: -86.4462
@@ -17,14 +14,9 @@
 - Tract 2010: 21227010100
 - Tract 2000: 21227010200
 - Tract 1990: 21227010100
-- Place 2020: 
-- Place 2010: 
-- Place 2000: 
 - Place 1990: 0200
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 119691
 - Units: 12
 - Low-income units: 12
@@ -39,7 +31,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

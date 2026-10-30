@@ -1,13 +1,10 @@
 # Project: DAWSON AVENUE SENIOR APTS (CAA20100070)
 
 - HUD ID: CAA20100070
-- HUD ID before: 
 - Project: DAWSON AVENUE SENIOR APTS
 - Address: 4321 52ND ST
 - City: SAN DIEGO
-- State: CA
 - ZIP: 92115
-- ZIP extension: 
 - State project ID: CA-08-056
 - Latitude: 32.755334
 - Longitude: -117.083461
@@ -22,9 +19,7 @@
 - Place 2000: 66000
 - Place 1990: 2475
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1559539
 - Units: 88
 - Low-income units: 87
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 87
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

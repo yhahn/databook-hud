@@ -1,13 +1,10 @@
 # Project: COLEY-JENKINS INDEPENDENT LIVING CENTER (NCA19980045)
 
 - HUD ID: NCA19980045
-- HUD ID before: 
 - Project: COLEY-JENKINS INDEPENDENT LIVING CENTER
 - Address: 2221 REDWOOD STREET
 - City: GREENSBORO
-- State: NC
 - ZIP: 27405
-- ZIP extension: 
 - State project ID: 9002213
 - Latitude: 36.1213
 - Longitude: -79.6889
@@ -19,12 +16,9 @@
 - Tract 1990: 37081012706
 - Place 2020: 28000
 - Place 2010: 28000
-- Place 2000: 
 - Place 1990: 1065
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 203791
 - Units: 40
 - Low-income units: 40
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

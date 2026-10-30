@@ -1,13 +1,10 @@
 # Project: BEATRICE MORROW APTS (ORA20180001)
 
 - HUD ID: ORA20180001
-- HUD ID before: 
 - Project: BEATRICE MORROW APTS
 - Address: 3368 NE MARTIN LUTHER KING JR BLVD
 - City: PORTLAND
-- State: OR
 - ZIP: 97212
-- ZIP extension: 
 - State project ID: 3226
 - Latitude: 45.54755
 - Longitude: -122.661296
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 41051002203
 - Tract 2010: 41051002203
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 59000
 - Place 2010: 59000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 971168
 - Units: 80
 - Low-income units: 80
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +55,6 @@
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Workforce
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

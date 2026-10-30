@@ -1,13 +1,10 @@
 # Project: BOSTON COURT APTS (MSA19970015)
 
 - HUD ID: MSA19970015
-- HUD ID before: 
 - Project: BOSTON COURT APTS
 - Address: 275 MANSHIP ST
 - City: JACKSON
-- State: MS
 - ZIP: 39202
-- ZIP extension: 
 - State project ID: MS-95-152
 - Latitude: 32.314029
 - Longitude: -90.185016
@@ -22,10 +19,7 @@
 - Place 2000: 36000
 - Place 1990: 0615
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
-- Allocation amount: 
 - Units: 21
 - Low-income units: 20
 - Units reported: 21
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

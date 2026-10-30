@@ -1,11 +1,9 @@
 # Project: CEDAR VIEW SR. LIVING (UTA20151005)
 
 - HUD ID: UTA20151005
-- HUD ID before: 
 - Project: CEDAR VIEW SR. LIVING
 - Address: 451 S. MAIN STREET
 - City: SPRINGVILLE
-- State: UT
 - ZIP: 84663
 - ZIP extension: 0000
 - State project ID: 2014-09
@@ -16,15 +14,11 @@
 - Tract 2020: 49049003105
 - Tract 2010: 49049003105
 - Tract 2000: 49049003101
-- Tract 1990: 
 - Place 2020: 72280
 - Place 2010: 72280
 - Place 2000: 72280
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 222415
 - Units: 31
 - Low-income units: 25
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +70,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

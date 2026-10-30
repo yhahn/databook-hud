@@ -1,11 +1,9 @@
 # Project: MONUMENT VIEW VILLA (NEA20140050)
 
 - HUD ID: NEA20140050
-- HUD ID before: 
 - Project: MONUMENT VIEW VILLA
 - Address: 712-732 D STREET
 - City: GERING
-- State: NE
 - ZIP: 69341
 - ZIP extension: 0000
 - State project ID: 7-0778
@@ -22,9 +20,7 @@
 - Place 2000: 18580
 - Place 1990: 0995
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 120925
 - Units: 10
 - Low-income units: 10
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +63,7 @@
 - Other population: No
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

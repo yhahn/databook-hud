@@ -1,11 +1,9 @@
 # Project: SHADOW MOUNTAIN APARTMENTS (MTA19950045)
 
 - HUD ID: MTA19950045
-- HUD ID before: 
 - Project: SHADOW MOUNTAIN APARTMENTS
 - Address: 2525 FERNDALE LANE
 - City: HELENA
-- State: MT
 - ZIP: 59601
 - ZIP extension: 0000
 - State project ID: 93070
@@ -22,9 +20,7 @@
 - Place 2000: 23125
 - Place 1990: 0325
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 202000
 - Units: 36
 - Low-income units: 36
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

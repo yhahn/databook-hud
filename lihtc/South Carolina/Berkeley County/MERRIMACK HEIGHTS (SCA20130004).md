@@ -1,13 +1,10 @@
 # Project: MERRIMACK HEIGHTS (SCA20130004)
 
 - HUD ID: SCA20130004
-- HUD ID before: 
 - Project: MERRIMACK HEIGHTS
 - Address: 3914 MERRIMACK BLVD
 - City: MONCKS CORNER
-- State: SC
 - ZIP: 29461
-- ZIP extension: 
 - State project ID: SC-11-050
 - Latitude: 33.1619
 - Longitude: -80.0358
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 45015020602
 - Tract 2010: 45015020505
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 47275
 - Place 2010: 47275
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 674421
 - Units: 48
 - Low-income units: 48
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA MERRIMACK HEIGHTS M11-SG450932.
 - Record status: Existing, unchanged

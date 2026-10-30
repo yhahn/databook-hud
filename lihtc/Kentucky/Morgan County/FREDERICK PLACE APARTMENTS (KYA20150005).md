@@ -1,13 +1,10 @@
 # Project: FREDERICK PLACE APARTMENTS (KYA20150005)
 
 - HUD ID: KYA20150005
-- HUD ID before: 
 - Project: FREDERICK PLACE APARTMENTS
 - Address: LIBERTY HEIGHTS COURT
 - City: WEST LIBERTY
-- State: KY
 - ZIP: 41472
-- ZIP extension: 
 - State project ID: KY-13-018
 - Latitude: 37.8752
 - Longitude: -83.2164
@@ -19,12 +16,9 @@
 - Tract 1990: 21175950400
 - Place 2020: 81858
 - Place 2010: 81858
-- Place 2000: 
 - Place 1990: 2085
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 500000
 - Units: 48
 - Low-income units: 48
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

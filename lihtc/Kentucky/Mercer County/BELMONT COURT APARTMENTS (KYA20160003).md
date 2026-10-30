@@ -1,11 +1,9 @@
 # Project: BELMONT COURT APARTMENTS (KYA20160003)
 
 - HUD ID: KYA20160003
-- HUD ID before: 
 - Project: BELMONT COURT APARTMENTS
 - Address: BELMONT STREET
 - City: HARRODSBURG
-- State: KY
 - ZIP: 40330
 - ZIP extension: 1409
 - State project ID: KY-15-008
@@ -16,15 +14,11 @@
 - Tract 2020: 21167960200
 - Tract 2010: 21167960400
 - Tract 2000: 21167960200
-- Tract 1990: 
 - Place 2020: 34966
 - Place 2010: 34966
 - Place 2000: 34966
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 542242
 - Units: 63
 - Low-income units: 63
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

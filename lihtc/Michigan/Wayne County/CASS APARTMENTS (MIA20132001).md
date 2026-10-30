@@ -1,11 +1,9 @@
 # Project: CASS APARTMENTS (MIA20132001)
 
 - HUD ID: MIA20132001
-- HUD ID before: 
 - Project: CASS APARTMENTS
 - Address: 1584 ELMHURST
 - City: DETROIT
-- State: MI
 - ZIP: 48206
 - ZIP extension: 0000
 - State project ID: 3359
@@ -16,15 +14,11 @@
 - Tract 2020: 26163531900
 - Tract 2010: 26163531900
 - Tract 2000: 26163531900
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
 - Place 2000: 22000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 836035
 - Units: 41
 - Low-income units: 41
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

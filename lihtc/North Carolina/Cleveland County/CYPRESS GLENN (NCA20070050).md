@@ -1,13 +1,10 @@
 # Project: CYPRESS GLENN (NCA20070050)
 
 - HUD ID: NCA20070050
-- HUD ID before: 
 - Project: CYPRESS GLENN
 - Address: 905 AIRPORT ROAD
 - City: SHELBY
-- State: NC
 - ZIP: 28150
-- ZIP extension: 
 - State project ID: 9000674
 - Latitude: 35.315293
 - Longitude: -81.520368
@@ -20,11 +17,8 @@
 - Place 2020: 61200
 - Place 2010: 61200
 - Place 2000: 61200
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 391000
 - Units: 46
 - Low-income units: 46
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

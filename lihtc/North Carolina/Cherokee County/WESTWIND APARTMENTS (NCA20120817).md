@@ -1,13 +1,10 @@
 # Project: WESTWIND APARTMENTS (NCA20120817)
 
 - HUD ID: NCA20120817
-- HUD ID before: 
 - Project: WESTWIND APARTMENTS
 - Address: 353 KENT STREET
 - City: ANDREWS
-- State: NC
 - ZIP: 28901
-- ZIP extension: 
 - State project ID: 9001245
 - Latitude: 35.195338
 - Longitude: -83.839684
@@ -22,9 +19,7 @@
 - Place 2000: 01380
 - Place 1990: 0040
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 1988
-- Allocation year note: 
 - Allocation amount: 59097
 - Units: 42
 - Low-income units: 42
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HAYDEN CROSSING (IDA20039003)
 
 - HUD ID: IDA20039003
-- HUD ID before: 
 - Project: HAYDEN CROSSING
 - Address: 88 WEST SARGENT DRIVE
 - City: HAYDEN
-- State: ID
 - ZIP: 83835
-- ZIP extension: 
 - State project ID: HC0211
 - Latitude: 47.753787
 - Longitude: -116.788067
@@ -16,15 +13,11 @@
 - Tract 2020: 16055001003
 - Tract 2010: 16055001001
 - Tract 2000: 16055001000
-- Tract 1990: 
 - Place 2020: 36370
 - Place 2010: 36370
 - Place 2000: 36370
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 162526
 - Units: 30
 - Low-income units: 23
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

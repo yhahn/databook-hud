@@ -1,13 +1,10 @@
 # Project: MOONLIGHT APTS (CAA20100800)
 
 - HUD ID: CAA20100800
-- HUD ID before: 
 - Project: MOONLIGHT APTS
 - Address: 455 W CHESTNUT ST
 - City: DIXON
-- State: CA
 - ZIP: 95620
-- ZIP extension: 
 - State project ID: CA-09-576
 - Latitude: 38.441353
 - Longitude: -121.827091
@@ -20,12 +17,8 @@
 - Place 2020: 19402
 - Place 2010: 19402
 - Place 2000: 19402
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 56
 - Low-income units: 55
 - Units reported: 56
@@ -38,10 +31,6 @@
 - Construction: Acquisition and rehab
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +42,10 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1381382
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +55,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: MORRISVILLE COMMUNITY HOUSING (VTA20110030)
 
 - HUD ID: VTA20110030
-- HUD ID before: 
 - Project: MORRISVILLE COMMUNITY HOUSING
 - Address: 75 GEORGE ST
 - City: MORRISVILLE
-- State: VT
 - ZIP: 05661
-- ZIP extension: 
 - State project ID: 0434
 - Latitude: 44.556854
 - Longitude: -72.596115
@@ -20,11 +17,8 @@
 - Place 2020: 46825
 - Place 2010: 46825
 - Place 2000: 46825
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 279000
 - Units: 16
 - Low-income units: 16
@@ -39,9 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

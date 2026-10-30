@@ -1,13 +1,10 @@
 # Project: WEST LIBERTY FAMILY APARTMENTS (KYA20040105)
 
 - HUD ID: KYA20040105
-- HUD ID before: 
 - Project: WEST LIBERTY FAMILY APARTMENTS
 - Address: W. MAIN ST.
 - City: WEST LIBERTY
-- State: KY
 - ZIP: 41472
-- ZIP extension: 
 - State project ID: KY-01-082
 - Latitude: 37.8752
 - Longitude: -83.2164
@@ -19,12 +16,9 @@
 - Tract 1990: 21175950400
 - Place 2020: 81858
 - Place 2010: 81858
-- Place 2000: 
 - Place 1990: 2085
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 46612
 - Units: 20
 - Low-income units: 20
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

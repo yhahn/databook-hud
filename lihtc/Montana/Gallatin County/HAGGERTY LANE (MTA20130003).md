@@ -1,11 +1,9 @@
 # Project: HAGGERTY LANE (MTA20130003)
 
 - HUD ID: MTA20130003
-- HUD ID before: 
 - Project: HAGGERTY LANE
 - Address: 1992 COTTAGE
 - City: BOZEMAN
-- State: MT
 - ZIP: 59718
 - ZIP extension: 0000
 - State project ID: MT-12-030
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30031000505
 - Tract 2010: 30031000503
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 08950
 - Place 2010: 08950
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 200000
 - Units: 11
 - Low-income units: 10
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -78,8 +68,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

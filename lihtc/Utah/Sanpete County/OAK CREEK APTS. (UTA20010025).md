@@ -1,11 +1,9 @@
 # Project: OAK CREEK APTS. (UTA20010025)
 
 - HUD ID: UTA20010025
-- HUD ID before: 
 - Project: OAK CREEK APTS.
 - Address: 311 -325 SOUTH 430 EAST
 - City: EPHRAIM
-- State: UT
 - ZIP: 84627
 - ZIP extension: 0000
 - State project ID: 2000-03
@@ -19,12 +17,9 @@
 - Tract 1990: 49039972400
 - Place 2020: 23530
 - Place 2010: 23530
-- Place 2000: 
 - Place 1990: 0225
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 115640
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +58,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

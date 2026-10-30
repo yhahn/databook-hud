@@ -1,13 +1,10 @@
 # Project: PRESTWICK (IDA19980040)
 
 - HUD ID: IDA19980040
-- HUD ID before: 
 - Project: PRESTWICK
 - Address: 1285 SOUTH LINCOLN AVENUE
 - City: JEROME
-- State: ID
 - ZIP: 83338
-- ZIP extension: 
 - State project ID: HC9712
 - Latitude: 42.712229
 - Longitude: -114.518693
@@ -16,15 +13,10 @@
 - Tract 2020: 16053970502
 - Tract 2010: 16053970500
 - Tract 2000: 16053970400
-- Tract 1990: 
 - Place 2020: 41320
 - Place 2010: 41320
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 132980
 - Units: 28
 - Low-income units: 27
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

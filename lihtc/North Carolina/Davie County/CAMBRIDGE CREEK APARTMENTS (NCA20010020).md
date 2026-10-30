@@ -1,13 +1,10 @@
 # Project: CAMBRIDGE CREEK APARTMENTS (NCA20010020)
 
 - HUD ID: NCA20010020
-- HUD ID before: 
 - Project: CAMBRIDGE CREEK APARTMENTS
 - Address: 268 MILLING ROAD
 - City: MOCKSVILLE
-- State: NC
 - ZIP: 27028
-- ZIP extension: 
 - State project ID: 9001285
 - Latitude: 35.903916
 - Longitude: -80.544829
@@ -22,9 +19,7 @@
 - Place 2000: 43720
 - Place 1990: 1690
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 53983
 - Units: 28
 - Low-income units: 28
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 28
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

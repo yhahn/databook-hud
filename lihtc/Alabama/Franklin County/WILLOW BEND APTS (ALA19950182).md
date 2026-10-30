@@ -1,13 +1,10 @@
 # Project: WILLOW BEND APTS (ALA19950182)
 
 - HUD ID: ALA19950182
-- HUD ID before: 
 - Project: WILLOW BEND APTS
 - Address: 100 WILLOW BEND PLZ
 - City: RUSSELLVILLE
-- State: AL
 - ZIP: 35653
-- ZIP extension: 
 - State project ID: AL-95-0088
 - Latitude: 34.497507
 - Longitude: -87.729964
@@ -22,9 +19,7 @@
 - Place 2000: 67056
 - Place 1990: 1510
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 169000
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 920000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1996180.
 - Record status: Existing, unchanged

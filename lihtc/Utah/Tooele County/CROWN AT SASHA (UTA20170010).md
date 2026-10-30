@@ -1,11 +1,9 @@
 # Project: CROWN AT SASHA (UTA20170010)
 
 - HUD ID: UTA20170010
-- HUD ID before: 
 - Project: CROWN AT SASHA
 - Address: 658 & 672 S 1050 W, 380 E 1492
 - City: TOOELE
-- State: UT
 - ZIP: 84074
 - ZIP extension: 0000
 - State project ID: 2015-23
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49045131101
 - Tract 2010: 49045131100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 76680
 - Place 2010: 76680
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 83850
 - Units: 6
 - Low-income units: 6
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

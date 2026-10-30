@@ -1,13 +1,10 @@
 # Project: LYDIA HOUSE (NEA20090040)
 
 - HUD ID: NEA20090040
-- HUD ID before: 
 - Project: LYDIA HOUSE
 - Address: 2809 N 20TH ST E
 - City: OMAHA
-- State: NE
 - ZIP: 68110
-- ZIP extension: 
 - State project ID: 7-0651
 - Latitude: 41.284115
 - Longitude: -95.904344
@@ -22,9 +19,7 @@
 - Place 2000: 37000
 - Place 1990: 1825
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 785250
 - Units: 118
 - Low-income units: 118
@@ -39,13 +34,9 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

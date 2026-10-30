@@ -1,13 +1,10 @@
 # Project: FOREST PARK (TXA20136007)
 
 - HUD ID: TXA20136007
-- HUD ID before: 
 - Project: FOREST PARK
 - Address: 1088 PARK PLAZA DR.
 - City: AUSTIN
-- State: TX
 - ZIP: 78753
-- ZIP extension: 
 - State project ID: TX1323
 - Latitude: 30.348609
 - Longitude: -97.686373
@@ -22,10 +19,7 @@
 - Place 2000: 05000
 - Place 1990: 0210
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
-- Allocation amount: 
 - Units: 228
 - Low-income units: 228
 - Units reported: 228
@@ -38,17 +32,12 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

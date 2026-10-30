@@ -1,11 +1,9 @@
 # Project: FRANCIS HOUSE (PAA20202008)
 
 - HUD ID: PAA20202008
-- HUD ID before: 
 - Project: FRANCIS HOUSE
 - Address: 4460 FAIRMOUNT AVE
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19104
 - ZIP extension: 1319
 - State project ID: TC20190402
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101010500
 - Tract 2010: 42101010500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2023
-- Allocation year note: 
 - Allocation amount: 1200000
 - Units: 60
 - Low-income units: 60
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

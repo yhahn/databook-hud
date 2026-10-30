@@ -1,13 +1,10 @@
 # Project: DAKOTA MAGIC HOMES (NDA20100012)
 
 - HUD ID: NDA20100012
-- HUD ID before: 
 - Project: DAKOTA MAGIC HOMES
 - Address: 16849 102ND ST SE
 - City: HANKINSON
-- State: ND
 - ZIP: 58041
-- ZIP extension: 
 - State project ID: TC0804
 - Latitude: 45.936039
 - Longitude: -96.83541
@@ -19,12 +16,9 @@
 - Tract 1990: 38077971100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
 - Place 1990: 0540
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 324657
 - Units: 24
 - Low-income units: 23
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA2010500.
 - Record status: Existing, unchanged

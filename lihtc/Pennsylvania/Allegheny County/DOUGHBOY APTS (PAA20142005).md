@@ -1,11 +1,9 @@
 # Project: DOUGHBOY APTS (PAA20142005)
 
 - HUD ID: PAA20142005
-- HUD ID before: 
 - Project: DOUGHBOY APTS
 - Address: 3431 BUTLER ST
 - City: PITTSBURGH
-- State: PA
 - ZIP: 15201
 - ZIP extension: 1312
 - State project ID: TC20120119
@@ -16,15 +14,11 @@
 - Tract 2020: 42003060300
 - Tract 2010: 42003060300
 - Tract 2000: 42003060300
-- Tract 1990: 
 - Place 2020: 61000
 - Place 2010: 61000
 - Place 2000: 61000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 85870
 - Units: 45
 - Low-income units: 9
@@ -40,8 +34,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,13 +49,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +61,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

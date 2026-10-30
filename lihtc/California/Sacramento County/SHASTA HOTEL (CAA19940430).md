@@ -1,13 +1,10 @@
 # Project: SHASTA HOTEL (CAA19940430)
 
 - HUD ID: CAA19940430
-- HUD ID before: 
 - Project: SHASTA HOTEL
 - Address: 1017 TENTH ST
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95814
-- ZIP extension: 
 - State project ID: CA-92-194
 - Latitude: 38.579699
 - Longitude: -121.493529
@@ -22,9 +19,7 @@
 - Place 2000: 64000
 - Place 1990: 2420
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 531451
 - Units: 80
 - Low-income units: 80
@@ -38,17 +33,12 @@
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +55,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -74,12 +63,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SHASTA HOTEL CORPORATION.
 - Record status: Existing, unchanged

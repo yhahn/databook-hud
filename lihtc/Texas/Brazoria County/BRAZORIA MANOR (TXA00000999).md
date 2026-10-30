@@ -1,13 +1,10 @@
 # Project: BRAZORIA MANOR (TXA00000999)
 
 - HUD ID: TXA00000999
-- HUD ID before: 
 - Project: BRAZORIA MANOR
 - Address: 301 YERBY ST
 - City: BRAZORIA
-- State: TX
 - ZIP: 77422
-- ZIP extension: 
 - State project ID: TX0568
 - Latitude: 29.053435
 - Longitude: -95.566561
@@ -16,16 +13,11 @@
 - Tract 2020: 48039662900
 - Tract 2010: 48039662900
 - Tract 2000: 48039662900
-- Tract 1990: 
 - Place 2020: 10072
 - Place 2010: 10072
 - Place 2000: 10072
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 56
 - Low-income units: 56
 - Units reported: 56
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 17
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: BROADMOOR APARTMENTS (TXA20172009)
 
 - HUD ID: TXA20172009
-- HUD ID before: 
 - Project: BROADMOOR APARTMENTS
 - Address: 2900 BROADMOOR DRIVE
 - City: FORT WORTH
-- State: TX
 - ZIP: 76116
-- ZIP extension: 
 - State project ID: TX5189
 - Latitude: 32.730971
 - Longitude: -97.453543
@@ -16,16 +13,11 @@
 - Tract 2020: 48439105201
 - Tract 2010: 48439105201
 - Tract 2000: 48439105201
-- Tract 1990: 
 - Place 2020: 27000
 - Place 2010: 27000
 - Place 2000: 27000
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 324
 - Low-income units: 309
 - Units reported: 324
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

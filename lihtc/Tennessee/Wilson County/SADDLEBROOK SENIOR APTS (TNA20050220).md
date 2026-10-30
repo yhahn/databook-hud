@@ -1,13 +1,10 @@
 # Project: SADDLEBROOK SENIOR APTS (TNA20050220)
 
 - HUD ID: TNA20050220
-- HUD ID before: 
 - Project: SADDLEBROOK SENIOR APTS
 - Address: 205 CARVER LN
 - City: LEBANON
-- State: TN
 - ZIP: 37087
-- ZIP extension: 
 - State project ID: TN-01-105
 - Latitude: 36.222991
 - Longitude: -86.335444
@@ -22,9 +19,7 @@
 - Place 2000: 41520
 - Place 1990: 0790
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 233415
 - Units: 91
 - Low-income units: 91
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

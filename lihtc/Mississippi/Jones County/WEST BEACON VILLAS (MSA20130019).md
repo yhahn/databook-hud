@@ -1,13 +1,10 @@
 # Project: WEST BEACON VILLAS (MSA20130019)
 
 - HUD ID: MSA20130019
-- HUD ID before: 
 - Project: WEST BEACON VILLAS
 - Address: 1304 ROBERTS ST
 - City: LAUREL
-- State: MS
 - ZIP: 39440
-- ZIP extension: 
 - State project ID: MS-11-1-015
 - Latitude: 31.679982
 - Longitude: -89.142835
@@ -22,9 +19,7 @@
 - Place 2000: 39640
 - Place 1990: 0655
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 746910
 - Units: 100
 - Low-income units: 100
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

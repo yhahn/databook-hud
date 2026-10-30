@@ -1,11 +1,9 @@
 # Project: KINGSTON VILLAGE (IAA20150007)
 
 - HUD ID: IAA20150007
-- HUD ID before: 
 - Project: KINGSTON VILLAGE
 - Address: 600 2ND ST SW
 - City: CEDAR RAPIDS
-- State: IA
 - ZIP: 52404
 - ZIP extension: 1306
 - State project ID: 14-14-27
@@ -16,15 +14,11 @@
 - Tract 2020: 19113002200
 - Tract 2010: 19113002200
 - Tract 2000: 19113002200
-- Tract 1990: 
 - Place 2020: 12000
 - Place 2010: 12000
 - Place 2000: 12000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 678154
 - Units: 64
 - Low-income units: 54
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 54
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

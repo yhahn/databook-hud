@@ -1,13 +1,10 @@
 # Project: MEADOWVIEW (VAA20050145)
 
 - HUD ID: VAA20050145
-- HUD ID before: 
 - Project: MEADOWVIEW
 - Address: 1021 LEE HWY N
 - City: PULASKI
-- State: VA
 - ZIP: 24301
-- ZIP extension: 
 - State project ID: 8808
 - Latitude: 37.056698
 - Longitude: -80.772581
@@ -22,9 +19,7 @@
 - Place 2000: 64880
 - Place 1990: 1000
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 270781
 - Units: 98
 - Low-income units: 98
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

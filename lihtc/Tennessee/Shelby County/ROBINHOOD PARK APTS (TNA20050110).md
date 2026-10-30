@@ -1,13 +1,10 @@
 # Project: ROBINHOOD PARK APTS (TNA20050110)
 
 - HUD ID: TNA20050110
-- HUD ID before: 
 - Project: ROBINHOOD PARK APTS
 - Address: 3734 ROBIN PARK CIR
 - City: MEMPHIS
-- State: TN
 - ZIP: 38111
-- ZIP extension: 
 - State project ID: TN-03-214
 - Latitude: 35.082437
 - Longitude: -89.938765
@@ -22,9 +19,7 @@
 - Place 2000: 48000
 - Place 1990: 0940
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 143735
 - Units: 104
 - Low-income units: 104
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 21
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

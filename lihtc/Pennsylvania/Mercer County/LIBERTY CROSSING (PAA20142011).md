@@ -1,11 +1,9 @@
 # Project: LIBERTY CROSSING (PAA20142011)
 
 - HUD ID: PAA20142011
-- HUD ID before: 
 - Project: LIBERTY CROSSING
 - Address: 10 ENCLAVE DR
 - City: GROVE CITY
-- State: PA
 - ZIP: 16127
 - ZIP extension: 6456
 - State project ID: TC20120612
@@ -16,15 +14,10 @@
 - Tract 2020: 42085033000
 - Tract 2010: 42085033000
 - Tract 2000: 42085032900
-- Tract 1990: 
 - Place 2020: 31656
 - Place 2010: 31656
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 673663
 - Units: 35
 - Low-income units: 35
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,13 +48,10 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

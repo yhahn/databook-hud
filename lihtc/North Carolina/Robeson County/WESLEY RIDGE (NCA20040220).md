@@ -1,13 +1,10 @@
 # Project: WESLEY RIDGE (NCA20040220)
 
 - HUD ID: NCA20040220
-- HUD ID before: 
 - Project: WESLEY RIDGE
 - Address: 990 WESLEY PINES ROAD
 - City: LUMBERTON
-- State: NC
 - ZIP: 28358
-- ZIP extension: 
 - State project ID: 9001403
 - Latitude: 34.656573
 - Longitude: -78.996239
@@ -22,9 +19,7 @@
 - Place 2000: 39700
 - Place 1990: 1530
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 116845
 - Units: 24
 - Low-income units: 24
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 10
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

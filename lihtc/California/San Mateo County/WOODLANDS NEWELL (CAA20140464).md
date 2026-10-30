@@ -1,13 +1,10 @@
 # Project: WOODLANDS NEWELL (CAA20140464)
 
 - HUD ID: CAA20140464
-- HUD ID before: 
 - Project: WOODLANDS NEWELL
 - Address: 1761 WOODLAND AVE
 - City: EAST PALO ALTO
-- State: CA
 - ZIP: 94303
-- ZIP extension: 
 - State project ID: CA-13-847
 - Latitude: 37.454752
 - Longitude: -122.136571
@@ -22,9 +19,7 @@
 - Place 2000: 20956
 - Place 1990: 0827
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 697005
 - Units: 49
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 39
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1990122, CAA0001480.
 - Record status: Existing, unchanged

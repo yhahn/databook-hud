@@ -1,11 +1,9 @@
 # Project: PARKWAY MEADOWS (MIA20161014)
 
 - HUD ID: MIA20161014
-- HUD ID before: 
 - Project: PARKWAY MEADOWS
 - Address: 2575 SANDALWOOD CIRCLE
 - City: ANN ARBOR
-- State: MI
 - ZIP: 48105
 - ZIP extension: 0000
 - State project ID: 537
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26161403600
 - Tract 2010: 26161403600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 03000
 - Place 2010: 03000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 838044
 - Units: 350
 - Low-income units: 350
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

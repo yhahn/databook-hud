@@ -1,13 +1,10 @@
 # Project: EL CAMINO FAMILY HOUSING PHASE I (CAA20120948)
 
 - HUD ID: CAA20120948
-- HUD ID before: 
 - Project: EL CAMINO FAMILY HOUSING PHASE I
 - Address: 636 EL CAMINO REAL
 - City: SOUTH SAN FRANCISCO
-- State: CA
 - ZIP: 94080
-- ZIP extension: 
 - State project ID: CA-10-235
 - Latitude: 37.64881
 - Longitude: -122.429341
@@ -22,9 +19,7 @@
 - Place 2000: 08310
 - Place 1990: 2765
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1259129
 - Units: 62
 - Low-income units: 61
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,8 @@
 - HOME amount: 518462
 - CDBG: Yes
 - CDBG amount: 1010924
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

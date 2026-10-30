@@ -1,13 +1,10 @@
 # Project: PINE RIDGE II (NCA20080140)
 
 - HUD ID: NCA20080140
-- HUD ID before: 
 - Project: PINE RIDGE II
 - Address: 1530 PINE RIDGE DRIVE
 - City: ROXBORO
-- State: NC
 - ZIP: 27573
-- ZIP extension: 
 - State project ID: 9102614
 - Latitude: 36.423511
 - Longitude: -78.97214
@@ -22,9 +19,7 @@
 - Place 2000: 58160
 - Place 1990: 2160
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 82404
 - Units: 32
 - Low-income units: 32
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

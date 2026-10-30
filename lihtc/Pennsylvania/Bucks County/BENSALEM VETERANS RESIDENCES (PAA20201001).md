@@ -1,11 +1,9 @@
 # Project: BENSALEM VETERANS RESIDENCES (PAA20201001)
 
 - HUD ID: PAA20201001
-- HUD ID before: 
 - Project: BENSALEM VETERANS RESIDENCES
 - Address: 3055 MECHANICSVILLE RD
 - City: BENSALEM
-- State: PA
 - ZIP: 19020
 - ZIP extension: 3144
 - State project ID: TC20190801
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42017100208
 - Tract 2010: 42017100208
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1037003
 - Units: 40
 - Low-income units: 40
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: VETERANS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

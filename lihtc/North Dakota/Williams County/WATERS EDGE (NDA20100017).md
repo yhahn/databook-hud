@@ -1,13 +1,10 @@
 # Project: WATERS EDGE (NDA20100017)
 
 - HUD ID: NDA20100017
-- HUD ID before: 
 - Project: WATERS EDGE
 - Address: 705 FIFTH ST E
 - City: WILLISTON
-- State: ND
 - ZIP: 58801
-- ZIP extension: 
 - State project ID: TC0802
 - Latitude: 48.149177
 - Longitude: -103.611172
@@ -22,9 +19,7 @@
 - Place 2000: 86220
 - Place 1990: 1740
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 431610
 - Units: 51
 - Low-income units: 50
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 50
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA2010501.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BROADWATER II (VAA20050732)
 
 - HUD ID: VAA20050732
-- HUD ID before: 
 - Project: BROADWATER II
 - Address: 15076 BROADWATER WAY
 - City: CHESTER
-- State: VA
 - ZIP: 23831
-- ZIP extension: 
 - State project ID: 8836
 - Latitude: 37.311077
 - Longitude: -77.428697
@@ -19,13 +16,8 @@
 - Tract 1990: 51041100504
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
-- Allocation amount: 
 - Units: 73
 - Low-income units: 73
 - Units reported: 73
@@ -38,10 +30,6 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +45,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2004015, VAA2003020.
 - Record status: Existing, unchanged

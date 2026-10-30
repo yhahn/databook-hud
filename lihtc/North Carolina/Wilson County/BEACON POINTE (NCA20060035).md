@@ -1,13 +1,10 @@
 # Project: BEACON POINTE (NCA20060035)
 
 - HUD ID: NCA20060035
-- HUD ID before: 
 - Project: BEACON POINTE
 - Address: 1901 LIPSCOMB RD E
 - City: WILSON
-- State: NC
 - ZIP: 27894
-- ZIP extension: 
 - State project ID: 9001235
 - Latitude: 35.714376
 - Longitude: -77.88285
@@ -22,9 +19,7 @@
 - Place 2000: 74540
 - Place 1990: 2760
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 549210
 - Units: 104
 - Low-income units: 104
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 52
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

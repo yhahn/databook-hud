@@ -1,13 +1,10 @@
 # Project: CANTERBURY HOUSE APARTMENTS - SOUTHGATE (KYA20090020)
 
 - HUD ID: KYA20090020
-- HUD ID before: 
 - Project: CANTERBURY HOUSE APARTMENTS - SOUTHGATE
 - Address: REGAL RIDGE
 - City: SOUTHGATE
-- State: KY
 - ZIP: 41071
-- ZIP extension: 
 - State project ID: KY-09-101
 - Latitude: 39.0698
 - Longitude: -84.4793
@@ -22,9 +19,7 @@
 - Place 2000: 55884
 - Place 1990: 1445
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 546875
 - Units: 230
 - Low-income units: 138
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA0000225.;
 - Record status: Updated

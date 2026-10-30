@@ -1,13 +1,10 @@
 # Project: JEFFERSON STREET SQUARE (MIA20110906)
 
 - HUD ID: MIA20110906
-- HUD ID before: 
 - Project: JEFFERSON STREET SQUARE
 - Address: 500 S JEFFERSON ST
 - City: MASON
-- State: MI
 - ZIP: 48854
-- ZIP extension: 
 - State project ID: MI-699
 - Latitude: 42.577699
 - Longitude: -84.443404
@@ -22,10 +19,7 @@
 - Place 2000: 52180
 - Place 1990: 1695
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
-- Allocation amount: 
 - Units: 62
 - Low-income units: 56
 - Units reported: 62
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 51
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 807909
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 1937714
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MIA2002175.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: GLENBROOK TERRACE (NVA20059003)
 
 - HUD ID: NVA20059003
-- HUD ID before: 
 - Project: GLENBROOK TERRACE
 - Address: 6551 MCCARREN ST
 - City: NORTH LAS VEGAS
-- State: NV
 - ZIP: 89086
 - ZIP extension: 0000
 - State project ID: 03-59
@@ -16,15 +14,11 @@
 - Tract 2020: 32003003657
 - Tract 2010: 32003003623
 - Tract 2000: 32003003603
-- Tract 1990: 
 - Place 2020: 51800
 - Place 2010: 51800
 - Place 2000: 51800
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 628526
 - Units: 272
 - Low-income units: 272
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

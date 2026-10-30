@@ -1,13 +1,10 @@
 # Project: BROADWAY SENIOR APTS (CAA20090090)
 
 - HUD ID: CAA20090090
-- HUD ID before: 
 - Project: BROADWAY SENIOR APTS
 - Address: 5200 BROADWAY
 - City: SACRAMENTO
-- State: CA
 - ZIP: 95820
-- ZIP extension: 
 - State project ID: CA-08-843
 - Latitude: 38.546515
 - Longitude: -121.445443
@@ -22,9 +19,7 @@
 - Place 2000: 64000
 - Place 1990: 2420
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 421414
 - Units: 120
 - Low-income units: 119
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 1100000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BROADWAY SENIOR CENTER.
 - Record status: Existing, unchanged

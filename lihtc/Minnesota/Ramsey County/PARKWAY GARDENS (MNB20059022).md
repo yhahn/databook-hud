@@ -1,11 +1,9 @@
 # Project: PARKWAY GARDENS (MNB20059022)
 
 - HUD ID: MNB20059022
-- HUD ID before: 
 - Project: PARKWAY GARDENS
 - Address: 1145 HUDSON ROAD
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55106
 - ZIP extension: 3346
 - State project ID: D3870
@@ -16,15 +14,11 @@
 - Tract 2020: 27123034601
 - Tract 2010: 27123034601
 - Tract 2000: 27123034601
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 593209
 - Units: 160
 - Low-income units: 160
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 32
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -67,19 +60,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

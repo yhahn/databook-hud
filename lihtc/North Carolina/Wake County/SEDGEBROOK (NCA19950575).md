@@ -1,13 +1,10 @@
 # Project: SEDGEBROOK (NCA19950575)
 
 - HUD ID: NCA19950575
-- HUD ID before: 
 - Project: SEDGEBROOK
 - Address: 200 SEDGEBROOK DRIVE
 - City: CARY
-- State: NC
 - ZIP: 27511
-- ZIP extension: 
 - State project ID: 9000983
 - Latitude: 35.764455
 - Longitude: -78.786081
@@ -22,9 +19,7 @@
 - Place 2000: 10740
 - Place 1990: 0445
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 145848
 - Units: 32
 - Low-income units: 32
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 11
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

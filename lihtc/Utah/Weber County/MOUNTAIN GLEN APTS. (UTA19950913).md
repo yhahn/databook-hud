@@ -1,11 +1,9 @@
 # Project: MOUNTAIN GLEN APTS. (UTA19950913)
 
 - HUD ID: UTA19950913
-- HUD ID before: 
 - Project: MOUNTAIN GLEN APTS.
 - Address: 5725 WASATCH DRIVE
 - City: SOUTH OGDEN
-- State: UT
 - ZIP: 84403
 - ZIP extension: 0000
 - State project ID: 1994-20
@@ -20,11 +18,8 @@
 - Place 2020: 70960
 - Place 2010: 70960
 - Place 2000: 70960
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 257838
 - Units: 80
 - Low-income units: 66
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: HOUND'S RUNS I & II APTS (ALA20080137)
 
 - HUD ID: ALA20080137
-- HUD ID before: 
 - Project: HOUND'S RUNS I & II APTS
 - Address: 5954 SPERRY RD
 - City: THEODORE
-- State: AL
 - ZIP: 36582
-- ZIP extension: 
 - State project ID: AL-08-0053
 - Latitude: 30.566481
 - Longitude: -88.203623
@@ -22,10 +19,7 @@
 - Place 2000: 76320
 - Place 1990: 1687
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 188
 - Low-income units: 188
 - Units reported: 188
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 188
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 374820
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009019, ALA2009550.
 - Record status: Existing, unchanged

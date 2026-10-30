@@ -1,13 +1,10 @@
 # Project: WOODWIND VILLA (VAA20070816)
 
 - HUD ID: VAA20070816
-- HUD ID before: 
 - Project: WOODWIND VILLA
 - Address: 14512 PICCOLO LN
 - City: WOODBRIDGE
-- State: VA
 - ZIP: 22191
-- ZIP extension: 
 - State project ID: 1160
 - Latitude: 38.639366
 - Longitude: -77.270377
@@ -22,9 +19,7 @@
 - Place 2000: 87312
 - Place 1990: 1358
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 529283
 - Units: 111
 - Low-income units: 111
@@ -39,14 +34,9 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
-- RHS 514 loan: 
 - RHS 515 loan: No
 - RHS 538 loan: No
 - HOME: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006126.
 - Record status: Existing, unchanged

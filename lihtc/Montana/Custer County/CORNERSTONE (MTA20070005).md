@@ -1,11 +1,9 @@
 # Project: CORNERSTONE (MTA20070005)
 
 - HUD ID: MTA20070005
-- HUD ID before: 
 - Project: CORNERSTONE
 - Address: 2007 CLARK ST
 - City: MILES CITY
-- State: MT
 - ZIP: 59301
 - ZIP extension: 0000
 - State project ID: 06030
@@ -22,9 +20,7 @@
 - Place 2000: 49525
 - Place 1990: 0445
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 229328
 - Units: 21
 - Low-income units: 21
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

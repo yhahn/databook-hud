@@ -1,11 +1,9 @@
 # Project: BUFFALO GRASS (MTA20140015)
 
 - HUD ID: MTA20140015
-- HUD ID before: 
 - Project: BUFFALO GRASS
 - Address: 201 2ND ST NE
 - City: CUT BANK
-- State: MT
 - ZIP: 59427
 - ZIP extension: 0000
 - State project ID: 13010
@@ -22,9 +20,7 @@
 - Place 2000: 18775
 - Place 1990: 0170
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 7511000
 - Units: 14
 - Low-income units: 14
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

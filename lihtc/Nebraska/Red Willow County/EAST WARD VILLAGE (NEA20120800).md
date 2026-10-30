@@ -1,13 +1,10 @@
 # Project: EAST WARD VILLAGE (NEA20120800)
 
 - HUD ID: NEA20120800
-- HUD ID before: 
 - Project: EAST WARD VILLAGE
 - Address: 606 E F ST
 - City: MC COOK
-- State: NE
 - ZIP: 69001
-- ZIP extension: 
 - State project ID: 7-0748
 - Latitude: 40.20235
 - Longitude: -100.61821
@@ -22,9 +19,7 @@
 - Place 2000: 29925
 - Place 1990: 1495
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 410004
 - Units: 27
 - Low-income units: 27
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

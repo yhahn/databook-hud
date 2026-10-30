@@ -1,13 +1,10 @@
 # Project: FERN HALL APTS (SCA20040045)
 
 - HUD ID: SCA20040045
-- HUD ID before: 
 - Project: FERN HALL APTS
 - Address: 600 FERN HALL DR
 - City: LEXINGTON
-- State: SC
 - ZIP: 29073
-- ZIP extension: 
 - State project ID: SC-02-033
 - Latitude: 33.904798
 - Longitude: -81.224454
@@ -19,12 +16,8 @@
 - Tract 1990: 45063020900
 - Place 2020: 77042
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 265118
 - Units: 40
 - Low-income units: 40
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

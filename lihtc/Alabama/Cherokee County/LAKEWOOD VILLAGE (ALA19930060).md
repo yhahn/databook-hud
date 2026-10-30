@@ -1,13 +1,10 @@
 # Project: LAKEWOOD VILLAGE (ALA19930060)
 
 - HUD ID: ALA19930060
-- HUD ID before: 
 - Project: LAKEWOOD VILLAGE
 - Address: 4350 LAKEWOOD VLG
 - City: CEDAR BLUFF
-- State: AL
 - ZIP: 35959
-- ZIP extension: 
 - State project ID: AL-93-0013
 - Latitude: 34.224714
 - Longitude: -85.591075
@@ -20,11 +17,8 @@
 - Place 2020: 12760
 - Place 2010: 12760
 - Place 2000: 12760
-- Place 1990: 
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 27214
 - Units: 19
 - Low-income units: 19
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CHEROKEE HOUSING.
 - Record status: Existing, unchanged

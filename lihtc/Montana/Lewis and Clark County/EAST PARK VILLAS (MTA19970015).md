@@ -1,11 +1,9 @@
 # Project: EAST PARK VILLAS (MTA19970015)
 
 - HUD ID: MTA19970015
-- HUD ID before: 
 - Project: EAST PARK VILLAS
 - Address: 2615 E. BROADWAY
 - City: HELENA
-- State: MT
 - ZIP: 59601
 - ZIP extension: 0000
 - State project ID: 96010
@@ -22,9 +20,7 @@
 - Place 2000: 23125
 - Place 1990: 0325
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 182886
 - Units: 38
 - Low-income units: 38
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

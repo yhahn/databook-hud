@@ -1,11 +1,9 @@
 # Project: BUFFALO COURT (MTA20120010)
 
 - HUD ID: MTA20120010
-- HUD ID before: 
 - Project: BUFFALO COURT
 - Address: 2351 5TH AVE
 - City: HAVRE
-- State: MT
 - ZIP: 59501
 - ZIP extension: 0000
 - State project ID: 10020
@@ -22,9 +20,7 @@
 - Place 2000: 35050
 - Place 1990: 0320
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 22130000
 - Units: 20
 - Low-income units: 20
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

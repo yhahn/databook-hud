@@ -1,13 +1,10 @@
 # Project: BRYSON CREEK APTS (NCA20010015)
 
 - HUD ID: NCA20010015
-- HUD ID before: 
 - Project: BRYSON CREEK APTS
 - Address: FRANKLIN GROVE CHURCH ROAD
 - City: BRYSON CITY
-- State: NC
 - ZIP: 28713
-- ZIP extension: 
 - State project ID: 9001200
 - Latitude: 35.375
 - Longitude: -83.4196
@@ -16,15 +13,10 @@
 - Tract 2020: 37173960301
 - Tract 2010: 37173960302
 - Tract 2000: 37173960300
-- Tract 1990: 
 - Place 2020: 08480
 - Place 2010: 08480
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 232666
 - Units: 41
 - Low-income units: 40
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 21
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: OAK RUN II (NCA20130013)
 
 - HUD ID: NCA20130013
-- HUD ID before: 
 - Project: OAK RUN II
 - Address: 575 SCARBOROUGH STREET
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28301
-- ZIP extension: 
 - State project ID: 9109766
 - Latitude: 35.042895
 - Longitude: -78.868596
@@ -22,9 +19,7 @@
 - Place 2000: 22920
 - Place 1990: 0910
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1230000
 - Units: 118
 - Low-income units: 118
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 30
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: ARBOR OAKS FKA GATEWAY COMMONS - PHASE III (NCA20050005)
 
 - HUD ID: NCA20050005
-- HUD ID before: 
 - Project: ARBOR OAKS FKA GATEWAY COMMONS - PHASE III
 - Address: 1620 HOPE LANE
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27105
-- ZIP extension: 
 - State project ID: 9001011
 - Latitude: 36.115313
 - Longitude: -80.247326
@@ -22,9 +19,7 @@
 - Place 2000: 75000
 - Place 1990: 2785
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 422426
 - Units: 72
 - Low-income units: 57
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

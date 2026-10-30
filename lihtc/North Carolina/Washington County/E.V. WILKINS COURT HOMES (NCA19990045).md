@@ -1,13 +1,10 @@
 # Project: E.V. WILKINS COURT HOMES (NCA19990045)
 
 - HUD ID: NCA19990045
-- HUD ID before: 
 - Project: E.V. WILKINS COURT HOMES
 - Address: CHESSON STREET
 - City: ROPER
-- State: NC
 - ZIP: 27970
-- ZIP extension: 
 - State project ID: 9001195
 - Latitude: 35.927
 - Longitude: -76.5348
@@ -16,15 +13,10 @@
 - Tract 2020: 37187950100
 - Tract 2010: 37187950100
 - Tract 2000: 37187950100
-- Tract 1990: 
 - Place 2020: 57740
 - Place 2010: 57740
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 87308
 - Units: 16
 - Low-income units: 16
@@ -41,7 +33,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 1
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

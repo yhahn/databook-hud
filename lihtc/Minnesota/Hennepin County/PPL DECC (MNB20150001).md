@@ -1,11 +1,9 @@
 # Project: PPL DECC (MNB20150001)
 
 - HUD ID: MNB20150001
-- HUD ID before: 
 - Project: PPL DECC
 - Address: 1825 ELLIOT AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55404
 - ZIP extension: 2025
 - State project ID: D7591
@@ -16,15 +14,11 @@
 - Tract 2020: 27053005902
 - Tract 2010: 27053005902
 - Tract 2000: 27053005902
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 769459
 - Units: 51
 - Low-income units: 51
@@ -39,9 +33,7 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +59,10 @@
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

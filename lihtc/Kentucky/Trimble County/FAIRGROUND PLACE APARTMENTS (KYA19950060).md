@@ -1,13 +1,10 @@
 # Project: FAIRGROUND PLACE APARTMENTS (KYA19950060)
 
 - HUD ID: KYA19950060
-- HUD ID before: 
 - Project: FAIRGROUND PLACE APARTMENTS
 - Address: FAIRGROUND RD.
 - City: BEDFORD
-- State: KY
 - ZIP: 40006
-- ZIP extension: 
 - State project ID: KY-94-001
 - Latitude: 38.5774
 - Longitude: -85.3005
@@ -19,12 +16,8 @@
 - Tract 1990: 21223100200
 - Place 2020: 04816
 - Place 2010: 04816
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 19
 - Low-income units: 19
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +55,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +68,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

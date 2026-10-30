@@ -1,11 +1,9 @@
 # Project: SUMMIT CLUB APTS. (NVA20210004)
 
 - HUD ID: NVA20210004
-- HUD ID before: 
 - Project: SUMMIT CLUB APTS.
 - Address: 14001 SUMMIT SIERRA BLVD
 - City: RENO
-- State: NV
 - ZIP: 89511
 - ZIP extension: 0000
 - State project ID: 18-28
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 32031001010
 - Tract 2010: 32031001010
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60600
 - Place 2010: 60600
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1227925
 - Units: 581
 - Low-income units: 155
@@ -40,15 +32,11 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CARSONS APTS (ILA19960900)
 
 - HUD ID: ILA19960900
-- HUD ID before: 
 - Project: CARSONS APTS
 - Address: 500 MAINE ST
 - City: QUINCY
-- State: IL
 - ZIP: 62301
-- ZIP extension: 
 - State project ID: 76494
 - Latitude: 39.931797
 - Longitude: -91.408319
@@ -22,9 +19,7 @@
 - Place 2000: 62367
 - Place 1990: 4780
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 500000
 - Units: 36
 - Low-income units: 35
@@ -39,13 +34,9 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +44,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +56,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILA1994200.
 - Record status: Existing, unchanged

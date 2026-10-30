@@ -1,13 +1,10 @@
 # Project: WINGATE APARTMENTS (NHA20221006)
 
 - HUD ID: NHA20221006
-- HUD ID before: 
 - Project: WINGATE APARTMENTS
 - Address: 103 BLUEBERRY LANE
 - City: LACONIA
-- State: NH
 - ZIP: 03246
-- ZIP extension: 
 - State project ID: NH-23-10
 - Latitude: 43.540433
 - Longitude: -71.484633
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 33001966000
 - Tract 2010: 33001966000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 40180
 - Place 2010: 40180
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 460196
 - Units: 100
 - Low-income units: 100
@@ -39,9 +30,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -65,12 +53,7 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: general occupancy
 - Scattered site: No
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

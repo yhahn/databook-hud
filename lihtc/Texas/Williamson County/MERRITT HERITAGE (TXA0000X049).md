@@ -1,13 +1,10 @@
 # Project: MERRITT HERITAGE (TXA0000X049)
 
 - HUD ID: TXA0000X049
-- HUD ID before: 
 - Project: MERRITT HERITAGE
 - Address: 4700 WILLIAMS DRIVE
 - City: GEORGETOWN
-- State: TX
 - ZIP: 78633
-- ZIP extension: 
 - State project ID: TX5161
 - Latitude: 30.685238
 - Longitude: -97.721067
@@ -16,16 +13,10 @@
 - Tract 2020: 48491020109
 - Tract 2010: 48491020109
 - Tract 2000: 48491020101
-- Tract 1990: 
 - Place 2020: 29336
 - Place 2010: 29336
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2018
-- Allocation year note: 
-- Allocation amount: 
 - Units: 244
 - Low-income units: 122
 - Units reported: 244
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +62,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

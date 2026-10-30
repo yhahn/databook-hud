@@ -1,13 +1,10 @@
 # Project: WESTBURY 3A (VAA20060810)
 
 - HUD ID: VAA20060810
-- HUD ID before: 
 - Project: WESTBURY 3A
 - Address: 1325 CNTY ST
 - City: PORTSMOUTH
-- State: VA
 - ZIP: 23704
-- ZIP extension: 
 - State project ID: 1147
 - Latitude: 36.833329
 - Longitude: -76.314536
@@ -22,9 +19,7 @@
 - Place 2000: 64000
 - Place 1990: 0990
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 428920
 - Units: 59
 - Low-income units: 59
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 59
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005227.
 - Record status: Existing, unchanged

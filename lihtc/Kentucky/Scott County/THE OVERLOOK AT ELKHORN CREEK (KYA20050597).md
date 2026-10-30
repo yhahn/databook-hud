@@ -1,13 +1,10 @@
 # Project: THE OVERLOOK AT ELKHORN CREEK (KYA20050597)
 
 - HUD ID: KYA20050597
-- HUD ID before: 
 - Project: THE OVERLOOK AT ELKHORN CREEK
 - Address: OVERVIEW PATH
 - City: GEORGETOWN
-- State: KY
 - ZIP: 40324
-- ZIP extension: 
 - State project ID: KY-03-058
 - Latitude: 38.2153
 - Longitude: -84.5537
@@ -19,12 +16,8 @@
 - Tract 1990: 21209040300
 - Place 2020: 30700
 - Place 2010: 30700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 356391
 - Units: 44
 - Low-income units: 44
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

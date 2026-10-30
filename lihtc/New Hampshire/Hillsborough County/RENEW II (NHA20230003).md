@@ -1,13 +1,10 @@
 # Project: RENEW II (NHA20230003)
 
 - HUD ID: NHA20230003
-- HUD ID before: 
 - Project: RENEW II
 - Address: 1426-1470 ELM STREET
 - City: MANCHESTER
-- State: NH
 - ZIP: 03101
-- ZIP extension: 
 - State project ID: NH-23-10
 - Latitude: 42.998223
 - Longitude: -71.464163
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 33011200400
 - Tract 2010: 33011200400
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 45140
 - Place 2010: 45140
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 450000
 - Units: 101
 - Low-income units: 101
@@ -36,12 +27,9 @@
 - 3-bedroom units: 59
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
-- Credit: 
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -65,12 +53,7 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: general occupancy
 - Scattered site: Yes
@@ -78,8 +61,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

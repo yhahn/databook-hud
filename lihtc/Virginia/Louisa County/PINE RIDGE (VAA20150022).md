@@ -1,13 +1,10 @@
 # Project: PINE RIDGE (VAA20150022)
 
 - HUD ID: VAA20150022
-- HUD ID before: 
 - Project: PINE RIDGE
 - Address: 101 PINE RIDGE DRIVE
 - City: LOUISA
-- State: VA
 - ZIP: 23093
-- ZIP extension: 
 - State project ID: 1080
 - Latitude: 38.00991
 - Longitude: -77.986632
@@ -20,11 +17,8 @@
 - Place 2020: 47144
 - Place 2010: 47144
 - Place 2000: 47144
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 162000
 - Units: 27
 - Low-income units: 27
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 27
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA1994090. AKA LOUISA FAMILY.
 - Record status: Updated

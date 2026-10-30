@@ -1,13 +1,10 @@
 # Project: BAXTER APTS (MTA20060030)
 
 - HUD ID: MTA20060030
-- HUD ID before: 
 - Project: BAXTER APTS
 - Address: 2523 TRADE WIND LN
 - City: BOZEMAN
-- State: MT
 - ZIP: 59718
-- ZIP extension: 
 - State project ID: MT-05-060
 - Latitude: 45.699183
 - Longitude: -111.071638
@@ -20,11 +17,8 @@
 - Place 2020: 08950
 - Place 2010: 08950
 - Place 2000: 08950
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 518500
 - Units: 48
 - Low-income units: 48
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +66,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: FORT BELKNAP AGENCY 1 (MTA20020015)
 
 - HUD ID: MTA20020015
-- HUD ID before: 
 - Project: FORT BELKNAP AGENCY 1
 - Address: SOUTH RODEO DRIVE
 - City: HARLEM
-- State: MT
 - ZIP: 59526
 - ZIP extension: 0000
 - State project ID: 00040
@@ -22,9 +20,7 @@
 - Place 2000: 27850
 - Place 1990: 0130
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 52800
 - Units: 11
 - Low-income units: 11
@@ -76,10 +72,5 @@
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

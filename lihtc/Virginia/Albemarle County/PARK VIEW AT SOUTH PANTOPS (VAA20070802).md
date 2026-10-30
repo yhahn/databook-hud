@@ -1,13 +1,10 @@
 # Project: PARK VIEW AT SOUTH PANTOPS (VAA20070802)
 
 - HUD ID: VAA20070802
-- HUD ID before: 
 - Project: PARK VIEW AT SOUTH PANTOPS
 - Address: 210 S PANTOPS DR
 - City: CHARLOTTESVILLE
-- State: VA
 - ZIP: 22911
-- ZIP extension: 
 - State project ID: 1192
 - Latitude: 38.028581
 - Longitude: -78.450722
@@ -19,12 +16,8 @@
 - Tract 1990: 51003010500
 - Place 2020: 60512
 - Place 2010: 60500
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 566491
 - Units: 90
 - Low-income units: 90
@@ -40,8 +33,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006118.
 - Record status: Existing, unchanged

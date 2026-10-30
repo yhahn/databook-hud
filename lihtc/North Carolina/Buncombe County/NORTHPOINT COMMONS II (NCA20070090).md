@@ -1,11 +1,9 @@
 # Project: NORTHPOINT COMMONS II (NCA20070090)
 
 - HUD ID: NCA20070090
-- HUD ID before: 
 - Project: NORTHPOINT COMMONS II
 - Address: 44 REYNOLDS MOUNTAIN BLVD
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28804
 - ZIP extension: 1291
 - State project ID: 9001416
@@ -22,9 +20,7 @@
 - Place 2000: 75280
 - Place 1990: 0095
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 195513
 - Units: 30
 - Low-income units: 30
@@ -41,7 +37,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +58,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +66,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: LEGACY SQUARE (KSA20050449)
 
 - HUD ID: KSA20050449
-- HUD ID before: 
 - Project: LEGACY SQUARE
 - Address: 401 E THIRD ST
 - City: WICHITA
-- State: KS
 - ZIP: 67202
-- ZIP extension: 
 - State project ID: KS-04-83
 - Latitude: 37.691609
 - Longitude: -97.334172
@@ -22,9 +19,7 @@
 - Place 2000: 79000
 - Place 1990: 3040
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 257697
 - Units: 49
 - Low-income units: 49
@@ -39,13 +34,9 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KSA2005145, KSA2005030. AKA HOPE APTS.
 - Record status: Existing, unchanged

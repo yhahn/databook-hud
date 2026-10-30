@@ -1,13 +1,9 @@
 # Project: STANTON MEADOWS (NYA19940290)
 
 - HUD ID: NYA19940290
-- HUD ID before: 
 - Project: STANTON MEADOWS
 - Address: 5 STANTON MEADOWS DR
 - City: SENECA FALLS
-- State: NY
-- ZIP: 
-- ZIP extension: 
 - State project ID: 19920062
 - Latitude: 42.908172
 - Longitude: -76.824217
@@ -22,10 +18,7 @@
 - Place 2000: 66322
 - Place 1990: 3335
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 96
 - Low-income units: 96
 - Units reported: 96
@@ -37,18 +30,10 @@
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
-- Income ceiling: 
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
-- Increased basis: 
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +50,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
@@ -74,12 +58,6 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

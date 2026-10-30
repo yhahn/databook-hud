@@ -1,11 +1,9 @@
 # Project: BETTIE S. DAVIS VILLAGE (VAA20150006)
 
 - HUD ID: VAA20150006
-- HUD ID before: 
 - Project: BETTIE S. DAVIS VILLAGE
 - Address: 100 DOVER COURT
 - City: SUFFOLK
-- State: VA
 - ZIP: 23434
 - ZIP extension: 4865
 - State project ID: 4155
@@ -22,9 +20,7 @@
 - Place 2000: 76432
 - Place 1990: 1200
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 122289
 - Units: 60
 - Low-income units: 60
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +61,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: LAKE VISTA APARTMENTS II (NVA20029007)
 
 - HUD ID: NVA20029007
-- HUD ID before: 
 - Project: LAKE VISTA APARTMENTS II
 - Address: 131 MARKET STREET
 - City: STATELINE
-- State: NV
 - ZIP: 89449
 - ZIP extension: 0000
 - State project ID: 01-52
@@ -16,15 +14,11 @@
 - Tract 2020: 32005001800
 - Tract 2010: 32005001800
 - Tract 2000: 32005000400
-- Tract 1990: 
 - Place 2020: 38000
 - Place 2010: 38000
 - Place 2000: 38000
-- Place 1990: 
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 394795
 - Units: 40
 - Low-income units: 40
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

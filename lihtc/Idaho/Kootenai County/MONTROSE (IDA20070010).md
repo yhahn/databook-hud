@@ -1,13 +1,10 @@
 # Project: MONTROSE (IDA20070010)
 
 - HUD ID: IDA20070010
-- HUD ID before: 
 - Project: MONTROSE
 - Address: 2280 WEST COMPASS LOOP
 - City: POST FALLS
-- State: ID
 - ZIP: 83854
-- ZIP extension: 
 - State project ID: HC0602
 - Latitude: 47.72265
 - Longitude: -116.979365
@@ -20,11 +17,8 @@
 - Place 2020: 64810
 - Place 2010: 64810
 - Place 2000: 64810
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 645591
 - Units: 60
 - Low-income units: 53
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 53
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

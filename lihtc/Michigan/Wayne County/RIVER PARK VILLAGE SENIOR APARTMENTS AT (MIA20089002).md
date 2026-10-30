@@ -1,11 +1,9 @@
 # Project: RIVER PARK VILLAGE SENIOR APARTMENTS AT (MIA20089002)
 
 - HUD ID: MIA20089002
-- HUD ID before: 
 - Project: RIVER PARK VILLAGE SENIOR APARTMENTS AT
 - Address: 415 BURNS AVENUE
 - City: DETROIT
-- State: MI
 - ZIP: 48214
 - ZIP extension: 0000
 - State project ID: 3096
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26163515700
 - Tract 2010: 26163515700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1259103
 - Units: 120
 - Low-income units: 108
@@ -40,15 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1000000
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

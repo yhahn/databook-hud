@@ -1,13 +1,10 @@
 # Project: SPRAGUE CROSSING II (WAA20050175)
 
 - HUD ID: WAA20050175
-- HUD ID before: 
 - Project: SPRAGUE CROSSING II
 - Address: 14303 E SPRAGUE AVE
 - City: SPOKANE VALLEY
-- State: WA
 - ZIP: 99216
-- ZIP extension: 
 - State project ID: WA-03-00320
 - Latitude: 47.657301
 - Longitude: -117.212581
@@ -22,9 +19,7 @@
 - Place 2000: 74725
 - Place 1990: 1354
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 49874
 - Units: 8
 - Low-income units: 8
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

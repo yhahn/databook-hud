@@ -1,11 +1,9 @@
 # Project: RIPLEY GARDENS (MNA20070085)
 
 - HUD ID: MNA20070085
-- HUD ID before: 
 - Project: RIPLEY GARDENS
 - Address: 301 PENN AVENUE NORTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55405
 - ZIP extension: 1160
 - State project ID: D3629
@@ -22,9 +20,7 @@
 - Place 2000: 43000
 - Place 1990: 2585
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 546043
 - Units: 52
 - Low-income units: 26
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

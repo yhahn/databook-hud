@@ -1,13 +1,10 @@
 # Project: NASH SENIOR VILLAGE (TXA0000X052)
 
 - HUD ID: TXA0000X052
-- HUD ID before: 
 - Project: NASH SENIOR VILLAGE
 - Address: 1420 EAST NEW BOSTON RD.
 - City: NASH
-- State: TX
 - ZIP: 75569
-- ZIP extension: 
 - State project ID: TX5222
 - Latitude: 33.442913
 - Longitude: -94.110514
@@ -16,16 +13,10 @@
 - Tract 2020: 48037010905
 - Tract 2010: 48037010902
 - Tract 2000: 48037010902
-- Tract 1990: 
 - Place 2020: 50352
 - Place 2010: 50352
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 100
 - Low-income units: 78
 - Units reported: 100
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

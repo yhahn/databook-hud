@@ -1,11 +1,9 @@
 # Project: TERRACES AT LAWSON CREEK (AKA20153001)
 
 - HUD ID: AKA20153001
-- HUD ID before: 
 - Project: TERRACES AT LAWSON CREEK
 - Address: 2574 VISTA DR
 - City: JUNEAU
-- State: AK
 - ZIP: 99801
 - ZIP extension: 2084
 - State project ID: AK-13-000
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 02110000600
 - Tract 2010: 02110000600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 36400
 - Place 2010: 36400
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 523458
 - Units: 40
 - Low-income units: 25
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 2416076
 - CDBG: No
@@ -67,10 +55,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
 - Disabled: Yes
-- Homeless: 
 - Other population: Yes
 - Other population named: Workforce Housing
 - Scattered site: No
@@ -78,8 +63,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

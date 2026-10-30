@@ -1,11 +1,9 @@
 # Project: PARKVIEW VILLAGE (MTA20130005)
 
 - HUD ID: MTA20130005
-- HUD ID before: 
 - Project: PARKVIEW VILLAGE
 - Address: 221 5TH STREET SW
 - City: SIDNEY
-- State: MT
 - ZIP: 59270
 - ZIP extension: 0000
 - State project ID: 12070
@@ -22,9 +20,7 @@
 - Place 2000: 67900
 - Place 1990: 0590
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 403013
 - Units: 20
 - Low-income units: 20
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

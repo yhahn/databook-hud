@@ -1,13 +1,10 @@
 # Project: HARBISON GARDENS (SCA20130689)
 
 - HUD ID: SCA20130689
-- HUD ID before: 
 - Project: HARBISON GARDENS
 - Address: 401 COLUMBIANA DR
 - City: COLUMBIA
-- State: SC
 - ZIP: 29212
-- ZIP extension: 
 - State project ID: SC-51-201
 - Latitude: 34.085298
 - Longitude: -81.16269
@@ -22,9 +19,7 @@
 - Place 2000: 16000
 - Place 1990: 1208
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 695847
 - Units: 179
 - Low-income units: 179
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA1995042, SCA1993130. AKA HARBISON STATION.
 - Record status: Existing, unchanged

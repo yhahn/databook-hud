@@ -1,11 +1,9 @@
 # Project: WOODLAWN SENIOR VILLAGE (GAA20010110)
 
 - HUD ID: GAA20010110
-- HUD ID before: 
 - Project: WOODLAWN SENIOR VILLAGE
 - Address: 200 WOODLAWN DR
 - City: DUBLIN
-- State: GA
 - ZIP: 31021
 - ZIP extension: 9200
 - State project ID: GA-99-040
@@ -22,10 +20,7 @@
 - Place 2000: 24376
 - Place 1990: 0900
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
-- Allocation amount: 
 - Units: 48
 - Low-income units: 48
 - Units reported: 48
@@ -36,12 +31,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +62,7 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

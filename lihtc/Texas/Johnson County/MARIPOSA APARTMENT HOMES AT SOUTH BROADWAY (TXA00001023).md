@@ -1,13 +1,10 @@
 # Project: MARIPOSA APARTMENT HOMES AT SOUTH BROADWAY (TXA00001023)
 
 - HUD ID: TXA00001023
-- HUD ID before: 
 - Project: MARIPOSA APARTMENT HOMES AT SOUTH BROADWAY
 - Address: 1211 SOUTH BROADWAY
 - City: JOSHUA
-- State: TX
 - ZIP: 76058
-- ZIP extension: 
 - State project ID: TX5106
 - Latitude: 32.443561
 - Longitude: -97.38389
@@ -16,16 +13,10 @@
 - Tract 2020: 48251130210
 - Tract 2010: 48251130210
 - Tract 2000: 48251130206
-- Tract 1990: 
 - Place 2020: 38080
 - Place 2010: 38080
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 222
 - Low-income units: 127
 - Units reported: 222
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 64
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +64,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

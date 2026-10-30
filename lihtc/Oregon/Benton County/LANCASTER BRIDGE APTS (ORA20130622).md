@@ -1,13 +1,10 @@
 # Project: LANCASTER BRIDGE APTS (ORA20130622)
 
 - HUD ID: ORA20130622
-- HUD ID before: 
 - Project: LANCASTER BRIDGE APTS
 - Address: 3384 NE OXFORD CIR
 - City: CORVALLIS
-- State: OR
 - ZIP: 97330
-- ZIP extension: 
 - State project ID: 1024
 - Latitude: 44.603348
 - Longitude: -123.240072
@@ -22,9 +19,7 @@
 - Place 2000: 15800
 - Place 1990: 0225
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 618559
 - Units: 50
 - Low-income units: 49
@@ -40,8 +35,6 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 49
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +62,8 @@
 - Other population: Yes
 - Other population named: OTHER POPULATION
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ORA1996050.
 - Record status: Existing, unchanged

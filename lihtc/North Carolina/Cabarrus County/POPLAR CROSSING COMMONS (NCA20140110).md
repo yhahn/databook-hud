@@ -1,13 +1,10 @@
 # Project: POPLAR CROSSING COMMONS (NCA20140110)
 
 - HUD ID: NCA20140110
-- HUD ID before: 
 - Project: POPLAR CROSSING COMMONS
 - Address: 340 POPLAR CROSSING DRIVE NW
 - City: CONCORD
-- State: NC
 - ZIP: 28027
-- ZIP extension: 
 - State project ID: 9133439
 - Latitude: 35.409667
 - Longitude: -80.667558
@@ -19,12 +16,9 @@
 - Tract 1990: 37025042500
 - Place 2020: 14100
 - Place 2010: 14100
-- Place 2000: 
 - Place 1990: 1993
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 558000
 - Units: 66
 - Low-income units: 66
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 27
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

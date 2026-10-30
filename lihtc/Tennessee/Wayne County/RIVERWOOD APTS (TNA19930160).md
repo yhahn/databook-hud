@@ -1,13 +1,10 @@
 # Project: RIVERWOOD APTS (TNA19930160)
 
 - HUD ID: TNA19930160
-- HUD ID before: 
 - Project: RIVERWOOD APTS
 - Address: 200 WALNUT ST
 - City: CLIFTON
-- State: TN
 - ZIP: 38425
-- ZIP extension: 
 - State project ID: TN-91-011
 - Latitude: 35.380958
 - Longitude: -87.998803
@@ -22,9 +19,7 @@
 - Place 2000: 66720
 - Place 1990: 1265
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 54613
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

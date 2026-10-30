@@ -1,11 +1,9 @@
 # Project: ROSE PARK PLAZA (MTA20060020)
 
 - HUD ID: MTA20060020
-- HUD ID before: 
 - Project: ROSE PARK PLAZA
 - Address: 2325 AVENUE C
 - City: BILLINGS
-- State: MT
 - ZIP: 59102
 - ZIP extension: 0000
 - State project ID: 04110
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 231431
 - Units: 112
 - Low-income units: 112
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

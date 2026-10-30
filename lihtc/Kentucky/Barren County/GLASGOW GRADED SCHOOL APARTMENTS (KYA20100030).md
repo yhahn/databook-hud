@@ -1,13 +1,10 @@
 # Project: GLASGOW GRADED SCHOOL APARTMENTS (KYA20100030)
 
 - HUD ID: KYA20100030
-- HUD ID before: 
 - Project: GLASGOW GRADED SCHOOL APARTMENTS
 - Address: SOUTH LIBERTY STREET
 - City: GLASGOW
-- State: KY
 - ZIP: 42141
-- ZIP extension: 
 - State project ID: KY-09-006
 - Latitude: 36.9954
 - Longitude: -85.9499
@@ -19,12 +16,9 @@
 - Tract 1990: 21009950400
 - Place 2020: 31114
 - Place 2010: 31114
-- Place 2000: 
 - Place 1990: 0795
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 825288
 - Units: 23
 - Low-income units: 23
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

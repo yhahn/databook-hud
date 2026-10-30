@@ -1,13 +1,10 @@
 # Project: SAWGRASS APTS (ALA19920087)
 
 - HUD ID: ALA19920087
-- HUD ID before: 
 - Project: SAWGRASS APTS
 - Address: 24070 CANAL RD
 - City: ORANGE BEACH
-- State: AL
 - ZIP: 36561
-- ZIP extension: 
 - State project ID: AL-92-0014
 - Latitude: 30.290102
 - Longitude: -87.613732
@@ -20,11 +17,8 @@
 - Place 2020: 57144
 - Place 2010: 57144
 - Place 2000: 32272
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 49308
 - Units: 52
 - Low-income units: 32
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 52
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1993100.
 - Record status: Existing, unchanged

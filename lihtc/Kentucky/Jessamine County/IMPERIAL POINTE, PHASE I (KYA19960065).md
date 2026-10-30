@@ -1,13 +1,10 @@
 # Project: IMPERIAL POINTE, PHASE I (KYA19960065)
 
 - HUD ID: KYA19960065
-- HUD ID before: 
 - Project: IMPERIAL POINTE, PHASE I
 - Address: IMPERIAL POINTE LN.
 - City: NICHOLASVILLE
-- State: KY
 - ZIP: 40356
-- ZIP extension: 
 - State project ID: KY-94-075
 - Latitude: 37.8787
 - Longitude: -84.5421
@@ -19,12 +16,9 @@
 - Tract 1990: 21113060101
 - Place 2020: 56136
 - Place 2010: 56136
-- Place 2000: 
 - Place 1990: 1450
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

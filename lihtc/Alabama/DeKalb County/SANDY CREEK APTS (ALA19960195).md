@@ -1,13 +1,10 @@
 # Project: SANDY CREEK APTS (ALA19960195)
 
 - HUD ID: ALA19960195
-- HUD ID before: 
 - Project: SANDY CREEK APTS
 - Address: 159 GEORGE WALLACE DR W
 - City: RAINSVILLE
-- State: AL
 - ZIP: 35986
-- ZIP extension: 
 - State project ID: AL-96-0093
 - Latitude: 34.488009
 - Longitude: -85.856798
@@ -22,9 +19,7 @@
 - Place 2000: 62075
 - Place 1990: 1435
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 38521
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1997155.
 - Record status: Existing, unchanged

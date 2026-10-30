@@ -1,13 +1,10 @@
 # Project: WILLOW CREEK APTS (MT JULIET) (TNA19970100)
 
 - HUD ID: TNA19970100
-- HUD ID before: 
 - Project: WILLOW CREEK APTS (MT JULIET)
 - Address: 100 WILLOW CREEK DR
 - City: MT JULIET
-- State: TN
 - ZIP: 37122
-- ZIP extension: 
 - State project ID: TN-95-025
 - Latitude: 36.221524
 - Longitude: -86.508888
@@ -22,9 +19,7 @@
 - Place 2000: 31100
 - Place 1990: 0998
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 700000
 - Units: 144
 - Low-income units: 144
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 58
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA WOODLAND ARMS APTS.
 - Record status: Existing, unchanged

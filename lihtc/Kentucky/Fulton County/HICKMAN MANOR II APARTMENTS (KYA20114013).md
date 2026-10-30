@@ -1,13 +1,10 @@
 # Project: HICKMAN MANOR II APARTMENTS (KYA20114013)
 
 - HUD ID: KYA20114013
-- HUD ID before: 
 - Project: HICKMAN MANOR II APARTMENTS
 - Address: HWY 125
 - City: HICKMAN
-- State: KY
 - ZIP: 42050
-- ZIP extension: 
 - State project ID: KY-10-081
 - Latitude: 36.5746
 - Longitude: -89.3316
@@ -16,15 +13,10 @@
 - Tract 2020: 21075960200
 - Tract 2010: 21075960200
 - Tract 2000: 21075980200
-- Tract 1990: 
 - Place 2020: 36298
 - Place 2010: 36298
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 226476
 - Units: 16
 - Low-income units: 16
@@ -39,7 +31,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

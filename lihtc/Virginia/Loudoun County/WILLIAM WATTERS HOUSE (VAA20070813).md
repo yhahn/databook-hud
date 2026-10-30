@@ -1,13 +1,10 @@
 # Project: WILLIAM WATTERS HOUSE (VAA20070813)
 
 - HUD ID: VAA20070813
-- HUD ID before: 
 - Project: WILLIAM WATTERS HOUSE
 - Address: 22365 ENTERPRISE ST
 - City: STERLING
-- State: VA
 - ZIP: 20164
-- ZIP extension: 
 - State project ID: 1238
 - Latitude: 38.996999
 - Longitude: -77.405296
@@ -19,12 +16,9 @@
 - Tract 1990: 51107611700
 - Place 2020: 75376
 - Place 2010: 75376
-- Place 2000: 
 - Place 1990: 1172
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 365807
 - Units: 91
 - Low-income units: 91
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 91
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006125.
 - Record status: Existing, unchanged

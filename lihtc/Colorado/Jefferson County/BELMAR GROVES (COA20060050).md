@@ -1,13 +1,10 @@
 # Project: BELMAR GROVES (COA20060050)
 
 - HUD ID: COA20060050
-- HUD ID before: 
 - Project: BELMAR GROVES
 - Address: 259 S TELLER ST
 - City: LAKEWOOD
-- State: CO
 - ZIP: 80226
-- ZIP extension: 
 - State project ID: 2004503
 - Latitude: 39.71223
 - Longitude: -105.077044
@@ -22,9 +19,7 @@
 - Place 2000: 43000
 - Place 1990: 0760
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 411900
 - Units: 118
 - Low-income units: 117
@@ -39,16 +34,12 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 10620000
 - CDBG: No
@@ -72,14 +63,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA KINGS ROW APTS.
 - Record status: Updated

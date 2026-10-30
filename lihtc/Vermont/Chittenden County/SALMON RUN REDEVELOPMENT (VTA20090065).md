@@ -1,13 +1,10 @@
 # Project: SALMON RUN REDEVELOPMENT (VTA20090065)
 
 - HUD ID: VTA20090065
-- HUD ID before: 
 - Project: SALMON RUN REDEVELOPMENT
 - Address: 220 RIVERSIDE AVE
 - City: BURLINGTON
-- State: VT
 - ZIP: 05401
-- ZIP extension: 
 - State project ID: 0390
 - Latitude: 44.48687
 - Longitude: -73.193091
@@ -22,9 +19,7 @@
 - Place 2000: 10675
 - Place 1990: 0460
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 350001
 - Units: 79
 - Low-income units: 61
@@ -38,14 +33,8 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
-- Increased basis: 
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -57,14 +46,9 @@
 - TCAP amount: 1500000
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VTA1990025, VTA1989009. AKA SALMON RUN.
 - Record status: Existing, unchanged

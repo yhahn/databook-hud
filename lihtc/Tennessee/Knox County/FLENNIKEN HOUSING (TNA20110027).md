@@ -1,13 +1,10 @@
 # Project: FLENNIKEN HOUSING (TNA20110027)
 
 - HUD ID: TNA20110027
-- HUD ID before: 
 - Project: FLENNIKEN HOUSING
 - Address: 115 FLENNIKEN AVE
 - City: KNOXVILLE
-- State: TN
 - ZIP: 37920
-- ZIP extension: 
 - State project ID: TN-09-060
 - Latitude: 35.939653
 - Longitude: -83.91166
@@ -22,9 +19,7 @@
 - Place 2000: 40000
 - Place 1990: 0760
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 500015
 - Units: 48
 - Low-income units: 48
@@ -37,12 +32,6 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 70 percent present value
-- Income ceiling: 
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
@@ -57,14 +46,9 @@
 - TCAP amount: 1749825
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

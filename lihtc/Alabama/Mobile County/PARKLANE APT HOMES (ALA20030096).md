@@ -1,13 +1,10 @@
 # Project: PARKLANE APT HOMES (ALA20030096)
 
 - HUD ID: ALA20030096
-- HUD ID before: 
 - Project: PARKLANE APT HOMES
 - Address: 6725 ZEIGLER BLVD
 - City: MOBILE
-- State: AL
 - ZIP: 36608
-- ZIP extension: 
 - State project ID: AL-01-0810
 - Latitude: 30.708533
 - Longitude: -88.199962
@@ -22,9 +19,7 @@
 - Place 2000: 50000
 - Place 1990: 1165
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 144353
 - Units: 112
 - Low-income units: 112
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 112
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2002035.
 - Record status: Existing, unchanged

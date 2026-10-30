@@ -1,11 +1,9 @@
 # Project: COTTONWOOD APTS. II (UTA19990015)
 
 - HUD ID: UTA19990015
-- HUD ID before: 
 - Project: COTTONWOOD APTS. II
 - Address: 315 EAST 300 SOUTH
 - City: ROOSEVELT
-- State: UT
 - ZIP: 84066
 - ZIP extension: 0000
 - State project ID: 1998-08
@@ -22,9 +20,7 @@
 - Place 2000: 64670
 - Place 1990: 0840
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 106857
 - Units: 20
 - Low-income units: 20
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +59,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

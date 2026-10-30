@@ -1,13 +1,10 @@
 # Project: RIVERMONT (MARTINSVILLE) (VAA20140029)
 
 - HUD ID: VAA20140029
-- HUD ID before: 
 - Project: RIVERMONT (MARTINSVILLE)
 - Address: 1446 FAYETTE ST
 - City: MARTINSVILLE
-- State: VA
 - ZIP: 24112
-- ZIP extension: 
 - State project ID: 9538
 - Latitude: 36.683381
 - Longitude: -79.900324
@@ -22,9 +19,7 @@
 - Place 2000: 49784
 - Place 1990: 0795
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 728223
 - Units: 99
 - Low-income units: 99
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 99
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -51,20 +44,13 @@
 - RHS 538 loan: No
 - HOME: Yes
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA RIVERMONT.
 - Record status: Existing, unchanged

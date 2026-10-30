@@ -1,11 +1,9 @@
 # Project: THE LANDINGS AT WINMORE (NCA20100230)
 
 - HUD ID: NCA20100230
-- HUD ID before: 
 - Project: THE LANDINGS AT WINMORE
 - Address: 100 ANDYS LN
 - City: CHAPEL HILL
-- State: NC
 - ZIP: 27516
 - ZIP extension: 8436
 - State project ID: 9102492
@@ -16,15 +14,10 @@
 - Tract 2020: 37135011208
 - Tract 2010: 37135011202
 - Tract 2000: 37135010703
-- Tract 1990: 
 - Place 2020: 10620
 - Place 2010: 10620
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 58
 - Low-income units: 58
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 21
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

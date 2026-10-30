@@ -1,13 +1,10 @@
 # Project: CLEVELAND SCHOOL APARTMENTS (NCA20050042)
 
 - HUD ID: NCA20050042
-- HUD ID before: 
 - Project: CLEVELAND SCHOOL APARTMENTS
 - Address: 8968 CLEVELAND ROAD
 - City: CLAYTON
-- State: NC
 - ZIP: 27520
-- ZIP extension: 
 - State project ID: 9002301
 - Latitude: 35.56596
 - Longitude: -78.528433
@@ -19,12 +16,8 @@
 - Tract 1990: 37101041100
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 198498
 - Units: 25
 - Low-income units: 25
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 7
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

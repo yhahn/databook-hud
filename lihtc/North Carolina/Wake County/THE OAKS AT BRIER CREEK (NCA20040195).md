@@ -1,13 +1,10 @@
 # Project: THE OAKS AT BRIER CREEK (NCA20040195)
 
 - HUD ID: NCA20040195
-- HUD ID before: 
 - Project: THE OAKS AT BRIER CREEK
 - Address: GLOBE ROAD
 - City: RALEIGH
-- State: NC
 - ZIP: 27560
-- ZIP extension: 
 - State project ID: 9001685
 - Latitude: 35.9035
 - Longitude: -78.7952
@@ -19,12 +16,9 @@
 - Tract 1990: 37063002097
 - Place 2020: 55000
 - Place 2010: 10740
-- Place 2000: 
 - Place 1990: 0750
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 281400
 - Units: 144
 - Low-income units: 120
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

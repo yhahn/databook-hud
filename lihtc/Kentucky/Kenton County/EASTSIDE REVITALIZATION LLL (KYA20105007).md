@@ -1,13 +1,10 @@
 # Project: EASTSIDE REVITALIZATION LLL (KYA20105007)
 
 - HUD ID: KYA20105007
-- HUD ID before: 
 - Project: EASTSIDE REVITALIZATION LLL
 - Address: EAST 11TH STREET
 - City: COVINGTON
-- State: KY
 - ZIP: 41011
-- ZIP extension: 
 - State project ID: KY-09-054
 - Latitude: 39.0786
 - Longitude: -84.5159
@@ -16,15 +13,10 @@
 - Tract 2020: 21117061600
 - Tract 2010: 21117060700
 - Tract 2000: 21117060700
-- Tract 1990: 
 - Place 2020: 17848
 - Place 2010: 17848
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 498785
 - Units: 31
 - Low-income units: 31
@@ -39,7 +31,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

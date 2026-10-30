@@ -1,13 +1,10 @@
 # Project: 1115 VINE STREET (KYA19930533)
 
 - HUD ID: KYA19930533
-- HUD ID before: 
 - Project: 1115 VINE STREET
 - Address: VINE ST.
 - City: BOWLING GREEN
-- State: KY
 - ZIP: 42101
-- ZIP extension: 
 - State project ID: KY-91-076
 - Latitude: 37.0057
 - Longitude: -86.4487
@@ -22,9 +19,7 @@
 - Place 2000: 08902
 - Place 1990: 0200
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 834
 - Units: 2
 - Low-income units: 2
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA1993163, KYA1993011, KYA0000440.;
 - Record status: Updated

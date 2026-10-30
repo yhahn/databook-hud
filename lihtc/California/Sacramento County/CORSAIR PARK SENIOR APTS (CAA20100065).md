@@ -1,13 +1,10 @@
 # Project: CORSAIR PARK SENIOR APTS (CAA20100065)
 
 - HUD ID: CAA20100065
-- HUD ID before: 
 - Project: CORSAIR PARK SENIOR APTS
 - Address: 6920 WATT AVE
 - City: NORTH HIGHLANDS
-- State: CA
 - ZIP: 95660
-- ZIP extension: 
 - State project ID: CA-08-809
 - Latitude: 38.691985
 - Longitude: -121.38259
@@ -22,9 +19,7 @@
 - Place 2000: 51924
 - Place 1990: 1935
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 604477
 - Units: 112
 - Low-income units: 111
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

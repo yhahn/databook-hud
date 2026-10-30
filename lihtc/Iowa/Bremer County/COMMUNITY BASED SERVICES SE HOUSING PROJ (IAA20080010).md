@@ -1,13 +1,10 @@
 # Project: COMMUNITY BASED SERVICES SE HOUSING PROJ (IAA20080010)
 
 - HUD ID: IAA20080010
-- HUD ID before: 
 - Project: COMMUNITY BASED SERVICES SE HOUSING PROJ
 - Address: 821 SIXTH ST NW
 - City: WAVERLY
-- State: IA
 - ZIP: 50677
-- ZIP extension: 
 - State project ID: 06-41
 - Latitude: 42.733146
 - Longitude: -92.478479
@@ -22,9 +19,7 @@
 - Place 2000: 82875
 - Place 1990: 4480
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 104382
 - Units: 12
 - Low-income units: 12
@@ -40,12 +35,9 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +47,7 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

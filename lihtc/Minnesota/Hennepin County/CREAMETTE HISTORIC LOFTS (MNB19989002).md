@@ -1,11 +1,9 @@
 # Project: CREAMETTE HISTORIC LOFTS (MNB19989002)
 
 - HUD ID: MNB19989002
-- HUD ID before: 
 - Project: CREAMETTE HISTORIC LOFTS
 - Address: 428 NORTH FIRST STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55401
 - ZIP extension: 1181
 - State project ID: D3027
@@ -16,15 +14,11 @@
 - Tract 2020: 27053126202
 - Tract 2010: 27053126200
 - Tract 2000: 27053003502
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 325022
 - Units: 96
 - Low-income units: 49
@@ -39,7 +33,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: GREEN MEADOW MANOR APARTMENTS (MTA20000035)
 
 - HUD ID: MTA20000035
-- HUD ID before: 
 - Project: GREEN MEADOW MANOR APARTMENTS
 - Address: 403 IDAHO STREET
 - City: LIBBY
-- State: MT
 - ZIP: 59923
 - ZIP extension: 0000
 - State project ID: 99110
@@ -20,11 +18,8 @@
 - Place 2020: 43450
 - Place 2010: 43450
 - Place 2000: 43450
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 97502
 - Units: 34
 - Low-income units: 34
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

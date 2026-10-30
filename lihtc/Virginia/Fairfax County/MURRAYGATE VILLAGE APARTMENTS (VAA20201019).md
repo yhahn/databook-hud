@@ -1,13 +1,10 @@
 # Project: MURRAYGATE VILLAGE APARTMENTS (VAA20201019)
 
 - HUD ID: VAA20201019
-- HUD ID before: 
 - Project: MURRAYGATE VILLAGE APARTMENTS
 - Address: 7800 BELLFORD DRIVE SUITE 100
 - City: ALEXANDRIA
-- State: VA
 - ZIP: 22306
-- ZIP extension: 
 - State project ID: 4397
 - Latitude: 38.746616
 - Longitude: -77.083354
@@ -22,9 +19,7 @@
 - Place 2000: 39304
 - Place 1990: 0648
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1409709
 - Units: 200
 - Low-income units: 200
@@ -40,15 +35,12 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 160
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +64,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

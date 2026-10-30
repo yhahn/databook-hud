@@ -1,13 +1,10 @@
 # Project: L & S THE HIGHLANDS (WAA19950145)
 
 - HUD ID: WAA19950145
-- HUD ID before: 
 - Project: L & S THE HIGHLANDS
 - Address: 542 S SUMMIT ST
 - City: COLVILLE
-- State: WA
 - ZIP: 99114
-- ZIP extension: 
 - State project ID: 95-23B
 - Latitude: 48.53943
 - Longitude: -117.888567
@@ -22,9 +19,7 @@
 - Place 2000: 14170
 - Place 1990: 0250
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 57098
 - Units: 36
 - Low-income units: 36
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS WAA1995110.
 - Record status: Existing, unchanged

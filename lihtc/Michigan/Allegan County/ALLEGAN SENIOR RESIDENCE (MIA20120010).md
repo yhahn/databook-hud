@@ -1,13 +1,10 @@
 # Project: ALLEGAN SENIOR RESIDENCE (MIA20120010)
 
 - HUD ID: MIA20120010
-- HUD ID before: 
 - Project: ALLEGAN SENIOR RESIDENCE
 - Address: 330 TROWBRIDGE ST
 - City: ALLEGAN
-- State: MI
 - ZIP: 49010
-- ZIP extension: 
 - State project ID: MI-3261
 - Latitude: 42.528946
 - Longitude: -85.851332
@@ -22,9 +19,7 @@
 - Place 2000: 01260
 - Place 1990: 0040
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 452362
 - Units: 20
 - Low-income units: 20
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

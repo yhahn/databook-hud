@@ -1,11 +1,9 @@
 # Project: PALISADES PARK II (MSA20190010)
 
 - HUD ID: MSA20190010
-- HUD ID before: 
 - Project: PALISADES PARK II
 - Address: 2500 OLD AMY ROAD
 - City: LAUREL
-- State: MS
 - ZIP: 39440
 - ZIP extension: 0000
 - State project ID: 16-1-026
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28067950401
 - Tract 2010: 28067950401
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 39640
 - Place 2010: 39640
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 270000
 - Units: 16
 - Low-income units: 16
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: WASHINGTON MILL (UTA19950902)
 
 - HUD ID: UTA19950902
-- HUD ID before: 
 - Project: WASHINGTON MILL
 - Address: 240 DALY AVENUE
 - City: PARK CITY
-- State: UT
 - ZIP: 84060
 - ZIP extension: 0000
 - State project ID: 1994-29
@@ -22,9 +20,7 @@
 - Place 2000: 58070
 - Place 1990: 0740
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 60946
 - Units: 8
 - Low-income units: 8
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

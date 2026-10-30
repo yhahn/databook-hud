@@ -1,13 +1,10 @@
 # Project: MILL TOWN SENIORS (TXA0000X051)
 
 - HUD ID: TXA0000X051
-- HUD ID before: 
 - Project: MILL TOWN SENIORS
 - Address: 800 S. 16TH STREET
 - City: SILSBEE
-- State: TX
 - ZIP: 77656
-- ZIP extension: 
 - State project ID: TX5244
 - Latitude: 30.347258
 - Longitude: -94.191885
@@ -16,16 +13,10 @@
 - Tract 2020: 48199030800
 - Tract 2010: 48199030800
 - Tract 2000: 48199030900
-- Tract 1990: 
 - Place 2020: 67832
 - Place 2010: 67832
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 80
 - Low-income units: 72
 - Units reported: 80
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

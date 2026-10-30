@@ -1,13 +1,10 @@
 # Project: HIGHLANDS TUDOR MANOR (ILB20010806)
 
 - HUD ID: ILB20010806
-- HUD ID before: 
 - Project: HIGHLANDS TUDOR MANOR
 - Address: 7012 S CREGIER AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60649
-- ZIP extension: 
 - State project ID: 36-4272610
 - Latitude: 41.767724
 - Longitude: -87.581461
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 460929
 - Units: 87
 - Low-income units: 87
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2001801, ILB2001020. AKA JACKSON PARK.
 - Record status: Existing, unchanged

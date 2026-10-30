@@ -1,13 +1,10 @@
 # Project: POTOMAC WOODS SENIORS II (VAA20060795)
 
 - HUD ID: VAA20060795
-- HUD ID before: 
 - Project: POTOMAC WOODS SENIORS II
 - Address: 1093 SOUTHAMPTON ST
 - City: WOODBRIDGE
-- State: VA
 - ZIP: 22191
-- ZIP extension: 
 - State project ID: 1086
 - Latitude: 38.637686
 - Longitude: -77.274985
@@ -22,9 +19,7 @@
 - Place 2000: 87312
 - Place 1990: 1358
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 277820
 - Units: 44
 - Low-income units: 44
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005195, VAA2003160. AKA POTOMAC WOODS II.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SEA RAD OAKS (TXA0000X081)
 
 - HUD ID: TXA0000X081
-- HUD ID before: 
 - Project: SEA RAD OAKS
 - Address: 11607 SIERRA NEVADA LN. / 6119 VALIANT CIRCLE
 - City: AUSTIN
-- State: TX
 - ZIP: 78759
-- ZIP extension: 
 - State project ID: TX5212
 - Latitude: 30.420948
 - Longitude: -97.754761
@@ -16,16 +13,11 @@
 - Tract 2020: 48453002500
 - Tract 2010: 48453002500
 - Tract 2000: 48453001759
-- Tract 1990: 
 - Place 2020: 05000
 - Place 2010: 05000
 - Place 2000: 05000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 75
 - Low-income units: 75
 - Units reported: 75
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -76,10 +67,5 @@
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

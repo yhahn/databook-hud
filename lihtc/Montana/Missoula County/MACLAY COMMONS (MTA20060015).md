@@ -1,11 +1,9 @@
 # Project: MACLAY COMMONS (MTA20060015)
 
 - HUD ID: MTA20060015
-- HUD ID before: 
 - Project: MACLAY COMMONS
 - Address: 2405 MACINTOSH LOOP
 - City: MISSOULA
-- State: MT
 - ZIP: 59801
 - ZIP extension: 0000
 - State project ID: 04080
@@ -22,9 +20,7 @@
 - Place 2000: 50200
 - Place 1990: 0500
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 195000
 - Units: 16
 - Low-income units: 16
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

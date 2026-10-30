@@ -1,13 +1,10 @@
 # Project: STONE HOLLOW VILLAGE (TXA20060065)
 
 - HUD ID: TXA20060065
-- HUD ID before: 
 - Project: STONE HOLLOW VILLAGE
 - Address: 1510 E CORNELL ST
 - City: LUBBOCK
-- State: TX
 - ZIP: 79404
-- ZIP extension: 
 - State project ID: TX4112
 - Latitude: 33.602054
 - Longitude: -101.818237
@@ -16,16 +13,10 @@
 - Tract 2020: 48303000901
 - Tract 2010: 48303000900
 - Tract 2000: 48303000900
-- Tract 1990: 
 - Place 2020: 45000
 - Place 2010: 45000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
-- Allocation amount: 
 - Units: 140
 - Low-income units: 112
 - Units reported: 140
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +46,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +56,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

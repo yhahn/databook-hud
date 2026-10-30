@@ -1,13 +1,10 @@
 # Project: VERANDA SENIOR (FLA20120150)
 
 - HUD ID: FLA20120150
-- HUD ID before: 
 - Project: VERANDA SENIOR
 - Address: 28355 SW 152ND AVE
 - City: HOMESTEAD
-- State: FL
 - ZIP: 33033
-- ZIP extension: 
 - State project ID: 2405
 - Latitude: 25.503674
 - Longitude: -80.43673
@@ -22,9 +19,7 @@
 - Place 2000: 39950
 - Place 1990: 1458
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 543651
 - Units: 99
 - Low-income units: 99
@@ -39,9 +34,6 @@
 - Credit: TCEP only
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,19 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 9175736
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: LINK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

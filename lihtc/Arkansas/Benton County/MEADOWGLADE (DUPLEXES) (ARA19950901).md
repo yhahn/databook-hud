@@ -1,13 +1,10 @@
 # Project: MEADOWGLADE (DUPLEXES) (ARA19950901)
 
 - HUD ID: ARA19950901
-- HUD ID before: 
 - Project: MEADOWGLADE (DUPLEXES)
 - Address: 401 SE 12TH ST
 - City: BENTONVILLE
-- State: AR
 - ZIP: 72712
-- ZIP extension: 
 - State project ID: AR-94-26-001
 - Latitude: 36.359346
 - Longitude: -94.20591
@@ -22,9 +19,7 @@
 - Place 2000: 05320
 - Place 1990: 0175
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 82971
 - Units: 14
 - Low-income units: 14
@@ -37,11 +32,8 @@
 - 4-bedroom units: 0
 - Construction: New construction
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 295000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ARA1995075, ARA1994628, ARA1994087. FKA MEADOWGLADE I & II
 - Record status: Existing, unchanged

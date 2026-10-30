@@ -1,13 +1,10 @@
 # Project: ROCKWELL COURT (IDA20130230)
 
 - HUD ID: IDA20130230
-- HUD ID before: 
 - Project: ROCKWELL COURT
 - Address: 820 WEST 7TH SOUTH
 - City: REXBURG
-- State: ID
 - ZIP: 83440
-- ZIP extension: 
 - State project ID: HC1207
 - Latitude: 43.81179
 - Longitude: -111.807256
@@ -19,12 +16,9 @@
 - Tract 1990: 16065950300
 - Place 2020: 67420
 - Place 2010: 67420
-- Place 2000: 
 - Place 1990: 0820
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 786261
 - Units: 51
 - Low-income units: 45
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

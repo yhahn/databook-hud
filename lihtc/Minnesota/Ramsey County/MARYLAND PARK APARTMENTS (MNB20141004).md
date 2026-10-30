@@ -1,11 +1,9 @@
 # Project: MARYLAND PARK APARTMENTS (MNB20141004)
 
 - HUD ID: MNB20141004
-- HUD ID before: 
 - Project: MARYLAND PARK APARTMENTS
 - Address: 1619 MARYLAND AVENUE
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55106
 - ZIP extension: 2974
 - State project ID: D3475
@@ -16,15 +14,11 @@
 - Tract 2020: 27123030704
 - Tract 2010: 27123030704
 - Tract 2000: 27123030704
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 700310
 - Units: 172
 - Low-income units: 172
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 6
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -68,18 +61,10 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: DUPLICATE HUD_ID: MNA20151020
 - Record status: Updated

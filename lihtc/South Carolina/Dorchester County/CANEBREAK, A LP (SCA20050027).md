@@ -1,13 +1,10 @@
 # Project: CANEBREAK, A LP (SCA20050027)
 
 - HUD ID: SCA20050027
-- HUD ID before: 
 - Project: CANEBREAK, A LP
 - Address: 1300 CENTRAL AVE
 - City: SUMMERVILLE
-- State: SC
 - ZIP: 29483
-- ZIP extension: 
 - State project ID: SC-50-301
 - Latitude: 33.018819
 - Longitude: -80.219749
@@ -22,9 +19,7 @@
 - Place 2000: 70270
 - Place 1990: 1390
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 196159
 - Units: 120
 - Low-income units: 120
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS SCA2006110.
 - Record status: Existing, unchanged

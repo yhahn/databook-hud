@@ -1,13 +1,10 @@
 # Project: ST JOHN'S APTS (CAA20140444)
 
 - HUD ID: CAA20140444
-- HUD ID before: 
 - Project: ST JOHN'S APTS
 - Address: 121 W MACDONALD AVE
 - City: RICHMOND
-- State: CA
 - ZIP: 94801
-- ZIP extension: 
 - State project ID: CA-13-828
 - Latitude: 37.935856
 - Longitude: -122.37013
@@ -22,9 +19,7 @@
 - Place 2000: 60620
 - Place 1990: 2330
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 1066260
 - Units: 158
 - Low-income units: 156
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: ASHTON COVE (GAA20000005)
 
 - HUD ID: GAA20000005
-- HUD ID before: 
 - Project: ASHTON COVE
 - Address: 230 N GROSS RD
 - City: KINGSLAND
-- State: GA
 - ZIP: 31548
 - ZIP extension: 7000
 - State project ID: GA-98-011
@@ -22,10 +20,7 @@
 - Place 2000: 43640
 - Place 1990: 2500
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
-- Allocation amount: 
 - Units: 72
 - Low-income units: 72
 - Units reported: 72
@@ -36,12 +31,9 @@
 - 3-bedroom units: 0
 - 4-bedroom units: 0
 - Construction: New construction
-- Credit: 
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -70,16 +62,7 @@
 - Families: No
 - Elderly: No
 - Disabled: No
-- Homeless: 
 - Other population: No
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

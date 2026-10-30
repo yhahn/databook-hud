@@ -1,13 +1,10 @@
 # Project: WOO-MEHL LIHTC HOMES (CAA20201073)
 
 - HUD ID: CAA20201073
-- HUD ID before: 
 - Project: WOO-MEHL LIHTC HOMES
 - Address: HC MARTINS FERRY
 - City: WEITCHPEC
-- State: CA
 - ZIP: 95546
-- ZIP extension: 
 - State project ID: CA-2019-007
 - Latitude: 41.0994
 - Longitude: -123.6735
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06023940000
 - Tract 2010: 06023940000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 34540
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 768575
 - Units: 17
 - Low-income units: 16
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +55,6 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Native American (Rural)
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

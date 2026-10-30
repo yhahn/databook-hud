@@ -1,11 +1,9 @@
 # Project: HEIGHTS CENTENNIAL APARTMENTS (MTA19910015)
 
 - HUD ID: MTA19910015
-- HUD ID before: 
 - Project: HEIGHTS CENTENNIAL APARTMENTS
 - Address: 1512 LAKE ELMO DRIVE
 - City: BILLINGS
-- State: MT
 - ZIP: 59105
 - ZIP extension: 0000
 - State project ID: 90030
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 28474
 - Units: 9
 - Low-income units: 9
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA0000045.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: DAYTON VALLEY VILLAGE II (NVA19950015)
 
 - HUD ID: NVA19950015
-- HUD ID before: 
 - Project: DAYTON VALLEY VILLAGE II
 - Address: 369 DAYTON VALLEY ROAD
 - City: DAYTON
-- State: NV
 - ZIP: 89403
 - ZIP extension: 0000
 - State project ID: 94-33
@@ -22,9 +20,7 @@
 - Place 2000: 17500
 - Place 1990: 0028
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 138020
 - Units: 22
 - Low-income units: 22
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +51,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +63,7 @@
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NVA1997005. AKA DAYTON VALLEY PARTNERS III.
 - Record status: Existing, unchanged

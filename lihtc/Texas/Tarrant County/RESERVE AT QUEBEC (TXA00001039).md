@@ -1,13 +1,10 @@
 # Project: RESERVE AT QUEBEC (TXA00001039)
 
 - HUD ID: TXA00001039
-- HUD ID before: 
 - Project: RESERVE AT QUEBEC
 - Address: 6655 CALGARY LANE
 - City: FORT WORTH
-- State: TX
 - ZIP: 76135
-- ZIP extension: 
 - State project ID: TX5084
 - Latitude: 32.8206
 - Longitude: -97.4127
@@ -16,16 +13,10 @@
 - Tract 2020: 48439106600
 - Tract 2010: 48439114007
 - Tract 2000: 48439110401
-- Tract 1990: 
 - Place 2020: 27000
 - Place 2010: 27000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 296
 - Low-income units: 280
 - Units reported: 296
@@ -41,7 +32,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: CAMBRIDGE VILLAGE (NCA19960435)
 
 - HUD ID: NCA19960435
-- HUD ID before: 
 - Project: CAMBRIDGE VILLAGE
 - Address: 1332 FIDELITY DR
 - City: DURHAM
-- State: NC
 - ZIP: 27703
 - ZIP extension: 2285
 - State project ID: 9001189
@@ -22,9 +20,7 @@
 - Place 2000: 19000
 - Place 1990: 0750
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 725018
 - Units: 83
 - Low-income units: 83
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

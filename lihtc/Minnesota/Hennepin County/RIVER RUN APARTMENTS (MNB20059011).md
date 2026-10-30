@@ -1,11 +1,9 @@
 # Project: RIVER RUN APARTMENTS (MNB20059011)
 
 - HUD ID: MNB20059011
-- HUD ID before: 
 - Project: RIVER RUN APARTMENTS
 - Address: 1434 MARSHALL STREET NE
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55413
 - ZIP extension: 4571
 - State project ID: D3855
@@ -16,15 +14,11 @@
 - Tract 2020: 27053002400
 - Tract 2010: 27053002400
 - Tract 2000: 27053002400
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 332771
 - Units: 74
 - Low-income units: 74
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 18
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -68,18 +61,8 @@
 - Rental assistance: State
 - Targets a population: No
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: STEELE DEVELOPMENT (MEA20173001)
 
 - HUD ID: MEA20173001
-- HUD ID before: 
 - Project: STEELE DEVELOPMENT
 - Address: MULTI LOCATIONS
 - City: WINSLOW
-- State: ME
 - ZIP: 04901
-- ZIP extension: 
 - State project ID: MSHARLP1644H
 - Latitude: 44.557
 - Longitude: -69.601
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 23011023001
 - Tract 2010: 23011023001
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 86480
 - Place 2010: 86480
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 659118
 - Units: 170
 - Low-income units: 170
@@ -40,8 +31,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 62
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -65,12 +54,9 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: population varies by location
 - Scattered site: Yes
@@ -78,8 +64,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

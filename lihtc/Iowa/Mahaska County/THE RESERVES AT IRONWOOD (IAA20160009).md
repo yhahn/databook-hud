@@ -1,11 +1,9 @@
 # Project: THE RESERVES AT IRONWOOD (IAA20160009)
 
 - HUD ID: IAA20160009
-- HUD ID before: 
 - Project: THE RESERVES AT IRONWOOD
 - Address: 1302 HIGH AVE WEST BLDG 1
 - City: OSKALOOSA
-- State: IA
 - ZIP: 52577
 - ZIP extension: 1940
 - State project ID: 14-14-31
@@ -16,15 +14,11 @@
 - Tract 2020: 19123950700
 - Tract 2010: 19123950700
 - Tract 2000: 19123950700
-- Tract 1990: 
 - Place 2020: 59925
 - Place 2010: 59925
 - Place 2000: 59925
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 756168
 - Units: 48
 - Low-income units: 46
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 46
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

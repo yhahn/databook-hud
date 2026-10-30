@@ -1,13 +1,10 @@
 # Project: NEW HORIZONS APARTMENTS (NCA19990075)
 
 - HUD ID: NCA19990075
-- HUD ID before: 
 - Project: NEW HORIZONS APARTMENTS
 - Address: 990 FOWLE DRIVE
 - City: WASHINGTON
-- State: NC
 - ZIP: 27889
-- ZIP extension: 
 - State project ID: 9001280
 - Latitude: 35.554797
 - Longitude: -77.062006
@@ -22,9 +19,7 @@
 - Place 2000: 71220
 - Place 1990: 2655
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 70374
 - Units: 24
 - Low-income units: 24
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 6
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: ROSE GARDEN APTS (MSA19980044)
 
 - HUD ID: MSA19980044
-- HUD ID before: 
 - Project: ROSE GARDEN APTS
 - Address: 3825 OLD BRANDON RD
 - City: PEARL
-- State: MS
 - ZIP: 39208
-- ZIP extension: 
 - State project ID: MS-97-053
 - Latitude: 32.288795
 - Longitude: -90.09577
@@ -22,9 +19,7 @@
 - Place 2000: 08300
 - Place 1990: 0985
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 125408
 - Units: 62
 - Low-income units: 62
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 62
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1998585.
 - Record status: Existing, unchanged

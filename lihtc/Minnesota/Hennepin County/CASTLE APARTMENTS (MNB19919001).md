@@ -1,11 +1,9 @@
 # Project: CASTLE APARTMENTS (MNB19919001)
 
 - HUD ID: MNB19919001
-- HUD ID before: 
 - Project: CASTLE APARTMENTS
 - Address: 300 NORTH 26TH STREET
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55411
 - ZIP extension: 2172
 - State project ID: D0933
@@ -16,15 +14,11 @@
 - Tract 2020: 27053102100
 - Tract 2010: 27053102100
 - Tract 2000: 27053101600
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1990
-- Allocation year note: 
 - Allocation amount: 93965
 - Units: 11
 - Low-income units: 11
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -67,19 +58,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

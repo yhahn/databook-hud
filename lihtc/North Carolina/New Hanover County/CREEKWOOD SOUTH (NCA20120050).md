@@ -1,13 +1,10 @@
 # Project: CREEKWOOD SOUTH (NCA20120050)
 
 - HUD ID: NCA20120050
-- HUD ID before: 
 - Project: CREEKWOOD SOUTH
 - Address: 714 EMORY STREET
 - City: WILMINGTON
-- State: NC
 - ZIP: 28405
-- ZIP extension: 
 - State project ID: 9107177
 - Latitude: 34.246982
 - Longitude: -77.908096
@@ -22,9 +19,7 @@
 - Place 2000: 74440
 - Place 1990: 2755
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1151673
 - Units: 138
 - Low-income units: 138
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

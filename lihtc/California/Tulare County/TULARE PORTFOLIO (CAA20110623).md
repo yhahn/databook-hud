@@ -1,13 +1,10 @@
 # Project: TULARE PORTFOLIO (CAA20110623)
 
 - HUD ID: CAA20110623
-- HUD ID before: 
 - Project: TULARE PORTFOLIO
 - Address: 41334 RD 127
 - City: OROSI
-- State: CA
 - ZIP: 93647
-- ZIP extension: 
 - State project ID: CA-11-817
 - Latitude: 36.53974
 - Longitude: -119.289006
@@ -22,9 +19,7 @@
 - Place 2000: 54358
 - Place 1990: 2040
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 367410
 - Units: 160
 - Low-income units: 156
@@ -40,12 +35,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 53
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -53,18 +45,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +57,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2011500, CAA1994360. AKA SEQUOIA VIEW APTS.
 - Record status: Existing, unchanged

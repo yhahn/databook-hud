@@ -1,13 +1,10 @@
 # Project: SUGAR RIVER MILLS (NHA20110037)
 
 - HUD ID: NHA20110037
-- HUD ID before: 
 - Project: SUGAR RIVER MILLS
 - Address: 7 HERITAGE DR
 - City: CLAREMONT
-- State: NH
 - ZIP: 03743
-- ZIP extension: 
 - State project ID: NH368023009
 - Latitude: 43.375552
 - Longitude: -72.344054
@@ -22,9 +19,7 @@
 - Place 2000: 12900
 - Place 1990: 0470
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 345747
 - Units: 162
 - Low-income units: 154
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 200000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: Yes
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NHA0000501.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SAMPSON SQUARE (NCA20100195)
 
 - HUD ID: NCA20100195
-- HUD ID before: 
 - Project: SAMPSON SQUARE
 - Address: 804 COLLEGE ST
 - City: CLINTON
-- State: NC
 - ZIP: 28328
-- ZIP extension: 
 - State project ID: 9102497
 - Latitude: 35.003794
 - Longitude: -78.315667
@@ -22,9 +19,7 @@
 - Place 2000: 13240
 - Place 1990: 0535
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 40
 - Low-income units: 40
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 16
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

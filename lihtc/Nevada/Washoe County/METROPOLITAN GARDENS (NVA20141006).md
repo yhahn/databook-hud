@@ -1,11 +1,9 @@
 # Project: METROPOLITAN GARDENS (NVA20141006)
 
 - HUD ID: NVA20141006
-- HUD ID before: 
 - Project: METROPOLITAN GARDENS
 - Address: 325 E 7TH STREET
 - City: RENO
-- State: NV
 - ZIP: 89512
 - ZIP extension: 0000
 - State project ID: 13-66
@@ -16,15 +14,11 @@
 - Tract 2020: 32031000105
 - Tract 2010: 32031000102
 - Tract 2000: 32031000100
-- Tract 1990: 
 - Place 2020: 60600
 - Place 2010: 60600
 - Place 2000: 60600
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 65700000
 - Units: 83
 - Low-income units: 83
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

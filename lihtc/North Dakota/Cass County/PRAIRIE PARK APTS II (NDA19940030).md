@@ -1,13 +1,10 @@
 # Project: PRAIRIE PARK APTS II (NDA19940030)
 
 - HUD ID: NDA19940030
-- HUD ID before: 
 - Project: PRAIRIE PARK APTS II
 - Address: 1336 SIXTH ST E
 - City: WEST FARGO
-- State: ND
 - ZIP: 58078
-- ZIP extension: 
 - State project ID: 92-17
 - Latitude: 46.86181
 - Longitude: -96.89192
@@ -22,9 +19,7 @@
 - Place 2000: 84780
 - Place 1990: 1715
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 72051
 - Units: 24
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

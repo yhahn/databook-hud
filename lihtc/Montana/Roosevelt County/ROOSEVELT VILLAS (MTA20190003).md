@@ -1,11 +1,9 @@
 # Project: ROOSEVELT VILLAS (MTA20190003)
 
 - HUD ID: MTA20190003
-- HUD ID before: 
 - Project: ROOSEVELT VILLAS
 - Address: 123 & 127 EDGAR ST
 - City: WOLF POINT
-- State: MT
 - ZIP: 59218
 - ZIP extension: 0000
 - State project ID: 17040
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30085940001
 - Tract 2010: 30085940001
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 81475
 - Place 2010: 81475
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 260886
 - Units: 16
 - Low-income units: 16
@@ -44,11 +36,9 @@
 - Affordability years: 46
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: WYLIE STREET STATION (IDA20060021)
 
 - HUD ID: IDA20060021
-- HUD ID before: 
 - Project: WYLIE STREET STATION
 - Address: 4683 WYLIE LANE
 - City: BOISE
-- State: ID
 - ZIP: 83703
-- ZIP extension: 
 - State project ID: HC0409
 - Latitude: 43.647265
 - Longitude: -116.247588
@@ -22,9 +19,7 @@
 - Place 2000: 08830
 - Place 1990: 0090
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 141794
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

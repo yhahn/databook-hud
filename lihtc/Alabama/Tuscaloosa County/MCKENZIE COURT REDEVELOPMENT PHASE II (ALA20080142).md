@@ -1,13 +1,10 @@
 # Project: MCKENZIE COURT REDEVELOPMENT PHASE II (ALA20080142)
 
 - HUD ID: ALA20080142
-- HUD ID before: 
 - Project: MCKENZIE COURT REDEVELOPMENT PHASE II
 - Address: 2525 DUPONT AVE
 - City: TUSCALOOSA
-- State: AL
 - ZIP: 35401
-- ZIP extension: 
 - State project ID: AL-07-0026
 - Latitude: 33.188437
 - Longitude: -87.580413
@@ -22,10 +19,7 @@
 - Place 2000: 77256
 - Place 1990: 1720
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
-- Allocation amount: 
 - Units: 144
 - Low-income units: 144
 - Units reported: 144
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 144
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2010030.
 - Record status: Existing, unchanged

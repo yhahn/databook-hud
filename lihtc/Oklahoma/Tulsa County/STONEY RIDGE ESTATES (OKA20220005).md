@@ -1,11 +1,9 @@
 # Project: STONEY RIDGE ESTATES (OKA20220005)
 
 - HUD ID: OKA20220005
-- HUD ID before: 
 - Project: STONEY RIDGE ESTATES
 - Address: 406 E MADISON ST
 - City: BROKEN ARROW
-- State: OK
 - ZIP: 74012
 - ZIP extension: 0000
 - State project ID: 190641
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 40143007417
 - Tract 2010: 40143007407
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 09050
 - Place 2010: 09050
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 598165
 - Units: 93
 - Low-income units: 93
@@ -40,15 +32,11 @@
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

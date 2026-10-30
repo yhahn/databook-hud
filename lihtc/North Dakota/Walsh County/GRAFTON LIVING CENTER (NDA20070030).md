@@ -1,13 +1,10 @@
 # Project: GRAFTON LIVING CENTER (NDA20070030)
 
 - HUD ID: NDA20070030
-- HUD ID before: 
 - Project: GRAFTON LIVING CENTER
 - Address: 809 W 12TH ST
 - City: GRAFTON
-- State: ND
 - ZIP: 58237
-- ZIP extension: 
 - State project ID: TC0517
 - Latitude: 48.412696
 - Longitude: -97.423491
@@ -22,9 +19,7 @@
 - Place 2000: 31820
 - Place 1990: 0685
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 83333
 - Units: 16
 - Low-income units: 15
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: ROOSEVELT PLACE (ILA20060020)
 
 - HUD ID: ILA20060020
-- HUD ID before: 
 - Project: ROOSEVELT PLACE
 - Address: 1401 W ROOSEVELT RD
 - City: CHICAGO
-- State: IL
 - ZIP: 60608
-- ZIP extension: 
 - State project ID: 205704
 - Latitude: 41.866731
 - Longitude: -87.661555
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 9016755
 - Units: 68
 - Low-income units: 61
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

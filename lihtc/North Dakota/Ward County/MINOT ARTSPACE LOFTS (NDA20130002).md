@@ -1,13 +1,10 @@
 # Project: MINOT ARTSPACE LOFTS (NDA20130002)
 
 - HUD ID: NDA20130002
-- HUD ID before: 
 - Project: MINOT ARTSPACE LOFTS
 - Address: 3 MAIN ST S
 - City: MINOT
-- State: ND
 - ZIP: 58701
-- ZIP extension: 
 - State project ID: TC1111
 - Latitude: 48.23635
 - Longitude: -101.292781
@@ -22,9 +19,7 @@
 - Place 2000: 53380
 - Place 1990: 1140
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 616250
 - Units: 34
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 20
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -74,12 +67,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

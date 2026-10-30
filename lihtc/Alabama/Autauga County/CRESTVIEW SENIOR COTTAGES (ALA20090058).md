@@ -1,13 +1,10 @@
 # Project: CRESTVIEW SENIOR COTTAGES (ALA20090058)
 
 - HUD ID: ALA20090058
-- HUD ID before: 
 - Project: CRESTVIEW SENIOR COTTAGES
 - Address: 777 WETUMPKA ST
 - City: PRATTVILLE
-- State: AL
 - ZIP: 36067
-- ZIP extension: 
 - State project ID: AL-09-0004
 - Latitude: 32.464863
 - Longitude: -86.453095
@@ -22,9 +19,7 @@
 - Place 2000: 62328
 - Place 1990: 1415
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 200000
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 3863210
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +62,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2011025, ALA2011571.
 - Record status: Existing, unchanged

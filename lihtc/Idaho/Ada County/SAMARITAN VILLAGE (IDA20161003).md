@@ -1,13 +1,10 @@
 # Project: SAMARITAN VILLAGE (IDA20161003)
 
 - HUD ID: IDA20161003
-- HUD ID before: 
 - Project: SAMARITAN VILLAGE
 - Address: 3350 NORTH COLLISTER DRIVE
 - City: BOISE
-- State: ID
 - ZIP: 83703
-- ZIP extension: 
 - State project ID: HC1508
 - Latitude: 43.650333
 - Longitude: -116.248676
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 16001000302
 - Tract 2010: 16001000302
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 08830
 - Place 2010: 08830
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2016
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 362347
 - Units: 100
 - Low-income units: 100
@@ -40,11 +31,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

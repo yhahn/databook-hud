@@ -1,13 +1,10 @@
 # Project: ARDSLEY COMMONS (NCA20130001)
 
 - HUD ID: NCA20130001
-- HUD ID before: 
 - Project: ARDSLEY COMMONS
 - Address: 317 ARDSLEY DRIVE
 - City: LOCUST
-- State: NC
 - ZIP: 28097
-- ZIP extension: 
 - State project ID: 9111550
 - Latitude: 35.260365
 - Longitude: -80.434756
@@ -19,12 +16,8 @@
 - Tract 1990: 37025041600
 - Place 2020: 38860
 - Place 2010: 38860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 451978
 - Units: 36
 - Low-income units: 36
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 9
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

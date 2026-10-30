@@ -1,13 +1,10 @@
 # Project: LAMBERT COMMUNITY HOUSING (MSA19970052)
 
 - HUD ID: MSA19970052
-- HUD ID before: 
 - Project: LAMBERT COMMUNITY HOUSING
 - Address: 1120 11TH ST
 - City: LAMBERT
-- State: MS
 - ZIP: 38643
-- ZIP extension: 
 - State project ID: MS-96-107
 - Latitude: 34.201082
 - Longitude: -90.289493
@@ -20,12 +17,8 @@
 - Place 2020: 39080
 - Place 2010: 39080
 - Place 2000: 16940
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
-- Allocation amount: 
 - Units: 51
 - Low-income units: 50
 - Units reported: 51
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,7 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1997572.
 - Record status: Existing, unchanged

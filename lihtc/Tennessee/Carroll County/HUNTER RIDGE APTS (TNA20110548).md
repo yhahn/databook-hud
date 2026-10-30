@@ -1,13 +1,9 @@
 # Project: HUNTER RIDGE APTS (TNA20110548)
 
 - HUD ID: TNA20110548
-- HUD ID before: 
 - Project: HUNTER RIDGE APTS
 - Address: 60 COTHAM DR
 - City: HUNTINGDON
-- State: TN
-- ZIP: 
-- ZIP extension: 
 - State project ID: TN-09-016
 - Latitude: 36.0192
 - Longitude: -88.4446
@@ -15,16 +11,10 @@
 - County from: 2020
 - Tract 2020: 47017962102
 - Tract 2010: 47017962100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 36580
 - Place 2010: 36580
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
 - Allocation amount: 530664
 - Units: 43
 - Low-income units: 43
@@ -40,8 +30,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +45,9 @@
 - TCAP amount: 1111655
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2011040.
 - Record status: Existing, unchanged

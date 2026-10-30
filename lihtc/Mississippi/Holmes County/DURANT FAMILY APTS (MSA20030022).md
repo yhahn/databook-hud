@@ -1,13 +1,10 @@
 # Project: DURANT FAMILY APTS (MSA20030022)
 
 - HUD ID: MSA20030022
-- HUD ID before: 
 - Project: DURANT FAMILY APTS
 - Address: 20 LINCOLN AVE
 - City: DURANT
-- State: MS
 - ZIP: 39063
-- ZIP extension: 
 - State project ID: MS-02-014
 - Latitude: 33.090896
 - Longitude: -89.85937
@@ -22,9 +19,7 @@
 - Place 2000: 20500
 - Place 1990: 0360
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 41516
 - Units: 23
 - Low-income units: 23
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 9
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2003655, MSA2004035.
 - Record status: Existing, unchanged

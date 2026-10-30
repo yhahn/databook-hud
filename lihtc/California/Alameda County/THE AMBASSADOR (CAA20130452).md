@@ -1,13 +1,10 @@
 # Project: THE AMBASSADOR (CAA20130452)
 
 - HUD ID: CAA20130452
-- HUD ID before: 
 - Project: THE AMBASSADOR
 - Address: 3610 PERALTA STREET
 - City: EMERYVILLE
-- State: CA
 - ZIP: 94608
-- ZIP extension: 
 - State project ID: CA-11-163
 - Latitude: 37.827744
 - Longitude: -122.280626
@@ -22,9 +19,7 @@
 - Place 2000: 22594
 - Place 1990: 0910
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 827582
 - Units: 69
 - Low-income units: 68
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 68
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

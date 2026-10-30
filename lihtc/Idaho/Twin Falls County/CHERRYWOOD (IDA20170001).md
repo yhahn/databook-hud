@@ -1,13 +1,10 @@
 # Project: CHERRYWOOD (IDA20170001)
 
 - HUD ID: IDA20170001
-- HUD ID before: 
 - Project: CHERRYWOOD
 - Address: 2026 ELIZABETH BOULEVARD
 - City: TWIN FALLS
-- State: ID
 - ZIP: 83301
-- ZIP extension: 
 - State project ID: HC1703
 - Latitude: 42.555653
 - Longitude: -114.444927
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 16083001002
 - Tract 2010: 16083001000
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 82810
 - Place 2010: 82810
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 365436
 - Units: 40
 - Low-income units: 40
@@ -40,11 +31,8 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
@@ -72,14 +60,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

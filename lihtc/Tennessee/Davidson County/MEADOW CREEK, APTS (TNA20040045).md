@@ -1,13 +1,10 @@
 # Project: MEADOW CREEK, APTS (TNA20040045)
 
 - HUD ID: TNA20040045
-- HUD ID before: 
 - Project: MEADOW CREEK, APTS
 - Address: 919 S DICKERSON RD
 - City: GOODLETTSVILLE
-- State: TN
 - ZIP: 37072
-- ZIP extension: 
 - State project ID: TN-01-100
 - Latitude: 36.302836
 - Longitude: -86.720341
@@ -22,9 +19,7 @@
 - Place 2000: 29920
 - Place 1990: 0575
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 240230
 - Units: 84
 - Low-income units: 84
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 17
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Both federal and state
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS TNA2003501, TNA2003122, TNA2003120, TNA2003803. AKA MEADOW CREEK APTS.
 - Record status: Existing, unchanged

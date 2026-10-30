@@ -1,13 +1,10 @@
 # Project: HOOPER SCHOOL APTS (NCA19980075)
 
 - HUD ID: NCA19980075
-- HUD ID before: 
 - Project: HOOPER SCHOOL APTS
 - Address: 410 MEARES STREET
 - City: WILMINGTON
-- State: NC
 - ZIP: 28401
-- ZIP extension: 
 - State project ID: 9001043
 - Latitude: 34.221678
 - Longitude: -77.942852
@@ -22,9 +19,7 @@
 - Place 2000: 74440
 - Place 1990: 2755
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 291776
 - Units: 50
 - Low-income units: 50
@@ -39,9 +34,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

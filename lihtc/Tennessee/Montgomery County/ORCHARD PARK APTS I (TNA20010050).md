@@ -1,13 +1,10 @@
 # Project: ORCHARD PARK APTS I (TNA20010050)
 
 - HUD ID: TNA20010050
-- HUD ID before: 
 - Project: ORCHARD PARK APTS I
 - Address: 375 S LANCASTER RD
 - City: CLARKSVILLE
-- State: TN
 - ZIP: 37042
-- ZIP extension: 
 - State project ID: TN-99-040
 - Latitude: 36.575904
 - Longitude: -87.431509
@@ -22,9 +19,7 @@
 - Place 2000: 15160
 - Place 1990: 0250
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 199951
 - Units: 112
 - Low-income units: 112
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 23
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

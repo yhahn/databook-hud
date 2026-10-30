@@ -1,11 +1,9 @@
 # Project: THE POINTE AT RIVER CROSSING (MNB20097001)
 
 - HUD ID: MNB20097001
-- HUD ID before: 
 - Project: THE POINTE AT RIVER CROSSING
 - Address: 1375 DAVERN STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55116
 - ZIP extension: 2278
 - State project ID: D6195
@@ -16,15 +14,11 @@
 - Tract 2020: 27123037604
 - Tract 2010: 27123037602
 - Tract 2000: 27123037602
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 123733
 - Units: 133
 - Low-income units: 29
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -67,19 +59,9 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

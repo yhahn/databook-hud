@@ -1,13 +1,10 @@
 # Project: LAMBERT SQUARE APTS (MSA19920085)
 
 - HUD ID: MSA19920085
-- HUD ID before: 
 - Project: LAMBERT SQUARE APTS
 - Address: 33 LAMBERT SQ
 - City: LAMBERT
-- State: MS
 - ZIP: 38643
-- ZIP extension: 
 - State project ID: MS-92-004
 - Latitude: 34.2212
 - Longitude: -90.3018
@@ -20,12 +17,8 @@
 - Place 2020: 39080
 - Place 2010: 39080
 - Place 2000: 16940
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
-- Allocation amount: 
 - Units: 32
 - Low-income units: 31
 - Units reported: 32
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +62,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BLUEGRASS ASPENDALE III (KYA20080030)
 
 - HUD ID: KYA20080030
-- HUD ID before: 
 - Project: BLUEGRASS ASPENDALE III
 - Address: EAST 6TH STREET
 - City: LEXINGTON
-- State: KY
 - ZIP: 40505
-- ZIP extension: 
 - State project ID: KY-07-006
 - Latitude: 38.0562
 - Longitude: -84.4483
@@ -19,12 +16,9 @@
 - Tract 1990: 21067000400
 - Place 2020: 46027
 - Place 2010: 46027
-- Place 2000: 
 - Place 1990: 1160
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 209000
 - Units: 19
 - Low-income units: 19
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: STONE TERRACE (ILB20020804)
 
 - HUD ID: ILB20020804
-- HUD ID before: 
 - Project: STONE TERRACE
 - Address: 8440 S PARNELL AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60620
-- ZIP extension: 
 - State project ID: 20-33-313
 - Latitude: 41.74062
 - Longitude: -87.63788
@@ -22,10 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
-- Allocation amount: 
 - Units: 154
 - Low-income units: 154
 - Units reported: 154
@@ -37,11 +31,7 @@
 - 4-bedroom units: 0
 - Construction: Acquisition and rehab
 - Credit: 70 percent present value
-- Income ceiling: 
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +57,8 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2002025.
 - Record status: Existing, unchanged

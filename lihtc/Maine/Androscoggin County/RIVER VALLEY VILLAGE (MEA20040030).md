@@ -1,13 +1,10 @@
 # Project: RIVER VALLEY VILLAGE (MEA20040030)
 
 - HUD ID: MEA20040030
-- HUD ID before: 
 - Project: RIVER VALLEY VILLAGE
 - Address: 84 STRAWBERRY AVE
 - City: LEWISTON
-- State: ME
 - ZIP: 04240
-- ZIP extension: 
 - State project ID: MSHA-RLP1224
 - Latitude: 44.121557
 - Longitude: -70.206758
@@ -22,9 +19,7 @@
 - Place 2000: 38740
 - Place 1990: 2470
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 350767
 - Units: 296
 - Low-income units: 296
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 60
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,11 @@
 - HOME amount: 1551900
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA TALL PINES.
 - Record status: Existing, unchanged

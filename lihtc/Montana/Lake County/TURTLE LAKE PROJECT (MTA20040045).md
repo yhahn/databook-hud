@@ -1,11 +1,9 @@
 # Project: TURTLE LAKE PROJECT (MTA20040045)
 
 - HUD ID: MTA20040045
-- HUD ID before: 
 - Project: TURTLE LAKE PROJECT
 - Address: BLACKTAIL LANES
 - City: PABLO
-- State: MT
 - ZIP: 59864
 - ZIP extension: 0000
 - State project ID: 02040
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30047940500
 - Tract 2010: 30047940500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 40580
 - Place 2010: 40580
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 283964
 - Units: 33
 - Low-income units: 33
@@ -76,10 +68,5 @@
 - Scattered site: Yes
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

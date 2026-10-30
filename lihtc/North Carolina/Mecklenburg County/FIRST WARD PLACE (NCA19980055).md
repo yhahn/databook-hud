@@ -1,13 +1,10 @@
 # Project: FIRST WARD PLACE (NCA19980055)
 
 - HUD ID: NCA19980055
-- HUD ID before: 
 - Project: FIRST WARD PLACE
 - Address: EAST 8TH STREET
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28202
-- ZIP extension: 
 - State project ID: 9002326
 - Latitude: 35.226
 - Longitude: -80.843
@@ -19,12 +16,9 @@
 - Tract 1990: 37119000600
 - Place 2020: 12000
 - Place 2010: 12000
-- Place 2000: 
 - Place 1990: 0480
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 875865
 - Units: 174
 - Low-income units: 117
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: Not reported
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

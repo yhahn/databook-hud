@@ -1,11 +1,9 @@
 # Project: WESTRIDGE VILLAGE (NCA20120809)
 
 - HUD ID: NCA20120809
-- HUD ID before: 
 - Project: WESTRIDGE VILLAGE
 - Address: 201 ADMIRAL DR
 - City: SALISBURY
-- State: NC
 - ZIP: 28147
 - ZIP extension: 1449
 - State project ID: 9107180
@@ -19,12 +17,8 @@
 - Tract 1990: 37159051301
 - Place 2020: 58860
 - Place 2010: 58860
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 670074
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

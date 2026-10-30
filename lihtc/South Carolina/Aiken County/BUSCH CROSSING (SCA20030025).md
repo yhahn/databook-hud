@@ -1,13 +1,10 @@
 # Project: BUSCH CROSSING (SCA20030025)
 
 - HUD ID: SCA20030025
-- HUD ID before: 
 - Project: BUSCH CROSSING
 - Address: 600 CARVER TER NE
 - City: AIKEN
-- State: SC
 - ZIP: 29801
-- ZIP extension: 
 - State project ID: SC-01-030
 - Latitude: 33.565791
 - Longitude: -81.699868
@@ -22,9 +19,7 @@
 - Place 2000: 00550
 - Place 1990: 0010
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 221790
 - Units: 23
 - Low-income units: 23
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SOLTERRA (CAA20130088)
 
 - HUD ID: CAA20130088
-- HUD ID before: 
 - Project: SOLTERRA
 - Address: 151 CHAMBERS ST
 - City: EL CAJON
-- State: CA
 - ZIP: 92020
-- ZIP extension: 
 - State project ID: CA-11-038
 - Latitude: 32.796327
 - Longitude: -116.966415
@@ -22,9 +19,7 @@
 - Place 2000: 21712
 - Place 1990: 0850
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 529355
 - Units: 49
 - Low-income units: 48
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CHAMBERS SENIOR RESIDENCES.
 - Record status: Existing, unchanged

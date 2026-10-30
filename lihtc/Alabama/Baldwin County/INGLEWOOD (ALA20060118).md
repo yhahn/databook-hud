@@ -1,13 +1,10 @@
 # Project: INGLEWOOD (ALA20060118)
 
 - HUD ID: ALA20060118
-- HUD ID before: 
 - Project: INGLEWOOD
 - Address: 21635 SANDY SPRINGS CIR
 - City: ROBERTSDALE
-- State: AL
 - ZIP: 36567
-- ZIP extension: 
 - State project ID: AL-06-0013
 - Latitude: 30.54022
 - Longitude: -87.711864
@@ -20,12 +17,8 @@
 - Place 2020: 65208
 - Place 2010: 65208
 - Place 2000: 65208
-- Place 1990: 
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
-- Allocation amount: 
 - Units: 76
 - Low-income units: 76
 - Units reported: 76
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 76
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2008152, ALA2008537.
 - Record status: Existing, unchanged

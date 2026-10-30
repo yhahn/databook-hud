@@ -1,13 +1,10 @@
 # Project: ROSEMONT AT BETHEL PLACE (TXA00000496)
 
 - HUD ID: TXA00000496
-- HUD ID before: 
 - Project: ROSEMONT AT BETHEL PLACE
 - Address: 535 S ACME RD
 - City: SAN ANTONIO
-- State: TX
 - ZIP: 78237
-- ZIP extension: 
 - State project ID: TX4156
 - Latitude: 29.425667
 - Longitude: -98.587809
@@ -21,11 +18,8 @@
 - Place 2010: 65000
 - Place 2000: 65000
 - Place 1990: 3745
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 250
 - Low-income units: 250
 - Units reported: 250
@@ -35,20 +29,15 @@
 - 2-bedroom units: 112
 - 3-bedroom units: 86
 - 4-bedroom units: 0
-- Construction: 
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 38
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +52,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +60,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: WOODBURY PLACE II (MOA20150016)
 
 - HUD ID: MOA20150016
-- HUD ID before: 
 - Project: WOODBURY PLACE II
 - Address: 228 WOODBURY PLACE CIRCLE
 - City: OFALLON
-- State: MO
 - ZIP: 63366
 - ZIP extension: 0000
 - State project ID: 14-019
@@ -16,15 +14,10 @@
 - Tract 2020: 29183311712
 - Tract 2010: 29183311712
 - Tract 2000: 29183311711
-- Tract 1990: 
 - Place 2020: 54074
 - Place 2010: 54074
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 506000
 - Units: 42
 - Low-income units: 42
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: Handicapped
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

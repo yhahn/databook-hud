@@ -1,11 +1,9 @@
 # Project: RAINBOW HOUSE APARTMENTS (MTA20120020)
 
 - HUD ID: MTA20120020
-- HUD ID before: 
 - Project: RAINBOW HOUSE APARTMENTS
 - Address: 626 13TH AVENUE SOUTH
 - City: GREAT FALLS
-- State: MT
 - ZIP: 59405
 - ZIP extension: 0000
 - State project ID: 12010
@@ -22,9 +20,7 @@
 - Place 2000: 32800
 - Place 1990: 0295
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 56934
 - Units: 40
 - Low-income units: 40
@@ -78,8 +74,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

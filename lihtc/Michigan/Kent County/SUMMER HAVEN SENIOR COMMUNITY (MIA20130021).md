@@ -1,13 +1,10 @@
 # Project: SUMMER HAVEN SENIOR COMMUNITY (MIA20130021)
 
 - HUD ID: MIA20130021
-- HUD ID before: 
 - Project: SUMMER HAVEN SENIOR COMMUNITY
 - Address: 4740 BRETON RD SE
 - City: KENTWOOD
-- State: MI
 - ZIP: 49508
-- ZIP extension: 
 - State project ID: MI-697
 - Latitude: 42.87866
 - Longitude: -85.604284
@@ -22,9 +19,7 @@
 - Place 2000: 42820
 - Place 1990: 1392
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 183780
 - Units: 101
 - Low-income units: 94
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 773285
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA SUMMER HAVEN KENTWOOD.
 - Record status: Existing, unchanged

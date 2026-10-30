@@ -1,11 +1,9 @@
 # Project: CANYON PARK APTS. (UTA19960015)
 
 - HUD ID: UTA19960015
-- HUD ID before: 
 - Project: CANYON PARK APTS.
 - Address: 298 E. FIDDLERS CANYON RD
 - City: CEDAR CITY
-- State: UT
 - ZIP: 84721
 - ZIP extension: 0000
 - State project ID: 1995-03
@@ -22,9 +20,7 @@
 - Place 2000: 11320
 - Place 1990: 0745
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 53934
 - Units: 24
 - Low-income units: 24
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +73,4 @@
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

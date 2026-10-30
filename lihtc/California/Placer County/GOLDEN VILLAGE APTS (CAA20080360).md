@@ -1,13 +1,10 @@
 # Project: GOLDEN VILLAGE APTS (CAA20080360)
 
 - HUD ID: CAA20080360
-- HUD ID before: 
 - Project: GOLDEN VILLAGE APTS
 - Address: 1650 FIRST ST
 - City: LINCOLN
-- State: CA
 - ZIP: 95648
-- ZIP extension: 
 - State project ID: CA-09-551
 - Latitude: 38.886659
 - Longitude: -121.307894
@@ -22,10 +19,7 @@
 - Place 2000: 41474
 - Place 1990: 1535
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
-- Allocation amount: 
 - Units: 49
 - Low-income units: 48
 - Units reported: 49
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 5
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +49,9 @@
 - TCAP amount: 2096318
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +61,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

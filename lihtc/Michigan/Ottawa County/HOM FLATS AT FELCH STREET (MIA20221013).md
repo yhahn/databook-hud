@@ -1,11 +1,9 @@
 # Project: HOM FLATS AT FELCH STREET (MIA20221013)
 
 - HUD ID: MIA20221013
-- HUD ID before: 
 - Project: HOM FLATS AT FELCH STREET
 - Address: 12191 FELCH STREET
 - City: HOLLAND
-- State: MI
 - ZIP: 49424
 - ZIP extension: 0000
 - State project ID: 3920
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26139022207
 - Tract 2010: 26139022203
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2022
-- Placed in service note: 
 - Allocation year: 2024
-- Allocation year note: 
 - Allocation amount: 451095
 - Units: 114
 - Low-income units: 77
@@ -40,15 +32,11 @@
 - Income ceiling: Income average
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 1820000
 - CDBG: No
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

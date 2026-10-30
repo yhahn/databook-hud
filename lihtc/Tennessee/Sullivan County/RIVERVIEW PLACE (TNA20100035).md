@@ -1,13 +1,10 @@
 # Project: RIVERVIEW PLACE (TNA20100035)
 
 - HUD ID: TNA20100035
-- HUD ID before: 
 - Project: RIVERVIEW PLACE
 - Address: 218 LOUIS ST
 - City: KINGSPORT
-- State: TN
 - ZIP: 37660
-- ZIP extension: 
 - State project ID: TN-08-002
 - Latitude: 36.537191
 - Longitude: -82.553504
@@ -22,9 +19,7 @@
 - Place 2000: 39560
 - Place 1990: 0750
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 484951
 - Units: 38
 - Low-income units: 38
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 827426
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

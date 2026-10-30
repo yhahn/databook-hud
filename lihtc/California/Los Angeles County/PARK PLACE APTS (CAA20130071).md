@@ -1,13 +1,10 @@
 # Project: PARK PLACE APTS (CAA20130071)
 
 - HUD ID: CAA20130071
-- HUD ID before: 
 - Project: PARK PLACE APTS
 - Address: 12225 ATLANTIC AVE
 - City: LYNWOOD
-- State: CA
 - ZIP: 90262
-- ZIP extension: 
 - State project ID: CA-11-046
 - Latitude: 33.911208
 - Longitude: -118.191868
@@ -22,9 +19,7 @@
 - Place 2000: 15044
 - Place 1990: 1660
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 786969
 - Units: 99
 - Low-income units: 98
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 98
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,9 @@
 - HOME amount: 191711
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

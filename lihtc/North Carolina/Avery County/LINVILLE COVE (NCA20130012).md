@@ -1,13 +1,10 @@
 # Project: LINVILLE COVE (NCA20130012)
 
 - HUD ID: NCA20130012
-- HUD ID before: 
 - Project: LINVILLE COVE
 - Address: 507 LINVILLE STREET
 - City: NEWLAND
-- State: NC
 - ZIP: 28657
-- ZIP extension: 
 - State project ID: 9110382
 - Latitude: 36.084164
 - Longitude: -81.92332
@@ -20,11 +17,8 @@
 - Place 2020: 46740
 - Place 2010: 46740
 - Place 2000: 46740
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 398536
 - Units: 32
 - Low-income units: 32
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 13
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

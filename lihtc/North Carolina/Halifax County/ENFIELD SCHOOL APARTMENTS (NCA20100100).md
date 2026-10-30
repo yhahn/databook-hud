@@ -1,11 +1,9 @@
 # Project: ENFIELD SCHOOL APARTMENTS (NCA20100100)
 
 - HUD ID: NCA20100100
-- HUD ID before: 
 - Project: ENFIELD SCHOOL APARTMENTS
 - Address: 498 SHERROD HTS
 - City: ENFIELD
-- State: NC
 - ZIP: 27823
 - ZIP extension: 1567
 - State project ID: 9102475
@@ -20,11 +18,8 @@
 - Place 2020: 21360
 - Place 2010: 21360
 - Place 2000: 21360
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 466330
 - Units: 36
 - Low-income units: 36
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 15
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

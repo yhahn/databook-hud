@@ -1,13 +1,10 @@
 # Project: CAMELLIA VILLAGE (ALA19910035)
 
 - HUD ID: ALA19910035
-- HUD ID before: 
 - Project: CAMELLIA VILLAGE
 - Address: 9 CAMELLIA VILLAGE DR
 - City: BRANTLEY
-- State: AL
 - ZIP: 36009
-- ZIP extension: 
 - State project ID: AL-91-0026
 - Latitude: 31.586143
 - Longitude: -86.259914
@@ -20,11 +17,8 @@
 - Place 2020: 09016
 - Place 2010: 09016
 - Place 2000: 09016
-- Place 1990: 
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 28709
 - Units: 19
 - Low-income units: 19
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,10 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BRANTLEY HOUSING. FKA SASSER HAVEN
 - Record status: Existing, unchanged

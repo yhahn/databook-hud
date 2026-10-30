@@ -1,13 +1,10 @@
 # Project: ROSIE L CARPENTER HAVEN (ALA20080157)
 
 - HUD ID: ALA20080157
-- HUD ID before: 
 - Project: ROSIE L CARPENTER HAVEN
 - Address: 200 ANNIE THOMAS CIR
 - City: EUTAW
-- State: AL
 - ZIP: 35462
-- ZIP extension: 
 - State project ID: AL-07-0048
 - Latitude: 32.830556
 - Longitude: -87.882999
@@ -20,12 +17,8 @@
 - Place 2020: 24664
 - Place 2010: 24664
 - Place 2000: 24664
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
-- Allocation amount: 
 - Units: 33
 - Low-income units: 33
 - Units reported: 33
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 33
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 1311050
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2009040. FKA PRESTON PLACE APTS
 - Record status: Existing, unchanged

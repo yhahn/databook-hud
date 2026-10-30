@@ -1,13 +1,10 @@
 # Project: WILLOWBROOK APTS (TNA19940050)
 
 - HUD ID: TNA19940050
-- HUD ID before: 
 - Project: WILLOWBROOK APTS
 - Address: 49 WILLOWBROOK DR
 - City: WAYNESBORO
-- State: TN
 - ZIP: 38485
-- ZIP extension: 
 - State project ID: TN-93-037
 - Latitude: 35.321872
 - Longitude: -87.74323
@@ -20,11 +17,8 @@
 - Place 2020: 78600
 - Place 2010: 78600
 - Place 2000: 78600
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 66510
 - Units: 48
 - Low-income units: 48
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

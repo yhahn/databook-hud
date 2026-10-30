@@ -1,13 +1,10 @@
 # Project: WILD GEESE LANDING TOWNHOMES (NCA19970355)
 
 - HUD ID: NCA19970355
-- HUD ID before: 
 - Project: WILD GEESE LANDING TOWNHOMES
 - Address: 113 WILD GEESE CT
 - City: POWELLS POINT
-- State: NC
 - ZIP: 27966
-- ZIP extension: 
 - State project ID: 9001540
 - Latitude: 36.13909
 - Longitude: -75.83873
@@ -19,12 +16,8 @@
 - Tract 1990: 37053110400
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 215830
 - Units: 44
 - Low-income units: 44
@@ -39,9 +32,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +62,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

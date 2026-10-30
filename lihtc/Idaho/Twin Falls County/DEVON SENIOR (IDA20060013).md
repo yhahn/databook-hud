@@ -1,13 +1,10 @@
 # Project: DEVON SENIOR (IDA20060013)
 
 - HUD ID: IDA20060013
-- HUD ID before: 
 - Project: DEVON SENIOR
 - Address: 1338 NORTH COLLEGE ROAD
 - City: TWIN FALLS
-- State: ID
 - ZIP: 83301
-- ZIP extension: 
 - State project ID: HC0506
 - Latitude: 42.584299
 - Longitude: -114.456496
@@ -22,9 +19,7 @@
 - Place 2000: 82810
 - Place 1990: 0970
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 331919
 - Units: 48
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

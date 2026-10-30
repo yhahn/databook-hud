@@ -1,11 +1,9 @@
 # Project: HANOVER TOWNHOMES (MNB20171016)
 
 - HUD ID: MNB20171016
-- HUD ID before: 
 - Project: HANOVER TOWNHOMES
 - Address: 408 FARRINGTON STREET
 - City: SAINT PAUL
-- State: MN
 - ZIP: 55103
 - ZIP extension: 2335
 - State project ID: D2850
@@ -16,15 +14,11 @@
 - Tract 2020: 27123033700
 - Tract 2010: 27123033700
 - Tract 2000: 27123033700
-- Tract 1990: 
 - Place 2020: 58000
 - Place 2010: 58000
 - Place 2000: 58000
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
 - Allocation year: 2017
-- Allocation year note: 
 - Allocation amount: 408778
 - Units: 96
 - Low-income units: 96
@@ -35,20 +29,16 @@
 - 2-bedroom units: 32
 - 3-bedroom units: 32
 - 4-bedroom units: 0
-- Construction: 
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -68,9 +58,6 @@
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Single Head of Household with Minor Children
 - Scattered site: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

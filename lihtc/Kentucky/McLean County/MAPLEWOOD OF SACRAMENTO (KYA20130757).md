@@ -1,13 +1,10 @@
 # Project: MAPLEWOOD OF SACRAMENTO (KYA20130757)
 
 - HUD ID: KYA20130757
-- HUD ID before: 
 - Project: MAPLEWOOD OF SACRAMENTO
 - Address: ROSS STREET
 - City: SACRAMENTO
-- State: KY
 - ZIP: 42372
-- ZIP extension: 
 - State project ID: KY-12-017
 - Latitude: 37.4478
 - Longitude: -87.229
@@ -19,12 +16,8 @@
 - Tract 1990: 21149970300
 - Place 2020: 67638
 - Place 2010: 67638
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 194330
 - Units: 12
 - Low-income units: 12
@@ -39,7 +32,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,11 +1,9 @@
 # Project: SOROPTIMIST VILLAGE (MTA20140025)
 
 - HUD ID: MTA20140025
-- HUD ID before: 
 - Project: SOROPTIMIST VILLAGE
 - Address: 2400 13TH AVE S
 - City: GREAT FALLS
-- State: MT
 - ZIP: 59405
 - ZIP extension: 0000
 - State project ID: 13060
@@ -22,9 +20,7 @@
 - Place 2000: 32800
 - Place 1990: 0295
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 480000
 - Units: 56
 - Low-income units: 56
@@ -78,8 +74,5 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA2013007. AKA PALACE APTS.
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: FOREST MANOR APTS (ALA20080120)
 
 - HUD ID: ALA20080120
-- HUD ID before: 
 - Project: FOREST MANOR APTS
 - Address: 511 VANITY FAIR AVE
 - City: BUTLER
-- State: AL
 - ZIP: 36904
-- ZIP extension: 
 - State project ID: AL-07-0075
 - Latitude: 32.093746
 - Longitude: -88.208519
@@ -20,12 +17,8 @@
 - Place 2020: 11032
 - Place 2010: 11032
 - Place 2000: 11032
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
-- Allocation amount: 
 - Units: 47
 - Low-income units: 47
 - Units reported: 47
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 47
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2007061, ALA1989110. AKA SHERWOOD MANOR APTS.
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: DARBY HOUSE (VAA20070783)
 
 - HUD ID: VAA20070783
-- HUD ID before: 
 - Project: DARBY HOUSE
 - Address: 1400 SHIRLEYDALE AVE
 - City: RICHMOND
-- State: VA
 - ZIP: 23231
-- ZIP extension: 
 - State project ID: 9044
 - Latitude: 37.50848
 - Longitude: -77.391267
@@ -20,11 +17,8 @@
 - Place 2020: 52904
 - Place 2010: 52904
 - Place 2000: 52904
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 690576
 - Units: 108
 - Low-income units: 108
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2006106. AKA DOUGLAS SCHOOL APTS.
 - Record status: Existing, unchanged

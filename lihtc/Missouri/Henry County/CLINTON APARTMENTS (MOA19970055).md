@@ -1,11 +1,9 @@
 # Project: CLINTON APARTMENTS (MOA19970055)
 
 - HUD ID: MOA19970055
-- HUD ID before: 
 - Project: CLINTON APARTMENTS
 - Address: 205 SWISHER DR
 - City: CLINTON
-- State: MO
 - ZIP: 64735
 - ZIP extension: 0000
 - State project ID: 95155
@@ -13,18 +11,14 @@
 - Longitude: -93.773523
 - County FIPS: 29083
 - County from: 2010
-- Tract 2020: 
 - Tract 2010: 29083950500
 - Tract 2000: 29083950500
 - Tract 1990: 29083950500
-- Place 2020: 
 - Place 2010: 14986
 - Place 2000: 14986
 - Place 1990: 0895
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 116077
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

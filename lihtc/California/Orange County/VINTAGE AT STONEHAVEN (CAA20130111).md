@@ -1,13 +1,10 @@
 # Project: VINTAGE AT STONEHAVEN (CAA20130111)
 
 - HUD ID: CAA20130111
-- HUD ID before: 
 - Project: VINTAGE AT STONEHAVEN
 - Address: 5303 STONEHAVEN DR
 - City: YORBA LINDA
-- State: CA
 - ZIP: 92887
-- ZIP extension: 
 - State project ID: CA-12-900
 - Latitude: 33.886627
 - Longitude: -117.755044
@@ -22,9 +19,7 @@
 - Place 2000: 86832
 - Place 1990: 3169
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 567241
 - Units: 124
 - Low-income units: 124
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 32
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -53,18 +46,9 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +56,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA1997500. AKA VICTORIA WOODS.
 - Record status: Existing, unchanged

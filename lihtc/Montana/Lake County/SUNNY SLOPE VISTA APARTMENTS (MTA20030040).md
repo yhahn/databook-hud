@@ -1,11 +1,9 @@
 # Project: SUNNY SLOPE VISTA APARTMENTS (MTA20030040)
 
 - HUD ID: MTA20030040
-- HUD ID before: 
 - Project: SUNNY SLOPE VISTA APARTMENTS
 - Address: 11TH STREET E.
 - City: POLSON
-- State: MT
 - ZIP: 59860
 - ZIP extension: 0000
 - State project ID: 02020
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30047940304
 - Tract 2010: 30047940301
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 26226
 - Place 2010: 04410
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 62648
 - Units: 20
 - Low-income units: 19
@@ -76,10 +68,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA POLSON SUNNY SLOPE VISTA.
 - Record status: Updated

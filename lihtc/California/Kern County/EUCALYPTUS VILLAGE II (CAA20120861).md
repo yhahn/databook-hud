@@ -1,13 +1,10 @@
 # Project: EUCALYPTUS VILLAGE II (CAA20120861)
 
 - HUD ID: CAA20120861
-- HUD ID before: 
 - Project: EUCALYPTUS VILLAGE II
 - Address: 508 DUBLIN MANOR CT
 - City: BAKERSFIELD
-- State: CA
 - ZIP: 93306
-- ZIP extension: 
 - State project ID: CA-11-885
 - Latitude: 35.366246
 - Longitude: -118.931451
@@ -19,12 +16,8 @@
 - Tract 1990: 06029001101
 - Place 2020: 20903
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 208746
 - Units: 60
 - Low-income units: 58
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 45
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +44,9 @@
 - HOME amount: 2000000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +54,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

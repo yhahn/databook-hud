@@ -1,13 +1,10 @@
 # Project: REEDLEY FAMILY APTS (CAA20140438)
 
 - HUD ID: CAA20140438
-- HUD ID before: 
 - Project: REEDLEY FAMILY APTS
 - Address: 1110 S I ST
 - City: REEDLEY
-- State: CA
 - ZIP: 93654
-- ZIP extension: 
 - State project ID: CA-13-137
 - Latitude: 36.587339
 - Longitude: -119.444824
@@ -22,9 +19,7 @@
 - Place 2000: 60242
 - Place 1990: 2315
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 540584
 - Units: 48
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 37
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +60,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: PALMER GREEN II APARTMENTS (NCA20070095)
 
 - HUD ID: NCA20070095
-- HUD ID before: 
 - Project: PALMER GREEN II APARTMENTS
 - Address: 380 PALMER AVENUE
 - City: RAEFORD
-- State: NC
 - ZIP: 28376
-- ZIP extension: 
 - State project ID: 9000668
 - Latitude: 34.979924
 - Longitude: -79.246716
@@ -19,12 +16,9 @@
 - Tract 1990: 37093970300
 - Place 2020: 54580
 - Place 2010: 54580
-- Place 2000: 
 - Place 1990: 2015
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 408000
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 20
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

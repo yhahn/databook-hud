@@ -1,13 +1,10 @@
 # Project: CHESTER VILLAGE GREEN (VAA20060754)
 
 - HUD ID: VAA20060754
-- HUD ID before: 
 - Project: CHESTER VILLAGE GREEN
 - Address: 11701 CHESTER VILLAGE DR
 - City: CHESTER
-- State: VA
 - ZIP: 23831
-- ZIP extension: 
 - State project ID: 8889
 - Latitude: 37.358561
 - Longitude: -77.446288
@@ -22,9 +19,7 @@
 - Place 2000: 06216
 - Place 1990: 0245
 - Year placed in service: 2006
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 316224
 - Units: 163
 - Low-income units: 125
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2005056.
 - Record status: Existing, unchanged

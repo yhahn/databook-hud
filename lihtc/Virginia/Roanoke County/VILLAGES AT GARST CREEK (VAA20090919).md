@@ -1,13 +1,10 @@
 # Project: VILLAGES AT GARST CREEK (VAA20090919)
 
 - HUD ID: VAA20090919
-- HUD ID before: 
 - Project: VILLAGES AT GARST CREEK
 - Address: 4305 GARST MILL RD
 - City: ROANOKE
-- State: VA
 - ZIP: 24018
-- ZIP extension: 
 - State project ID: 8938
 - Latitude: 37.239442
 - Longitude: -80.007579
@@ -22,9 +19,7 @@
 - Place 2000: 13720
 - Place 1990: 0212
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 1033952
 - Units: 504
 - Low-income units: 494
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -51,20 +43,13 @@
 - RHS 538 loan: No
 - HOME: No
 - HOME amount: 0
-- CDBG: 
-- CDBG amount: 
 - TCAP: No
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2008215.
 - Record status: Existing, unchanged

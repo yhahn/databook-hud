@@ -1,11 +1,9 @@
 # Project: WOODLAND TOWNHOMES (MNB19989005)
 
 - HUD ID: MNB19989005
-- HUD ID before: 
 - Project: WOODLAND TOWNHOMES
 - Address: 951 WOODLAND DRIVE
 - City: MAHTOMEDI
-- State: MN
 - ZIP: 55115
 - ZIP extension: 1479
 - State project ID: D2472
@@ -16,15 +14,11 @@
 - Tract 2020: 27163070303
 - Tract 2010: 27163070303
 - Tract 2000: 27163070303
-- Tract 1990: 
 - Place 2020: 39428
 - Place 2010: 39428
 - Place 2000: 39428
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 250000
 - Units: 30
 - Low-income units: 30
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +59,8 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: SERENITY COURT APARTMENTS (KYA20070085)
 
 - HUD ID: KYA20070085
-- HUD ID before: 
 - Project: SERENITY COURT APARTMENTS
 - Address: PRESTON HIGHWAY
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40219
-- ZIP extension: 
 - State project ID: KY-05-023
 - Latitude: 38.1437
 - Longitude: -85.6748
@@ -19,12 +16,9 @@
 - Tract 1990: 21111011907
 - Place 2020: 48006
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1485
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 467082
 - Units: 28
 - Low-income units: 28
@@ -39,7 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

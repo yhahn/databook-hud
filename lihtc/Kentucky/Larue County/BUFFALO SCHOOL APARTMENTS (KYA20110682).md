@@ -1,13 +1,10 @@
 # Project: BUFFALO SCHOOL APARTMENTS (KYA20110682)
 
 - HUD ID: KYA20110682
-- HUD ID before: 
 - Project: BUFFALO SCHOOL APARTMENTS
 - Address: SCHOOL LOOP
 - City: BUFFALO
-- State: KY
 - ZIP: 42716
-- ZIP extension: 
 - State project ID: KY-10-002
 - Latitude: 37.5208
 - Longitude: -85.5917
@@ -19,12 +16,8 @@
 - Tract 1990: 21123960200
 - Place 2020: 10774
 - Place 2010: 10774
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 1198482
 - Units: 19
 - Low-income units: 19
@@ -39,7 +32,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +57,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

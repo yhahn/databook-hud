@@ -1,11 +1,9 @@
 # Project: MADISON PLACE SENIOR APTS (NCA20030113)
 
 - HUD ID: NCA20030113
-- HUD ID before: 
 - Project: MADISON PLACE SENIOR APTS
 - Address: 4200 FORBES RD
 - City: GASTONIA
-- State: NC
 - ZIP: 28054
 - ZIP extension: 0877
 - State project ID: 9002317
@@ -19,12 +17,9 @@
 - Tract 1990: 37071032800
 - Place 2020: 25580
 - Place 2010: 25580
-- Place 2000: 
 - Place 1990: 0990
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 443061
 - Units: 76
 - Low-income units: 76
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 61
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

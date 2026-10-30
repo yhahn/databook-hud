@@ -1,13 +1,10 @@
 # Project: COLD SPRINGS SINGLE FAMILY HOMES (KYA20070624)
 
 - HUD ID: KYA20070624
-- HUD ID before: 
 - Project: COLD SPRINGS SINGLE FAMILY HOMES
 - Address: SALMON PASS
 - City: COLD SPRING
-- State: KY
 - ZIP: 41076
-- ZIP extension: 
 - State project ID: KY-98-030
 - Latitude: 39.0177
 - Longitude: -84.4611
@@ -22,9 +19,7 @@
 - Place 2000: 16372
 - Place 1990: 0930
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 1998
-- Allocation year note: 
 - Allocation amount: 184940
 - Units: 30
 - Low-income units: 30
@@ -39,7 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +59,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS KYA2007037, KYA0000515.;
 - Record status: Updated

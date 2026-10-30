@@ -1,13 +1,10 @@
 # Project: SANDHILL ARMS (MSA20020035)
 
 - HUD ID: MSA20020035
-- HUD ID before: 
 - Project: SANDHILL ARMS
 - Address: 135 SAND RD
 - City: STARKVILLE
-- State: MS
 - ZIP: 39759
-- ZIP extension: 
 - State project ID: MS-00-029
 - Latitude: 33.430201
 - Longitude: -88.827528
@@ -22,9 +19,7 @@
 - Place 2000: 70240
 - Place 1990: 1250
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 232611
 - Units: 50
 - Low-income units: 48
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: SINGLE-PARENT FAMILIES
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA2002652.
 - Record status: Existing, unchanged

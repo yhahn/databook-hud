@@ -1,13 +1,10 @@
 # Project: PRAIRIE HEIGHTS (NDA20050007)
 
 - HUD ID: NDA20050007
-- HUD ID before: 
 - Project: PRAIRIE HEIGHTS
 - Address: 1124 SECOND ST NE
 - City: DEVILS LAKE
-- State: ND
 - ZIP: 58301
-- ZIP extension: 
 - State project ID: TC0407
 - Latitude: 48.109495
 - Longitude: -98.848642
@@ -22,9 +19,7 @@
 - Place 2000: 19420
 - Place 1990: 0415
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 146791
 - Units: 23
 - Low-income units: 21
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 14
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

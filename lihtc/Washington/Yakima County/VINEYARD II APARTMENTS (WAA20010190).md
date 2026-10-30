@@ -1,13 +1,10 @@
 # Project: VINEYARD II APARTMENTS (WAA20010190)
 
 - HUD ID: WAA20010190
-- HUD ID before: 
 - Project: VINEYARD II APARTMENTS
 - Address: 810 GRANDRIDGE ROAD
 - City: GRANDVIEW
-- State: WA
 - ZIP: 98930
-- ZIP extension: 
 - State project ID: 00-22
 - Latitude: 46.247486
 - Longitude: -119.905213
@@ -22,9 +19,7 @@
 - Place 2000: 27925
 - Place 1990: 0515
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 50378
 - Units: 24
 - Low-income units: 24
@@ -40,16 +35,12 @@
 - Income ceiling: Not reported
 - Rents below ceiling: Yes
 - Units below ceiling: 13
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
 - RHS 538 loan: No
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +59,6 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

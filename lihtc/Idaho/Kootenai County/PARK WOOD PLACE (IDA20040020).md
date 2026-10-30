@@ -1,13 +1,10 @@
 # Project: PARK WOOD PLACE (IDA20040020)
 
 - HUD ID: IDA20040020
-- HUD ID before: 
 - Project: PARK WOOD PLACE
 - Address: 15760 NORTH WESTWOOD DRIVE
 - City: RATHDRUM
-- State: ID
 - ZIP: 83858
-- ZIP extension: 
 - State project ID: HC0311
 - Latitude: 47.815572
 - Longitude: -116.874976
@@ -20,11 +17,8 @@
 - Place 2020: 66340
 - Place 2010: 66340
 - Place 2000: 66340
-- Place 1990: 
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 253191
 - Units: 36
 - Low-income units: 35
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

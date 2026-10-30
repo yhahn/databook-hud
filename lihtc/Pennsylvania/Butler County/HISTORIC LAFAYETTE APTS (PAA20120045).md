@@ -1,13 +1,10 @@
 # Project: HISTORIC LAFAYETTE APTS (PAA20120045)
 
 - HUD ID: PAA20120045
-- HUD ID before: 
 - Project: HISTORIC LAFAYETTE APTS
 - Address: 302 S MAIN ST
 - City: BUTLER
-- State: PA
 - ZIP: 16001
-- ZIP extension: 
 - State project ID: TC20110704
 - Latitude: 40.858292
 - Longitude: -79.895536
@@ -22,9 +19,7 @@
 - Place 2000: 10464
 - Place 1990: 1425
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 379844
 - Units: 59
 - Low-income units: 59
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 31
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,9 +58,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes

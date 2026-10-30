@@ -1,13 +1,10 @@
 # Project: COUNTRY CLUB VILLAGE PROJECT (IAA20070010)
 
 - HUD ID: IAA20070010
-- HUD ID before: 
 - Project: COUNTRY CLUB VILLAGE PROJECT
 - Address: 1200 OFFICE PARK RD
 - City: WEST DES MOINES
-- State: IA
 - ZIP: 50265
-- ZIP extension: 
 - State project ID: 06-51
 - Latitude: 41.590401
 - Longitude: -93.71964
@@ -22,9 +19,7 @@
 - Place 2000: 83910
 - Place 1990: 4550
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 169286
 - Units: 294
 - Low-income units: 122
@@ -39,13 +34,9 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: No
@@ -55,16 +46,7 @@
 - CDBG amount: 0
 - TCAP: No
 - TCAP amount: 0
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
 - FHA: No
-- HOPE VI: 
-- HOPE VI amount: 
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +54,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

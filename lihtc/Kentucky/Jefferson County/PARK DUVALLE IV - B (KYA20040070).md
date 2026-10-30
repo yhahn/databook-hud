@@ -1,13 +1,10 @@
 # Project: PARK DUVALLE IV - B (KYA20040070)
 
 - HUD ID: KYA20040070
-- HUD ID before: 
 - Project: PARK DUVALLE IV - B
 - Address: DR. WILLIAM G. WEATHERS DR.
 - City: LOUISVILLE
-- State: KY
 - ZIP: 40211
-- ZIP extension: 
 - State project ID: KY-00-030
 - Latitude: 38.2386
 - Longitude: -85.8254
@@ -19,12 +16,9 @@
 - Tract 1990: 21111001500
 - Place 2020: 48000
 - Place 2010: 48006
-- Place 2000: 
 - Place 1990: 1230
 - Year placed in service: 2004
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 246250
 - Units: 34
 - Low-income units: 22
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

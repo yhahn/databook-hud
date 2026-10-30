@@ -1,13 +1,10 @@
 # Project: AURORA (NDA20120010)
 
 - HUD ID: NDA20120010
-- HUD ID before: 
 - Project: AURORA
 - Address: 600 FIRST AVE N
 - City: GRAND FORKS
-- State: ND
 - ZIP: 58203
-- ZIP extension: 
 - State project ID: TC1008
 - Latitude: 47.924215
 - Longitude: -97.034228
@@ -22,9 +19,7 @@
 - Place 2000: 32060
 - Place 1990: 0693
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 579500
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA CIVIC AUDITORIUM.
 - Record status: Existing, unchanged

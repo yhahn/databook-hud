@@ -1,13 +1,10 @@
 # Project: HOMESTEAD VILLAGE II (NDA19990020)
 
 - HUD ID: NDA19990020
-- HUD ID before: 
 - Project: HOMESTEAD VILLAGE II
 - Address: 404 THIRD AVE SE
 - City: GWINNER
-- State: ND
 - ZIP: 58040
-- ZIP extension: 
 - State project ID: TC9910
 - Latitude: 46.222389
 - Longitude: -97.654999
@@ -22,9 +19,7 @@
 - Place 2000: 15100
 - Place 1990: 0720
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 23765
 - Units: 4
 - Low-income units: 4
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 2
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

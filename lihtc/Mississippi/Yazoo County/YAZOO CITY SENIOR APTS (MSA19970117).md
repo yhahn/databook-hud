@@ -1,13 +1,10 @@
 # Project: YAZOO CITY SENIOR APTS (MSA19970117)
 
 - HUD ID: MSA19970117
-- HUD ID before: 
 - Project: YAZOO CITY SENIOR APTS
 - Address: 321 N WISE ST
 - City: YAZOO CITY
-- State: MS
 - ZIP: 39194
-- ZIP extension: 
 - State project ID: MS-95-079
 - Latitude: 32.85389
 - Longitude: -90.424265
@@ -22,10 +19,7 @@
 - Place 2000: 81520
 - Place 1990: 1480
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
-- Allocation amount: 
 - Units: 49
 - Low-income units: 49
 - Units reported: 49
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +63,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MSA1997565, MSA1998050.
 - Record status: Existing, unchanged

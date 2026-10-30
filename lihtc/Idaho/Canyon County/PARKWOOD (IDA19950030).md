@@ -1,13 +1,10 @@
 # Project: PARKWOOD (IDA19950030)
 
 - HUD ID: IDA19950030
-- HUD ID before: 
 - Project: PARKWOOD
 - Address: 1817 SUNNYRIDGE ROAD
 - City: NAMPA
-- State: ID
 - ZIP: 83686
-- ZIP extension: 
 - State project ID: HC9408
 - Latitude: 43.550831
 - Longitude: -116.563017
@@ -22,9 +19,7 @@
 - Place 2000: 56260
 - Place 1990: 0660
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 311782
 - Units: 56
 - Low-income units: 55
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 8
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -72,14 +65,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

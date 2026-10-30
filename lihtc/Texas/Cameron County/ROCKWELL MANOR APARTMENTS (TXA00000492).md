@@ -1,13 +1,10 @@
 # Project: ROCKWELL MANOR APARTMENTS (TXA00000492)
 
 - HUD ID: TXA00000492
-- HUD ID before: 
 - Project: ROCKWELL MANOR APARTMENTS
 - Address: 2735 ROCKWELL DR
 - City: BROWNSVILLE
-- State: TX
 - ZIP: 78521
-- ZIP extension: 
 - State project ID: TX4426
 - Latitude: 25.929972
 - Longitude: -97.483315
@@ -21,11 +18,8 @@
 - Place 2010: 10768
 - Place 2000: 10768
 - Place 1990: 0595
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 126
 - Low-income units: 126
 - Units reported: 126
@@ -40,15 +34,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 19
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

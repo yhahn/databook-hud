@@ -1,13 +1,10 @@
 # Project: KINGSWAY APTS (NCA20000130)
 
 - HUD ID: NCA20000130
-- HUD ID before: 
 - Project: KINGSWAY APTS
 - Address: 116 O'HARA CIRCLE
 - City: KING
-- State: NC
 - ZIP: 27021
-- ZIP extension: 
 - State project ID: 9001338
 - Latitude: 36.275068
 - Longitude: -80.37715
@@ -20,11 +17,8 @@
 - Place 2020: 35760
 - Place 2010: 35760
 - Place 2000: 35760
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 152575
 - Units: 28
 - Low-income units: 28
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

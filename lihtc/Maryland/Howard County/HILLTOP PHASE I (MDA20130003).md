@@ -1,13 +1,10 @@
 # Project: HILLTOP PHASE I (MDA20130003)
 
 - HUD ID: MDA20130003
-- HUD ID before: 
 - Project: HILLTOP PHASE I
 - Address: 3628 MOUNT IDA DR
 - City: ELLICOTT CITY
-- State: MD
 - ZIP: 21043
-- ZIP extension: 
 - State project ID: MD11-20001-18
 - Latitude: 39.2735
 - Longitude: -76.8104
@@ -22,10 +19,7 @@
 - Place 2000: 26000
 - Place 1990: 0325
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
-- Allocation amount: 
 - Units: 198
 - Low-income units: 91
 - Units reported: 198
@@ -39,9 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

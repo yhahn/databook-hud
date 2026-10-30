@@ -1,11 +1,9 @@
 # Project: NORTH SKY II (NDA20150003)
 
 - HUD ID: NDA20150003
-- HUD ID before: 
 - Project: NORTH SKY II
 - Address: 4825 28TH AVE S
 - City: FARGO
-- State: ND
 - ZIP: 58104
 - ZIP extension: 0000
 - State project ID: TC1404
@@ -16,15 +14,11 @@
 - Tract 2020: 38017040700
 - Tract 2010: 38017040500
 - Tract 2000: 38017040500
-- Tract 1990: 
 - Place 2020: 25700
 - Place 2010: 25700
 - Place 2000: 25700
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 354921
 - Units: 30
 - Low-income units: 30
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

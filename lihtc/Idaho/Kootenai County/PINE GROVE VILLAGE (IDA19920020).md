@@ -1,13 +1,10 @@
 # Project: PINE GROVE VILLAGE (IDA19920020)
 
 - HUD ID: IDA19920020
-- HUD ID before: 
 - Project: PINE GROVE VILLAGE
 - Address: 7032 WEST HERITAGE PLACE
 - City: RATHDRUM
-- State: ID
 - ZIP: 83858
-- ZIP extension: 
 - State project ID: HC9122
 - Latitude: 47.818128
 - Longitude: -116.878583
@@ -20,11 +17,8 @@
 - Place 2020: 66340
 - Place 2010: 66340
 - Place 2000: 66340
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 24230
 - Units: 16
 - Low-income units: 16
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

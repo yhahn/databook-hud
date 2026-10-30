@@ -1,13 +1,10 @@
 # Project: TOLL ROAD SENIOR APTS (NYA20110065)
 
 - HUD ID: NYA20110065
-- HUD ID before: 
 - Project: TOLL ROAD SENIOR APTS
 - Address: 108 SINGLETON AVE
 - City: NORTH SYRACUSE
-- State: NY
 - ZIP: 13212
-- ZIP extension: 
 - State project ID: 20096023
 - Latitude: 43.137988
 - Longitude: -76.130149
@@ -22,9 +19,7 @@
 - Place 2000: 53660
 - Place 1990: 2585
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 1179560
 - Units: 60
 - Low-income units: 60
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 44
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +58,9 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NYA2011532.
 - Record status: Existing, unchanged

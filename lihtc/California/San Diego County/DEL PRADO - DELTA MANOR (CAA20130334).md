@@ -1,13 +1,10 @@
 # Project: DEL PRADO - DELTA MANOR (CAA20130334)
 
 - HUD ID: CAA20130334
-- HUD ID before: 
 - Project: DEL PRADO - DELTA MANOR
 - Address: 3878 BEYER BLVD
 - City: SAN DIEGO
-- State: CA
 - ZIP: 92173
-- ZIP extension: 
 - State project ID: CA-12-880
 - Latitude: 32.559841
 - Longitude: -117.05044
@@ -22,9 +19,7 @@
 - Place 2000: 66000
 - Place 1990: 2475
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 414292
 - Units: 82
 - Low-income units: 80
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 25
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

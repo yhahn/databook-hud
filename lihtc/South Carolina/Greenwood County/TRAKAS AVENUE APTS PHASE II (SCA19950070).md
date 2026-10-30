@@ -1,13 +1,10 @@
 # Project: TRAKAS AVENUE APTS PHASE II (SCA19950070)
 
 - HUD ID: SCA19950070
-- HUD ID before: 
 - Project: TRAKAS AVENUE APTS PHASE II
 - Address: 600 TRAKAS AVE
 - City: GREENWOOD
-- State: SC
 - ZIP: 29649
-- ZIP extension: 
 - State project ID: SC-94-013
 - Latitude: 34.211592
 - Longitude: -82.159655
@@ -20,11 +17,8 @@
 - Place 2020: 30895
 - Place 2010: 30895
 - Place 2000: 16945
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 55464
 - Units: 10
 - Low-income units: 10
@@ -39,9 +33,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +56,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CYPRESS MANOR (NCA20140055)
 
 - HUD ID: NCA20140055
-- HUD ID before: 
 - Project: CYPRESS MANOR
 - Address: 217 LINCOLN DRIVE
 - City: FAYETTEVILLE
-- State: NC
 - ZIP: 28301
-- ZIP extension: 
 - State project ID: 9133542
 - Latitude: 35.045812
 - Longitude: -78.87261
@@ -19,12 +16,9 @@
 - Tract 1990: 37051000200
 - Place 2020: 22920
 - Place 2010: 22920
-- Place 2000: 
 - Place 1990: 0910
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 543952
 - Units: 48
 - Low-income units: 48
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 12
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

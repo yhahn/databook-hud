@@ -1,13 +1,10 @@
 # Project: BROADMOOR VILLAGE (MSA20010010)
 
 - HUD ID: MSA20010010
-- HUD ID before: 
 - Project: BROADMOOR VILLAGE
 - Address: 491 WESTVIEW DR
 - City: YAZOO CITY
-- State: MS
 - ZIP: 39194
-- ZIP extension: 
 - State project ID: MS-00-031
 - Latitude: 32.879801
 - Longitude: -90.392074
@@ -22,9 +19,7 @@
 - Place 2000: 81520
 - Place 1990: 1480
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 57474
 - Units: 48
 - Low-income units: 47
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

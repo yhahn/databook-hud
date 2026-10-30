@@ -1,13 +1,10 @@
 # Project: STAR APTS (CAA20130447)
 
 - HUD ID: CAA20130447
-- HUD ID before: 
 - Project: STAR APTS
 - Address: 240 E SIXTH ST
 - City: LOS ANGELES
-- State: CA
 - ZIP: 90014
-- ZIP extension: 
 - State project ID: CA-11-103
 - Latitude: 34.043773
 - Longitude: -118.247954
@@ -22,9 +19,7 @@
 - Place 2000: 44000
 - Place 1990: 1630
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 1877131
 - Units: 102
 - Low-income units: 100
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 77
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Not indicated
@@ -74,12 +62,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS, HIV/A
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

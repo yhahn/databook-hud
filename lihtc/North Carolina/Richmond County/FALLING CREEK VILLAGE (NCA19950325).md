@@ -1,13 +1,10 @@
 # Project: FALLING CREEK VILLAGE (NCA19950325)
 
 - HUD ID: NCA19950325
-- HUD ID before: 
 - Project: FALLING CREEK VILLAGE
 - Address: 157 LADY MARY LANE
 - City: ROCKINGHAM
-- State: NC
 - ZIP: 28379
-- ZIP extension: 
 - State project ID: 9001353
 - Latitude: 34.915983
 - Longitude: -79.748656
@@ -22,9 +19,7 @@
 - Place 2000: 57260
 - Place 1990: 2105
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1994
-- Allocation year note: 
 - Allocation amount: 141128
 - Units: 36
 - Low-income units: 36
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 36
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

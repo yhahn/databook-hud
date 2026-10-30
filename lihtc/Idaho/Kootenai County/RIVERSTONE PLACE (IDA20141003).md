@@ -1,13 +1,10 @@
 # Project: RIVERSTONE PLACE (IDA20141003)
 
 - HUD ID: IDA20141003
-- HUD ID before: 
 - Project: RIVERSTONE PLACE
 - Address: 2433 WEST JOHN LOOP
 - City: COEUR DALENE
-- State: ID
 - ZIP: 83814
-- ZIP extension: 
 - State project ID: HC1311
 - Latitude: 47.698021
 - Longitude: -116.816981
@@ -16,15 +13,10 @@
 - Tract 2020: 16055000902
 - Tract 2010: 16055000900
 - Tract 2000: 16055001400
-- Tract 1990: 
 - Place 2020: 16750
 - Place 2010: 16750
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 501363
 - Units: 114
 - Low-income units: 113
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -72,14 +62,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

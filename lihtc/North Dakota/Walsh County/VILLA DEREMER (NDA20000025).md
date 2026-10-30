@@ -1,13 +1,10 @@
 # Project: VILLA DEREMER (NDA20000025)
 
 - HUD ID: NDA20000025
-- HUD ID before: 
 - Project: VILLA DEREMER
 - Address: 808 W FIFTH ST
 - City: GRAFTON
-- State: ND
 - ZIP: 58237
-- ZIP extension: 
 - State project ID: TC0008
 - Latitude: 48.419934
 - Longitude: -97.427566
@@ -22,9 +19,7 @@
 - Place 2000: 31820
 - Place 1990: 0685
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 9963
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 12
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

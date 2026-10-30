@@ -1,13 +1,10 @@
 # Project: GALA AT FOUR CORNERS (TXA0000X021)
 
 - HUD ID: TXA0000X021
-- HUD ID before: 
 - Project: GALA AT FOUR CORNERS
 - Address: 15010 OLD RICHMOND RD
 - City: SUGAR LAND
-- State: TX
 - ZIP: 77498
-- ZIP extension: 
 - State project ID: TX5234
 - Latitude: 29.668404
 - Longitude: -95.650053
@@ -16,16 +13,10 @@
 - Tract 2020: 48157672703
 - Tract 2010: 48157672701
 - Tract 2000: 48157672300
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 90
 - Low-income units: 72
 - Units reported: 90
@@ -41,7 +32,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 37
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +65,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

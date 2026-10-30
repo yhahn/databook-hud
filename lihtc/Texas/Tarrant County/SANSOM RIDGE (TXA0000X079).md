@@ -1,13 +1,10 @@
 # Project: SANSOM RIDGE (TXA0000X079)
 
 - HUD ID: TXA0000X079
-- HUD ID before: 
 - Project: SANSOM RIDGE
 - Address: 3100 LA JUNTA STREET
 - City: SANSOM PARK
-- State: TX
 - ZIP: 76114
-- ZIP extension: 
 - State project ID: TX5172
 - Latitude: 32.805128
 - Longitude: -97.394914
@@ -16,16 +13,10 @@
 - Tract 2020: 48439110402
 - Tract 2010: 48439110402
 - Tract 2000: 48439110500
-- Tract 1990: 
 - Place 2020: 65660
 - Place 2010: 65660
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2016
-- Allocation year note: 
-- Allocation amount: 
 - Units: 100
 - Low-income units: 100
 - Units reported: 100
@@ -41,7 +32,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 2
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +53,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
@@ -72,14 +61,8 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

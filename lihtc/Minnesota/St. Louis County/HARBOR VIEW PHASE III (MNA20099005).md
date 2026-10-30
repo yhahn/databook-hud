@@ -1,13 +1,10 @@
 # Project: HARBOR VIEW PHASE III (MNA20099005)
 
 - HUD ID: MNA20099005
-- HUD ID before: 
 - Project: HARBOR VIEW PHASE III
 - Address: LAKE AVE AND 12TH ST
 - City: DULUTH
-- State: MN
 - ZIP: 55805
-- ZIP extension: 
 - State project ID: D5211
 - Latitude: 46.7936
 - Longitude: -92.0992
@@ -22,9 +19,7 @@
 - Place 2000: 17000
 - Place 1990: 1040
 - Year placed in service: 2009
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 900000
 - Units: 41
 - Low-income units: 31
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 15
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: Yes
 - HOPE VI amount: 1908524
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: Not indicated
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

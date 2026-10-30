@@ -1,11 +1,9 @@
 # Project: CARILLON COURT (UTA20010901)
 
 - HUD ID: UTA20010901
-- HUD ID before: 
 - Project: CARILLON COURT
 - Address: 1200 SOUTH 42-48 EAST
 - City: OREM
-- State: UT
 - ZIP: 84058
 - ZIP extension: 0000
 - State project ID: 2000-01
@@ -19,12 +17,9 @@
 - Tract 1990: 49049001101
 - Place 2020: 57300
 - Place 2010: 57300
-- Place 2000: 
 - Place 1990: 0720
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 76507
 - Units: 16
 - Low-income units: 16
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

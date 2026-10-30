@@ -1,13 +1,10 @@
 # Project: THE VILLAS AT FALLEN SPRUCE (NCA20150038)
 
 - HUD ID: NCA20150038
-- HUD ID before: 
 - Project: THE VILLAS AT FALLEN SPRUCE
 - Address: 100 BOXELDER CIR
 - City: ASHEVILLE
-- State: NC
 - ZIP: 28806
-- ZIP extension: 
 - State project ID: 9152826
 - Latitude: 35.611945
 - Longitude: -82.633099
@@ -19,12 +16,8 @@
 - Tract 1990: 37021002602
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 451096
 - Units: 55
 - Low-income units: 55
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 22
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

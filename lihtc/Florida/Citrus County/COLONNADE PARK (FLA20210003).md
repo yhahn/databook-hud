@@ -1,13 +1,10 @@
 # Project: COLONNADE PARK (FLA20210003)
 
 - HUD ID: FLA20210003
-- HUD ID before: 
 - Project: COLONNADE PARK
 - Address: 1800 COLONADE STREET
 - City: INVERNESS
-- State: FL
 - ZIP: 34453
-- ZIP extension: 
 - State project ID: FL-18-3102
 - Latitude: 28.839916
 - Longitude: -82.353744
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 12017450706
 - Tract 2010: 12017450702
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 33950
 - Place 2010: 33950
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 1510000
 - Units: 106
 - Low-income units: 106
@@ -40,15 +31,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 11
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -76,10 +63,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

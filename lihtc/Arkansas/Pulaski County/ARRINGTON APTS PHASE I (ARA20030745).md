@@ -1,13 +1,10 @@
 # Project: ARRINGTON APTS PHASE I (ARA20030745)
 
 - HUD ID: ARA20030745
-- HUD ID before: 
 - Project: ARRINGTON APTS PHASE I
 - Address: 6301 CAMP ROBINSON RD
 - City: NORTH LITTLE ROCK
-- State: AR
 - ZIP: 72118
-- ZIP extension: 
 - State project ID: AR-03-27-001
 - Latitude: 34.814965
 - Longitude: -92.270371
@@ -22,9 +19,7 @@
 - Place 2000: 50450
 - Place 1990: 1475
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 138587
 - Units: 120
 - Low-income units: 120
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ARA2003007, ARA2002010.
 - Record status: Existing, unchanged

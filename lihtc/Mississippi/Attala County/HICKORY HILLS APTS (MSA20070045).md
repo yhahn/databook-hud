@@ -1,13 +1,10 @@
 # Project: HICKORY HILLS APTS (MSA20070045)
 
 - HUD ID: MSA20070045
-- HUD ID before: 
 - Project: HICKORY HILLS APTS
 - Address: 840 HWY 12 W
 - City: KOSCIUSKO
-- State: MS
 - ZIP: 39090
-- ZIP extension: 
 - State project ID: MS-06-033
 - Latitude: 33.062644
 - Longitude: -89.56884
@@ -20,11 +17,8 @@
 - Place 2020: 38320
 - Place 2010: 38320
 - Place 2000: 38320
-- Place 1990: 
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 550118
 - Units: 48
 - Low-income units: 47
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

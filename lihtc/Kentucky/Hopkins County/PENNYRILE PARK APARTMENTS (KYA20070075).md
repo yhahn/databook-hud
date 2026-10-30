@@ -1,13 +1,10 @@
 # Project: PENNYRILE PARK APARTMENTS (KYA20070075)
 
 - HUD ID: KYA20070075
-- HUD ID before: 
 - Project: PENNYRILE PARK APARTMENTS
 - Address: S. KENTUCKY AVE.
 - City: MADISONVILLE
-- State: KY
 - ZIP: 42431
-- ZIP extension: 
 - State project ID: KY-07-104
 - Latitude: 37.3305
 - Longitude: -87.5051
@@ -19,12 +16,9 @@
 - Tract 1990: 21107970600
 - Place 2020: 49368
 - Place 2010: 49368
-- Place 2000: 
 - Place 1990: 1280
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2007
-- Allocation year note: 
 - Allocation amount: 94805
 - Units: 100
 - Low-income units: 100
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +58,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

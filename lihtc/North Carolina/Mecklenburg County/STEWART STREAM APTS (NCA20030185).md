@@ -1,13 +1,10 @@
 # Project: STEWART STREAM APTS (NCA20030185)
 
 - HUD ID: NCA20030185
-- HUD ID before: 
 - Project: STEWART STREAM APTS
 - Address: 3410 TENNESSEE AVENUE
 - City: CHARLOTTE
-- State: NC
 - ZIP: 28216
-- ZIP extension: 
 - State project ID: 9001222
 - Latitude: 35.262411
 - Longitude: -80.871957
@@ -22,9 +19,7 @@
 - Place 2000: 12000
 - Place 1990: 0480
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 301984
 - Units: 57
 - Low-income units: 57
@@ -39,9 +34,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: Yes
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

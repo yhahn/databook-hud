@@ -1,13 +1,10 @@
 # Project: HICKORY RUN APTS II (ALA20000082)
 
 - HUD ID: ALA20000082
-- HUD ID before: 
 - Project: HICKORY RUN APTS II
 - Address: 710 LYNN DR SE
 - City: JACKSONVILLE
-- State: AL
 - ZIP: 36265
-- ZIP extension: 
 - State project ID: AL-00-0033
 - Latitude: 33.806943
 - Longitude: -85.753858
@@ -22,9 +19,7 @@
 - Place 2000: 38272
 - Place 1990: 0955
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 254408
 - Units: 40
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 808330
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2001080.
 - Record status: Existing, unchanged

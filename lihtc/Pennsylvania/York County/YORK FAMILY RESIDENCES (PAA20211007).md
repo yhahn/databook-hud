@@ -1,11 +1,9 @@
 # Project: YORK FAMILY RESIDENCES (PAA20211007)
 
 - HUD ID: PAA20211007
-- HUD ID before: 
 - Project: YORK FAMILY RESIDENCES
 - Address: 380 N STATE ST
 - City: YORK
-- State: PA
 - ZIP: 17403
 - ZIP extension: 2371
 - State project ID: TC20190457
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42133000300
 - Tract 2010: 42133000300
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 87048
 - Place 2010: 87048
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 1187325
 - Units: 56
 - Low-income units: 56
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

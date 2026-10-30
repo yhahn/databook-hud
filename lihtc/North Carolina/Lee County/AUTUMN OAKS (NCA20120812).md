@@ -1,13 +1,10 @@
 # Project: AUTUMN OAKS (NCA20120812)
 
 - HUD ID: NCA20120812
-- HUD ID before: 
 - Project: AUTUMN OAKS
 - Address: 250 WILLOW OAK DRIVE
 - City: SANFORD
-- State: NC
 - ZIP: 27330
-- ZIP extension: 
 - State project ID: 9107172
 - Latitude: 35.45715
 - Longitude: -79.158351
@@ -19,12 +16,8 @@
 - Tract 1990: 37105030400
 - Place 2020: 59280
 - Place 2010: 59280
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 579690
 - Units: 60
 - Low-income units: 60
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

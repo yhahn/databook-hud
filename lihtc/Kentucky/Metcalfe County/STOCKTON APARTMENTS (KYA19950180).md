@@ -1,13 +1,10 @@
 # Project: STOCKTON APARTMENTS (KYA19950180)
 
 - HUD ID: KYA19950180
-- HUD ID before: 
 - Project: STOCKTON APARTMENTS
 - Address: ROGERS ST.
 - City: EDMONTON
-- State: KY
 - ZIP: 42129
-- ZIP extension: 
 - State project ID: KY-93-069
 - Latitude: 36.9713
 - Longitude: -85.556
@@ -19,12 +16,8 @@
 - Tract 1990: 21169960300
 - Place 2020: 23968
 - Place 2010: 23968
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1995
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 20
 - Low-income units: 20
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,14 +55,12 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
@@ -80,6 +68,4 @@
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Other
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

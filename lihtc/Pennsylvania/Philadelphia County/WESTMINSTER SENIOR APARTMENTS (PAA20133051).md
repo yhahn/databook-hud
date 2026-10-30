@@ -1,11 +1,9 @@
 # Project: WESTMINSTER SENIOR APARTMENTS (PAA20133051)
 
 - HUD ID: PAA20133051
-- HUD ID before: 
 - Project: WESTMINSTER SENIOR APARTMENTS
 - Address: N 52ND ST
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19131
 - ZIP extension: 5001
 - State project ID: TC20120601
@@ -16,15 +14,11 @@
 - Tract 2020: 42101011900
 - Tract 2010: 42101011900
 - Tract 2000: 42101010300
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
 - Place 2000: 60000
-- Place 1990: 
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 1112947
 - Units: 41
 - Low-income units: 41
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -72,14 +59,11 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: 4
 - Why, other: NA
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: SAMUEL KELSEY APTS (DCB20120804)
 
 - HUD ID: DCB20120804
-- HUD ID before: 
 - Project: SAMUEL KELSEY APTS
 - Address: 3322 14TH ST NW
 - City: WASHINGTON
-- State: DC
 - ZIP: 20010
-- ZIP extension: 
 - State project ID: DCB2012010
 - Latitude: 38.930743
 - Longitude: -77.032944
@@ -22,9 +19,7 @@
 - Place 2000: 50000
 - Place 1990: 0005
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 515639
 - Units: 150
 - Low-income units: 150
@@ -39,9 +34,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

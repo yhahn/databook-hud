@@ -1,11 +1,9 @@
 # Project: GREENSBURG VILLAGE (KYA20120734)
 
 - HUD ID: KYA20120734
-- HUD ID before: 
 - Project: GREENSBURG VILLAGE
 - Address: NANCY STREET
 - City: GREENSBURG
-- State: KY
 - ZIP: 42743
 - ZIP extension: 1375
 - State project ID: KY-11-015
@@ -20,11 +18,8 @@
 - Place 2020: 32968
 - Place 2010: 32968
 - Place 2000: 32968
-- Place 1990: 
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 821512
 - Units: 50
 - Low-income units: 50
@@ -39,7 +34,6 @@
 - Credit: Both
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +59,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

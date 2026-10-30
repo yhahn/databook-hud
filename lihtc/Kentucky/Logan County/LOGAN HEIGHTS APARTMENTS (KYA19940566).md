@@ -1,13 +1,10 @@
 # Project: LOGAN HEIGHTS APARTMENTS (KYA19940566)
 
 - HUD ID: KYA19940566
-- HUD ID before: 
 - Project: LOGAN HEIGHTS APARTMENTS
 - Address: W. NINTH ST.
 - City: RUSSELLVILLE
-- State: KY
 - ZIP: 42276
-- ZIP extension: 
 - State project ID: KY-92-016
 - Latitude: 36.8382
 - Longitude: -86.976
@@ -19,12 +16,8 @@
 - Tract 1990: 21141960400
 - Place 2020: 67512
 - Place 2010: 67512
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 24
 - Low-income units: 24
@@ -39,9 +32,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,21 +55,16 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: VILLAGE OF KAUFMAN (TXA20127014)
 
 - HUD ID: TXA20127014
-- HUD ID before: 
 - Project: VILLAGE OF KAUFMAN
 - Address: 421 E 7TH ST
 - City: KAUFMAN
-- State: TX
 - ZIP: 75142
-- ZIP extension: 
 - State project ID: TX3371
 - Latitude: 32.580189
 - Longitude: -96.305455
@@ -22,9 +19,7 @@
 - Place 2000: 38488
 - Place 1990: 2165
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 18109
 - Units: 68
 - Low-income units: 68
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 3
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: No
@@ -72,14 +64,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

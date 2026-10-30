@@ -1,13 +1,10 @@
 # Project: CAMINO GONZALEZ APTS (CAA20120963)
 
 - HUD ID: CAA20120963
-- HUD ID before: 
 - Project: CAMINO GONZALEZ APTS
 - Address: 481 W GONZALES RD
 - City: OXNARD
-- State: CA
 - ZIP: 93036
-- ZIP extension: 
 - State project ID: CA-10-067
 - Latitude: 34.219346
 - Longitude: -119.183044
@@ -22,9 +19,7 @@
 - Place 2000: 54652
 - Place 1990: 2050
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 587348
 - Units: 18
 - Low-income units: 17
@@ -38,10 +33,6 @@
 - Construction: New construction
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +44,8 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
-- TCEP: 
-- TCEP amount: 
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +53,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

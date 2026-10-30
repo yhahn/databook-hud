@@ -1,13 +1,10 @@
 # Project: FAWCETT STREET (WAA19960020)
 
 - HUD ID: WAA19960020
-- HUD ID before: 
 - Project: FAWCETT STREET
 - Address: 435 FAWCETT
 - City: TACOMA
-- State: WA
 - ZIP: 98402
-- ZIP extension: 
 - State project ID: 95-24G
 - Latitude: 47.259528
 - Longitude: -122.44522
@@ -22,9 +19,7 @@
 - Place 2000: 70000
 - Place 1990: 1280
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 443748
 - Units: 60
 - Low-income units: 59
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +49,8 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

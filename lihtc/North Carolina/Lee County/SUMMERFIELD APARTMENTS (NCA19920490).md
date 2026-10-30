@@ -1,13 +1,10 @@
 # Project: SUMMERFIELD APARTMENTS (NCA19920490)
 
 - HUD ID: NCA19920490
-- HUD ID before: 
 - Project: SUMMERFIELD APARTMENTS
 - Address: 2518 INDIAN WELLS COURT
 - City: SANFORD
-- State: NC
 - ZIP: 27330
-- ZIP extension: 
 - State project ID: 9001370
 - Latitude: 35.448655
 - Longitude: -79.153452
@@ -20,11 +17,8 @@
 - Place 2020: 59280
 - Place 2010: 59280
 - Place 2000: 59280
-- Place 1990: 
 - Year placed in service: 1992
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 90110
 - Units: 78
 - Low-income units: 77
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 8
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

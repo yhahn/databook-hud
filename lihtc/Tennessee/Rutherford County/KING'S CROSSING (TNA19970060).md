@@ -1,13 +1,10 @@
 # Project: KING'S CROSSING (TNA19970060)
 
 - HUD ID: TNA19970060
-- HUD ID before: 
 - Project: KING'S CROSSING
 - Address: 1710 E NORTHFIELD BLVD
 - City: MURFREESBORO
-- State: TN
 - ZIP: 37130
-- ZIP extension: 
 - State project ID: TN-95-072
 - Latitude: 35.872319
 - Longitude: -86.360728
@@ -22,9 +19,7 @@
 - Place 2000: 51560
 - Place 1990: 1010
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 700000
 - Units: 144
 - Low-income units: 144
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

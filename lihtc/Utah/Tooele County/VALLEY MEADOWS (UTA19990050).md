@@ -1,11 +1,9 @@
 # Project: VALLEY MEADOWS (UTA19990050)
 
 - HUD ID: UTA19990050
-- HUD ID before: 
 - Project: VALLEY MEADOWS
 - Address: 600 NORTH 600 WEST
 - City: TOOELE
-- State: UT
 - ZIP: 84074
 - ZIP extension: 0000
 - State project ID: 1997-15
@@ -16,15 +14,10 @@
 - Tract 2020: 49045130706
 - Tract 2010: 49045130900
 - Tract 2000: 49045131000
-- Tract 1990: 
 - Place 2020: 76680
 - Place 2010: 76680
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1999
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 235298
 - Units: 40
 - Low-income units: 40
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +67,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CLEME MANOR (TXA00001003)
 
 - HUD ID: TXA00001003
-- HUD ID before: 
 - Project: CLEME MANOR
 - Address: 5300 COKE STREET
 - City: HOUSTON
-- State: TX
 - ZIP: 77020
-- ZIP extension: 
 - State project ID: TX5110
 - Latitude: 29.767761
 - Longitude: -95.320031
@@ -16,16 +13,11 @@
 - Tract 2020: 48201211400
 - Tract 2010: 48201211400
 - Tract 2000: 48201211400
-- Tract 1990: 
 - Place 2020: 35000
 - Place 2010: 35000
 - Place 2000: 35000
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 284
 - Low-income units: 284
 - Units reported: 284
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -76,10 +67,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

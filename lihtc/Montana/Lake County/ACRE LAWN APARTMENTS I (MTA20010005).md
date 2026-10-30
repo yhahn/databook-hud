@@ -1,11 +1,9 @@
 # Project: ACRE LAWN APARTMENTS I (MTA20010005)
 
 - HUD ID: MTA20010005
-- HUD ID before: 
 - Project: ACRE LAWN APARTMENTS I
 - Address: 217 - 219 11TH AVE NW
 - City: RONAN
-- State: MT
 - ZIP: 59864
 - ZIP extension: 0000
 - State project ID: 00110
@@ -20,11 +18,8 @@
 - Place 2020: 64150
 - Place 2010: 64150
 - Place 2000: 13900
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 70000
 - Units: 8
 - Low-income units: 8
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

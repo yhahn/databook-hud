@@ -1,11 +1,9 @@
 # Project: ANDOVER PARK (NCA20180033)
 
 - HUD ID: NCA20180033
-- HUD ID before: 
 - Project: ANDOVER PARK
 - Address: 2127 DALY WALDROP RD
 - City: KINSTON
-- State: NC
 - ZIP: 28504
 - ZIP extension: 1003
 - State project ID: 9182774
@@ -16,15 +14,10 @@
 - Tract 2020: 37107011001
 - Tract 2010: 37107011001
 - Tract 2000: 37107011000
-- Tract 1990: 
 - Place 2020: 35920
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2015
-- Allocation year note: 
 - Allocation amount: 469000
 - Units: 60
 - Low-income units: 60
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 24
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,23 +55,12 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

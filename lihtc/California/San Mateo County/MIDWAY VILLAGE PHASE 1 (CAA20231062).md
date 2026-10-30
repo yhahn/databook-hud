@@ -1,13 +1,10 @@
 # Project: MIDWAY VILLAGE PHASE 1 (CAA20231062)
 
 - HUD ID: CAA20231062
-- HUD ID before: 
 - Project: MIDWAY VILLAGE PHASE 1
 - Address: 80 AND 88 PARK STREET
 - City: DALY CITY
-- State: CA
 - ZIP: 94014
-- ZIP extension: 
 - State project ID: CA-2020-668
 - Latitude: 37.6964
 - Longitude: -122.4569
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06081600501
 - Tract 2010: 06081600500
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 17918
 - Place 2010: 17918
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 6172140
 - Units: 147
 - Low-income units: 145
@@ -39,16 +30,13 @@
 - Credit: 30 percent present value
 - Income ceiling: Income average
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,10 +55,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Transition age youth
 - Scattered site: No
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

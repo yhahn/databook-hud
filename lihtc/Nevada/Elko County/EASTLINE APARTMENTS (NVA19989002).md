@@ -1,11 +1,9 @@
 # Project: EASTLINE APARTMENTS (NVA19989002)
 
 - HUD ID: NVA19989002
-- HUD ID before: 
 - Project: EASTLINE APARTMENTS
 - Address: 1550 EASTLINE LANE
 - City: WENDOVER
-- State: NV
 - ZIP: 89833
 - ZIP extension: 0000
 - State project ID: 97-57
@@ -16,15 +14,10 @@
 - Tract 2020: 32007951500
 - Tract 2010: 32007951500
 - Tract 2000: 32007951500
-- Tract 1990: 
 - Place 2020: 83730
 - Place 2010: 83730
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 82431
 - Units: 30
 - Low-income units: 30
@@ -40,8 +33,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 30
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +48,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,6 @@
 - Other population: Yes
 - Other population named: OTHER
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

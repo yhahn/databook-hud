@@ -1,13 +1,10 @@
 # Project: OSPREY CIRCLE (MEA20140273)
 
 - HUD ID: MEA20140273
-- HUD ID before: 
 - Project: OSPREY CIRCLE
 - Address: 1 OSPREY CIR
 - City: SOUTH PORTLAND
-- State: ME
 - ZIP: 04106
-- ZIP extension: 
 - State project ID: MSHARLP1593
 - Latitude: 43.635621
 - Longitude: -70.308949
@@ -22,9 +19,7 @@
 - Place 2000: 71990
 - Place 1990: 4230
 - Year placed in service: 2014
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 648026
 - Units: 48
 - Low-income units: 29
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 29
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -57,14 +50,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +60,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

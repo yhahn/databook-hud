@@ -1,11 +1,9 @@
 # Project: RONAN MAXWELL SENIOR (MTA20000060)
 
 - HUD ID: MTA20000060
-- HUD ID before: 
 - Project: RONAN MAXWELL SENIOR
 - Address: 411 1ST AVE SW
 - City: RONAN
-- State: MT
 - ZIP: 59864
 - ZIP extension: 0000
 - State project ID: 99040
@@ -20,11 +18,8 @@
 - Place 2020: 64150
 - Place 2010: 64150
 - Place 2000: 13900
-- Place 1990: 
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 28748
 - Units: 21
 - Low-income units: 21
@@ -76,10 +71,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

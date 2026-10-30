@@ -1,13 +1,10 @@
 # Project: QUAD COUNTY HOUSING, LLC (KYA20114026)
 
 - HUD ID: KYA20114026
-- HUD ID before: 
 - Project: QUAD COUNTY HOUSING, LLC
 - Address: FT. CAMPBELL BLVD
 - City: HOPKINSVILLE
-- State: KY
 - ZIP: 42240
-- ZIP extension: 
 - State project ID: KY-08-033
 - Latitude: 36.8627
 - Longitude: -87.4913
@@ -16,15 +13,10 @@
 - Tract 2020: 21047200100
 - Tract 2010: 21047200100
 - Tract 2000: 21047200100
-- Tract 1990: 
 - Place 2020: 37918
 - Place 2010: 37918
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2008
-- Allocation year note: 
 - Allocation amount: 2557800
 - Units: 14
 - Low-income units: 14
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: Yes
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: Yes
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: 353 MAIN STREET FAMILY APARTMENTS (CAA20231002)
 
 - HUD ID: CAA20231002
-- HUD ID before: 
 - Project: 353 MAIN STREET FAMILY APARTMENTS
 - Address: 353 MAIN STREET
 - City: REDWOOD CITY
-- State: CA
 - ZIP: 94603
-- ZIP extension: 
 - State project ID: CA-2019-402
 - Latitude: 37.491057
 - Longitude: -122.226801
@@ -15,16 +12,10 @@
 - County from: 2020
 - Tract 2020: 06081610202
 - Tract 2010: 06081610202
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60102
 - Place 2010: 60102
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2023
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 2763433
 - Units: 125
 - Low-income units: 124
@@ -33,8 +24,6 @@
 - Efficiencies: 15
 - 1-bedroom units: 57
 - 2-bedroom units: 53
-- 3-bedroom units: 
-- 4-bedroom units: 
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
@@ -44,11 +33,9 @@
 - Affordability years: 55
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: Yes
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -67,9 +54,6 @@
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
-- Families: 
-- Elderly: 
-- Disabled: 
 - Homeless: Yes
 - Other population: Yes
 - Other population named: Veterans
@@ -78,8 +62,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: New

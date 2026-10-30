@@ -1,11 +1,9 @@
 # Project: LAKE SUPERIOR VILLAGE (MIA20211010)
 
 - HUD ID: MIA20211010
-- HUD ID before: 
 - Project: LAKE SUPERIOR VILLAGE
 - Address: 125 DOBSON PLACE
 - City: MARQUETTE
-- State: MI
 - ZIP: 49855
 - ZIP extension: 0000
 - State project ID: 3923
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26103000600
 - Tract 2010: 26103000600
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 51900
 - Place 2010: 51900
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2020
-- Allocation year note: 
 - Allocation amount: 893495
 - Units: 116
 - Low-income units: 116
@@ -40,15 +32,11 @@
 - Income ceiling: Income average
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 535277
 - CDBG: No
@@ -72,14 +60,9 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

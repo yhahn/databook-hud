@@ -1,13 +1,10 @@
 # Project: ROXBURY COVE (MSA20080205)
 
 - HUD ID: MSA20080205
-- HUD ID before: 
 - Project: ROXBURY COVE
 - Address: 12053 GEORGE ST
 - City: GULFPORT
-- State: MS
 - ZIP: 39503
-- ZIP extension: 
 - State project ID: MS-06-081
 - Latitude: 30.44671
 - Longitude: -89.041856
@@ -22,9 +19,7 @@
 - Place 2000: 06220
 - Place 1990: 0943
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 350000
 - Units: 30
 - Low-income units: 30
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA ROXBURY ESTATES OF GULFPORT II.
 - Record status: Existing, unchanged

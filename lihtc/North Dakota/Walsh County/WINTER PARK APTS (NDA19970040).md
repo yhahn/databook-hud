@@ -1,13 +1,10 @@
 # Project: WINTER PARK APTS (NDA19970040)
 
 - HUD ID: NDA19970040
-- HUD ID before: 
 - Project: WINTER PARK APTS
 - Address: 192 E 14TH ST
 - City: GRAFTON
-- State: ND
 - ZIP: 58237
-- ZIP extension: 
 - State project ID: 95-15
 - Latitude: 48.410279
 - Longitude: -97.407393
@@ -22,9 +19,7 @@
 - Place 2000: 31820
 - Place 1990: 0685
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 108435
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 4
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -67,19 +60,7 @@
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: No
-- Families: 
-- Elderly: 
-- Disabled: 
-- Homeless: 
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

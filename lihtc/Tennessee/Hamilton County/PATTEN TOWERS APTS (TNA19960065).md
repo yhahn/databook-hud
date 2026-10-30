@@ -1,13 +1,10 @@
 # Project: PATTEN TOWERS APTS (TNA19960065)
 
 - HUD ID: TNA19960065
-- HUD ID before: 
 - Project: PATTEN TOWERS APTS
 - Address: 1 E 11TH ST
 - City: CHATTANOOGA
-- State: TN
 - ZIP: 37402
-- ZIP extension: 
 - State project ID: TN-95-103
 - Latitude: 35.044056
 - Longitude: -85.309267
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 0245
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 395064
 - Units: 221
 - Low-income units: 221
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

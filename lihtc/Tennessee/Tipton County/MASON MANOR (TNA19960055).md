@@ -1,13 +1,10 @@
 # Project: MASON MANOR (TNA19960055)
 
 - HUD ID: TNA19960055
-- HUD ID before: 
 - Project: MASON MANOR
 - Address: 50 MASON MANOR LN
 - City: MASON
-- State: TN
 - ZIP: 38049
-- ZIP extension: 
 - State project ID: TN-95-022
 - Latitude: 35.421905
 - Longitude: -89.530061
@@ -20,11 +17,8 @@
 - Place 2020: 46420
 - Place 2010: 46420
 - Place 2000: 46420
-- Place 1990: 
 - Year placed in service: 1996
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 48426
 - Units: 24
 - Low-income units: 24
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 10
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS,,, TNA1995800.
 - Record status: Existing, unchanged

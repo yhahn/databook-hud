@@ -1,11 +1,9 @@
 # Project: CENTRE COURT MANOR (MTA20030015)
 
 - HUD ID: MTA20030015
-- HUD ID before: 
 - Project: CENTRE COURT MANOR
 - Address: 121 SECOND AVENUE WEST
 - City: KALISPELL
-- State: MT
 - ZIP: 59901
 - ZIP extension: 0000
 - State project ID: 01030
@@ -22,9 +20,7 @@
 - Place 2000: 40075
 - Place 1990: 0375
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 308545
 - Units: 40
 - Low-income units: 36
@@ -76,10 +72,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

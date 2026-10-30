@@ -1,11 +1,9 @@
 # Project: BELLE MEADE APARTMENTS (SCA20200001)
 
 - HUD ID: SCA20200001
-- HUD ID before: 
 - Project: BELLE MEADE APARTMENTS
 - Address: 25 FLEETWOOD DRIVE
 - City: GREENVILLE
-- State: SC
 - ZIP: 29605
 - ZIP extension: 0000
 - State project ID: SC-51901
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 45045002005
 - Tract 2010: 45045002005
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 482975
 - Units: 100
 - Low-income units: 100
@@ -40,15 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +54,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

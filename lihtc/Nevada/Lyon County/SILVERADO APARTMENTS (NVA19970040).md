@@ -1,11 +1,9 @@
 # Project: SILVERADO APARTMENTS (NVA19970040)
 
 - HUD ID: NVA19970040
-- HUD ID before: 
 - Project: SILVERADO APARTMENTS
 - Address: 3160 ELM STREET
 - City: SILVER SPRINGS
-- State: NV
 - ZIP: 89429
 - ZIP extension: 0000
 - State project ID: 96-57
@@ -22,9 +20,7 @@
 - Place 2000: 67200
 - Place 1990: 0094
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 56976
 - Units: 24
 - Low-income units: 24
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,7 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: BROOKSHIRE (VAA20181004)
 
 - HUD ID: VAA20181004
-- HUD ID before: 
 - Project: BROOKSHIRE
 - Address: 65 BROOKSHIRE LANE
 - City: BASSETT
-- State: VA
 - ZIP: 24055
-- ZIP extension: 
 - State project ID: 932
 - Latitude: 36.749865
 - Longitude: -80.084261
@@ -19,12 +16,8 @@
 - Tract 1990: 51089011200
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 361405
 - Units: 64
 - Low-income units: 64
@@ -40,15 +33,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 36
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
 - HUD multifamily aid: No
 - RHS 514 loan: Yes
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +62,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
 - Resyndicated: Yes
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2000055.
 - Record status: Existing, unchanged

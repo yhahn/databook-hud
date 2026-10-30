@@ -1,13 +1,10 @@
 # Project: THE VILLAS AT HICKORY TREE (NCA20150047)
 
 - HUD ID: NCA20150047
-- HUD ID before: 
 - Project: THE VILLAS AT HICKORY TREE
 - Address: 3305 HICKORY TREE ROAD
 - City: WINSTON SALEM
-- State: NC
 - ZIP: 27127
-- ZIP extension: 
 - State project ID: 9151416
 - Latitude: 35.993303
 - Longitude: -80.26578
@@ -19,12 +16,8 @@
 - Tract 1990: 37057060200
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2013
-- Allocation year note: 
 - Allocation amount: 447900
 - Units: 56
 - Low-income units: 56
@@ -41,7 +34,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 23
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +63,8 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

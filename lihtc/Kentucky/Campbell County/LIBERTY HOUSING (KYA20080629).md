@@ -1,13 +1,10 @@
 # Project: LIBERTY HOUSING (KYA20080629)
 
 - HUD ID: KYA20080629
-- HUD ID before: 
 - Project: LIBERTY HOUSING
 - Address: ROBERTS STREET
 - City: NEWPORT
-- State: KY
 - ZIP: 41071
-- ZIP extension: 
 - State project ID: KY-06-071
 - Latitude: 39.0698
 - Longitude: -84.4793
@@ -16,15 +13,10 @@
 - Tract 2020: 21037052500
 - Tract 2010: 21037052500
 - Tract 2000: 21037050500
-- Tract 1990: 
 - Place 2020: 55884
 - Place 2010: 55884
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 400000
 - Units: 39
 - Low-income units: 39
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +56,15 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

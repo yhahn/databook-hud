@@ -1,13 +1,10 @@
 # Project: SOMER-COURT ASSOC. DBA PLUMTREE APARTMENTS - PROJ. (KYA19979023)
 
 - HUD ID: KYA19979023
-- HUD ID before: 
 - Project: SOMER-COURT ASSOC. DBA PLUMTREE APARTMENTS - PROJ.
 - Address: TURPEN CT.
 - City: SOMERSET
-- State: KY
 - ZIP: 42501
-- ZIP extension: 
 - State project ID: KY-95-117
 - Latitude: 37.1214
 - Longitude: -84.6642
@@ -16,15 +13,10 @@
 - Tract 2020: 21199930401
 - Tract 2010: 21199930401
 - Tract 2000: 21199990400
-- Tract 1990: 
 - Place 2020: 71688
 - Place 2010: 71688
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1997
-- Placed in service note: 
 - Allocation year: 1995
-- Allocation year note: 
 - Allocation amount: 90000
 - Units: 24
 - Low-income units: 24
@@ -39,7 +31,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: No
@@ -65,21 +56,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: No
 - Families: No
 - Elderly: No
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

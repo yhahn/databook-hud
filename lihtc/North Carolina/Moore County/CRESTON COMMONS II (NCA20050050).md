@@ -1,13 +1,10 @@
 # Project: CRESTON COMMONS II (NCA20050050)
 
 - HUD ID: NCA20050050
-- HUD ID before: 
 - Project: CRESTON COMMONS II
 - Address: 555 TALMADGE WAY
 - City: SOUTHERN PINES
-- State: NC
 - ZIP: 28387
-- ZIP extension: 
 - State project ID: 9001006
 - Latitude: 35.180483
 - Longitude: -79.426769
@@ -22,9 +19,7 @@
 - Place 2000: 63120
 - Place 1990: 2320
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 207452
 - Units: 32
 - Low-income units: 32
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 16
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +56,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: State
 - Targets a population: Yes
@@ -72,14 +64,7 @@
 - Disabled: Yes
 - Homeless: Yes
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

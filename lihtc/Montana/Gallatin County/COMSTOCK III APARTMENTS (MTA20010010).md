@@ -1,11 +1,9 @@
 # Project: COMSTOCK III APARTMENTS (MTA20010010)
 
 - HUD ID: MTA20010010
-- HUD ID before: 
 - Project: COMSTOCK III APARTMENTS
 - Address: 777 HAGGERTY LANE
 - City: BOZEMAN
-- State: MT
 - ZIP: 59715
 - ZIP extension: 0000
 - State project ID: 00090
@@ -20,11 +18,8 @@
 - Place 2020: 08950
 - Place 2010: 08950
 - Place 2000: 08950
-- Place 1990: 
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 204563
 - Units: 28
 - Low-income units: 28
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -79,7 +72,5 @@
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA COMSTOCK III.
 - Record status: Updated

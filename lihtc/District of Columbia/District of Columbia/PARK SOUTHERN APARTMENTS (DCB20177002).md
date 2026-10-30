@@ -1,13 +1,10 @@
 # Project: PARK SOUTHERN APARTMENTS (DCB20177002)
 
 - HUD ID: DCB20177002
-- HUD ID before: 
 - Project: PARK SOUTHERN APARTMENTS
 - Address: 800 SOUTHERN AVENUE, SE
 - City: WASHINGTON
-- State: DC
 - ZIP: 20032
-- ZIP extension: 
 - State project ID: DCB2025020
 - Latitude: 38.828052
 - Longitude: -76.992799
@@ -15,15 +12,9 @@
 - County from: 2020
 - Tract 2020: 11001009811
 - Tract 2010: 11001009811
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 50000
 - Place 2010: 50000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2017
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Confirmed, year not given (9999)
 - Allocation amount: 3123013
 - Units: 358
@@ -34,7 +25,6 @@
 - 1-bedroom units: 200
 - 2-bedroom units: 151
 - 3-bedroom units: 3
-- 4-bedroom units: 
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: Income average
@@ -44,11 +34,9 @@
 - Affordability years: 30
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -71,15 +59,8 @@
 - Elderly: Yes
 - Disabled: Yes
 - Homeless: Yes
-- Other population: 
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

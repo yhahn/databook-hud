@@ -1,13 +1,10 @@
 # Project: RICHMOND PARK (ALA20050078)
 
 - HUD ID: ALA20050078
-- HUD ID before: 
 - Project: RICHMOND PARK
 - Address: 2 RICHMOND PARK DR
 - City: PHENIX CITY
-- State: AL
 - ZIP: 36869
-- ZIP extension: 
 - State project ID: 2005003-TC2
 - Latitude: 32.443536
 - Longitude: -85.023866
@@ -22,9 +19,7 @@
 - Place 2000: 59472
 - Place 1990: 1365
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 482454
 - Units: 56
 - Low-income units: 56
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +58,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2006105.
 - Record status: Existing, unchanged

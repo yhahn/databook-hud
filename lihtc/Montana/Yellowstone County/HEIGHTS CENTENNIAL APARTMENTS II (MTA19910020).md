@@ -1,11 +1,9 @@
 # Project: HEIGHTS CENTENNIAL APARTMENTS II (MTA19910020)
 
 - HUD ID: MTA19910020
-- HUD ID before: 
 - Project: HEIGHTS CENTENNIAL APARTMENTS II
 - Address: 1526 LAKE ELMO ROAD
 - City: BILLINGS
-- State: MT
 - ZIP: 59101
 - ZIP extension: 0000
 - State project ID: 91010
@@ -22,9 +20,7 @@
 - Place 2000: 06550
 - Place 1990: 0050
 - Year placed in service: 1991
-- Placed in service note: 
 - Allocation year: 1991
-- Allocation year note: 
 - Allocation amount: 29169
 - Units: 11
 - Low-income units: 11
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -76,10 +70,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MTA0000050.
 - Record status: Existing, unchanged

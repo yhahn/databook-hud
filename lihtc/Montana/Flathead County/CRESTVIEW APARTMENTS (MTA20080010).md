@@ -1,11 +1,9 @@
 # Project: CRESTVIEW APARTMENTS (MTA20080010)
 
 - HUD ID: MTA20080010
-- HUD ID before: 
 - Project: CRESTVIEW APARTMENTS
 - Address: 103 CRESTVIEW DR
 - City: BIG FORK
-- State: MT
 - ZIP: 59912
 - ZIP extension: 0000
 - State project ID: MT-06-080
@@ -20,11 +18,8 @@
 - Place 2020: 05875
 - Place 2010: 05875
 - Place 2000: 05875
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2006
-- Allocation year note: 
 - Allocation amount: 226860
 - Units: 24
 - Low-income units: 24
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 24
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -79,7 +72,4 @@
 - DDA: Non-metro DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

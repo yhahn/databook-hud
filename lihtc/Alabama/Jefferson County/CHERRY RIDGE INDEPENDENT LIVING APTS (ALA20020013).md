@@ -1,13 +1,10 @@
 # Project: CHERRY RIDGE INDEPENDENT LIVING APTS (ALA20020013)
 
 - HUD ID: ALA20020013
-- HUD ID before: 
 - Project: CHERRY RIDGE INDEPENDENT LIVING APTS
 - Address: 1100 JEFF GERMANY PKWY
 - City: BIRMINGHAM
-- State: AL
 - ZIP: 35214
-- ZIP extension: 
 - State project ID: AL-02-0014
 - Latitude: 33.561393
 - Longitude: -86.869416
@@ -22,9 +19,7 @@
 - Place 2000: 00460
 - Place 1990: 0647
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2002
-- Allocation year note: 
 - Allocation amount: 346356
 - Units: 56
 - Low-income units: 47
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 1321890
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +60,7 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2004030.
 - Record status: Existing, unchanged

@@ -1,11 +1,9 @@
 # Project: VILLAGE CENTER I (MIA20183004)
 
 - HUD ID: MIA20183004
-- HUD ID before: 
 - Project: VILLAGE CENTER I
 - Address: 901 PALLISTER
 - City: DETROIT
-- State: MI
 - ZIP: 48202
 - ZIP extension: 0000
 - State project ID: 3798
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 26163533900
 - Tract 2010: 26163533900
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 22000
 - Place 2010: 22000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 766957
 - Units: 200
 - Low-income units: 200
@@ -40,15 +32,12 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -72,14 +61,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

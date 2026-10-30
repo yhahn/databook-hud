@@ -1,13 +1,10 @@
 # Project: SUNDANCE MEADOWS (TXA00001051)
 
 - HUD ID: TXA00001051
-- HUD ID before: 
 - Project: SUNDANCE MEADOWS
 - Address: 865 TONYS ROAD
 - City: BROWNSVILLE
-- State: TX
 - ZIP: 78526
-- ZIP extension: 
 - State project ID: TX5132
 - Latitude: 25.98717
 - Longitude: -97.480485
@@ -16,16 +13,10 @@
 - Tract 2020: 48061014404
 - Tract 2010: 48061014400
 - Tract 2000: 48061012609
-- Tract 1990: 
 - Place 2020: 10768
 - Place 2010: 10768
-- Place 2000: 
-- Place 1990: 
-- Year placed in service: 
 - Placed in service note: Not confirmed (8888)
 - Allocation year: 2015
-- Allocation year note: 
-- Allocation amount: 
 - Units: 132
 - Low-income units: 106
 - Units reported: 132
@@ -63,7 +54,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -76,10 +66,4 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
-- QCT: 
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

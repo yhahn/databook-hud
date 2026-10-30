@@ -1,11 +1,9 @@
 # Project: 1301 NORTH 8TH STREET (PAA20210001)
 
 - HUD ID: PAA20210001
-- HUD ID before: 
 - Project: 1301 NORTH 8TH STREET
 - Address: 1301 N 8TH ST
 - City: PHILADELPHIA
-- State: PA
 - ZIP: 19122
 - ZIP extension: 4201
 - State project ID: TC20190806
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42101014100
 - Tract 2010: 42101014100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 60000
 - Place 2010: 60000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 361067
 - Units: 40
 - Low-income units: 40
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: Yes
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: Yes
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

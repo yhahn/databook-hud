@@ -1,13 +1,10 @@
 # Project: ARCHER COURTS APTS (ILB20000808)
 
 - HUD ID: ILB20000808
-- HUD ID before: 
 - Project: ARCHER COURTS APTS
 - Address: 2220 S PRINCETON AVE
 - City: CHICAGO
-- State: IL
 - ZIP: 60616
-- ZIP extension: 
 - State project ID: IL-01-02050
 - Latitude: 41.85212
 - Longitude: -87.634998
@@ -22,9 +19,7 @@
 - Place 2000: 14000
 - Place 1990: 1051
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 470548
 - Units: 146
 - Low-income units: 146
@@ -38,11 +33,6 @@
 - Construction: Acquisition and rehab
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
-- Non-profit sponsor: 
 - Increased basis: Yes
 - Tax-exempt bond: Yes
 - HUD multifamily aid: Yes
@@ -53,18 +43,11 @@
 - HOME amount: 0
 - CDBG: Yes
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +55,8 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ILB2000005.;
 - Record status: Existing, unchanged

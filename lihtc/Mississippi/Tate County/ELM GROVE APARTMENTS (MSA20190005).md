@@ -1,11 +1,9 @@
 # Project: ELM GROVE APARTMENTS (MSA20190005)
 
 - HUD ID: MSA20190005
-- HUD ID before: 
 - Project: ELM GROVE APARTMENTS
 - Address: 751 NORTH STREET
 - City: COLDWATER
-- State: MS
 - ZIP: 38618
 - ZIP extension: 0000
 - State project ID: 17-1-004
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 28137950301
 - Tract 2010: 28137950301
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 14900
 - Place 2010: 14900
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2019
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 209891
 - Units: 24
 - Low-income units: 24
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

@@ -1,13 +1,10 @@
 # Project: CAVE VALLEY APARTMENTS (KYA20050030)
 
 - HUD ID: KYA20050030
-- HUD ID before: 
 - Project: CAVE VALLEY APARTMENTS
 - Address: RICHMOND ST.
 - City: MT. VERNON
-- State: KY
 - ZIP: 40456
-- ZIP extension: 
 - State project ID: KY-03-015
 - Latitude: 37.388
 - Longitude: -84.3782
@@ -19,12 +16,9 @@
 - Tract 1990: 21203950200
 - Place 2020: 54174
 - Place 2010: 54174
-- Place 2000: 
 - Place 1990: 1400
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2003
-- Allocation year note: 
 - Allocation amount: 0
 - Units: 29
 - Low-income units: 29
@@ -39,7 +33,6 @@
 - Credit: 30 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: Yes
 - Affordability years: 15
 - Non-profit sponsor: Yes
@@ -65,21 +58,14 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

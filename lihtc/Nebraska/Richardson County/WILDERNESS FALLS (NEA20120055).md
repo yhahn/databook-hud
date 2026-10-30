@@ -1,13 +1,10 @@
 # Project: WILDERNESS FALLS (NEA20120055)
 
 - HUD ID: NEA20120055
-- HUD ID before: 
 - Project: WILDERNESS FALLS
 - Address: 307 W 31ST ST
 - City: FALLS CITY
-- State: NE
 - ZIP: 68355
-- ZIP extension: 
 - State project ID: 7-0764
 - Latitude: 40.09
 - Longitude: -95.6148
@@ -22,9 +19,7 @@
 - Place 2000: 16655
 - Place 1990: 0905
 - Year placed in service: 2012
-- Placed in service note: 
 - Allocation year: 2011
-- Allocation year note: 
 - Allocation amount: 303761
 - Units: 16
 - Low-income units: 16
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

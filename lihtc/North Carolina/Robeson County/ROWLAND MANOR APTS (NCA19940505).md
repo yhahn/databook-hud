@@ -1,13 +1,10 @@
 # Project: ROWLAND MANOR APTS (NCA19940505)
 
 - HUD ID: NCA19940505
-- HUD ID before: 
 - Project: ROWLAND MANOR APTS
 - Address: 502 E MCCORMICK STREET
 - City: ROWLAND
-- State: NC
 - ZIP: 28383
-- ZIP extension: 
 - State project ID: 9002088
 - Latitude: 34.532035
 - Longitude: -79.28955
@@ -20,11 +17,8 @@
 - Place 2020: 58140
 - Place 2010: 58140
 - Place 2000: 58140
-- Place 1990: 
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 37472
 - Units: 24
 - Low-income units: 24
@@ -39,9 +33,7 @@
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +63,10 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
 - Why no longer monitored: Completed extended-use period
-- Why, other: 
-- Data note: 
 - Record status: Updated

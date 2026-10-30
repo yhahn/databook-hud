@@ -1,13 +1,10 @@
 # Project: ANGELA MEADOWS (ALA20020005)
 
 - HUD ID: ALA20020005
-- HUD ID before: 
 - Project: ANGELA MEADOWS
 - Address: 2940 GEORGE WALLACE DR
 - City: ALBERTVILLE
-- State: AL
 - ZIP: 35951
-- ZIP extension: 
 - State project ID: AL-01-0055
 - Latitude: 34.29423
 - Longitude: -86.207617
@@ -22,9 +19,7 @@
 - Place 2000: 00988
 - Place 1990: 0030
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 287629
 - Units: 48
 - Low-income units: 40
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 48
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +46,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +60,6 @@
 - Other population: Yes
 - Other population named: MENTAL ILLNESS
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

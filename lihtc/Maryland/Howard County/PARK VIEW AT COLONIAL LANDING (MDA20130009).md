@@ -1,13 +1,10 @@
 # Project: PARK VIEW AT COLONIAL LANDING (MDA20130009)
 
 - HUD ID: MDA20130009
-- HUD ID before: 
 - Project: PARK VIEW AT COLONIAL LANDING
 - Address: 6391 ROWANBERRY DR
 - City: ELKRIDGE
-- State: MD
 - ZIP: 21075
-- ZIP extension: 
 - State project ID: MD-95-01001
 - Latitude: 39.202112
 - Longitude: -76.735291
@@ -22,10 +19,7 @@
 - Place 2000: 25750
 - Place 1990: 0312
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
-- Allocation amount: 
 - Units: 100
 - Low-income units: 100
 - Units reported: 100
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 6
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -53,18 +45,11 @@
 - HOME amount: 300000
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +57,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS MDA1996025. AKA COLONIAL LANDING.
 - Record status: Existing, unchanged

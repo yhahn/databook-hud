@@ -1,11 +1,9 @@
 # Project: JACK ESTATES (NEA20180001)
 
 - HUD ID: NEA20180001
-- HUD ID before: 
 - Project: JACK ESTATES
 - Address: SCATTERED ADDRESSES
 - City: WAVERLY
-- State: NE
 - ZIP: 68462
 - ZIP extension: 0000
 - State project ID: 7-0881
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 31109010100
 - Tract 2010: 31109010100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 51770
 - Place 2010: 51770
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2018
-- Placed in service note: 
 - Allocation year: 2016
-- Allocation year note: 
 - Allocation amount: 232563
 - Units: 15
 - Low-income units: 15
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -78,8 +66,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

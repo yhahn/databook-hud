@@ -1,11 +1,9 @@
 # Project: PARK FOREST (MIA20201014)
 
 - HUD ID: MIA20201014
-- HUD ID before: 
 - Project: PARK FOREST
 - Address: 3300 SPIREA COURT
 - City: BLACKMAN TWP
-- State: MI
 - ZIP: 49204
 - ZIP extension: 0000
 - State project ID: 488
@@ -15,16 +13,8 @@
 - County from: 2020
 - Tract 2020: 26075000600
 - Tract 2010: 26075000600
-- Tract 2000: 
-- Tract 1990: 
-- Place 2020: 
-- Place 2010: 
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2021
-- Allocation year note: 
 - Allocation amount: 927496
 - Units: 290
 - Low-income units: 290
@@ -40,15 +30,12 @@
 - Income ceiling: Income average
 - Rents below ceiling: Yes
 - Units below ceiling: 7
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 840000
 - CDBG: No
@@ -72,14 +59,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

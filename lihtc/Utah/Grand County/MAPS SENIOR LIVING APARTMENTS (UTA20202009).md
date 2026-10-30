@@ -1,11 +1,9 @@
 # Project: MAPS SENIOR LIVING APARTMENTS (UTA20202009)
 
 - HUD ID: UTA20202009
-- HUD ID before: 
 - Project: MAPS SENIOR LIVING APARTMENTS
 - Address: 354 W. WILLIAMS WAY
 - City: MOAB
-- State: UT
 - ZIP: 84532
 - ZIP extension: 0000
 - State project ID: 2018-17
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 49019000200
 - Tract 2010: 49019000200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 50700
 - Place 2010: 50700
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2018
-- Allocation year note: 
 - Allocation amount: 497168
 - Units: 36
 - Low-income units: 30
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: Yes
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

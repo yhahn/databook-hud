@@ -1,11 +1,9 @@
 # Project: GOLD DUST (MTA20030020)
 
 - HUD ID: MTA20030020
-- HUD ID before: 
 - Project: GOLD DUST
 - Address: 330 NORTH 1ST STREET WEST
 - City: MISSOULA
-- State: MT
 - ZIP: 59802
 - ZIP extension: 0000
 - State project ID: 01090
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30063000203
 - Tract 2010: 30063000201
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 50200
 - Place 2010: 50200
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2003
-- Placed in service note: 
 - Allocation year: 2001
-- Allocation year note: 
 - Allocation amount: 218490
 - Units: 18
 - Low-income units: 18
@@ -76,10 +68,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

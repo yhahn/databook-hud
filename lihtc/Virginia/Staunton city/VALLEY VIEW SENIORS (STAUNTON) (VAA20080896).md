@@ -1,13 +1,10 @@
 # Project: VALLEY VIEW SENIORS (STAUNTON) (VAA20080896)
 
 - HUD ID: VAA20080896
-- HUD ID before: 
 - Project: VALLEY VIEW SENIORS (STAUNTON)
 - Address: 14 FRONTIER RIDGE CT
 - City: STAUNTON
-- State: VA
 - ZIP: 24401
-- ZIP extension: 
 - State project ID: 9149
 - Latitude: 38.130988
 - Longitude: -79.047847
@@ -22,9 +19,7 @@
 - Place 2000: 75216
 - Place 1990: 1165
 - Year placed in service: 2008
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 443544
 - Units: 71
 - Low-income units: 71
@@ -39,9 +34,6 @@
 - Credit: 70 percent present value
 - Income ceiling: 50% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +49,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Not indicated
@@ -72,14 +59,9 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS VAA2007045. AKA FORE VALLEY VIEW SENIORS APTS.
 - Record status: Existing, unchanged

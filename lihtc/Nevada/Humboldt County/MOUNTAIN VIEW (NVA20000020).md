@@ -1,11 +1,9 @@
 # Project: MOUNTAIN VIEW (NVA20000020)
 
 - HUD ID: NVA20000020
-- HUD ID before: 
 - Project: MOUNTAIN VIEW
 - Address: 1200 HANSON ST
 - City: WINNEMUCCA
-- State: NV
 - ZIP: 89445
 - ZIP extension: 0000
 - State project ID: 99-06
@@ -22,9 +20,7 @@
 - Place 2000: 84800
 - Place 1990: 0130
 - Year placed in service: 2000
-- Placed in service note: 
 - Allocation year: 1999
-- Allocation year note: 
 - Allocation amount: 250117
 - Units: 42
 - Low-income units: 41
@@ -40,8 +36,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 41
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: Yes
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +66,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
 - No longer monitored: Yes
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

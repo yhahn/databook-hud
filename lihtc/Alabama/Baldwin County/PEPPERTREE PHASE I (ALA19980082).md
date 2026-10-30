@@ -1,13 +1,10 @@
 # Project: PEPPERTREE PHASE I (ALA19980082)
 
 - HUD ID: ALA19980082
-- HUD ID before: 
 - Project: PEPPERTREE PHASE I
 - Address: 2500 BODDIE LN
 - City: GULF SHORES
-- State: AL
 - ZIP: 36542
-- ZIP extension: 
 - State project ID: AL-97-0042
 - Latitude: 30.26077
 - Longitude: -87.714223
@@ -20,11 +17,8 @@
 - Place 2020: 32272
 - Place 2010: 32272
 - Place 2000: 32272
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 271375
 - Units: 56
 - Low-income units: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 56
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,8 @@
 - Disabled: Yes
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA1999095. AKA GULF HALL APTS.
 - Record status: Existing, unchanged

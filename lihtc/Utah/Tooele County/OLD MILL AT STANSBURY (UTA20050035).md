@@ -1,11 +1,9 @@
 # Project: OLD MILL AT STANSBURY (UTA20050035)
 
 - HUD ID: UTA20050035
-- HUD ID before: 
 - Project: OLD MILL AT STANSBURY
 - Address: 160 EAST HILARY LANE
 - City: STANSBURY PARK
-- State: UT
 - ZIP: 84074
 - ZIP extension: 0000
 - State project ID: 2004-13
@@ -19,12 +17,8 @@
 - Tract 1990: 49045130700
 - Place 2020: 99999
 - Place 2010: 99999
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2005
-- Placed in service note: 
 - Allocation year: 2004
-- Allocation year note: 
 - Allocation amount: 681276
 - Units: 56
 - Low-income units: 56
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -65,7 +57,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -76,10 +67,5 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

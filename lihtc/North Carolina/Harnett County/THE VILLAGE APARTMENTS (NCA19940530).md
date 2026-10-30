@@ -1,13 +1,10 @@
 # Project: THE VILLAGE APARTMENTS (NCA19940530)
 
 - HUD ID: NCA19940530
-- HUD ID before: 
 - Project: THE VILLAGE APARTMENTS
 - Address: 600 CANAL DRIVE
 - City: DUNN
-- State: NC
 - ZIP: 28334
-- ZIP extension: 
 - State project ID: 9001371
 - Latitude: 35.323689
 - Longitude: -78.606489
@@ -22,9 +19,7 @@
 - Place 2000: 18320
 - Place 1990: 0745
 - Year placed in service: 1994
-- Placed in service note: 
 - Allocation year: 1992
-- Allocation year note: 
 - Allocation amount: 36585
 - Units: 34
 - Low-income units: 33
@@ -41,7 +36,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 4
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +57,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +65,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: Yes
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

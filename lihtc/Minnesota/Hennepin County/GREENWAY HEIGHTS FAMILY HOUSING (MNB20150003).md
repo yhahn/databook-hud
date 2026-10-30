@@ -1,11 +1,9 @@
 # Project: GREENWAY HEIGHTS FAMILY HOUSING (MNB20150003)
 
 - HUD ID: MNB20150003
-- HUD ID before: 
 - Project: GREENWAY HEIGHTS FAMILY HOUSING
 - Address: 2845 BLOOMINGTON AVENUE SOUTH
 - City: MINNEAPOLIS
-- State: MN
 - ZIP: 55407
 - ZIP extension: 3296
 - State project ID: D7530
@@ -16,15 +14,11 @@
 - Tract 2020: 27053125900
 - Tract 2010: 27053125900
 - Tract 2000: 27053007302
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
 - Place 2000: 43000
-- Place 1990: 
 - Year placed in service: 2015
-- Placed in service note: 
 - Allocation year: 2014
-- Allocation year note: 
 - Allocation amount: 311010
 - Units: 42
 - Low-income units: 42
@@ -41,7 +35,6 @@
 - Rents below ceiling: Yes
 - Units below ceiling: 42
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: Yes
@@ -68,9 +61,6 @@
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
-- Elderly: 
-- Disabled: 
-- Homeless: 
 - Other population: Yes
 - Other population named: Families with children, single HH with children, individuals/families of color
 - Scattered site: No
@@ -78,8 +68,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

@@ -1,13 +1,10 @@
 # Project: CEDAR TRACE LANDING (NCA20020025)
 
 - HUD ID: NCA20020025
-- HUD ID before: 
 - Project: CEDAR TRACE LANDING
 - Address: 17098 STONEWALL ROAD
 - City: LAURINBURG
-- State: NC
 - ZIP: 28352
-- ZIP extension: 
 - State project ID: 9001220
 - Latitude: 34.7634
 - Longitude: -79.5028
@@ -19,12 +16,9 @@
 - Tract 1990: 37165010100
 - Place 2020: 37220
 - Place 2010: 37220
-- Place 2000: 
 - Place 1990: 1420
 - Year placed in service: 2002
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 275878
 - Units: 48
 - Low-income units: 48
@@ -39,9 +33,7 @@
 - Credit: 70 percent present value
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
 - Affordable over 30 years: No
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -63,7 +55,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Both federal and state
 - Targets a population: Yes
@@ -72,14 +63,7 @@
 - Disabled: Not indicated
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

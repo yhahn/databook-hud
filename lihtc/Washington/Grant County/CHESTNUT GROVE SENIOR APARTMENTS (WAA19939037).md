@@ -1,13 +1,10 @@
 # Project: CHESTNUT GROVE SENIOR APARTMENTS (WAA19939037)
 
 - HUD ID: WAA19939037
-- HUD ID before: 
 - Project: CHESTNUT GROVE SENIOR APARTMENTS
 - Address: 610 CHESTNUT STREET
 - City: MOSES LAKE
-- State: WA
 - ZIP: 98837
-- ZIP extension: 
 - State project ID: 92-06ZZ
 - Latitude: 47.129237
 - Longitude: -119.271743
@@ -22,9 +19,7 @@
 - Place 2000: 47245
 - Place 1990: 0805
 - Year placed in service: 1993
-- Placed in service note: 
 - Allocation year: 1993
-- Allocation year note: 
 - Allocation amount: 38629
 - Units: 23
 - Low-income units: 22
@@ -40,16 +35,11 @@
 - Income ceiling: Not reported
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: Yes
-- RHS 538 loan: 
-- HOME: 
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
@@ -57,13 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
 - HTF amount: 0
-- FHA: 
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Federal
 - Targets a population: Yes
@@ -72,14 +58,6 @@
 - Disabled: Yes
 - Homeless: Not indicated
 - Other population: Not indicated
-- Other population named: 
-- Scattered site: 
-- Resyndicated: 
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

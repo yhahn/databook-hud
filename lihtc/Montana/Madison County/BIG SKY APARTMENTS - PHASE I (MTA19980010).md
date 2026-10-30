@@ -1,11 +1,9 @@
 # Project: BIG SKY APARTMENTS - PHASE I (MTA19980010)
 
 - HUD ID: MTA19980010
-- HUD ID before: 
 - Project: BIG SKY APARTMENTS - PHASE I
 - Address: 11 MOOSE RIDGE RD
 - City: BIG SKY
-- State: MT
 - ZIP: 59716
 - ZIP extension: 0000
 - State project ID: 97040
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 30057000102
 - Tract 2010: 30057000100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 06325
 - Place 2010: 06325
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1997
-- Allocation year note: 
 - Allocation amount: 107109
 - Units: 24
 - Low-income units: 24
@@ -76,10 +68,6 @@
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BIG SKY APTS II.
 - Record status: Updated

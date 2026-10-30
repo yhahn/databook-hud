@@ -1,13 +1,10 @@
 # Project: GILBERTSON/FIREHOUSE APTS (NDA20070025)
 
 - HUD ID: NDA20070025
-- HUD ID before: 
 - Project: GILBERTSON/FIREHOUSE APTS
 - Address: 418 FIFTH ST SE
 - City: DEVILS LAKE
-- State: ND
 - ZIP: 58301
-- ZIP extension: 
 - State project ID: TC0514
 - Latitude: 48.104529
 - Longitude: -98.860184
@@ -22,9 +19,7 @@
 - Place 2000: 19420
 - Place 1990: 0415
 - Year placed in service: 2007
-- Placed in service note: 
 - Allocation year: 2005
-- Allocation year note: 
 - Allocation amount: 203526
 - Units: 40
 - Low-income units: 40
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -72,14 +64,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS NDA1990010. AKA GILBERTSON-FIREHOUSE.
 - Record status: Existing, unchanged

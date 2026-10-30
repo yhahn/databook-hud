@@ -1,13 +1,10 @@
 # Project: BOLES CREEK APTS (CAA20110035)
 
 - HUD ID: CAA20110035
-- HUD ID before: 
 - Project: BOLES CREEK APTS
 - Address: 315 E LAKE ST
 - City: WEED
-- State: CA
 - ZIP: 96094
-- ZIP extension: 
 - State project ID: CA-09-044
 - Latitude: 41.421985
 - Longitude: -122.38105
@@ -22,10 +19,7 @@
 - Place 2000: 11481
 - Place 1990: 3063
 - Year placed in service: 2011
-- Placed in service note: 
 - Allocation year: 2009
-- Allocation year note: 
-- Allocation amount: 
 - Units: 49
 - Low-income units: 49
 - Units reported: 49
@@ -40,12 +34,9 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 35
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
-- HUD multifamily aid: 
 - RHS 514 loan: No
 - RHS 515 loan: No
 - RHS 538 loan: Yes
@@ -53,18 +44,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: Yes
 - TCEP amount: 2762662
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Federal
 - Targets a population: Yes
 - Families: No
@@ -74,12 +58,8 @@
 - Other population: Yes
 - Other population named: AT-RISK
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Non-metro DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS CAA2011592.
 - Record status: Existing, unchanged

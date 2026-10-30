@@ -1,13 +1,10 @@
 # Project: BALMORAL (IDA20010010)
 
 - HUD ID: IDA20010010
-- HUD ID before: 
 - Project: BALMORAL
 - Address: 851 SHENANDOAH DRIVE
 - City: HAILEY
-- State: ID
 - ZIP: 83333
-- ZIP extension: 
 - State project ID: HC0006
 - Latitude: 43.502634
 - Longitude: -114.288262
@@ -22,9 +19,7 @@
 - Place 2000: 06220
 - Place 1990: 0360
 - Year placed in service: 2001
-- Placed in service note: 
 - Allocation year: 2000
-- Allocation year note: 
 - Allocation amount: 378883
 - Units: 120
 - Low-income units: 118
@@ -40,8 +35,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 73
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: Yes
@@ -72,14 +65,9 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
 - Resyndicated: No
 - Metro: Metro, not central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: AKA BALMORAL I.;
 - Record status: Existing, unchanged

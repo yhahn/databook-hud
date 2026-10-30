@@ -1,11 +1,9 @@
 # Project: CENTERPOINTE CAMPUS FOR HOPE (NEA20201001)
 
 - HUD ID: NEA20201001
-- HUD ID before: 
 - Project: CENTERPOINTE CAMPUS FOR HOPE
 - Address: 1490 NORTH 16TH STREET
 - City: OMAHA
-- State: NE
 - ZIP: 68102
 - ZIP extension: 0000
 - State project ID: 7-0935
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 31055001200
 - Tract 2010: 31055001200
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 37000
 - Place 2010: 37000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2020
-- Placed in service note: 
 - Allocation year: 2019
-- Allocation year note: 
 - Allocation amount: 419659
 - Units: 36
 - Low-income units: 36
@@ -40,15 +32,11 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
 - Units below ceiling: 0
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -65,7 +53,6 @@
 - RAD: No
 - QOZF: No
 - QOZF amount: 0
-- Rental assistance: 
 - Targets a population: Yes
 - Families: No
 - Elderly: No
@@ -78,8 +65,4 @@
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

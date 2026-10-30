@@ -1,13 +1,10 @@
 # Project: JPS FREMONT (MIA20130007)
 
 - HUD ID: MIA20130007
-- HUD ID before: 
 - Project: JPS FREMONT
 - Address: 318 DEWITT AVE
 - City: FREMONT
-- State: MI
 - ZIP: 49412
-- ZIP extension: 
 - State project ID: MI-3530
 - Latitude: 43.470281
 - Longitude: -85.971965
@@ -22,9 +19,7 @@
 - Place 2000: 30700
 - Place 1990: 0990
 - Year placed in service: 2013
-- Placed in service note: 
 - Allocation year: 2012
-- Allocation year note: 
 - Allocation amount: 732440
 - Units: 110
 - Low-income units: 108
@@ -39,9 +34,6 @@
 - Credit: Both
 - Income ceiling: 60% AMGI
 - Rents below ceiling: No
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 0
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -74,12 +59,7 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

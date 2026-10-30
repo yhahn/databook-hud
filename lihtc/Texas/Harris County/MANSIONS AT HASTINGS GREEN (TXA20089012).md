@@ -1,13 +1,10 @@
 # Project: MANSIONS AT HASTINGS GREEN (TXA20089012)
 
 - HUD ID: TXA20089012
-- HUD ID before: 
 - Project: MANSIONS AT HASTINGS GREEN
 - Address: 11950 FM 1960 RD W
 - City: HOUSTON
-- State: TX
 - ZIP: 77065
-- ZIP extension: 
 - State project ID: TX4556
 - Latitude: 29.924982
 - Longitude: -95.598627
@@ -19,13 +16,8 @@
 - Tract 1990: 48201054532
 - Place 2020: 35000
 - Place 2010: 35000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2008
-- Placed in service note: 
-- Allocation year: 
 - Allocation year note: Not confirmed (8888)
-- Allocation amount: 
 - Units: 230
 - Low-income units: 230
 - Units reported: 230
@@ -38,17 +30,11 @@
 - Construction: New construction
 - Credit: 30 percent present value
 - Income ceiling: 60% AMGI
-- Rents below ceiling: 
-- Units below ceiling: 
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: Yes
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: No
 - HOME amount: 0
 - CDBG: No
@@ -63,7 +49,6 @@
 - HOPE VI: No
 - HOPE VI amount: 0
 - RAD: No
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -78,8 +63,4 @@
 - Metro: Metro, central city
 - DDA: Non-metro GO Zone DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

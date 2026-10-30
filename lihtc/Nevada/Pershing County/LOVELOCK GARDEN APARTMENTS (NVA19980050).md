@@ -1,11 +1,9 @@
 # Project: LOVELOCK GARDEN APARTMENTS (NVA19980050)
 
 - HUD ID: NVA19980050
-- HUD ID before: 
 - Project: LOVELOCK GARDEN APARTMENTS
 - Address: 865 6TH ST.
 - City: LOVELOCK
-- State: NV
 - ZIP: 89419
 - ZIP extension: 0000
 - State project ID: 96-36
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 32027960100
 - Tract 2010: 32027960100
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 43000
 - Place 2010: 43000
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 1998
-- Placed in service note: 
 - Allocation year: 1996
-- Allocation year note: 
 - Allocation amount: 306865
 - Units: 40
 - Low-income units: 39
@@ -40,8 +32,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 40
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -57,14 +47,9 @@
 - TCAP amount: 0
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: Yes
@@ -72,14 +57,7 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, central city
-- DDA: 
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Existing, unchanged

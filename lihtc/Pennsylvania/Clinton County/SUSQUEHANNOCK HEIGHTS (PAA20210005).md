@@ -1,11 +1,9 @@
 # Project: SUSQUEHANNOCK HEIGHTS (PAA20210005)
 
 - HUD ID: PAA20210005
-- HUD ID before: 
 - Project: SUSQUEHANNOCK HEIGHTS
 - Address: 813 LINDEN ST
 - City: LOCK HAVEN
-- State: PA
 - ZIP: 17745
 - ZIP extension: 3104
 - State project ID: TC20180606
@@ -15,16 +13,10 @@
 - County from: 2020
 - Tract 2020: 42035030701
 - Tract 2010: 42035030700
-- Tract 2000: 
-- Tract 1990: 
 - Place 2020: 44128
 - Place 2010: 44128
-- Place 2000: 
-- Place 1990: 
 - Year placed in service: 2021
-- Placed in service note: 
 - Allocation year: 2022
-- Allocation year note: 
 - Allocation amount: 800134
 - Units: 32
 - Low-income units: 32
@@ -44,11 +36,9 @@
 - Affordability years: 35
 - Non-profit sponsor: Yes
 - Increased basis: No
-- Tax-exempt bond: 
 - HUD multifamily aid: No
 - RHS 514 loan: No
 - RHS 515 loan: No
-- RHS 538 loan: 
 - HOME: Yes
 - HOME amount: 786898
 - CDBG: No
@@ -62,8 +52,6 @@
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
 - QOZF amount: 0
 - Rental assistance: Neither
 - Targets a population: Yes
@@ -72,14 +60,8 @@
 - Disabled: No
 - Homeless: No
 - Other population: No
-- Other population named: 
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: Yes
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
-- Data note: 
 - Record status: Updated

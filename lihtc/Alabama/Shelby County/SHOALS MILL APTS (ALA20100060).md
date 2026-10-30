@@ -1,13 +1,10 @@
 # Project: SHOALS MILL APTS (ALA20100060)
 
 - HUD ID: ALA20100060
-- HUD ID before: 
 - Project: SHOALS MILL APTS
 - Address: 55 COBY LN
 - City: COLUMBIANA
-- State: AL
 - ZIP: 35051
-- ZIP extension: 
 - State project ID: AL-10-0007
 - Latitude: 33.188384
 - Longitude: -86.598522
@@ -20,11 +17,8 @@
 - Place 2020: 16768
 - Place 2010: 16768
 - Place 2000: 16768
-- Place 1990: 
 - Year placed in service: 2010
-- Placed in service note: 
 - Allocation year: 2010
-- Allocation year note: 
 - Allocation amount: 644830
 - Units: 46
 - Low-income units: 46
@@ -40,8 +34,6 @@
 - Income ceiling: 60% AMGI
 - Rents below ceiling: Yes
 - Units below ceiling: 46
-- Affordable over 30 years: 
-- Affordability years: 
 - Non-profit sponsor: No
 - Increased basis: No
 - Tax-exempt bond: No
@@ -53,18 +45,11 @@
 - HOME amount: 1641130
 - CDBG: No
 - CDBG amount: 0
-- TCAP: 
-- TCAP amount: 
 - TCEP: No
 - TCEP amount: 0
-- HTF: 
-- HTF amount: 
 - FHA: No
 - HOPE VI: No
 - HOPE VI amount: 0
-- RAD: 
-- QOZF: 
-- QOZF amount: 
 - Rental assistance: Neither
 - Targets a population: Yes
 - Families: No
@@ -74,12 +59,8 @@
 - Other population: Yes
 - Other population named: UNSPECIFIED
 - Scattered site: No
-- Resyndicated: 
 - Metro: Metro, not central city
 - DDA: Not in a DDA
 - QCT: No
-- No longer monitored: 
-- Why no longer monitored: 
-- Why, other: 
 - Data note: PREVIOUSLY LISTED AS ALA2011075, ALA2011562. FKA THE SHOALS MILL DEVELOPMENT
 - Record status: Existing, unchanged

@@ -1,5 +1,6 @@
 .import/limits/node_modules/
-.proper/
+.proper/*
+!.proper/doctypes/
 __pycache__/
 .claude/worktrees/
 .import/incomes.json

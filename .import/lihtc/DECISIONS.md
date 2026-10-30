@@ -151,3 +151,18 @@ what, why, how to undo it.
 25. **Not done, the reader's call** (written in NOTES.md with counts):
     the aid flags and populations as lists, the unit mix merged. The
     Yes/No flags stay one line each.
+26. **A Project doctype, `.proper/doctypes/Project.json`, tracked.**
+    With blank keys left out, `proper check` warned 41 times of
+    `missing-key` (one a key some page lacks: 778 had no Address, 2,255 no
+    Latitude, and so on), so the book's check never came clean. `proper
+    doctype Project` drafted a doctype, from which proper says what a
+    record needs: its draft made every key most pages have required (and
+    FIPS, tracts and ZIP numbers, and it dropped none of the rarer keys
+    from the gather, but listed them in another order), so it was mended
+    by hand: required are `HUD ID` and `Project` only; codes (County
+    FIPS, tracts, places, ZIP) are text. The check now says nothing to
+    mend. `.gitignore` leaves `.proper/doctypes/` tracked (the rule in
+    the seat's CLAUDE.md) and ignores the rest of `.proper/`. Undo: delete
+    the file (the 41 warnings return) and restore the `.gitignore` line.
+27. **B3's Project check is by name, not order**: proper orders the
+    columns by its doctype's properties first, not by a page. Undo: git.

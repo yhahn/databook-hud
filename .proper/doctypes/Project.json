@@ -1,0 +1,248 @@
+{
+  "title": "Project",
+  "description": "A tax credit Project: a record a project, a key written where HUD gives a value (SPEC B11), so only the HUD ID and the name are always there. Codes (FIPS, tracts, places, ZIP) are text, as their leading zeros are kept.",
+  "type": "object",
+  "properties": {
+    "HUD ID": {
+      "type": "string"
+    },
+    "Project": {
+      "type": "string"
+    },
+    "Address": {
+      "type": "string"
+    },
+    "City": {
+      "type": "string"
+    },
+    "ZIP": {
+      "type": "string"
+    },
+    "State project ID": {
+      "type": "string"
+    },
+    "Latitude": {
+      "type": "number"
+    },
+    "Longitude": {
+      "type": "number"
+    },
+    "County FIPS": {
+      "type": "string"
+    },
+    "County from": {
+      "type": "number"
+    },
+    "Tract 2020": {
+      "type": "string"
+    },
+    "Tract 2010": {
+      "type": "string"
+    },
+    "Tract 2000": {
+      "type": "string"
+    },
+    "Tract 1990": {
+      "type": "string"
+    },
+    "Place 2020": {
+      "type": "string"
+    },
+    "Place 2010": {
+      "type": "string"
+    },
+    "Place 2000": {
+      "type": "string"
+    },
+    "Place 1990": {
+      "type": "string"
+    },
+    "Year placed in service": {
+      "type": "number"
+    },
+    "Allocation year": {
+      "type": "number"
+    },
+    "Allocation amount": {
+      "type": "number"
+    },
+    "Units": {
+      "type": "number"
+    },
+    "Low-income units": {
+      "type": "number"
+    },
+    "Units reported": {
+      "type": "number"
+    },
+    "Low-income reported": {
+      "type": "number"
+    },
+    "Efficiencies": {
+      "type": "number"
+    },
+    "1-bedroom units": {
+      "type": "number"
+    },
+    "2-bedroom units": {
+      "type": "number"
+    },
+    "3-bedroom units": {
+      "type": "number"
+    },
+    "4-bedroom units": {
+      "type": "number"
+    },
+    "Construction": {
+      "enum": [
+        "Acquisition and rehab",
+        "Both new construction and acquisition and rehab",
+        "Existing",
+        "New construction"
+      ]
+    },
+    "Credit": {
+      "enum": [
+        "30 percent present value",
+        "70 percent present value",
+        "Both",
+        "TCEP only"
+      ]
+    },
+    "Income ceiling": {
+      "enum": [
+        "50% AMGI",
+        "60% AMGI",
+        "Income average",
+        "Not reported"
+      ]
+    },
+    "Rents below ceiling": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "Non-profit sponsor": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "Increased basis": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "Tax-exempt bond": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "RHS 515 loan": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "HOME": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "HOME amount": {
+      "type": "number"
+    },
+    "CDBG": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "CDBG amount": {
+      "type": "number"
+    },
+    "TCEP amount": {
+      "type": "number"
+    },
+    "FHA": {
+      "enum": [
+        "4",
+        "No",
+        "Yes"
+      ]
+    },
+    "HOPE VI amount": {
+      "type": "number"
+    },
+    "Targets a population": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "Families": {
+      "enum": [
+        "No",
+        "Not indicated",
+        "Yes"
+      ]
+    },
+    "Elderly": {
+      "enum": [
+        "No",
+        "Not indicated",
+        "Yes"
+      ]
+    },
+    "Disabled": {
+      "enum": [
+        "No",
+        "Not indicated",
+        "Yes"
+      ]
+    },
+    "Scattered site": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "Metro": {
+      "enum": [
+        "Metro, central city",
+        "Metro, not central city",
+        "Non-metro"
+      ]
+    },
+    "QCT": {
+      "enum": [
+        "No",
+        "Yes"
+      ]
+    },
+    "Record status": {
+      "enum": [
+        "Existing, unchanged",
+        "New",
+        "Updated"
+      ]
+    },
+    "DDA": {
+      "enum": [
+        "Metro DDA",
+        "Metro GO Zone DDA",
+        "Non-metro DDA",
+        "Non-metro GO Zone DDA",
+        "Not in a DDA"
+      ]
+    }
+  },
+  "required": [
+    "HUD ID",
+    "Project"
+  ]
+}

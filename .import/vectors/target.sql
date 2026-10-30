@@ -35,10 +35,27 @@ select string_agg(k, ' / ' order by t) from (select table_name t, string_agg(col
 from information_schema.columns where table_name in ('Fair Market Rents', 'Income Limits')
 and column_name not in ('name', '_file', '_line', '_end_line') group by t);
 
--- name: B3 the keys of Project (the tax credits)
--- want: HUD ID, HUD ID before, Project, Address, City, State, ZIP, ZIP extension, State project ID, Latitude, Longitude, County FIPS, County from, Tract 2020, Tract 2010, Tract 2000, Tract 1990, Place 2020, Place 2010, Place 2000, Place 1990, Year placed in service, Placed in service note, Allocation year, Allocation year note, Allocation amount, Units, Low-income units, Units reported, Low-income reported, Efficiencies, 1-bedroom units, 2-bedroom units, 3-bedroom units, 4-bedroom units, Construction, Credit, Income ceiling, Rents below ceiling, Units below ceiling, Affordable over 30 years, Affordability years, Non-profit sponsor, Increased basis, Tax-exempt bond, HUD multifamily aid, RHS 514 loan, RHS 515 loan, RHS 538 loan, HOME, HOME amount, CDBG, CDBG amount, TCAP, TCAP amount, TCEP, TCEP amount, HTF, HTF amount, FHA, HOPE VI, HOPE VI amount, RAD, QOZF, QOZF amount, Rental assistance, Targets a population, Families, Elderly, Disabled, Homeless, Other population, Other population named, Scattered site, Resyndicated, Metro, DDA, QCT, No longer monitored, Why no longer monitored, Why, other, Data note, Record status
+-- name: B3 the keys of Project (the tax credits): a page writes a key only where it has a value (B11), so this is every key any page has; State is not one (the folder's, the HUD ID's)
+-- want: HUD ID, HUD ID before, Project, Address, City, ZIP, ZIP extension, State project ID, Latitude, Longitude, County FIPS, County from, Tract 2020, Tract 2010, Tract 2000, Tract 1990, Place 2020, Place 2010, Place 2000, Place 1990, Year placed in service, Placed in service note, Allocation year, Allocation year note, Allocation amount, Units, Low-income units, Units reported, Low-income reported, Efficiencies, 1-bedroom units, 2-bedroom units, 3-bedroom units, 4-bedroom units, Construction, Credit, Income ceiling, Rents below ceiling, Units below ceiling, Affordable over 30 years, Affordability years, Non-profit sponsor, Increased basis, Tax-exempt bond, HUD multifamily aid, RHS 514 loan, RHS 515 loan, RHS 538 loan, HOME, HOME amount, CDBG, CDBG amount, TCAP, TCAP amount, TCEP, TCEP amount, HTF, HTF amount, FHA, HOPE VI, HOPE VI amount, RAD, QOZF, QOZF amount, Rental assistance, Targets a population, Families, Elderly, Disabled, Homeless, Other population, Other population named, Scattered site, Resyndicated, Metro, DDA, QCT, No longer monitored, Why no longer monitored, Why, other, Data note, Record status
 select string_agg(column_name, ', ' order by ordinal_position) from information_schema.columns
 where table_name = 'Project' and column_name not in ('name', '_file', '_line', '_end_line');
+
+-- name: B3 the keys of Project, as a set: the same 82, whatever order proper gathers an absent key in
+-- want: 82
+select count(*) from information_schema.columns
+where table_name = 'Project' and column_name not in ('name', '_file', '_line', '_end_line');
+
+-- name: B11 State is no key of Project (the folder's, the HUD ID's first two letters)
+-- want: 0
+select count(*) from information_schema.columns where table_name = 'Project' and column_name = 'State';
+
+-- name: B11 Project pages, one a HUD ID
+-- want: {lihtc.projects}
+select count(distinct "HUD ID") from Project;
+
+-- name: B11 keys written equal keys gathered: the non-blank cells of Project, all columns, against the lines the importer wrote
+-- want: {lihtc.keys_written}
+select sum(n) from (unpivot (select count(columns(c -> c not in ('name', '_file', '_line', '_end_line'))) from Project) on columns(*) into name k value n);
 
 -- name: B3 the keys of the tax credits' listing pages, a state's or a county's
 -- want: Level, Postal code, State FIPS, County FIPS, Counties, Projects, Units, Low-income units

@@ -127,3 +127,27 @@ what, why, how to undo it.
 21. **V2 one vector of eleven rows**, each a case (its `about` names
     them), written by the importer, checked by eye against HUD's rows,
     then frozen.
+
+## The writer's pass (SPEC B11; the person, 10-30; branch `writer`)
+
+22. **A Project page writes a key only where it has a value, and no
+    State.** The printed book first: a line `- Allocation year note: `
+    says nothing to a reader. Cut: the blank keys (a project leaves out
+    about 32 of 82 on average; 1,755,256 lines of 4,593,635 keys), and
+    `State`, a copy of the folder's state and the HUD ID's first two
+    letters (equal on 55,345 of 55,345). Kept as the reader's: every key
+    with a value, the No and 0 of the aid flags and amounts, the unit
+    mix, `Project` and `HUD ID` (a copy of the title, but the keys a
+    query joins on, K1). A key absent from every page would have no
+    column: none is (82 keys remain, every one on some page). Undo:
+    the `filter` in `recordText` and `State` in `KEYS`.
+23. **B3's Project check holds the set, not 83.** target.sql lists the
+    82 keys any page has, in proper's order; a second counts them (82);
+    a third says State is no column; a fourth counts the non-blank cells
+    gathered against `keys_written` in counts.json (the lines the
+    importer wrote). Undo: git.
+24. **The README's first query reads the state as `left("HUD ID", 2)`**,
+    as `State` is no key now. Undo: git.
+25. **Not done, the reader's call** (written in NOTES.md with counts):
+    the aid flags and populations as lists, the unit mix merged. The
+    Yes/No flags stay one line each.

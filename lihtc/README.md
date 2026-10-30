@@ -12,7 +12,7 @@ A page a project, as a reader finds it: a state's page (`Ohio.md`) lists its cou
 
 A project is filed under the state HUD addresses it in and the county its tract names. 350 projects have no county in their state: HUD gives no tract for 340, and for 10 a tract in another state; they are under each state's `County not given`.
 
-Each project is a record, `# Project: <name> (<HUD ID>)`, keyed by `- HUD ID:`, HUD's eleven-character id (the allocating agency, the year placed in service, the years late it was reported, a record number). Where HUD's own note on the record names the id it had before, it is `- HUD ID before:` (138). Every column of HUD's row is a key, blank where HUD gives nothing, in words its dictionary gives:
+Each project is a record, `# Project: <name> (<HUD ID>)`, keyed by `- HUD ID:`, HUD's eleven-character id (the allocating agency, the year placed in service, the years late it was reported, a record number). Where HUD's own note on the record names the id it had before, it is `- HUD ID before:` (138). Every column of HUD's row is a key, written where HUD gives a value, in words its dictionary gives; a key HUD leaves blank is left out of the page (proper gathers it as blank, a column of `Project` all the same). The project's state is not a key: it is the folder's, and the HUD ID's first two letters (`left("HUD ID", 2)`):
 
 - **County FIPS**, five digits, from the latest census tract HUD gives that names a county: 2020's, else 2010's, 2000's or 1990's (`- County from:`; none: 340, 2020: 44435, 2010: 8726, 2000: 1843, 1990: 1). A county code of an older census may be one since changed (Valdez-Cordova, AK; Bedford city, VA).
 - **Tract** 2020, 2010, 2000 and 1990, eleven digits as HUD writes them, blank where HUD writes `X` for one missing (the county of a census whose tract is missing is not kept apart; the latest is `County FIPS`); **ZIP**, five digits, and **ZIP extension**, the four HUD gives after a dash for some; **Place**, the Census place codes, written five digits (four for 1990's), as HUD's spreadsheet stores them as numbers.
@@ -28,7 +28,7 @@ Questions HUD began to ask later are blank before: HOME, CDBG, FHA, HOPE VI and 
 
 ```sql
 -- the largest projects, by low-income units
-select Project, City, State, "Year placed in service", "Low-income units"
+select Project, City, left("HUD ID", 2) as State, "Year placed in service", "Low-income units"
 from Project order by "Low-income units" desc limit 10
 ```
 

@@ -6,7 +6,7 @@
 //   node .import/lihtc/import.js [--src ~/.cache/proper/hud/lihtc/src] [--out <repo>/lihtc]
 //
 // A record a project, `# Project: <name> (<HUD ID>)`, keyed by HUD's own id,
-// every column of HUD's row written, its codes spelled out as the dictionary
+// every column of HUD's row with a value written (a blank key left out, B11), its codes spelled out as the dictionary
 // gives them, and its county's five-digit FIPS (from the latest tract HUD
 // gives) so it joins the rents and the limits (SPEC B5, K2). A page a
 // project, nested as a reader finds it: a state, its counties, a county's
@@ -61,7 +61,7 @@ const zipOf = (r) => {
 };
 const KEYS = [
   ['HUD ID', 'hud_id'], ['HUD ID before', (r) => idBefore(r.datanote)], ['Project', 'project'],
-  ['Address', 'proj_add'], ['City', 'proj_cty'], ['State', 'proj_st'], ['ZIP', (r) => zipOf(r)[0]], ['ZIP extension', (r) => zipOf(r)[1]],
+  ['Address', 'proj_add'], ['City', 'proj_cty'], ['ZIP', (r) => zipOf(r)[0]], ['ZIP extension', (r) => zipOf(r)[1]],
   ['State project ID', 'state_id'], ['Latitude', 'latitude'], ['Longitude', 'longitude'],
   ['County FIPS', (r) => countyOf(r)[0]], ['County from', (r) => countyOf(r)[1]],
   // a tract: its eleven digits, blank where HUD writes X for one missing
@@ -170,7 +170,7 @@ function build(rows) {
   const titleOf = (r) => `${String(r.project).replace(/\s+/g, ' ').trim() || 'Unnamed'} (${r.hud_id})`;
   const texts = new Map();
   const counts = {
-    projects: 0, states: 0, counties: 0, pages: 0, ids_before: 0, bare_codes: 0, unplaced: 0, elsewhere: 0,
+    projects: 0, keys_written: 0, states: 0, counties: 0, pages: 0, ids_before: 0, bare_codes: 0, unplaced: 0, elsewhere: 0,
     county_from: '', join_county: 0, unnamed: {},
     source: {
       rows: rows.length, units: 0, li_units: 0, units_reported: 0, li_units_reported: 0,
@@ -216,9 +216,13 @@ function build(rows) {
 
   function recordText(r) {
     const name = titleOf(r);
-    const lines = [`# Project: ${name}`, '', ...KEYS.map(([k, src]) => `- ${k}: ${keyValue(r, src)}`)];
+    // a key is written where it has a value (SPEC B3, B11); proper gathers an
+    // absent key as blank. The State is not written: it is the path's state
+    // and the HUD ID's allocating agency (DECISIONS 22).
+    const lines = [`# Project: ${name}`, '', ...KEYS.map(([k, src]) => [k, keyValue(r, src)]).filter(([, v]) => v !== '').map(([k, v]) => `- ${k}: ${v}`)];
     texts.set(name, lines.join('\n'));
     counts.projects++;
+    counts.keys_written += lines.length - 2; // a key a line, after the title and a blank (V3 counts them gathered)
     return lines.join('\n');
   }
 

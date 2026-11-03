@@ -406,3 +406,8 @@ select (select count(*) from rent_over_the_years) || ' ' || (select count(*) fro
 -- want: 0
 select count(*) from information_schema.tables
 where regexp_matches(table_name, '(Rent_over_the_years|Places_compared|rent_over_the_years|rent_and_income|the_states_compared|the_states_linked|tax_credit_housing_year_by_year)_[0-9]+$');
+
+-- name: K2 every code gathered as text: no FIPS column a number (the three that were: FIPS before, FIPS earlier, a second listing's FIPS)
+-- want: 0
+select count(*) from information_schema.columns
+where column_name ilike '%FIPS%' and data_type <> 'VARCHAR';

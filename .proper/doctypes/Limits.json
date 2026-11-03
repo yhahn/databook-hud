@@ -1,0 +1,19 @@
+{
+  "title": "Limits",
+  "description": "An income limits record. Codes are text, as their leading zeros are kept (SPEC K2): FIPS, FIPS 2024, FIPS before and FIPS earlier are read as text.",
+  "type": "object",
+  "properties": {
+    "FIPS": {
+      "type": "string"
+    },
+    "FIPS 2024": {
+      "type": "string"
+    },
+    "FIPS before": {
+      "type": "string"
+    },
+    "FIPS earlier": {
+      "type": "string"
+    }
+  }
+}

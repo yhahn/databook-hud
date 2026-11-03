@@ -194,3 +194,37 @@ Unsure: whether State's removal should show as a note on the page (the folder an
 Against the brief's Predicted: not given; the work ran as asked, a quarter of it waiting for crew's queue. The brief lacked: that proper warns of an absent key without a doctype.
 
 One line: Project pages now write only the keys they have: bytes 96.2 to 64.6 MB, lines 85 to 52 a page, all checks and the FAQ held, proper gathers 55k pages in 39 s and 2.3 GB, once a mended doctype quiets 41 missing-key warnings.
+
+## The R-pass mend (branch `r-mend`, 11-03)
+
+Asked: mend main for proper's text codes (FIPS as text), fold the reading
+trial's findings into SPEC R, put the R pass on a branch that merges
+clean. Nothing merged or pushed.
+
+Found: the R pass (`c69f83e40`, `5d4773c1f`) is already an ancestor of
+main, and decision 44 already fixed the four queries that broke on the
+`* 100000` join. On main, as now gathered, `build.sh` writes every page
+byte for byte as it is (no diff), and every check held before this
+commit. What was still wrong: three FIPS columns gathered as BIGINT
+(`Rents.FIPS before`, `Limits.FIPS earlier`, `Second listing.FIPS`),
+which proper's name rule does not reach.
+
+Made (one commit on `r-mend`): three one-property doctypes in
+`.proper/doctypes/` (Rents, Limits, Second listing) typing those FIPS
+as text (DECISIONS 45); a target check (K2) that every FIPS column is
+text; the decision. Every page the build writes is unchanged by it.
+
+Measured: 94 target checks held (93 before this commit; the new K2 check is the 94th) and every
+README query ran (rows as before); the tests pass: limits 13, lihtc 9, faq 10;
+FIPS columns not text: 3 to 0. Pages: `git status` shows no
+page changed after the build.
+
+For SPEC R (the reading trial, 10-20, for the seat to fold in; not
+written here): R4's per-state sparkline was not drawn. cards.md has
+no sparkline kind (no `spark` in its docs, spec or backlog), so per
+the lean it is a note for cards.md, not a card. The person's next
+ask after the trial was each state's line beside its row.
+
+Unsure: whether proper's FIPS name rule should reach `FIPS …` keys
+(a learning for engine, not done here); whether a doctype per table
+is the seat's wish for typing alone.

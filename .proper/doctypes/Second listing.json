@@ -1,0 +1,10 @@
+{
+  "title": "Second listing",
+  "description": "A second listing of a county HUD listed twice (New York, FY2006 to 2020). Its FIPS is text, as its leading zeros are kept (SPEC K2).",
+  "type": "object",
+  "properties": {
+    "FIPS": {
+      "type": "string"
+    }
+  }
+}

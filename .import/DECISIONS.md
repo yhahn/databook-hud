@@ -323,3 +323,15 @@ R, the book, and cards.md's pictures, and nothing else.
     READMEs say FIPS is text. And proper gathers a table of its own with
     `_end_line`, `footnotes` (G17): the B5 check of kinds leaves it out.
     Neither is a change of data. Undo: git.
+45. **Every FIPS is text, the three left too** (K2, 11-03; the R-pass
+    mend): proper gathered `Rents.FIPS before`, `Limits.FIPS earlier`
+    and `Second listing.FIPS` as BIGINT, as its name rule does not
+    reach them (decision 44 fixed `FIPS` and `County FIPS` only). They
+    are typed text by one-property doctypes in `.proper/doctypes/`
+    (Rents, Limits, Second listing), as Project's is; the gather then
+    reads them VARCHAR. No value changed (none had a lost zero: the
+    one `0227099999` is Limits' `FIPS before`, already text). A target
+    check (K2) holds every FIPS column text. Lean: text, the book's
+    rule; reverse: delete the three doctypes and the check, rerun.
+    The rule itself is proper's to mend (a name rule that reaches
+    `FIPS …`): a learning for engine.
